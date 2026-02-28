@@ -1,10 +1,24 @@
 [project]
 name = "pegboard"
 version = "0.1.0"
-description = "Open-source civic transparency platform"
+description = "Open-source civic transparency platform — government data as a knowledge graph"
 readme = "README.md"
 license = "AGPL-3.0-or-later"
 requires-python = ">=3.11"
+keywords = ["civic-tech", "transparency", "neo4j", "knowledge-graph", "government", "open-data"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Other/Nonlisted Topic",
+]
+
+[project.urls]
+Homepage = "https://github.com/pegboard-guild/pegboard"
+Repository = "https://github.com/pegboard-guild/pegboard"
+Issues = "https://github.com/pegboard-guild/pegboard/issues"
+Documentation = "https://github.com/pegboard-guild/pegboard/tree/main/docs"
 
 [tool.ruff]
 target-version = "py311"
@@ -13,5 +27,9 @@ line-length = 120
 [tool.ruff.lint]
 select = ["E", "F", "I", "W"]
 
+[tool.ruff.format]
+quote-style = "double"
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+addopts = "-v"
