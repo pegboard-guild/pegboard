@@ -8,7 +8,7 @@ const PORT = 3002;
 app.use(cors());
 app.use(express.json());
 
-const GOOGLE_CIVIC_API_KEY = 'YOUR_GOOGLE_CIVIC_API_KEY';
+const GOOGLE_CIVIC_API_KEY = process.env.REACT_APP_GOOGLE_CIVIC_API_KEY || '';
 const GOOGLE_CIVIC_BASE_URL = 'https://www.googleapis.com/civicinfo/v2';
 
 app.post('/api/civic/representatives', async (req, res) => {

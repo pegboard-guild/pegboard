@@ -3,8 +3,8 @@
 // API Documentation: https://api.congress.gov/
 
 // Use Supabase Edge Function for caching and proxy
-const SUPABASE_URL = process.env.REACT_APP_SUPABASE_URL || 'https://YOUR_SUPABASE_URL';
-const SUPABASE_ANON_KEY = process.env.REACT_APP_SUPABASE_ANON_KEY || 'YOUR_SUPABASE_ANON_KEY';
+const SUPABASE_URL = process.env.REACT_APP_SUPABASE_URL || '';
+const SUPABASE_ANON_KEY = process.env.REACT_APP_SUPABASE_ANON_KEY || '';
 const EDGE_FUNCTION_URL = `${SUPABASE_URL}/functions/v1/congress-api-v2`;
 
 // Types for Congress.gov API responses

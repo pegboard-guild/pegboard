@@ -3,14 +3,15 @@
 
 // Get your free API key at: https://www.propublica.org/datastore/api/propublica-congress-api
 // For now, using a test key that works for limited requests
-const PROPUBLICA_API_KEY = 'DEMO_KEY';
+const PROPUBLICA_API_KEY = process.env.REACT_APP_PROPUBLICA_API_KEY || 'DEMO_KEY';
+const GOOGLE_CIVIC_API_KEY = process.env.REACT_APP_GOOGLE_CIVIC_API_KEY || '';
 
 // Get representatives by zipcode using Google Civic API (free, no key needed for light use)
 export const getRepsByZipcode = async (zipcode: string) => {
   try {
     // Use Google Civic Information API to get representatives
     const response = await fetch(
-      `https://www.googleapis.com/civicinfo/v2/representatives?address=${zipcode}&includeOffices=true&levels=country&roles=legislatorLowerBody&roles=legislatorUpperBody&key=YOUR_GOOGLE_CIVIC_API_KEY`
+      `https://www.googleapis.com/civicinfo/v2/representatives?address=${zipcode}&includeOffices=true&levels=country&roles=legislatorLowerBody&roles=legislatorUpperBody&key=${GOOGLE_CIVIC_API_KEY}`
     );
     
     if (!response.ok) {

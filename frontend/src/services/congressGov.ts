@@ -3,7 +3,7 @@
 
 import { Member, Bill, ActivityFeedItem } from '../types';
 
-const CONGRESS_API_KEY = 'YOUR_CONGRESS_API_KEY';
+const CONGRESS_API_KEY = process.env.REACT_APP_CONGRESS_API_KEY || '';
 const CONGRESS_API_BASE = 'https://api.congress.gov/v3';
 const CURRENT_CONGRESS = 118;
 

@@ -4,7 +4,7 @@
 import { Member, Bill, ActivityFeedItem } from '../types';
 
 // Use Supabase Edge Function in production, local proxy as fallback
-const SUPABASE_URL = process.env.REACT_APP_SUPABASE_URL || 'https://YOUR_SUPABASE_URL';
+const SUPABASE_URL = process.env.REACT_APP_SUPABASE_URL || '';
 const SUPABASE_ANON_KEY = process.env.REACT_APP_SUPABASE_ANON_KEY || '';
 const USE_SUPABASE = SUPABASE_URL && SUPABASE_ANON_KEY && !SUPABASE_URL.includes('placeholder');
 

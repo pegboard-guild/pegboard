@@ -84,27 +84,46 @@ Two complementary layers:
 
 ## Quick Start
 
-### Frontend (React + Supabase)
+### 1. Clone & configure environment
 
 ```bash
 git clone https://github.com/pegboard-guild/pegboard.git
-cd pegboard/frontend
+cd pegboard
+
+# Copy env templates
+cp .env.example .env
+cp frontend/.env.local.example frontend/.env.local
+```
+
+### 2. Get your free API keys
+
+| Variable | Required? | Sign up |
+|----------|-----------|---------|
+| `CONGRESS_API_KEY` | Recommended | [api.congress.gov/sign-up](https://api.congress.gov/sign-up/) |
+| `FEC_API_KEY` | Recommended | [api.open.fec.gov/developers](https://api.open.fec.gov/developers/) |
+| `OPENSTATES_API_KEY` | Recommended | [openstates.org/accounts/signup](https://openstates.org/accounts/signup/) |
+| `GOOGLE_CIVIC_API_KEY` | Optional | [GCP Console](https://console.cloud.google.com/apis/library/civicinfo.googleapis.com) |
+| `NEO4J_URI/USER/PASSWORD` | Optional | Only if running Neo4j locally |
+| `SUPABASE_URL/ANON_KEY` | Optional | Only if using Supabase backend |
+| USAspending API | — | **No key required** |
+
+Add your keys to `.env` (backend) and `frontend/.env.local` (frontend, use `REACT_APP_` prefix).
+
+### 3. Frontend (React + Supabase)
+
+```bash
+cd frontend
 npm install
 npm start
 ```
 
-The frontend connects to Supabase Edge Functions for live government data. See `frontend/.env.local.example` for configuration.
-
-### Graph Layer (Python + Neo4j)
+### 4. Graph Layer (Python + Neo4j)
 
 ```bash
 cd pegboard
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-
-# Configure (optional — DEMO_KEY works for Congress.gov)
-cp .env.example .env
 
 # Run the Congress members ingestor
 python -m ingestors.congress_members

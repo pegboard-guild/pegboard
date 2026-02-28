@@ -7,6 +7,8 @@ load_dotenv()
 # API Keys
 CONGRESS_API_KEY = os.getenv("CONGRESS_API_KEY", "DEMO_KEY")
 FEC_API_KEY = os.getenv("FEC_API_KEY", "DEMO_KEY")
+OPENSTATES_API_KEY = os.getenv("OPENSTATES_API_KEY", "")
+GOOGLE_CIVIC_API_KEY = os.getenv("GOOGLE_CIVIC_API_KEY", "")
 
 # Congress.gov API
 CONGRESS_API_BASE = "https://api.congress.gov/v3"
