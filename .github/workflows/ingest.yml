@@ -1,0 +1,36 @@
+name: Ingest
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"  # Sunday midnight UTC
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run all ingestors
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python -m ingestors.run_all
+
+      - name: Upload ingested data
+        uses: actions/upload-artifact@v4
+        with:
+          name: ingest-data-${{ github.run_id }}
+          path: data/
+          retention-days: 30
