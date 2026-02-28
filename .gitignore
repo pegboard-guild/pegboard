@@ -4,41 +4,34 @@ __pycache__/
 *.egg-info/
 dist/
 build/
-.eggs/
-*.egg
 venv/
 .venv/
-env/
 
-# Data (ingested, not source code)
-data/
-
-# Environment
+# Environment & secrets
 .env
-.env.local
-.env.*.local
+*.local
+
+# Neo4j
+neo4j/data/
+neo4j/logs/
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
 
 # OS
 .DS_Store
 Thumbs.db
 
+# Data (raw ingested files — too large for git)
+data/raw/
+
+# Logs
+*.log
+logs/
+
 # Node (frontend)
 node_modules/
 frontend/dist/
-frontend/build/
-
-# Neo4j
-neo4j-data/
-plugins/
-
-# Coverage & Testing
-.coverage
-htmlcov/
-.pytest_cache/

@@ -75,7 +75,7 @@ We're building the first city implementation. The architecture is designed so an
 
 ```bash
 # Clone
-git clone https://github.com/pegboard-gov/pegboard.git
+git clone https://github.com/YOUR-HANDLE/pegboard.git
 cd pegboard
 
 # Set up Python environment
@@ -146,9 +146,9 @@ This project needs people who care about civic transparency — not just develop
 
 ## Origin
 
-Conceived by [Kris Seelbach, MD](https://github.com/kseelbach) — a physician in Dallas who wanted to know where his tax dollars go and realized the tools didn't exist.
+Built by someone who wanted to know where their tax dollars go — and realized the tools didn't exist.
 
-Originally pitched as "The Objective Canvas" — a structured data layer beneath public discourse that anchors opinion to verifiable fact. The idea sat for years. Open source made it buildable.
+The core idea: a structured data layer beneath public discourse that anchors opinion to verifiable fact. The concept sat for years. Open source made it buildable.
 
 ## License
 
