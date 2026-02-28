@@ -1,0 +1,457 @@
+/* State Legislature Activity Styles */
+.state-legislature-activity {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 24px;
+  margin: 20px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.state-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 24px;
+  padding-bottom: 16px;
+  border-bottom: 2px solid #f0f0f0;
+}
+
+.state-header h2 {
+  flex: 1;
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.session-badge {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+/* Tabs */
+.state-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.state-tabs .tab-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: #666;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.state-tabs .tab-button:hover {
+  color: #333;
+  background: #f8f8f8;
+}
+
+.state-tabs .tab-button.active {
+  color: #4f46e5;
+  border-bottom-color: #4f46e5;
+}
+
+/* Loading and Error States */
+.state-legislature-loading,
+.state-legislature-error {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.state-legislature-error {
+  color: #dc2626;
+}
+
+.api-signup-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 12px;
+  padding: 8px 16px;
+  background: #4f46e5;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.api-signup-link:hover {
+  background: #4338ca;
+}
+
+/* Section Headers */
+.section-header {
+  margin-bottom: 20px;
+}
+
+.section-header h3 {
+  margin: 0 0 4px 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.section-description {
+  margin: 0;
+  color: #666;
+  font-size: 14px;
+}
+
+/* Bills Section */
+.state-bills-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.state-bill-card {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px;
+  transition: all 0.2s;
+}
+
+.state-bill-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+}
+
+.bill-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.bill-identifier {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.bill-number {
+  font-weight: 600;
+  color: #4f46e5;
+  font-size: 15px;
+}
+
+.bill-chamber {
+  padding: 2px 8px;
+  background: #e0e7ff;
+  color: #4338ca;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.bill-date {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #666;
+  font-size: 13px;
+}
+
+.bill-title {
+  margin: 0 0 8px 0;
+  font-size: 16px;
+  font-weight: 500;
+  color: #1a1a1a;
+  line-height: 1.4;
+}
+
+.bill-abstract {
+  margin: 0 0 12px 0;
+  color: #4b5563;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.bill-metadata {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 12px;
+  font-size: 13px;
+  color: #666;
+}
+
+.bill-sponsor,
+.bill-status {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.bill-subjects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.subject-tag {
+  padding: 4px 8px;
+  background: #f3f4f6;
+  color: #4b5563;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.bill-actions {
+  display: flex;
+  gap: 8px;
+  padding-top: 12px;
+  border-top: 1px solid #e5e7eb;
+}
+
+.peg-button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border: 1px solid #d1d5db;
+  background: white;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.peg-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.peg-button.approve {
+  color: #059669;
+  border-color: #10b981;
+}
+
+.peg-button.approve:hover {
+  background: #ecfdf5;
+}
+
+.peg-button.disapprove {
+  color: #dc2626;
+  border-color: #ef4444;
+}
+
+.peg-button.disapprove:hover {
+  background: #fef2f2;
+}
+
+.view-details-link {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: auto;
+  padding: 6px 12px;
+  color: #4f46e5;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.view-details-link:hover {
+  color: #4338ca;
+  text-decoration: underline;
+}
+
+/* Legislators Section */
+.state-legislators-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+.legislator-card {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px;
+  transition: all 0.2s;
+}
+
+.legislator-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+}
+
+.legislator-header {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.legislator-photo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.legislator-avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6b7280;
+}
+
+.legislator-info {
+  flex: 1;
+}
+
+.legislator-info h4 {
+  margin: 0 0 4px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.legislator-title {
+  margin: 0 0 2px 0;
+  font-size: 13px;
+  color: #4b5563;
+}
+
+.legislator-district {
+  margin: 0 0 8px 0;
+  font-size: 13px;
+  color: #6b7280;
+}
+
+.party-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.party-badge.party-republican,
+.party-badge.party-r {
+  background: #fee2e2;
+  color: #dc2626;
+}
+
+.party-badge.party-democratic,
+.party-badge.party-democrat,
+.party-badge.party-d {
+  background: #dbeafe;
+  color: #2563eb;
+}
+
+.legislator-contact {
+  margin: 8px 0;
+  font-size: 13px;
+}
+
+.legislator-contact a {
+  color: #4b5563;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.legislator-contact a:hover {
+  color: #4f46e5;
+}
+
+.legislator-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #e5e7eb;
+}
+
+/* Empty State */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  text-align: center;
+  color: #6b7280;
+}
+
+.empty-state h3 {
+  margin: 12px 0 4px 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #374151;
+}
+
+.empty-state p {
+  margin: 0;
+  font-size: 14px;
+}
+
+/* State Info Card */
+.state-info-card {
+  margin-top: 24px;
+  padding: 16px;
+  background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+  border-radius: 8px;
+}
+
+.state-info-card h4 {
+  margin: 0 0 12px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.state-info-card ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.state-info-card li {
+  margin: 6px 0;
+  color: #4b5563;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* Loading Spinner Animation */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loading-spinner .spinner {
+  animation: spin 1s linear infinite;
+}

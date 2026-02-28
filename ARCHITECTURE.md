@@ -2,52 +2,92 @@
 
 ## System Overview
 
+Pegboard has two complementary backend layers: a **Supabase layer** for real-time data serving and user interactions, and a **Graph layer** for deep connection analysis.
+
 ```
 ┌─────────────────────────────────────────────────┐
-│              Layer 3: The Forum                  │
+│              The Forum (Planned)                 │
 │  User comments, flags, investigations            │
 │  Every post anchored to a graph node             │
 │  Upvotes, threads, citation chains               │
 ├─────────────────────────────────────────────────┤
-│              Layer 2: The Canvas                 │
-│  Visual navigation (Svelte SPA)                  │
-│  Federal → State → County → City zoom            │
-│  Follow-the-money pathways                       │
-│  Representative scorecards                       │
-│  Budget treemaps, vote timelines                 │
-├─────────────────────────────────────────────────┤
-│              Layer 1: The Graph                  │
-│  Neo4j knowledge graph                           │
-│  Nodes: Officials, Bills, Votes, Budgets,        │
-│         Contracts, Donors, Committees,            │
-│         Agencies, Lobbyists                       │
-│  Edges: voted_on, sponsored, funded_by,          │
-│         awarded_to, donated_to, lobbied_for,     │
-│         member_of, amended, allocated_to          │
-├─────────────────────────────────────────────────┤
-│              Layer 0: Ingestors                  │
-│  Scheduled Python scripts                        │
-│  Pull from public APIs → normalize → load graph  │
-│  Dedup, entity resolution, change detection      │
+│              The Canvas (React + TypeScript)      │
+│  Objective Canvas — real-time civic dashboard     │
+│  Multi-level representative profiles             │
+│  Bill tracking, vote monitoring, spending data    │
+│  Mobile-responsive, district-based lookup         │
+├──────────────────────┬──────────────────────────┤
+│   Supabase Layer     │   Graph Layer             │
+│                      │                           │
+│  PostgreSQL database │  Neo4j knowledge graph    │
+│  Edge Functions      │  Python ingestors         │
+│  (Deno/TypeScript)   │  FastAPI endpoints        │
+│                      │                           │
+│  Real-time subs      │  Connection analysis      │
+│  API caching         │  Money-flow queries       │
+│  Auth & RLS          │  Entity resolution        │
+│                      │                           │
+│  APIs served:        │  APIs served:             │
+│  - Congress.gov      │  - Graph traversal        │
+│  - OpenStates        │  - Search                 │
+│  - Federal Register  │  - Money flow             │
+│  - USAspending       │  - Officials network      │
+│  - District lookup   │  - Contract connections   │
+├──────────────────────┴──────────────────────────┤
+│              Data Sources                        │
+│  Congress.gov · OpenStates · USAspending ·       │
+│  Federal Register · FEC · Dallas OpenData        │
 └─────────────────────────────────────────────────┘
 ```
 
-## Graph Schema (Core Nodes)
+## Supabase Layer
 
-### Node Types
+The Supabase layer handles the live application:
+
+### Edge Functions (Deno/TypeScript)
+Located in `supabase/functions/`:
+
+| Function | Purpose |
+|----------|---------|
+| `congress-api-v2` | Congress.gov proxy with intelligent caching |
+| `congress-members` | Member lookup and profiles |
+| `openstates-api` | State legislature data (all 50 states) |
+| `openstates-api-v2` | Enhanced OpenStates with caching |
+| `openstates-sync` | Bulk state data synchronization |
+| `federal-register-api` | Federal Register documents |
+| `usaspending-api` | Federal spending data |
+| `district-lookup` | Address → district → representatives |
+| `dallas-council-votes` | Dallas City Council voting records |
+| `sync-bills` | Bill synchronization pipeline |
+| `sync-votes` | Vote synchronization pipeline |
+| `calculate-attribution` | Data attribution scoring |
+| `govinfo-api` | GovInfo document access |
+| `legiscan-api` | LegiScan bill tracking |
+
+### Database (PostgreSQL)
+- Migrations in `supabase/migrations/` (001–007)
+- Row-Level Security for multi-tenant access
+- Real-time subscriptions for live updates
+- Caching layer for API rate limit management
+
+## Graph Layer
+
+The Graph layer provides deep analytical queries:
+
+### Graph Schema (Core Nodes)
 
 | Node | Key Properties | Primary Source |
 |------|---------------|----------------|
-| `Official` | name, office, party, district, term_start, term_end, level (federal/state/local) | Congress.gov, TX Legislature, Dallas City |
-| `Bill` | number, title, summary, full_text, status, introduced_date, level | Congress.gov, TX Legislature |
-| `Vote` | date, result, chamber, level | Congress.gov, TX Legislature, Dallas City |
-| `VotePosition` | position (yea/nay/abstain/not_voting) | Congress.gov, TX Legislature |
-| `Committee` | name, chamber, level | Congress.gov, TX Legislature |
-| `Budget` | fiscal_year, department, category, amount, level | USAspending, Dallas Budget |
-| `Contract` | title, amount, awardee, agency, start_date, end_date | USAspending, Dallas Procurement |
-| `Donor` | name, employer, occupation, total_amount | FEC, TX Ethics Commission |
-| `Contribution` | amount, date, type (individual/pac/corporate) | FEC, TX Ethics Commission |
-| `Lobbyist` | name, firm, clients | OpenSecrets, TX Ethics |
+| `Official` | name, office, party, district, level | Congress.gov, OpenStates |
+| `Bill` | number, title, summary, status | Congress.gov, OpenStates |
+| `Vote` | date, result, chamber, level | Congress.gov, OpenStates |
+| `VotePosition` | position (yea/nay/abstain) | Congress.gov |
+| `Committee` | name, chamber, level | Congress.gov |
+| `Budget` | fiscal_year, department, amount | USAspending |
+| `Contract` | title, amount, awardee, agency | USAspending |
+| `Donor` | name, employer, total_amount | FEC |
+| `Contribution` | amount, date, type | FEC |
+| `Lobbyist` | name, firm, clients | OpenSecrets |
 | `Agency` | name, level, parent_agency | USAspending |
 
 ### Edge Types
@@ -55,48 +95,52 @@
 | Edge | From → To | Meaning |
 |------|-----------|---------|
 | `CAST_VOTE` | Official → VotePosition | How they voted |
-| `VOTE_ON` | VotePosition → Vote | Links position to the vote event |
+| `VOTE_ON` | VotePosition → Vote | Links position to vote event |
 | `VOTE_REGARDING` | Vote → Bill | What the vote was about |
 | `SPONSORED` | Official → Bill | Primary sponsor |
 | `COSPONSORED` | Official → Bill | Co-sponsor |
 | `MEMBER_OF` | Official → Committee | Committee membership |
 | `DONATED_TO` | Donor → Official | Campaign contribution |
 | `LOBBIED_FOR` | Lobbyist → Bill | Lobbying activity |
-| `AWARDED_TO` | Contract → Donor/Organization | Contract recipient |
-| `FUNDED_BY` | Budget → Agency | Budget allocation |
-| `EMPLOYED_BY` | Donor → Organization | Donor's employer |
+| `AWARDED_TO` | Contract → Organization | Contract recipient |
 
-## Data Ingestor Architecture
-
-Each data source gets its own ingestor module:
+## Directory Structure
 
 ```
 pegboard/
-├── ingestors/
-│   ├── base.py              # Base ingestor class
-│   ├── congress_members.py   # Congress.gov - members
-│   ├── congress_bills.py     # Congress.gov - legislation
-│   ├── congress_votes.py     # Congress.gov - roll call votes
-│   ├── fec_contributions.py  # FEC - campaign finance
-│   ├── usaspending.py        # USAspending - contracts & grants
-│   ├── federal_register.py   # Federal Register - regulations
-│   ├── tx_legislature.py     # Texas Legislature Online
-│   ├── tx_ethics.py          # Texas Ethics Commission
-│   ├── dallas_council.py     # Dallas City Council
-│   └── dallas_budget.py      # Dallas city budget
-├── graph/
-│   ├── schema.py             # Neo4j schema definitions
-│   ├── loader.py             # Graph loading utilities
-│   └── queries.py            # Common graph queries
-├── api/
-│   ├── main.py               # FastAPI application
-│   ├── routes/               # API endpoints
-│   └── models/               # Pydantic models
-├── frontend/
-│   └── (Svelte app)
-├── config.py
-├── scheduler.py              # Cron-based ingestor scheduling
-└── requirements.txt
+├── frontend/              # React + TypeScript app
+│   ├── src/
+│   │   ├── components/    # UI components
+│   │   ├── services/      # API service layers
+│   │   ├── pages/         # Route pages
+│   │   ├── types/         # TypeScript types
+│   │   └── utils/         # Utilities
+│   └── public/
+├── supabase/              # Supabase configuration
+│   ├── functions/         # Edge Functions (Deno)
+│   ├── migrations/        # Database migrations
+│   └── config.toml
+├── src/                   # Root-level React source (dev)
+├── ingestors/             # Python data ingestors
+│   ├── base.py            # Base ingestor class
+│   ├── congress_members.py
+│   ├── congress_bills.py
+│   ├── fec_contributions.py
+│   ├── usaspending.py
+│   └── run_all.py
+├── graph/                 # Neo4j graph layer
+│   ├── schema.py
+│   ├── loader.py
+│   └── queries.py
+├── api/                   # FastAPI application
+│   ├── main.py
+│   └── routes/
+├── backend/               # SQL schemas & import scripts
+├── data/                  # Processed data files
+├── tests/                 # Python test suite
+├── docs/                  # Documentation
+├── config.py              # Python configuration
+└── requirements.txt       # Python dependencies
 ```
 
 ## Ingestor Pipeline
@@ -112,32 +156,30 @@ Each ingestor run:
 1. Pulls new/updated data since last run
 2. Normalizes to internal schema
 3. Deduplicates against existing graph nodes
-4. Resolves entities (is "Robert Smith" the donor the same as "Bob Smith" the contractor?)
-5. Loads into Neo4j with full provenance (source URL, retrieval timestamp, raw data hash)
+4. Resolves entities
+5. Loads into Neo4j with full provenance (source URL, timestamp, data hash)
 6. Logs changes for audit trail
 
 ## MVP Scope (Dallas First)
 
-### Phase 1: Federal Delegation (Week 1-2)
+### Phase 1: Federal Delegation ✅
 - All TX US House + Senate members
 - 118th/119th Congress voting records
 - Bills sponsored/cosponsored
 - FEC campaign finance for TX delegation
 - USAspending contracts in TX congressional districts
 
-### Phase 2: Texas Legislature (Week 3-4)
-- TX House + Senate members for DFW districts
+### Phase 2: State Legislature (In Progress)
+- TX House + Senate members for DFW districts via OpenStates
 - Current session bills and votes
-- TX Ethics Commission campaign finance
+- All 50 states available through OpenStates integration
 
-### Phase 3: Dallas Local (Week 5-6)
+### Phase 3: Dallas Local (In Progress)
 - Dallas City Council members
 - Council voting records
 - City budget (department-level)
 - City contracts/procurement
 
-### Phase 4: The Canvas + Forum (Week 7-10)
-- Svelte frontend
-- Graph visualization
-- Representative profiles/scorecards
-- Comment/discussion system anchored to nodes
+### Phase 4: Forum Layer (Planned)
+- Comment/discussion system anchored to graph nodes
+- Citation chains linking opinions to data

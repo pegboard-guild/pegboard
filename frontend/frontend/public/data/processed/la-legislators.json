@@ -1,0 +1,6478 @@
+{
+  "state": "la",
+  "state_name": "Louisiana",
+  "legislators": [
+    {
+      "id": "ocd-person/0d1a7b74-9ed8-4d8c-a1fc-f2caafc3d364",
+      "name": "Adam Bass",
+      "given_name": "Adam",
+      "family_name": "Bass",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen36@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen36.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers?ID=36"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Adam_Bass"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Adam_Bass_(politician)"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=36"
+        },
+        {
+          "url": "https://www.linkedin.com/in/adam-bass-6b633b23"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5d1fade2-4678-406c-b4ed-657baed1db2b",
+      "name": "Adrian Fisher",
+      "given_name": "Adrian",
+      "family_name": "Fisher",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse016@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep16.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2021-12-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=16",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=16"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Adrian_Fisher"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Adrian_Fisher_(Louisiana_politician)"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=16"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=16"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3937cef1-8c62-428c-8837-aa6a6a8b60e7",
+      "name": "Aimee Freeman",
+      "given_name": "Aimee",
+      "family_name": "Freeman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse098@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep98.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "98",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=98",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=98"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Aimee_Adatto_Freeman"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=98"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=98"
+        },
+        {
+          "url": "https://www.aimeefreemanconsulting.com"
+        },
+        {
+          "url": "https://www.linkedin.com/in/aimeeafreeeman"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5032448a-7275-4a02-8dc1-d251cdde8ad9",
+      "name": "Alan Seabaugh",
+      "given_name": "Alan",
+      "family_name": "Seabaugh",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen31@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen31.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2024-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=5",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=31"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Alan_Seabaugh"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alan_Seabaugh"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=5"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/93616/alan-seabaugh"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=31"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/967fa557-fcdc-4a75-a13e-dabf05b85905",
+      "name": "Alonzo Knox",
+      "given_name": "Alonzo",
+      "family_name": "Knox",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse093@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep93.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "93",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2023-04-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=93",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=93"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Alonzo_Knox"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alonzo_Knox"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=93"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=93"
+        },
+        {
+          "url": "https://www.linkedin.com/in/alonzo-knox-48aa731a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a6a9544c-d12b-44cc-a52d-f2ec0e01f556",
+      "name": "Annie Spell",
+      "given_name": "Annie",
+      "family_name": "Spell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse045@legis.la.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2025-04-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=45"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Annie_Spell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Annie_Spell"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=45"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/221862/annie-spell"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd179bf7-f90d-4e3a-baea-a590c3002586",
+      "name": "Barbara Freiberg",
+      "given_name": "Barbara",
+      "family_name": "Freiberg",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse070@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep70.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "70",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=70",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=70"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Barbara_Freiberg"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=70"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=70"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177824/barbara-freiberg"
+        },
+        {
+          "url": "https://www.linkedin.com/in/barbara-freiberg-62a9b719"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ad514eed-2832-4ae3-a0c5-62d8f2721297",
+      "name": "Barbara Carpenter",
+      "given_name": "Barbara",
+      "family_name": "Carpenter",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "carpenterb@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep63.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "63",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=63",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=63"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Barbara_Carpenter_(Louisiana)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Barbara_West_Carpenter"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=63"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=63"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/165563/barbara-carpenter"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cbe53992-3b3c-4ec0-a94a-58ddf96e6edd",
+      "name": "Beryl Amedée",
+      "given_name": "Beryl",
+      "family_name": "Amedée",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "amedeeb@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep51.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=51",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=51"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Beryl_Amedee"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Beryl_Amedee"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=51"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=51"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/149301/beryl-amedee"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5d15439d-4139-448a-8f61-25ab54e68b19",
+      "name": "Beth Billings",
+      "given_name": "Beth",
+      "family_name": "Billings",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse056@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep56.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "56",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=56"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Beth_Billings"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=56"
+        },
+        {
+          "url": "https://www.linkedin.com/in/beth-billings-70047"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b6e8a5cf-ec5c-494b-b9ff-efa0fb92e1c1",
+      "name": "Beth Mizell",
+      "given_name": "Beth",
+      "family_name": "Mizell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mizellb@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen12.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=12",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=12"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Beth_Mizell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Beth_Mizell"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/134643/beth-mizell"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=12"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=12"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/20547e38-711f-4012-9217-b739f4450b91",
+      "name": "Bill Wheat",
+      "given_name": "Bill",
+      "family_name": "Wheat",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen37@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen37.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z",
+        "end_date": "2024-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers?ID=37"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/William_Wheat_Jr."
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=37"
+        },
+        {
+          "url": "https://www.linkedin.com/in/william-wheat-21506737"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8574f94d-93ed-49b0-a5f6-aa1832b5542a",
+      "name": "Blake Miguez",
+      "given_name": "Blake",
+      "family_name": "Miguez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen22@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen22.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "49",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2024-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=49",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=22"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Blake_Miguez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Blake_Miguez"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=49"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/156101/blake-miguez"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=22"
+        },
+        {
+          "url": "https://www.linkedin.com/in/blake-miguez-764b14123"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7dac3861-2ffb-45ba-b690-a8e199eb2acd",
+      "name": "Bob Hensgens",
+      "given_name": "Bob",
+      "family_name": "Hensgens",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen26@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen26.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2018-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=26",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=26"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bob_Hensgens"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=26"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=26"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bob-hensgens-7430a91a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cfe19d33-7048-4fb7-9d56-0fa0f5f985f5",
+      "name": "Bob Owen",
+      "given_name": "Bob",
+      "family_name": "Owen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen01@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen1.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z",
+        "end_date": "2024-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers?ID=1"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Owen_(Louisiana)"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=1"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/92439b80-4646-445b-939f-5414e309f183",
+      "name": "Brach Myers",
+      "given_name": "Brach",
+      "family_name": "Myers",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen23@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep45.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2025-03-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=45"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=23"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brach_Myers"
+        },
+        {
+          "url": "https://brachmyers.com/meet-brach"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brach_Myers"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=45"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=23"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brach-myers-2113465a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9ffd05e6-a127-4896-b60e-fc2722fa8779",
+      "name": "Brett Geymann",
+      "given_name": "Brett",
+      "family_name": "Geymann",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse035@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep35.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2004-01-01T00:00:00.000Z",
+        "end_date": "2015-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=35",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=35"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brett_Geymann"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=35"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=35"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/96385d4e-bfae-4929-9845-502fd2ed2cc7",
+      "name": "Brian Glorioso",
+      "given_name": "Brian",
+      "family_name": "Glorioso",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse090@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep90.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "90",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=90"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Glorioso"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=90"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brian-glorioso-54673635"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/90b6f6c3-9620-4fbb-8c23-f8ab7b163de7",
+      "name": "Bryan Fontenot",
+      "given_name": "Bryan",
+      "family_name": "Fontenot",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse055@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep55.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "55",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=55",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=55"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bryan_Fontenot"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bryan_Fontenot"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=55"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=55"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186988/bryan-fontenot"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/20def39d-ba5c-45d7-ba6c-5cf43590d4b0",
+      "name": "Denise Marcelle",
+      "given_name": "Denise",
+      "family_name": "Marcelle",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "marcelled@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep61.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "61",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=61",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=61"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/C._Denise_Marcelle"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/C._Denise_Marcelle"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=61"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=61"
+        },
+        {
+          "url": "https://www.linkedin.com/in/c-denise-marcelle-7bb85a32"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/871d5c01-9710-46f4-aeba-b321bdf11e30",
+      "name": "Travis Johnson",
+      "given_name": "Travis",
+      "family_name": "Johnson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse021@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep21.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=21",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=21"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/C._Travis_Johnson"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=21"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=21"
+        },
+        {
+          "url": "https://www.linkedin.com/in/c-travis-johnson-1b8119a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/75f165af-66d1-464e-99b0-4176b8636501",
+      "name": "Caleb Kleinpeter",
+      "given_name": "Caleb",
+      "family_name": "Kleinpeter",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen17@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen17.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2022-12-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=17",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=17"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Caleb_Kleinpeter"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Caleb_Kleinpeter"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=17"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=17"
+        },
+        {
+          "url": "https://www.linkedin.com/in/caleb-kleinpeter-1484a3177"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/85a96a1b-a8a0-4ddd-acd7-9452b48f5ace",
+      "name": "Candace Newell",
+      "given_name": "Candace",
+      "family_name": "Newell",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse099@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep99.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "99",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=99",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=99"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Candace_Newell"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=99"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=99"
+        },
+        {
+          "url": "https://www.linkedin.com/in/candace-n-newell-8456a517"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a31429da-4cde-4dbe-9510-af2dfa8ab2ed",
+      "name": "Chad Boyer",
+      "given_name": "Chad",
+      "family_name": "Boyer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse046@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep46.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "46",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=46"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chad_Boyer"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=46"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chad-boyer-78a57460"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6c1520bb-eebb-41ec-8d67-4f6e936f60b9",
+      "name": "Chad Brown",
+      "given_name": "Chad",
+      "family_name": "Brown",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "brownc@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep60.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "60",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=60",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=60"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chad_Brown_(Louisiana)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chad_Brown_%28politician%29"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=60"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=60"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/165559/chad-brown"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chadbrownlaw"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/75101b55-81b9-465a-8ec6-297fa75cdd07",
+      "name": "Chance Henry",
+      "given_name": "Chance",
+      "family_name": "Henry",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse042@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep42.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=42"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chance_Henry"
+        },
+        {
+          "url": "https://chancehenry.com/meet-chance"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chance_Keith_Henry"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=42"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/212506/chance-henry"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chance-henry-92ab4534"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2a4d4c31-ee06-4f32-a67b-c55db60502e4",
+      "name": "Chuck Owen",
+      "given_name": "Chuck",
+      "family_name": "Owen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse030@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep30.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=30",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=30"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Charles_(Chuck)_Owen"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=30"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=30"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chuck-owen-9015724"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a07b757e-a57b-4dda-aa6a-7bf5e6b3561d",
+      "name": "Chris Turner",
+      "given_name": "Chris",
+      "family_name": "Turner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse012@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep12.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=12",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=12"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Christopher_Turner_(Louisiana)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Turner_(Louisiana_politician)"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=12"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=12"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186004/christopher-turner"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dc59ede6-164c-4fd4-adc1-7e080309776b",
+      "name": "Danny McCormick",
+      "given_name": "Danny",
+      "family_name": "McCormick",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse001@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep1.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=1",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=1"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Danny_McCormick"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Danny_McCormick"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=1"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=1"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186929/danny-mccormick"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2ace9f60-8f90-43ab-a45d-d1c64bdb7462",
+      "name": "Daryl Deshotel",
+      "given_name": "Daryl",
+      "family_name": "Deshotel",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse028@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep28.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=28",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=28"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Daryl_Deshotel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Daryl_Deshotel"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=28"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=28"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186951/daryl-deshotel"
+        },
+        {
+          "url": "https://www.linkedin.com/in/daryl-a-deshotel-7248188"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/aefc2237-5913-4b96-9354-18fb7e58884c",
+      "name": "Debbie Villio",
+      "given_name": "Debbie",
+      "family_name": "Villio",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse079@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep79.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "79",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=79",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=79"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Debbie_Villio"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Debbie_Villio"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=79"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=79"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/187026/debbie-villio"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d107ae2b-6cb6-4545-a185-d63408f46033",
+      "name": "Delisha Boyd",
+      "given_name": "Delisha",
+      "family_name": "Boyd",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse102@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep102.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "102",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2021-11-29T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=102",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=102"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Delisha_Boyd"
+        },
+        {
+          "url": "https://delishaboyd.com"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=102"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=102"
+        },
+        {
+          "url": "https://www.linkedin.com/in/delishaboydllc"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a900feca-75c7-434e-8d00-dd67170f2b01",
+      "name": "Dennis Bamburg",
+      "given_name": "Dennis",
+      "family_name": "Bamburg",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse005@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep5.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=5"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dennis_Bamburg_Jr."
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=5"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dennis-bamburg-93ab8895"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d3cae3e7-f6eb-4a9c-8c63-8719902f771d",
+      "name": "Dixon McMakin",
+      "given_name": "Dixon",
+      "family_name": "McMakin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse068@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep68.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "68",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=68"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dixon_McMakin"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=68"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dixonwallacemcmakin"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4661fe94-874c-4884-99a2-c60516c811ff",
+      "name": "Dodie Horton",
+      "given_name": "Dodie",
+      "family_name": "Horton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hortond@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep9.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=9",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=9"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dodie_Horton"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dodie_Horton"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=9"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=9"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/165610/dodie-horton"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dodie-horton-3a8136100"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dcf2c7e1-e124-424c-ac0c-8d1e6600e970",
+      "name": "Dustin Miller",
+      "given_name": "Dustin",
+      "family_name": "Miller",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "millerd@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep40.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=40",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=40"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dustin_Miller"
+        },
+        {
+          "url": "https://ballotpedia.org/Dustin_Miller_(Louisiana)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dustin_Miller"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=40"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=40"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dustin-miller-39a547a8"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9a91a848-9d01-46b6-84f1-cc868681e912",
+      "name": "Ed Larvadain",
+      "given_name": "Ed",
+      "family_name": "Larvadain",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse026@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep26.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2019-04-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=26",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=26"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ed_Larvadain_III"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ed_Larvadain"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=26"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=26"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/111275/ed-larvadain-iii"
+        },
+        {
+          "url": "https://www.larvadaininjuryattorney.com"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c89a156e-8426-4001-8364-94a179482d76",
+      "name": "Eddie Lambert",
+      "given_name": "Eddie",
+      "family_name": "Lambert",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lamberte@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen18.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "59",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2012-01-01T00:00:00.000Z",
+        "end_date": "2015-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=18",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=18"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eddie_Lambert"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eddie_J._Lambert"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/35405/eddie-lambert"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=18"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=18"
+        },
+        {
+          "url": "https://www.linkedin.com/in/eddielambertattorney"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/efdf7ee4-4d37-4e57-8f0c-e0db52ee7f70",
+      "name": "Edmond Jordan",
+      "given_name": "Edmond",
+      "family_name": "Jordan",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jordane@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep29.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-05-23T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=29",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=29"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Edmond_Jordan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Edmond_Jordan"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=29"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=29"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/134729/edmond-jordan"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1899dc2e-bac6-4951-b3fc-87ea5e2d4969",
+      "name": "Ed Price",
+      "given_name": "Ed",
+      "family_name": "Price",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "pricee@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen2.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2012-01-09T00:00:00.000Z",
+        "end_date": "2017-06-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=2",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ed_Price"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/134641/ed-price"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=2"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=2"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9661594c-df1e-402a-b2c5-fe2c88366506",
+      "name": "Emily Chenevert",
+      "given_name": "Emily",
+      "family_name": "Chenevert",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse066@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep66.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "66",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=66"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Emily_Chenevert"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Emily_Chenevert"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=66"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/212560/emily-chenevert"
+        },
+        {
+          "url": "https://www.linkedin.com/in/emily-morrow-chenevert-01387520"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/040e17ea-a4d0-47ce-8f45-527a6bdc83a7",
+      "name": "Foy Gadberry",
+      "given_name": "Foy",
+      "family_name": "Gadberry",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse015@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep15.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=15",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=15"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Foy_Gadberry"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Foy_Gadberry"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=15"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=15"
+        },
+        {
+          "url": "https://www.linkedin.com/in/foy-gadberry-2a96b623"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7796b73e-f06a-4d0b-8a85-cfde955a4cd1",
+      "name": "Francis Thompson",
+      "given_name": "Francis",
+      "family_name": "Thompson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "thompsof@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep19.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z",
+        "end_date": "2023-03-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=19",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=19"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Francis_C._Thompson"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=19"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=19"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/4610/francis-thompson"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a8344aaa-aff7-42b3-b1a2-59539191fbb2",
+      "name": "Franklin Foil",
+      "given_name": "Franklin",
+      "family_name": "Foil",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "foilf@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen16.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "70",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=70"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=16",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=16"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Franklin_Foil"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Franklin_Foil"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=70"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/93673/franklin-foil"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=16"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=16"
+        },
+        {
+          "url": "https://www.linkedin.com/in/franklin-foil-43134736"
+        },
+        {
+          "url": "https://www.linkedin.com/in/franklin-foil-47545a2a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/60ffe8d0-0469-4eca-a69a-deec93c203b3",
+      "name": "Gary Carter",
+      "given_name": "Gary",
+      "family_name": "Carter",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "carterg@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen7.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "102",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2021-06-29T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=102"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=7",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=7"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gary_Carter,_Jr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gary_Carter,_Jr."
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=102"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=7"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=7"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gary-carter-jr-b8873390"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c5ea395a-7594-4585-b193-000e05f08005",
+      "name": "Beau Beaullieu",
+      "given_name": "Beau",
+      "family_name": "Beaullieu",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse048@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep48.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=48",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=48"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Beau_Beaullieu"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=48"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=48"
+        },
+        {
+          "url": "https://www.linkedin.com/in/beau-beaullieu-mba-aif-c-k-p-1b59681"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/379e9992-463c-4188-9702-668457a75c3d",
+      "name": "Gerald Boudreaux",
+      "given_name": "Gerald",
+      "family_name": "Boudreaux",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "boudreauxg@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen24.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=24",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=24"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gerald_Boudreaux"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=24"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=24"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/25923053-3679-443e-bbb1-e2f63a50585c",
+      "name": "Glen Womack",
+      "given_name": "Glen",
+      "family_name": "Womack",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen32@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen32.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=32",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=32"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Glen_Womack"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Glen_Womack"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186919/glen-womack"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=32"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=32"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/77166b5f-e299-431c-869d-ab2fff79cd33",
+      "name": "Greg Miller",
+      "given_name": "Greg",
+      "family_name": "Miller",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen19@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen19.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2012-01-09T00:00:00.000Z",
+        "end_date": "2024-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers?ID=19"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gregory_Miller,_Louisiana"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/134603/gregory-miller"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=19"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gregory-miller-50855942"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/aa2da413-7e13-4c2b-93e8-784edc0a495e",
+      "name": "Heather Cloud",
+      "given_name": "Heather",
+      "family_name": "Cloud",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen28@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen28.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=28",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=28"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Heather_Cloud"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Heather_Cloud"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=28"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=28"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/684d1cc7-cce3-4545-a6ab-d689c7c56105",
+      "name": "Cameron Henry",
+      "given_name": "Cameron",
+      "family_name": "Henry",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "henryc@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen9.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2008-01-14T00:00:00.000Z",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=9",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=9"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cameron_Henry"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cameron_Henry"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/93747/cameron-henry-jr"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=9"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=9"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cameronhenryla"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2ed9a2e2-0f61-4de1-af10-e9e0dbf02492",
+      "name": "Jack McFarland",
+      "given_name": "Jack",
+      "family_name": "McFarland",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mcfarlandj@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep13.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=13",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=13"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jack_McFarland"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jack_McFarland_%28Louisiana_politician%29"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=13"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=13"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jack-mcfarland-73638b153"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bfe2d39a-39a1-4992-86cd-6ab25767de92",
+      "name": "Jacob Braud",
+      "given_name": "Jacob",
+      "family_name": "Braud",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse105@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep105.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "105",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=105"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jacob_Braud"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jacob_Braud"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=105"
+        },
+        {
+          "url": "https://www.bbc-law.net/attorney/s-j-braud"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jacob-braud-6761194"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/80ea23c0-16f8-4a57-aa48-2c5cf478a3e1",
+      "name": "Jacob Landry",
+      "given_name": "Jacob",
+      "family_name": "Landry",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse049@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep49.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "49",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=49"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jacob_Landry"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jacob_Jules_Gabriel_Landry"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=49"
+        },
+        {
+          "url": "https://www.jacoblandryforlouisiana.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/daa3d2db-d395-4c08-9020-b90d6bc2c498",
+      "name": "Jason DeWitt",
+      "given_name": "Jason",
+      "family_name": "DeWitt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse025@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep25.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=25"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jason_DeWitt"
+        },
+        {
+          "url": "https://dewittforla.com/about"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jason_Brian_DeWitt"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=25"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/212500/jason-dewitt"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9c15d56b-627b-4fbe-8e23-2ac8385c2224",
+      "name": "Jason Hughes",
+      "given_name": "Jason",
+      "family_name": "Hughes",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse100@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep100.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "100",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=100",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=100"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jason_Hughes"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=100"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=100"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ef1c54d6-d162-48d3-b3b5-b02da086c1ee",
+      "name": "Jay Gallé",
+      "given_name": "Jay",
+      "family_name": "Gallé",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse104@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep104.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "104",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=104"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jay_Gall%C3%A9"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=104"
+        },
+        {
+          "url": "https://www.jaygalle.com"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jay-galle-98aa544"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9d6aa1d9-76b2-41ad-a3e0-4fa86da08645",
+      "name": "Jay Morris",
+      "given_name": "Jay",
+      "family_name": "Morris",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "morrisjc@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen35.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2012-01-12T00:00:00.000Z",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=14"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=35",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=35"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jay_Morris"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jay_Morris"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=14"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/134583/jay-morris-iii"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=35"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=35"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jay-morris-67192426"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b96a872c-91bd-47ea-a50f-f82294b3d91b",
+      "name": "Jeff Wiley",
+      "given_name": "Jeff",
+      "family_name": "Wiley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse081@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep81.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "81",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=81"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=81"
+        },
+        {
+          "url": "https://www.ballotpedia.org/Jeffrey_Wiley"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e8c847e2-5ee6-4f9c-a4e4-d7d8daa8464c",
+      "name": "Jeremy Stine",
+      "given_name": "Jeremy",
+      "family_name": "Stine",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen27@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen27.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2022-02-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=27",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=27"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeremy_Stine"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeremy_Stine"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=27"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=27"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-stine-7214b17a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9ae6b490-4fe0-435c-93fd-ad316e474204",
+      "name": "Jeremy LaCombe",
+      "given_name": "Jeremy",
+      "family_name": "LaCombe",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse018@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep18.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2019-04-08T00:00:00.000Z",
+        "end_date": "2023-04-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=18",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=18"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeremy_LaCombe"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeremy_LaCombe"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=18"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=18"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-lacombe-22b4a54"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2dafe5b8-cb5a-411a-b270-322dcaf18293",
+      "name": "Jerome Zeringue",
+      "given_name": "Jerome",
+      "family_name": "Zeringue",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "zeringuej@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep52.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "52",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=52",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=52"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jerome_Zeringue"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=52"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=52"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/165548/jerome-zeringue"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jerome-zeringue-3790b917"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/95e28ef0-84f6-45ec-97fe-a58f360a2ad9",
+      "name": "Jessica Domangue",
+      "given_name": "Jessica",
+      "family_name": "Domangue",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse053@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep53.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "53",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=53"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jessica_Domangue"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=53"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ce11601e-9a67-48a1-9408-b80943312303",
+      "name": "Jimmy Harris",
+      "given_name": "Jimmy",
+      "family_name": "Harris",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "harrisj@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen4.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "99",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=99"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=4",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=4"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jimmy_Harris"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=99"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=4"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=4"
+        },
+        {
+          "url": "https://www.linkedin.com/in/harris-james-7103a135"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3c0eeaa2-cf62-4b17-9b62-2531c078dd42",
+      "name": "John Illg",
+      "given_name": "John",
+      "family_name": "Illg",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse078@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep78.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "78",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=78",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=78"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Illg_Jr."
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=78"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=78"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8bc5e1d1-fe97-4466-a11d-415f56c5151a",
+      "name": "John Wyble",
+      "given_name": "John",
+      "family_name": "Wyble",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse075@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep75.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "75",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=75"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Wyble_(Louisiana)"
+        },
+        {
+          "url": "https://drwyble.com"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=75"
+        },
+        {
+          "url": "https://www.linkedin.com/in/drjwyble"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/958015ce-4a91-4830-a11f-e73997823d4b",
+      "name": "Joe Stagni",
+      "given_name": "Joe",
+      "family_name": "Stagni",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stagnij@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep92.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "92",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2017-04-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=92",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=92"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joe_Stagni"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=92"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=92"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/26ccd002-0b4d-4845-8a86-cae06a62be70",
+      "name": "Joe Bouie",
+      "given_name": "Joe",
+      "family_name": "Bouie",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "bouiej@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen3.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "97",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=97"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=3",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=3"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joseph_Bouie"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=97"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/155407/joseph-bouie-jr"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=3"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=3"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joseph-bouie-jr-ph-d-lcsw-261a316a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9002c3a7-c0d9-4112-ad34-e0c6fa909ce1",
+      "name": "Joe Orgeron",
+      "given_name": "Joe",
+      "family_name": "Orgeron",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse054@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep54.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "54",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-07-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=54",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=54"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joseph_Orgeron"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Orgeron"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=54"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=54"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/192375/joseph-orgeron"
+        },
+        {
+          "url": "https://www.linkedin.com/in/josephorgeronphd"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/85df7a11-9edb-4e27-b7ce-60ffe7b35d39",
+      "name": "Josh Carlson",
+      "given_name": "Josh",
+      "family_name": "Carlson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse043@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep43.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "43",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=43"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josh_Carlson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Josh_Carlson"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=43"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/196940/joshua-carlson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joshuapcarlson"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/378995b0-0c3e-49a4-aa93-4633f06d5509",
+      "name": "Joy Walters",
+      "given_name": "Joy",
+      "family_name": "Walters",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse004@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep4.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=4"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Daryl_Joy_Walters"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Daryl_Joy_Walters"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=4"
+        },
+        {
+          "url": "https://www.linkedin.com/in/daryljoywalters"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0e515629-c907-4618-9ae1-4e4457ea25ea",
+      "name": "Julie Emerson",
+      "given_name": "Julie",
+      "family_name": "Emerson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "emersonj@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep39.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=39",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=39"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Julie_Emerson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Julie_Emerson"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=39"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=39"
+        },
+        {
+          "url": "https://www.linkedin.com/in/julie-emerson-20710b37"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/92f7834e-8ce3-437f-bdbf-8dad3528ae3b",
+      "name": "Kathy Edmonston",
+      "given_name": "Kathy",
+      "family_name": "Edmonston",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse088@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep88.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "88",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=88",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=88"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kathy_Edmonston"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=88"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=88"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kathy-edmonston-02438a166"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/acdaa5e6-3b22-44b9-8b47-480b801483dd",
+      "name": "Katrina Jackson-Andrews",
+      "given_name": "Katrina",
+      "family_name": "Jackson-Andrews",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jacksonk@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen34.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=34",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=34"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Katrina_Jackson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Katrina_Jackson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/134647/katrina-jackson"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=34"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=34"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c64e6628-efa4-4ffe-8b2f-d9df80f4f313",
+      "name": "Kellee Hennessy",
+      "given_name": "Kellee",
+      "family_name": "Hennessy",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse064@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep64.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "64",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=64"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kellee_Hennessy_Dickerson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kellee_Hennessy_Dickerson"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=64"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/43a80737-e614-475d-aace-2d1324cb516a",
+      "name": "Ken Brass",
+      "given_name": "Ken",
+      "family_name": "Brass",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "brassk@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep58.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2017-10-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=58",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=58"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ken_Brass"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=58"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=58"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd6d41fc-8ad8-468f-8259-223d38d42bd8",
+      "name": "Kim Carver",
+      "given_name": "Kim",
+      "family_name": "Carver",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse089@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep89.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "89",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=89"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kim_Carver"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christopher_Kim_Carver"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=89"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/212522/kim-carver"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kim-carver-64526933"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d6dba94d-0167-4391-992d-af96c6525253",
+      "name": "Kim Coates",
+      "given_name": "Kim",
+      "family_name": "Coates",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse073@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep73.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "73",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=73"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kimberly_Landry_Coates"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=73"
+        },
+        {
+          "url": "https://kimcoatesforla.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f6f401f7-7fb4-40df-84a0-b5a3f0fe9ec2",
+      "name": "Kirk Talbot",
+      "given_name": "Kirk",
+      "family_name": "Talbot",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "talbotk@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen10.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "78",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=78"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=10",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=10"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kirk_Talbot"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirk_Talbot"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=78"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/93725/kirk-talbot"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=10"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=10"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8ffaa2bd-ff67-464a-b639-19a6069e28a2",
+      "name": "Kyle Green",
+      "given_name": "Kyle",
+      "family_name": "Green",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse083@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep83.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "83",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=83",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=83"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kyle_Green_Jr."
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=83"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=83"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kyle-m-green-jr-153aa342"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/52035a94-6995-4ea4-b463-1109d683048b",
+      "name": "Larry Selders",
+      "given_name": "Larry",
+      "family_name": "Selders",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sen14@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep67.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2025-03-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=67",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=67"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=14"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Larry_Selders"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_Selders"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=67"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=67"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186999/larry-selders"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=14"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d2ecd14d-09ce-4e45-8969-149531759584",
+      "name": "Lauren Ventrella",
+      "given_name": "Lauren",
+      "family_name": "Ventrella",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse065@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep65.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "65",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=65"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lauren_Ventrella"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=65"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ventrellalaw"
+        },
+        {
+          "url": "https://www.ventrellalawfirm.com"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1dbd875c-89b6-4ea1-a73b-7c8efdb203a3",
+      "name": "Laurie Schlegel",
+      "given_name": "Laurie",
+      "family_name": "Schlegel",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse082@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep82.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "82",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2021-05-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=82",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=82"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Laurie_Schlegel"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=82"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=82"
+        },
+        {
+          "url": "https://www.linkedin.com/in/laurie-schlegel-b8652662"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d6e47850-c123-4060-8309-74192011981b",
+      "name": "Larry Bagley",
+      "given_name": "Larry",
+      "family_name": "Bagley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bagleyl@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep7.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=7",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=7"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lawrence_Bagley"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_Bagley"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=7"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=7"
+        },
+        {
+          "url": "https://www.linkedin.com/in/larrybagley"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/81379952-373b-4e6e-a29f-b9bb60e7593b",
+      "name": "Les Farnum",
+      "given_name": "Les",
+      "family_name": "Farnum",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse033@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep33.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=33",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=33"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Les_Farnum"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Les_Farnum"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=33"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=33"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/107599/les-farnum"
+        },
+        {
+          "url": "https://www.linkedin.com/in/les-farnum-82961171"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6e106343-c9e7-4993-aca8-201210f61d64",
+      "name": "Mandie Landry",
+      "given_name": "Mandie",
+      "family_name": "Landry",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse091@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep91.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "91",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=91",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=91"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mandie_Landry"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=91"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=91"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/187045/mandie-landry"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mandie-landry-8764812"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4d1c2a6e-0339-4b7a-ac52-dfd9064bfbbf",
+      "name": "Marcus Bryant",
+      "given_name": "Marcus",
+      "family_name": "Bryant",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse096@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep96.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "96",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=96",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=96"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marcus_Bryant"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=96"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=96"
+        },
+        {
+          "url": "https://www.linkedin.com/in/marcus-anthony-bryant-09959968"
+        },
+        {
+          "url": "https://www.linkedin.com/in/marcus-bryant-93467011"
+        },
+        {
+          "url": "https://www.marcusbryantlaw.com"
+        },
+        {
+          "url": "https://www.marcusbryantlaw.com/attorney/marcus-a-bryant"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/addae848-cfaf-4637-a23e-595e45c6e14f",
+      "name": "Mark Abraham",
+      "given_name": "Mark",
+      "family_name": "Abraham",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "abrahamm@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen25.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=36"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=25",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=25"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Abraham"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_Abraham"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=36"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/93547/mark-abraham"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=25"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=25"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d3ecec03-0408-46f0-8c82-b775f787e6e1",
+      "name": "Mark Wright",
+      "given_name": "Mark",
+      "family_name": "Wright",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "wrightm@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep77.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "77",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2017-11-18T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=77",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=77"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Wright_(Louisiana)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_Wright_(Louisiana_politician)"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=77"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=77"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/176600/mark-wright"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mark-wright-3754a710"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/834e887f-c79d-44ed-be47-74571a792249",
+      "name": "Matt Willard",
+      "given_name": "Matt",
+      "family_name": "Willard",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse097@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep97.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "97",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=97",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=97"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matthew_Willard"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=97"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=97"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/187057/matthew-willard"
+        },
+        {
+          "url": "https://www.linkedin.com/in/matt-willard"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/750a2868-c9b0-4124-95c7-3516f93ff087",
+      "name": "Mike Fési",
+      "given_name": "Mike",
+      "family_name": "Fési",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen20@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen20.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=20",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=20"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Fesi"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=20"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=20"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bigmikefesi"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/22590bd7-29fe-454d-b61d-2c54c4562274",
+      "name": "Michael Echols",
+      "given_name": "Michael",
+      "family_name": "Echols",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse014@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep14.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=14",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=14"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Echols"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Echols"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=14"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=14"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/134582/michael-echols"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michaelcharlesechols"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/50b42a20-9d29-4388-b06f-b4511eda2131",
+      "name": "Gabe Firment",
+      "given_name": "Gabe",
+      "family_name": "Firment",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse022@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep22.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=22",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=22"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gabe_Firment"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gabe_Firment"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=22"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=22"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186949/gabe-firment"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b38eb9d5-c27d-443e-995d-f9681e3a992e",
+      "name": "Michael Melerine",
+      "given_name": "Michael",
+      "family_name": "Melerine",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse006@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep6.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=6"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Melerine"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=6"
+        },
+        {
+          "url": "https://www.seabaughlaw.com/attorneys/mmelerine"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0e901294-3718-49df-9922-0ac4503acee2",
+      "name": "Mike Johnson",
+      "given_name": "Mike",
+      "family_name": "Johnson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse027@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep27.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2019-03-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=27",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=27"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Johnson_(Louisiana_House_of_Representatives)"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=27"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=27"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michael-johnson-0979602b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e06c4ec7-9051-4489-b572-5b55e5fd4a68",
+      "name": "Mike Bayham",
+      "given_name": "Mike",
+      "family_name": "Bayham",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse103@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep103.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "103",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=103"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Bayham"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=103"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/723f3444-f927-44b0-8659-7ac00370aa92",
+      "name": "Mike Reese",
+      "given_name": "Mike",
+      "family_name": "Reese",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen30@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen30.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=30",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=30"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Reese_(Louisiana)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Reese_(Louisiana_politician)"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=30"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=30"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-reese-8406b666"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8ce9b8d1-a92d-4351-a098-617599dde680",
+      "name": "Neil Riser",
+      "given_name": "Neil",
+      "family_name": "Riser",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "risern@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep20.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=20",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=20"
+        },
+        {
+          "url": "https://senate.la.gov/senators/senpage.asp?SenID=32"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Neil_Riser"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=20"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=20"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/93593/neil-riser"
+        },
+        {
+          "url": "https://senate.la.gov/senators/senpage.asp?SenID=32"
+        },
+        {
+          "url": "https://www.linkedin.com/in/neil-riser-7a523220"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bc967860-a12b-4285-bd97-36379803f119",
+      "name": "Nicholas Muscarello",
+      "given_name": "Nicholas",
+      "family_name": "Muscarello",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "muscarellon@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep86.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "86",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2018-04-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=86",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=86"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nicholas_Muscarello_Jr."
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=86"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=86"
+        },
+        {
+          "url": "https://njmlawfirm.com/About-Us/Nicholas-J-Muscarello-Jr"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nicholas-%E2%80%9Cnicky%E2%80%9D-muscarello-00261411"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/88548c7a-b637-4821-b336-c99cfa475e22",
+      "name": "Pat Moore",
+      "given_name": "Pat",
+      "family_name": "Moore",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse017@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep17.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2019-04-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=17",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=17"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Pat_Moore_(Louisiana)"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=17"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=17"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a5240587-95aa-4135-befc-de2ea2aa1d51",
+      "name": "Patrick Connick",
+      "given_name": "Patrick",
+      "family_name": "Connick",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "connickp@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen8.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "84",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=84"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=8",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=8"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patrick_Connick"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patrick_Connick"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=84"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/93757/patrick-connick"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=8"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=8"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d4a6db65-2f6f-464f-ae26-58176f2b68e6",
+      "name": "Patrick McMath",
+      "given_name": "Patrick",
+      "family_name": "McMath",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen11@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen11.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=11",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=11"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patrick_McMath"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186901/patrick-mcmath"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=11"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=11"
+        },
+        {
+          "url": "https://www.linkedin.com/in/patrick-mcmath-063b9a6b"
+        },
+        {
+          "url": "https://www.patrickmcmath.com/meet-patrick"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/386a6e17-a7e7-4715-8420-5e10bf52dcc1",
+      "name": "Paula Davis",
+      "given_name": "Paula",
+      "family_name": "Davis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "davisp@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep69.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "69",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=69",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=69"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Paula_Davis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Paula_Davis"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=69"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=69"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/165576/paula-davis"
+        },
+        {
+          "url": "https://www.linkedin.com/in/paula-davis-a03068135"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/52df3631-4ef7-4b52-ab11-8a8eeb7bf499",
+      "name": "Peter Egan",
+      "given_name": "Peter",
+      "family_name": "Egan",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse074@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep74.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "74",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=74"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Peter_Egan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_F._Egan,_Sr."
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=74"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/212588/peter-egan"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/04a524b7-1f7a-4d01-8491-c52df47e20cc",
+      "name": "Phil Tarver",
+      "given_name": "Phil",
+      "family_name": "Tarver",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse036@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep36.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=36",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=36"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Phillip_Tarver"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Phillip_Tarver"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=36"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=36"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186966/phillip-tarver"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ee23b4bf-f5f7-498c-9fcc-f3b2d6f8fb1d",
+      "name": "Phillip DeVillier",
+      "given_name": "Phillip",
+      "family_name": "DeVillier",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "devillierp@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep41.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "41",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=41",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=41"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Phillip_DeVillier"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Phillip_DeVillier"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=41"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=41"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/165532/phillip-devillier"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d95410b8-a66c-4662-bcc6-1884252e061b",
+      "name": "Polly Thomas",
+      "given_name": "Polly",
+      "family_name": "Thomas",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "thomaspj@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep80.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "80",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-08-24T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=80",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=80"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Polly_Thomas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Polly_Thomas"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=80"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=80"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/35438/polly-thomas"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2bf8549d-d379-4c42-af8c-b5b9d270f17d",
+      "name": "Dewith Carrier",
+      "given_name": "Dewith",
+      "family_name": "Carrier",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse032@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep32.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=32",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=32"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/R._Dewith_Carrier"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=32"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=32"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/655ddc35-ecd0-4db2-a3fe-cd86f1cb7d61",
+      "name": "Robert Allain",
+      "given_name": "Robert",
+      "family_name": "Allain",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen21@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen21.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=21",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=21"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Allain_III"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=21"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=21"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-allain-iii-6816678b"
+        },
+        {
+          "url": "https://www.robertallain.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/17cf7c94-788b-49f9-bca2-2f413974a927",
+      "name": "Rashid Young",
+      "given_name": "Rashid",
+      "family_name": "Young",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse011@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep11.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=11"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rashid_Young"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=11"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rashid-young-esq-aa5670152"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/126879ce-50c0-4741-a7e7-fb23fecb9d29",
+      "name": "Raymond Crews",
+      "given_name": "Raymond",
+      "family_name": "Crews",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "crewsr@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep8.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2017-05-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=8",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=8"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Raymond_Crews"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Raymond_Crews"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=8"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=8"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/176066/raymond-crews"
+        },
+        {
+          "url": "https://www.linkedin.com/in/raymond-crews-9a620935"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8710f3da-9aea-41a9-acd2-181377cc6ae7",
+      "name": "Regina Barrow",
+      "given_name": "Regina",
+      "family_name": "Barrow",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "barrowr@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen15.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=15",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=15"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Regina_Barrow"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/56506/regina-barrow"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=15"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=15"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6c232d36-fe39-4006-8397-de9cb1e5454c",
+      "name": "Rhonda Butler",
+      "given_name": "Rhonda",
+      "family_name": "Butler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse038@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep38.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=38",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=38"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rhonda_Butler"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=38"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=38"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e49647e3-b5c3-4329-9472-27048115441c",
+      "name": "Rick Edmonds",
+      "given_name": "Rick",
+      "family_name": "Edmonds",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen06@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen6.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "66",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2024-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=66",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=6"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rick_Edmonds"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rick_Edmonds"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=66"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=6"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a24e242f-3fd9-479c-8423-cf0c6e2c6273",
+      "name": "Robby Carter",
+      "given_name": "Robby",
+      "family_name": "Carter",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "carterr@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep72.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "72",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=72",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=72"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robby_Carter"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robby_Carter"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=72"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=72"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/15195/robby-carter"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/71696836-b261-4646-8127-407c40e2c35b",
+      "name": "Rodney Lyons",
+      "given_name": "Rodney",
+      "family_name": "Lyons",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lyonsr@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep87.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "87",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=87",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=87"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rodney_Lyons,_Sr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rodney_Lyons"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=87"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=87"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/165588/rodney-lyons-sr"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rodney-lyons-1a917999"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/01cb17b2-a215-4cd5-916a-43c3e91723c7",
+      "name": "Rodney Schamerhorn",
+      "given_name": "Rodney",
+      "family_name": "Schamerhorn",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse024@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep24.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=24",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=24"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rodney_Schamerhorn"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rodney_Schamerhorn"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=24"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=24"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rodney-schamerhorn-44ba2861"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rodney-schamerhorn-5b734569"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c6f00cae-9826-4be6-934e-1a9516b20c4d",
+      "name": "Roger Wilder",
+      "given_name": "Roger",
+      "family_name": "Wilder",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse071@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep71.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "71",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=71"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Roger_Wilder_III"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=71"
+        },
+        {
+          "url": "https://www.linkedin.com/in/roger-wilder-33031522b"
+        },
+        {
+          "url": "https://www.rogerwilder.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0353532c-93a0-41cb-9621-278c8ef19178",
+      "name": "Roy Adams",
+      "given_name": "Roy",
+      "family_name": "Adams",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse062@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep62.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "62",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2019-04-08T00:00:00.000Z",
+        "end_date": "2023-04-26T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=62",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=62"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Roy_Adams"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=62"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=62"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7d852e7a-ae99-4f89-b4c0-4d7cb7e816db",
+      "name": "Royce Duplessis",
+      "given_name": "Royce",
+      "family_name": "Duplessis",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "duplessisr@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen5.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "93",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2022-12-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=93",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=5",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=5"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Royce_Duplessis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Royce_Duplessis"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=93"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=5"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=5"
+        },
+        {
+          "url": "https://www.linkedin.com/in/royce-duplessis-102289102"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/85ef927c-d038-4534-a8ff-b99ad6656bda",
+      "name": "Ryan Bourriaque",
+      "given_name": "Ryan",
+      "family_name": "Bourriaque",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse047@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep47.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2019-03-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=47",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=47"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ryan_Bourriaque"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=47"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=47"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ryan-bourriaque-391a4967"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fc43b9e1-5e0d-4767-a12e-b2e801444d22",
+      "name": "Sam Jenkins",
+      "given_name": "Sam",
+      "family_name": "Jenkins",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sen39@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen39.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z",
+        "end_date": "2024-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers?ID=39"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sam_Jenkins"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Samuel_Jenkins_Jr."
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=39"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6fdcb100-c1e5-450e-a3dd-cf42c06cff1e",
+      "name": "Shaun Mena",
+      "given_name": "Shaun",
+      "family_name": "Mena",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse023@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep23.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=23"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shaun_Mena"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=23"
+        },
+        {
+          "url": "https://www.linkedin.com/in/shaun-mena-2269a126a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/46b660af-1c4c-46a1-905e-ffd89a9cc32f",
+      "name": "Shane Mack",
+      "given_name": "Shane",
+      "family_name": "Mack",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse095@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep95.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "95",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=95",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=95"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shane_Mack"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=95"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=95"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f05b1c80-c85c-42f5-8336-84bcd7b0c847",
+      "name": "Stephanie Berault",
+      "given_name": "Stephanie",
+      "family_name": "Berault",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse076@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep76.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "76",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=76"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephanie_Berault"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=76"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stephanie-berault-01090810"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/de7591e7-6ae0-47c3-b1ea-12073106498c",
+      "name": "Stephanie Hilferty",
+      "given_name": "Stephanie",
+      "family_name": "Hilferty",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hilfertys@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep94.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "94",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=94",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=94"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephanie_Hilferty"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephanie_Hilferty"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=94"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=94"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stephanie-hilferty-52b5a111"
+        },
+        {
+          "url": "https://www.srsa-realestate.com/team/stephanie-hilferty"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9c50a5a9-a217-4644-b29d-68d498d9e16d",
+      "name": "Steven Jackson",
+      "given_name": "Steven",
+      "family_name": "Jackson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse002@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep2.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steven_Jackson_(Louisiana)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steven_Jackson_(politician)"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=2"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stephen-jackson-83751041"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dd47283c-c202-461f-b56a-8cc2c0b14f15",
+      "name": "Stewart Cathey",
+      "given_name": "Stewart",
+      "family_name": "Cathey",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen33@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen33.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=33",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=33"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stewart_Cathey"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stewart_Cathey_Jr."
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/165589/stewart-cathey-jr"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=33"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=33"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stewart-cathey-jr-6707682b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/586f002d-71da-4836-a306-6e8a3d485263",
+      "name": "Sylvia Taylor",
+      "given_name": "Sylvia",
+      "family_name": "Taylor",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse057@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep57.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "57",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=57"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sylvia_Taylor"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=57"
+        },
+        {
+          "url": "https://www.sylviataylorforstaterepresentative.com/meet-sylvia"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a838e3b6-52ea-4ad0-a308-2337762a492b",
+      "name": "Tammy Phelps",
+      "given_name": "Tammy",
+      "family_name": "Phelps",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse003@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep3.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=3",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=3"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tammy_Phelps"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=3"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=3"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8d0bbdce-eaab-4b3a-8385-bf8c6a2e0b87",
+      "name": "Tehmi Chassion",
+      "given_name": "Tehmi",
+      "family_name": "Chassion",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse044@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep44.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "44",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=44"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tehmi_Chassion"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=44"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/709dfea8-f9a9-4734-8b6d-e495f4d51aa3",
+      "name": "Terry Landry",
+      "given_name": "Terry",
+      "family_name": "Landry",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse067@legis.la.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "67",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2025-05-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=67"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Terry_Landry_Jr._(Louisiana_House_District_67_representative)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Terry_Landry_Jr."
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=67"
+        },
+        {
+          "url": "https://www.linkedin.com/in/terry-landry-jr-5021316"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/577fe2a3-275b-4b82-b508-c0ce29deb2fa",
+      "name": "Thomas Pressly",
+      "given_name": "Thomas",
+      "family_name": "Pressly",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen38@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen38.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z",
+        "end_date": "2024-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers?ID=38"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Thomas_Pressly"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Pressly"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186933/thomas-pressly"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=38"
+        },
+        {
+          "url": "https://www.linkedin.com/in/thomas-pressly-3134b39"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1ebb9d9b-329d-4a43-a33c-e3608ef09cc8",
+      "name": "Tim Kerner",
+      "given_name": "Tim",
+      "family_name": "Kerner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse084@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep84.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "84",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=84",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=84"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Timothy_Kerner"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Timothy_P._Kerner_Sr"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=84"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=84"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9fde5725-d1b2-4afc-9897-2706dda502c8",
+      "name": "Tony Bacala",
+      "given_name": "Tony",
+      "family_name": "Bacala",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bacalat@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep59.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "59",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=59",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=59"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tony_Bacala"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Bacala"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=59"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=59"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/165556/tony-bacala"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tony-bacala-2689b537"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/87828aa1-a979-419e-aac6-c808c00896e7",
+      "name": "Troy Romero",
+      "given_name": "Troy",
+      "family_name": "Romero",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse037@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep37.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=37",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=37"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Troy_Romero"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=37"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=37"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/186968/troy-romero"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ba2902d5-5a0e-4e71-b396-6e85358511de",
+      "name": "Troy Hebert",
+      "given_name": "Troy",
+      "family_name": "Hebert",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse031@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep31.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=31"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Troy_Hebert_(Louisiana_House_District_31_candidate)"
+        },
+        {
+          "url": "https://hebertforlouisiana.com/about"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=31"
+        },
+        {
+          "url": "https://www.linkedin.com/in/troy-hebert-9465302b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/33e76c3a-a834-444c-9872-fc2af5c83837",
+      "name": "Valarie Hodges",
+      "given_name": "Valarie",
+      "family_name": "Hodges",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sen13@legis.la.gov",
+      "image": "https://senate.la.gov/SenPics/Sen13.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "64",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "end_date": "2024-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=64",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=13"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Valarie_Hodges"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Valarie_Hodges"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=64"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/94018/valarie-hodges"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=13"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9510158f-4e63-4b68-ad44-daef2987b780",
+      "name": "Vanessa LaFleur",
+      "given_name": "Vanessa",
+      "family_name": "LaFleur",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse101@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep101.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "101",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2022-04-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=101",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=101"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Vanessa_Caston_LaFleur"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vanessa_Caston_LaFleur"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=101"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=101"
+        },
+        {
+          "url": "https://www.linkedin.com/in/vanessa-caston-lafleur-652a45230"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fe1e7481-9bbb-4e58-8d19-9be18558f12b",
+      "name": "Vincent Cox",
+      "given_name": "Vincent",
+      "family_name": "Cox",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse085@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics/rep85.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "85",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2024-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=85"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Vincent_Cox_III"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=85"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c75a9e00-6017-4e74-95fd-70fbfa803c58",
+      "name": "Vinney St. Blanc",
+      "given_name": "Vinney",
+      "family_name": "St. Blanc",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hse050@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep50.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "50",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=50",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=50"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Vincent_St._Blanc_III"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=50"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=50"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b4a4657a-e588-4036-9a0f-48847e22a140",
+      "name": "Jay Luneau",
+      "given_name": "Jay",
+      "family_name": "Luneau",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "luneauj@legis.la.gov",
+      "image": "https://senate.la.gov/SenatorPics/Sen29.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2016-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=29",
+          "note": "homepage"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=29"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jay_Luneau"
+        },
+        {
+          "url": "https://luneaubecklaw.com/about/senator-w-jay-luneau"
+        },
+        {
+          "url": "https://luneaulaw.com/profiles/wjayluneau.html"
+        },
+        {
+          "url": "https://senate.la.gov/Senators_FullInfo"
+        },
+        {
+          "url": "https://senate.la.gov/smembers.aspx?ID=29"
+        },
+        {
+          "url": "https://senate.la.gov/smembers?ID=29"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c3e1299d-034f-4e70-9c86-c003c6e35964",
+      "name": "Wayne McMahen",
+      "given_name": "Wayne",
+      "family_name": "McMahen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mcmahenw@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep10.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2018-07-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=10",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=10"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Wayne_McMahen"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=10"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=10"
+        },
+        {
+          "url": "https://www.linkedin.com/in/wayne-mcmahen-138818a5"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3ced6b49-7f72-41d0-a84c-0e7cff17e88b",
+      "name": "Wilford Carter",
+      "given_name": "Wilford",
+      "family_name": "Carter",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hse034@legis.la.gov",
+      "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep34.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:la/government",
+        "start_date": "2020-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=34",
+          "note": "homepage"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=34"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Wilford_D._Carter"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/H_Reps_FullInfo"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members.aspx?ID=34"
+        },
+        {
+          "url": "https://house.louisiana.gov/H_Reps/members?ID=34"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/165520/wilford-carter-sr"
+        }
+      ]
+    }
+  ],
+  "count": 144,
+  "last_updated": "2025-09-14T02:00:52.604Z"
+}

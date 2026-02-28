@@ -1,0 +1,361 @@
+/* Multi-Level Representatives Component Styles */
+
+.multi-level-representatives {
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.representatives-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.representatives-header h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+.representatives-header .subtitle {
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
+
+/* Level Section */
+.level-section {
+  background: white;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  border: 1px solid var(--border-color);
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.level-header {
+  padding: 20px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  background: var(--bg-secondary);
+  transition: background 0.2s ease;
+}
+
+.level-header:hover {
+  background: var(--bg-hover);
+}
+
+.level-title-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.level-title-group h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.member-count {
+  background: var(--bg-primary);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+.lock-icon {
+  color: var(--text-muted);
+}
+
+.level-controls {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.status-badge {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.status-badge.active {
+  background: #10b981;
+  color: white;
+}
+
+.status-badge.coming-soon {
+  background: #f59e0b;
+  color: white;
+}
+
+.level-description {
+  padding: 0 24px 16px;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+/* Members Grid */
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+  padding: 24px;
+}
+
+/* Official Card */
+.official-card {
+  background: white;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 16px;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.official-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.official-card.inactive {
+  opacity: 0.7;
+}
+
+.official-header {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.official-photo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--bg-secondary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.official-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.official-info {
+  flex: 1;
+}
+
+.official-info h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 4px 0;
+}
+
+.office-name {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin: 0 0 8px 0;
+}
+
+.party-badge {
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+/* Alignment Section */
+.alignment-section {
+  margin-bottom: 16px;
+  padding: 12px;
+  background: var(--bg-secondary);
+  border-radius: 6px;
+}
+
+.alignment-meter {
+  height: 8px;
+  background: var(--bg-muted);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+
+.alignment-fill {
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+.alignment-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.875rem;
+}
+
+.alignment-text {
+  color: var(--text-secondary);
+}
+
+/* Contact Links */
+.official-contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.contact-link {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 8px;
+  background: var(--bg-secondary);
+  border-radius: 4px;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.contact-link:hover {
+  background: var(--primary-color);
+  color: white;
+}
+
+/* Peg Buttons */
+.peg-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.peg-btn {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  background: white;
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.peg-btn:hover {
+  transform: translateY(-1px);
+}
+
+.peg-btn.approve {
+  border-color: #10b981;
+}
+
+.peg-btn.approve:hover,
+.peg-btn.approve.active {
+  background: #10b981;
+  color: white;
+}
+
+.peg-btn.disapprove {
+  border-color: #ef4444;
+}
+
+.peg-btn.disapprove:hover,
+.peg-btn.disapprove.active {
+  background: #ef4444;
+  color: white;
+}
+
+/* Coming Soon Overlay */
+.coming-soon-overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px;
+  background: rgba(245, 158, 11, 0.1);
+  border: 1px dashed #f59e0b;
+  border-radius: 6px;
+  color: #f59e0b;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+/* Data Attribution */
+.data-attribution {
+  margin-top: 40px;
+  padding: 20px;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.data-attribution p {
+  color: var(--text-muted);
+  font-size: 0.875rem;
+  margin: 4px 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .members-grid {
+    grid-template-columns: 1fr;
+    padding: 16px;
+  }
+  
+  .level-header {
+    padding: 16px;
+  }
+  
+  .level-title-group h3 {
+    font-size: 1.1rem;
+  }
+  
+  .official-card {
+    padding: 12px;
+  }
+  
+  .official-header {
+    gap: 12px;
+  }
+  
+  .official-photo {
+    width: 50px;
+    height: 50px;
+  }
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+  .level-section {
+    background: var(--dark-bg-primary);
+    border-color: var(--dark-border);
+  }
+  
+  .official-card {
+    background: var(--dark-bg-secondary);
+    border-color: var(--dark-border);
+  }
+  
+  .contact-link {
+    background: var(--dark-bg-muted);
+  }
+  
+  .peg-btn {
+    background: var(--dark-bg-primary);
+    border-color: var(--dark-border);
+  }
+}

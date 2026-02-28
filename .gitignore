@@ -6,9 +6,17 @@ dist/
 build/
 venv/
 .venv/
+*.egg
+
+# Node.js
+node_modules/
+frontend/dist/
+frontend/build/
+*.tsbuildinfo
 
 # Environment & secrets
 .env
+.env.local
 *.local
 
 # Neo4j
@@ -32,6 +40,10 @@ data/raw/
 *.log
 logs/
 
-# Node (frontend)
-node_modules/
-frontend/dist/
+# Build artifacts
+coverage/
+.nyc_output/
+
+# Package locks (regenerate per environment)
+package-lock.json
+frontend/package-lock.json

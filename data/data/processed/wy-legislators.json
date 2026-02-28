@@ -1,0 +1,4475 @@
+{
+  "state": "wy",
+  "state_name": "Wyoming",
+  "legislators": [
+    {
+      "id": "ocd-person/9995703e-90eb-4d20-a2f6-bfd9542102bd",
+      "name": "Abby Angelos",
+      "given_name": "Abby",
+      "family_name": "Angelos",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "abby.angelos@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-AngelosAbby.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Abby_Angelos"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2091"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2091",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Abby_Angelos"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Abby_Angelos"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2091"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2091"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3198aa67-829e-4827-8b26-8955cbf36f4a",
+      "name": "Andrew Byron",
+      "given_name": "Andrew",
+      "family_name": "Byron",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "andrew.byron@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-ByronAndrew.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2099"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2099",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Andrew_Byron"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrew_Byron"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2099"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2099"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4665c34f-70f5-4bc0-af49-0239e0e907a1",
+      "name": "Ann Lucas",
+      "given_name": "Ann",
+      "family_name": "Lucas",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ann.lucas@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LucasAnn.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "43",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/H/2128"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ann_Lucas"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ann-lucas-aab8869"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/H/2128"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/394ba273-63d7-409d-90cd-5d183e750ea4",
+      "name": "Art Washut",
+      "given_name": "Art",
+      "family_name": "Washut",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "art.washut@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-WashutArt.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2019-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2058"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2058"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2058"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Art_Washut"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Art_Washut"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184074/art-washut"
+        },
+        {
+          "url": "https://www.caspercollege.edu/directory/arthur-washut"
+        },
+        {
+          "url": "https://www.linkedin.com/in/arthur-washut-9a03b3149"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2058"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2058"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2058"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2058"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36",
+      "name": "Barry Crago",
+      "given_name": "Barry",
+      "family_name": "Crago",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "barry.crago@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CragoBarry.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z",
+        "end_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2078"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/S/2078"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2078"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Barry_Crago"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Barry_Crago"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2078"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/S/2078"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2078"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2078"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2f0d84dc-df29-4c3d-83ea-aa56beca9839",
+      "name": "Bill Allemand",
+      "given_name": "Bill",
+      "family_name": "Allemand",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.allemand@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-AllemandBill.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2114"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2024/H/2114"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/H/2114"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2114",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bill_Allemand"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Allemand"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/207721/bill-allemand"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2114"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2024/H/2114"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/H/2114"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2114"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770",
+      "name": "Bill Landen",
+      "given_name": "Bill",
+      "family_name": "Landen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.landen@wyoleg.gov",
+      "image": "http://legisweb.state.wy.us/LegislatorSummary/photos/LandenBS27.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2007-01-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/434"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/434"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/434"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bill_Landen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Landen"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/434"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/434"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/434"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/434"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e",
+      "name": "Bo Biteman",
+      "given_name": "Bo",
+      "family_name": "Biteman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bo.biteman@wyoleg.gov",
+      "image": "http://legisweb.state.wy.us/LegislatorSummary/photos/BitemanDH51.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "end_date": "2019-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2018/H/2044"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2044"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2044"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2044"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bo_Biteman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bo_Biteman"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bobiteman"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2018/H/2044"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2044"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2044"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2044"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2044"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8ddb8078-482c-4df5-983d-ece9e5825cc2",
+      "name": "Bob Davis",
+      "given_name": "Bob",
+      "family_name": "Davis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bob.davis@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-DavisBob.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2110"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2110",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Davis_(Wyoming)"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2110"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2110"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660",
+      "name": "Bob Ide",
+      "given_name": "Bob",
+      "family_name": "Ide",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bob.ide@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-IdeBob.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2022-12-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2089"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2089",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Ide_(Wyoming)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/153744/bob-ide"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-ide-8a266040"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2089"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2089"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6ff4eff9-e68c-42a1-9aa5-b964daa37a89",
+      "name": "Bob Nicholas",
+      "given_name": "Bob",
+      "family_name": "Nicholas",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bob.nicholas@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/photos/NicholasH8.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "end_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/1980"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1980"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1980"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bob_Nicholas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bob_Nicholas"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/1980"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1980"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1980"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1980"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cfed8eb6-ad00-4414-9ceb-bd5d46c5974f",
+      "name": "Brian Boner",
+      "given_name": "Brian",
+      "family_name": "Boner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brian.boner@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-BonerBrian.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2015-03-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2021"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2021"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Boner"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brian_Boner"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brian-boner-40a4882a"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2021"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2021"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2021"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251",
+      "name": "Cale Case",
+      "given_name": "Cale",
+      "family_name": "Case",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cale.case@wyoleg.gov",
+      "image": "http://legisweb.state.wy.us/LegislatorSummary/photos/CaseCS25.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "1999-01-04T00:00:00.000Z",
+        "end_date": "1999-01-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/945"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/945"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/945"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cale_Case"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cale_Case"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/945"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/945"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/945"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/945"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a3ddc445-efa1-4c0c-809a-d21fc383fa59",
+      "name": "Charles Scott",
+      "given_name": "Charles",
+      "family_name": "Scott",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "charles.scott@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-ScottCharles.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/294"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/294"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/294"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Charles_Scott_(Wyoming)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Scott_(Wyoming_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/2756/charles-scott"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/294"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/294"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/294"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/294"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9fe08ab5-b31c-4f7b-bb23-c7aff3cd3e4d",
+      "name": "Cheri Steinmetz",
+      "given_name": "Cheri",
+      "family_name": "Steinmetz",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cheri.steinmetz@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-SteinmetzCheri.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "end_date": "2019-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2011"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2011"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2011"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cheri_Steinmetz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cheri_Steinmetz"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/127266/cheri-steinmetz"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2011"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2011"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2011"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2011"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b9414bc4-f900-474b-b99c-8f2716419683",
+      "name": "Chip Neiman",
+      "given_name": "Chip",
+      "family_name": "Neiman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chip.neiman@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-NeimanChip.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2070"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2070"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chip_Neiman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chip_Neiman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/194490/chip-neiman"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2070"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2070"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2070"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+      "name": "Chris Rothfuss",
+      "given_name": "Chris",
+      "family_name": "Rothfuss",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "chris.rothfuss@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-RothfussChris.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2011-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1971"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/D/1971"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/1971"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Rothfuss"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Rothfuss"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rothfuss"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1971"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/D/1971"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/1971"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1971"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ffe52a1f-bc33-424a-bd8c-a2df967ac83a",
+      "name": "Chris Knapp",
+      "given_name": "Chris",
+      "family_name": "Knapp",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.knapp@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-KnappChristopher.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "53",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2020-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2086"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2086"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Christopher_Knapp"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Knapp_(politician)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chris-knapp-6027b329"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2086"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2086"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2086"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0df4327b-df46-4886-ab09-0c8a55639548",
+      "name": "Clarence Styvar",
+      "given_name": "Clarence",
+      "family_name": "Styvar",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "clarence.styvar@wyoleg.gov",
+      "image": "http://wyoleg.gov/LegislatorSummary/Photos/StyvarH12.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2018-09-22T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2051"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2051"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2051"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Clarence_Styvar"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Clarence_Styvar"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2051"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2051"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2051"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2051"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9b6e58cd-4dbc-4554-a677-b362c913c069",
+      "name": "Cody Wylie",
+      "given_name": "Cody",
+      "family_name": "Wylie",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cody.wylie@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-WylieCody.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2107"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2107",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cody_Wylie"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cody_Wylie"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2107"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2107"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/416ee113-2983-43ab-bf24-3d7134767b41",
+      "name": "Dalton Banks",
+      "given_name": "Dalton",
+      "family_name": "Banks",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dalton.banks@wyoleg.gov",
+      "image": "http://greybullstandard.com/sites/default/files/field/image/Dalton%20Banks.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2101"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2101",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dalton_Banks"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dalton_Banks"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2101"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2101"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9",
+      "name": "Dan Dockstader",
+      "given_name": "Dan",
+      "family_name": "Dockstader",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dan.dockstader@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-DockstaderDan.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2007-01-03T00:00:00.000Z",
+        "end_date": "2009-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1048"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1048"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1048"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dan_Dockstader"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dan_Dockstader"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1048"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1048"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1048"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1048"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412",
+      "name": "Dan Laursen",
+      "given_name": "Dan",
+      "family_name": "Laursen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dan.laursen@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-LaursenDan.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2015-01-05T00:00:00.000Z",
+        "end_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2006"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2006",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dan_Laursen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dan_Laursen"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2006"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2006"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0a177e23-5f49-46dd-bc32-b2403ea7124c",
+      "name": "Daniel Singh",
+      "given_name": "Daniel",
+      "family_name": "Singh",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "daniel.singh@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-SinghDaniel.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "61",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2116"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2116",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Daniel_Singh"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/210274/daniel-singh"
+        },
+        {
+          "url": "https://www.linkedin.com/in/daniel-singh-96b445227"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2116"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2116"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ff389664-aac3-4241-abc7-3a8e781e5989",
+      "name": "Darin McCann",
+      "given_name": "Darin",
+      "family_name": "McCann",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "darin.mccann@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-McCannDarin.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2130"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Darin_McCann"
+        },
+        {
+          "url": "https://www.linkedin.com/in/darin-mccann-29258930"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2130"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8ee32a2e-9e39-45fc-b023-0212c849f6de",
+      "name": "Darin Smith",
+      "given_name": "Darin",
+      "family_name": "Smith",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "darin.smith@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-SmithDarin.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/S/2137"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Darin_Smith"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Darin_Smith"
+        },
+        {
+          "url": "https://www.linkedin.com/in/darin-smith-188b139"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/S/2137"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/13022d64-c748-4603-b60e-bd176383b8f1",
+      "name": "Ed Cooper",
+      "given_name": "Ed",
+      "family_name": "Cooper",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ed.cooper@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-CooperEd.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2068"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2068"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Edward_Cooper"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ed_Cooper_(politician)"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2068"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2068"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2068"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c0c75f8e-6d58-4197-9076-154528191d47",
+      "name": "Elissa Campbell",
+      "given_name": "Elissa",
+      "family_name": "Campbell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "elissa.campbell@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CampbellElissa.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "56",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2133"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elissa_Campbell"
+        },
+        {
+          "url": "https://www.linkedin.com/in/elissa-campbell-b6511b11"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2133"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/afa67bb0-3191-4dce-94ab-ddb3a9e7475c",
+      "name": "Eric Barlow",
+      "given_name": "Eric",
+      "family_name": "Barlow",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "eric.barlow@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-BarlowEric.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2013-01-08T00:00:00.000Z",
+        "end_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1995"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1995",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eric_Barlow"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eric_Barlow"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1995"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1995"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7f287d7d-8f05-4116-8bcf-33174ecf1e9c",
+      "name": "Evie Brennan",
+      "given_name": "Evie",
+      "family_name": "Brennan",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "evie.brennan@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-BrennanEvie.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2090"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2090",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Evie_Brennan"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/207660/evie-brennan"
+        },
+        {
+          "url": "https://www.linkedin.com/in/evie-brennan-3bb99170"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2090"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2090"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/472c50ea-da65-42c3-a9b3-3639a9881a7f",
+      "name": "Gary Brown",
+      "given_name": "Gary",
+      "family_name": "Brown",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gary.brown@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BrownGary.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "41",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2140"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gary_Brown_(Wyoming)"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2140"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/84464d31-bdbb-4687-9757-27794e64d319",
+      "name": "Gary Crum",
+      "given_name": "Gary",
+      "family_name": "Crum",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gary.crum@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CrumGary.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/S/2144"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gary_Crum_(Wyoming)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gary_Crum"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gary-crum-9635b9126"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/S/2144"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/df82de40-cf5b-4197-b276-5e5982146849",
+      "name": "Ivan Posey",
+      "given_name": "Ivan",
+      "family_name": "Posey",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "ivan.posey@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-PoseyIvan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2141"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ivan_Posey"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ivan_Posey"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ivan-posey-802848132"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2141"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fc63a597-e32a-4c94-a2f2-7420f7836aeb",
+      "name": "J.D. Williams",
+      "given_name": "J.D.",
+      "family_name": "Williams",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jd.williams@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WilliamsJD.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "end_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/H/2087"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2087",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/J.D._Williams"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/J._D._Williams_(Wyoming_politician)"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/H/2087"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2087"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/25e8e592-1425-4e8d-bcce-97ec84ef66c3",
+      "name": "J.R. Riggins",
+      "given_name": "J.R.",
+      "family_name": "Riggins",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jr.riggins@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-RigginsJR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "59",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/R/2135"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/J.R._Riggins"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/R/2135"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2a0be03f-4f0a-4b2e-850b-50b4d0dade13",
+      "name": "J.T. Larson",
+      "given_name": "J.T.",
+      "family_name": "Larson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jt.larson@wyoleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/J_T_Larson.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2096"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2096",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/J.T._Larson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/J.T._Larson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/j-t-larson-4a80a1197"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2096"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2096"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b598ad4e-6124-4863-ac74-dbb13630e7db",
+      "name": "Jacob Wasserburger",
+      "given_name": "Jacob",
+      "family_name": "Wasserburger",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jacob.wasserburger@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WasserburgerJacob.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2139"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jacob_Wasserburger"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2139"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4",
+      "name": "Jared Olsen",
+      "given_name": "Jared",
+      "family_name": "Olsen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jared.olsen@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-OlsenJared.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2017-01-02T00:00:00.000Z",
+        "end_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2035"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/S/2035"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2035"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2035"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jared_Olsen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jared_Olsen"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jaredsolsen"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2035"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/S/2035"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2035"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2035"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2035"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d",
+      "name": "Jayme Lien",
+      "given_name": "Jayme",
+      "family_name": "Lien",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jayme.lien@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LienJayme.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/R/2126"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jayme_Lien"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/R/2126"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181",
+      "name": "Jeremy Haroldson",
+      "given_name": "Jeremy",
+      "family_name": "Haroldson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jeremy.haroldson@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-HaroldsonJeremy.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2071"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2071"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeremy_Haroldson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeremy_Haroldson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/194492/jeremy-haroldson"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2071"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2071"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2071"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f40c41d5-b371-49c5-a597-db8435e613a0",
+      "name": "Jim Anderson",
+      "given_name": "Jim",
+      "family_name": "Anderson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jim.anderson@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-AndersonJim.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2011-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1985"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/S/1985"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1985"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1985"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/James_Anderson_(Wyoming_State_Senate_District_28)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Lee_Anderson"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1985"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/S/1985"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1985"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1985"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1985"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/19e421d2-03a4-4a0a-86e8-b18b63d13822",
+      "name": "Joe Webb",
+      "given_name": "Joe",
+      "family_name": "Webb",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "joe.webb@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WebbJoe.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2120"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joseph_Webb_(Wyoming)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joewebb82937"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2120"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/39076643-ca3a-47d2-888e-d944eb4f5de9",
+      "name": "Joel Guggenmos",
+      "given_name": "Joel",
+      "family_name": "Guggenmos",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "joel.guggenmos@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-GuggenmosJoel.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "55",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2132"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joel_Guggenmos"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2132"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/931a9e71-33a6-4e65-be91-703ad612447e",
+      "name": "John Bear",
+      "given_name": "John",
+      "family_name": "Bear",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.bear@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-BearJohn.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2075"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2075"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Bear_(Wyoming)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Bear_%28politician%29"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/194580/john-bear"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-bear-105729a6"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2075"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2075"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2075"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/08a52b9d-3ce0-4496-9b1b-ba41fbb3b165",
+      "name": "John Eklund",
+      "given_name": "John",
+      "family_name": "Eklund",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.eklund@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-EklundJohn.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2011-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/1978"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1978"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1978"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Eklund_Jr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Eklund_Jr."
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/1978"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1978"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1978"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1978"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe",
+      "name": "John Kolb",
+      "given_name": "John",
+      "family_name": "Kolb",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.kolb@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-KolbJohn.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2066"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2066"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Kolb"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Kolb"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2066"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2066"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2066"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e79049b8-a6d9-4356-a190-fc1e90837d5d",
+      "name": "John Winter",
+      "given_name": "John",
+      "family_name": "Winter",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.winter@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-WinterJohn.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2019-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2056"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2056"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2056"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Winter_(Wyoming)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Winter_(Wyoming_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184072/john-winter"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2056"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2056"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2056"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2056"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/64428f70-4a9b-453d-b2f5-bbbdcdb370e5",
+      "name": "Julie Jarvis",
+      "given_name": "Julie",
+      "family_name": "Jarvis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "julie.jarvis@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-JarvisJulie.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "57",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2134"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Julie_Jarvis"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dr-julie-jarvis"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2134"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/588c810c-0a65-475b-9593-46fa556cb962",
+      "name": "Karlee Provenza",
+      "given_name": "Karlee",
+      "family_name": "Provenza",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "karlee.provenza@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-ProvenzaKarlee.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2080"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2080"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Karlee_Provenza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Karlee_Provenza"
+        },
+        {
+          "url": "https://www.linkedin.com/in/karlee-r-provenza-717776122"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2080"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2080"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2080"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dcc60e43-41b3-44ef-976c-0604a295b9cd",
+      "name": "Ken Chestek",
+      "given_name": "Ken",
+      "family_name": "Chestek",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "ken.chestek@wyoleg.gov",
+      "image": "https://img1.wsimg.com/isteam/ip/d01b1415-0c08-4d98-9c0d-4c209fc46e5f/Me%20(cropped)-0001.jpg/:/cr=t:0%25,l:3.11%25,w:93.79%25,h:100%25/rs=w:600,h:600,cg:true",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2095"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2095",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ken_Chestek"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ken_Chestek"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/171292/ken-chestek"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2095"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2095"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/15ae95ba-274d-4b7b-a2c7-a5cfb5e2b089",
+      "name": "Ken Clouston",
+      "given_name": "Ken",
+      "family_name": "Clouston",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ken.clouston@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-CloustonKen.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2104"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2104",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ken_Clouston"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ken-clouston-7639081a2"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2104"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2104"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b7a5cb78-6473-4b7b-9c27-90c8ab2130a5",
+      "name": "Ken Pendergraft",
+      "given_name": "Ken",
+      "family_name": "Pendergraft",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ken.pendergraft@wyoleg.gov",
+      "image": "https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/editorial/e/38/e385f8ec-1e35-11ed-898a-b39b6ee19880/62fcf60fbb349.image.jpg?resize=395%2C500",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2103"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2103",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ken_Pendergraft"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2103"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2103"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e6242790-9cdf-48ec-a5d3-aae3e5439733",
+      "name": "Kevin Campbell",
+      "given_name": "Kevin",
+      "family_name": "Campbell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kevin.campbell@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CampbellKevin.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "62",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2136"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kevin_Campbell_(Wyoming)"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2136"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7052600a-c1b3-484d-80a3-232fc9815d7c",
+      "name": "Landon Brown",
+      "given_name": "Landon",
+      "family_name": "Brown",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "landon.brown@wyoleg.gov",
+      "image": "http://legisweb.state.wy.us/LegislatorSummary/photos/BrownLH09.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2017-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2034"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2034"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2034"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Landon_Brown"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Landon_Brown"
+        },
+        {
+          "url": "https://www.linkedin.com/in/landon-brown-mpa-30790076"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2034"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2034"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2034"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2034"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/286af01e-ace3-4de2-b1c3-44756370d932",
+      "name": "Larry Hicks",
+      "given_name": "Larry",
+      "family_name": "Hicks",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "larry.hicks@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-HicksLarry.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2011-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1963"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1963"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1963"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Larry_S._Hicks_(Wyoming)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_S._Hicks"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1963"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1963"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1963"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1963"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c6b78357-5a9d-41e9-b947-1d81227b0f15",
+      "name": "Laura Pearson",
+      "given_name": "Laura",
+      "family_name": "Pearson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "laura.pearson@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-PearsonLaura.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/R/2138"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Laura_Taliaferro_Pearson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Laura_Taliaferro_Pearson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/laura-pearson-80352334"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/R/2138"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5eabff67-a57e-4fd5-b62c-3072d0374d56",
+      "name": "Laurie Bratten",
+      "given_name": "Laurie",
+      "family_name": "Bratten",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "laurie.bratten@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BrattenLaurie.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2131"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Laurie_Bratten"
+        },
+        {
+          "url": "https://www.linkedin.com/in/laurie-bratten-87591661"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2131"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/be3b0a04-4e00-42e4-9202-5c8f68aacedd",
+      "name": "Lee Filer",
+      "given_name": "Lee",
+      "family_name": "Filer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lee.filer@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-FilerLee.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2014-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1990"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/1990"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lee_Filer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lee_Filer"
+        },
+        {
+          "url": "https://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1990"
+        },
+        {
+          "url": "https://legisweb.state.wy.us/LegislatorSummary/LegislatorList.aspx?strHouse=H&strStatus=N"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lee-filer-4320806a"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/1990"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7d3ea3c1-de6a-433f-83e2-c53dde09be61",
+      "name": "Liz Storer",
+      "given_name": "Liz",
+      "family_name": "Storer",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "liz.storer@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-StorerLiz.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2100"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2100",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Liz_Storer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Liz_Storer"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2100"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2100"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6466bd0e-d531-4ac0-8667-3e7f34a32f9a",
+      "name": "Lloyd Larsen",
+      "given_name": "Lloyd",
+      "family_name": "Larsen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lloyd.larsen@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-LarsenLloyd.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "54",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2013-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/1988"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1988"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1988"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lloyd_Charles_Larsen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lloyd_Larsen"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lloyd-larsen-ab29647"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/1988"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1988"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1988"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1988"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b91459e7-2049-4cf9-8b0b-f769ce373613",
+      "name": "Lynn Hutchings",
+      "given_name": "Lynn",
+      "family_name": "Hutchings",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lynn.hutchings@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-HutchingsLynn.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2014-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1997"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1997"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1997"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lynn_Hutchings"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lynn_Hutchings"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/127281/lynn-hutchings"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1997"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1997"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1997"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1997"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/65ae499e-9549-42e2-ab16-65b56eb0f8ab",
+      "name": "Marilyn Connolly",
+      "given_name": "Marilyn",
+      "family_name": "Connolly",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "marilyn.connolly@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-ConnollyMarilyn.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2127"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marilyn_Connoly"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2127"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b2d0dc89-4104-4f6e-a1eb-bbc9dafbefa9",
+      "name": "Marlene Brady",
+      "given_name": "Marlene",
+      "family_name": "Brady",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "marlene.brady@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BradyMarlene.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "60",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2143"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marlene_Brady"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2143"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c954b74f-1933-4be4-801d-cc93f7f37ac0",
+      "name": "Martha Lawley",
+      "given_name": "Martha",
+      "family_name": "Lawley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "martha.lawley@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-LawleyMartha.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2102"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2102",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Martha_Lawley"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/207696/martha-lawley"
+        },
+        {
+          "url": "https://www.marthalawley.com"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2102"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2102"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f3fe63a7-b938-41c4-b2f5-b4069949a163",
+      "name": "McKay Erickson",
+      "given_name": "McKay",
+      "family_name": "Erickson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mckay.erickson@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-EricksonMcKay.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/R/2122"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/McKay_Erickson"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/R/2122"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1",
+      "name": "Mike Gierau",
+      "given_name": "Mike",
+      "family_name": "Gierau",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mike.gierau@wyoleg.gov",
+      "image": "http://legisweb.state.wy.us/LegislatorSummary/photos/GierauMH16.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "end_date": "2019-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2027"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/D/2027"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2027"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Gierau"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Gierau"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-gierau-0851ba2a"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2027"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/D/2027"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2027"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2027"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4c9350f0-084c-4ba2-be0d-9ee0b5f6c629",
+      "name": "Mike Schmid",
+      "given_name": "Mike",
+      "family_name": "Schmid",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.schmid@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-SchmidMike.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2121"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Schmid"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-schmid-5335a91a"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2121"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b",
+      "name": "Mike Yin",
+      "given_name": "Mike",
+      "family_name": "Yin",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mike.yin@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-YinMike.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2019-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2054"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/D/2054"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2054"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Yin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Yin"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184068/mike-yin"
+        },
+        {
+          "url": "https://www.linkedin.com/in/yincrash"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2054"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/D/2054"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2054"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2054"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/86d51e65-7fef-49ff-a19a-60984fe2fab2",
+      "name": "Nina Webber",
+      "given_name": "Nina",
+      "family_name": "Webber",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "nina.webber@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WebberNina.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2123"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nina_Webber"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nina-webber-798bb467"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2123"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d811f813-1093-449a-a4dc-5d02c704ee49",
+      "name": "Ocean Andrew",
+      "given_name": "Ocean",
+      "family_name": "Andrew",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ocean.andrew@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-AndrewOcean.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "46",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2081"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2081"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ocean_Andrew"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ocean_Andrew"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ocean-andrew-07a321b9"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2081"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2081"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2081"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e72a31cf-cefd-42c1-9620-967af32a2f48",
+      "name": "Ogden Driskill",
+      "given_name": "Ogden",
+      "family_name": "Driskill",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ogden.driskill@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/photos/DriskillS1.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2011-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1972"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1972"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1972"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ogden_Driskill"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ogden_Driskill"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/52627/ogden-driskill"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ogden-driskill-b43bb610"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/1972"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/1972"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/1972"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/1972"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4e09e885-4101-4e95-8560-17d35caad18c",
+      "name": "Pam Thayer",
+      "given_name": "Pam",
+      "family_name": "Thayer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "pam.thayer@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-ThayerPamela.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/H/2119"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Pam_Thayer"
+        },
+        {
+          "url": "https://www.linkedin.com/in/pam-thayer-289a5918b"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2025/H/2119"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d110d38a-8f1f-4056-b89d-d7d46613c72a",
+      "name": "Paul Hoeft",
+      "given_name": "Paul",
+      "family_name": "Hoeft",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "paul.hoeft@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-HoeftPaul.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2124"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Paul_Hoeft"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2124"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9c9a9e1b-8107-40ac-b667-a8e75c5f806d",
+      "name": "Pepper Ottman",
+      "given_name": "Pepper",
+      "family_name": "Ottman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "pepper.ottman@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-OttmanPepper.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2076"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2076"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Pepper_Ottman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pepper_Ottman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/194583/pepper-ottman"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2076"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2076"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2076"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2fc47a70-0bf7-4d7c-bda2-5cdbf75a99ea",
+      "name": "Rachel Rodriguez-Williams",
+      "given_name": "Rachel",
+      "family_name": "Rodriguez-Williams",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rachel.rodriguez-williams@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-Rodreguez-WilliamsRachel.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "50",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2083"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2083"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rachel_Rodriguez-Williams"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rachel_Rodriguez-Williams"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/194595/rachel-rodriguez-williams"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rachel-rodriguez-williams-93335b80"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2083"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2083"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2083"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8b636fd9-d6e2-4369-9764-c56803244076",
+      "name": "Reuben Tarver",
+      "given_name": "Reuben",
+      "family_name": "Tarver",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "reuben.tarver@wyoleg.gov",
+      "image": "https://static.wixstatic.com/media/90d799_7b7ddfb7956a4493bf4f48a996100daf~mv2.jpg/v1/fill/w_640,h_594,fp_0.42_0.30,q_85,usm_0.66_1.00_0.01,enc_auto/90d799_7b7ddfb7956a4493bf4f48a996100daf~mv2.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "52",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2112"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2112",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Reuben_Tarver"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/207717/reuben-tarver"
+        },
+        {
+          "url": "https://www.linkedin.com/in/reuben-tarver-70174178"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2112"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2112"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/219dcec3-8f83-401b-91df-1a79ac725889",
+      "name": "Rob Geringer",
+      "given_name": "Rob",
+      "family_name": "Geringer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rob.geringer@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-GeringerRob.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2142"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rob_Geringer"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robgeringer"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2142"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bc53e98d-bd3c-4a67-9822-68e609f45251",
+      "name": "Bob Wharff",
+      "given_name": "Bob",
+      "family_name": "Wharff",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "robert.wharff@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WharffRobert.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "49",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "end_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2082"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2082"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Wharff"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Wharff"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-wharff-1143ba1a5"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-wharff-23584927"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2082"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2082"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2082"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/232d6600-4cfd-40a1-abb9-8a1eecd84768",
+      "name": "Scott Heiner",
+      "given_name": "Scott",
+      "family_name": "Heiner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.heiner@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-HeinerScott.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2074"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2074"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Heiner"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scott_Heiner"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/171225/scott-heiner"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2074"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2074"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2074"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/201b5fe9-4060-4dfa-ae2c-c59a3a3120ff",
+      "name": "Scott Smith",
+      "given_name": "Scott",
+      "family_name": "Smith",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.smith@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-SmithScott.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2093"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2093",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Smith_(Wyoming)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scott_Smith_%28Wyoming_politician%29"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2093"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2093"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/343a76eb-5672-433a-9d39-f34b6f683cab",
+      "name": "Stacy Jones",
+      "given_name": "Stacy",
+      "family_name": "Jones",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stacy.jones@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-JonesStacy.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2088"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2088",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stacy_Jones"
+        },
+        {
+          "url": "https://www.linkedin.com/in/realtorwyo"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2088"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2088"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f46abbfe-3a0a-4657-a4ac-fbc418adfcc7",
+      "name": "Stephan Pappas",
+      "given_name": "Stephan",
+      "family_name": "Pappas",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stephan.pappas@wyoleg.gov",
+      "image": "http://legisweb.state.wy.us/LegislatorSummary/photos/pappassS07.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2015-01-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2008"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2008"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2008"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephan_Pappas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephan_Pappas"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stephanpappas"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2008"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2008"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2008"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2008"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1f6a3489-e152-487f-852a-23fc40a22185",
+      "name": "Steve Harshman",
+      "given_name": "Steve",
+      "family_name": "Harshman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steve.harshman@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-HarshmanSteve.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2003-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/717"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/717"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/717"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Harshman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Harshman"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/717"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/717"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/717"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/717"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/51b4d190-c5b4-4860-acb9-a6569f26e064",
+      "name": "Steve Johnson",
+      "given_name": "Steve",
+      "family_name": "Johnson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steve.johnson@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-JohnsonSteve.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2118"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Johnson_(Wyoming)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Johnson_(Wyoming_politician)"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2118"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26",
+      "name": "Tara Nethercott",
+      "given_name": "Tara",
+      "family_name": "Nethercott",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tara.nethercott@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-NethercottTara.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2017-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2029"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2029"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2029"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tara_Nethercott"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tara_Nethercott"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2029"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2029"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2029"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2029"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/057afdb5-3c0e-4503-b6cd-50ba6df1aaab",
+      "name": "Tim French",
+      "given_name": "Tim",
+      "family_name": "French",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tim.french@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-FrenchTim.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2067"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2067"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tim_French"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tim_French"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/100304/tim-french"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2067"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2067"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2067"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e",
+      "name": "Tim Salazar",
+      "given_name": "Tim",
+      "family_name": "Salazar",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tim.salazar@wyoleg.gov",
+      "image": "http://legisweb.state.wy.us/LegislatorSummary/photos/SalazarTH34.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2017-01-02T00:00:00.000Z",
+        "end_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2028"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2028"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2028",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tim_Salazar"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tim_Salazar"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/153981/tim-salazar"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2028"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2028"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2028"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2028"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/312edf5d-1dad-475a-b3bd-4b58f5f98ad4",
+      "name": "Tom Kelly",
+      "given_name": "Tom",
+      "family_name": "Kelly",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tom.kelly@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-KellyTom.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2125"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Thomas_Kelly_(Wyoming)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/thomas-kelly-9052b6238"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2025/H/2125"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d1ac363d-41ed-4c2c-a661-6e400d0b7d57",
+      "name": "Tomi Strock",
+      "given_name": "Tomi",
+      "family_name": "Strock",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tomi.strock@wyoleg.gov",
+      "image": "https://static.wixstatic.com/media/eccebe_d5018ec8ebd54c8ab8d4297108ccdb0a~mv2.jpg/v1/fill/w_597,h_796,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IMG_4030.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2094"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2094",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tomi_Strock"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tomi_Strock"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/207664/tomi-strock"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tom-strock-665b2a92"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2094"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2094"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0cd9d0d3-09eb-4cf1-8e5b-bfc15a71b337",
+      "name": "Tony Locke",
+      "given_name": "Tony",
+      "family_name": "Locke",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tony.locke@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/67th-LockeTony.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2023-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2106"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2106",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tony_Locke"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2106"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2106"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b2265fcb-f768-4617-ad03-15f5b65af79f",
+      "name": "Trey Sherwood",
+      "given_name": "Trey",
+      "family_name": "Sherwood",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "trey.sherwood@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-SherwoodTrey.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2072"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2072"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Trey_Sherwood"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Trey_Sherwood"
+        },
+        {
+          "url": "https://www.linkedin.com/in/treysherwood"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/H/2072"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/D/2072"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/H"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2072"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09",
+      "name": "Troy McKeown",
+      "given_name": "Troy",
+      "family_name": "McKeown",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "troy.mckeown@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-McKeownTroy.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2021-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2069"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2069"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Troy_McKeown"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Troy_McKeown"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/194471/troy-mckeown"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2069"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2069"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2069"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6dd13000-c423-47d8-9fbb-3cbcf730d7fe",
+      "name": "Wendy Schuler",
+      "given_name": "Wendy",
+      "family_name": "Schuler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "wendy.schuler@wyoleg.gov",
+      "image": "https://wyoleg.gov/LegislatorSummary/Photos/66th-SchulerWendyDavis.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wy/government",
+        "start_date": "2019-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2062"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2062"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2062"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Wendy_Davis_Schuler"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wendy_Davis_Schuler"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184028/wendy-schuler"
+        },
+        {
+          "url": "https://www.linkedin.com/in/wendy-schuler-872bb39b"
+        },
+        {
+          "url": "https://www.wyoleg.gov/Legislators/2023/S/2062"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2019/R/2062"
+        },
+        {
+          "url": "https://wyoleg.gov/Legislators/2021/R/2062"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2021/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2023/S"
+        },
+        {
+          "url": "https://wyoleg.gov/LsoService/api/legislator/2062"
+        }
+      ]
+    }
+  ],
+  "count": 93,
+  "last_updated": "2025-09-14T02:00:53.144Z"
+}

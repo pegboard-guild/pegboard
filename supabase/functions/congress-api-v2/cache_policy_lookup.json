@@ -1,0 +1,702 @@
+{
+  "congress.gov:bill-status": {
+    "ttl": 21600,
+    "ttl_by_phase": {
+      "introduced": 21600,
+      "committee": 43200,
+      "floor": 10800,
+      "enrolled": 86400,
+      "failed": 31536000,
+      "became-law": 31536000
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "legislation",
+      "bills",
+      "status",
+      "federal",
+      "congress.gov"
+    ]
+  },
+  "govinfo:bill-text-enrolled": {
+    "ttl": 31536000,
+    "ttl_by_phase": {
+      "enrolled": 31536000,
+      "public-law": 31536000
+    },
+    "swr": 86400,
+    "immutable": true,
+    "tags": [
+      "documents",
+      "final",
+      "immutable",
+      "federal",
+      "legislation",
+      "govinfo"
+    ]
+  },
+  "congress.gov:roll-call-vote-final": {
+    "ttl": 31536000,
+    "ttl_by_phase": {
+      "final": 31536000
+    },
+    "swr": 86400,
+    "immutable": true,
+    "tags": [
+      "documents",
+      "final",
+      "immutable",
+      "federal",
+      "legislation",
+      "congress.gov"
+    ]
+  },
+  "congress.gov:amendments": {
+    "ttl": 10800,
+    "ttl_by_phase": {
+      "proposed": 10800,
+      "adopted": 86400,
+      "failed": 2592000
+    },
+    "swr": 1800,
+    "immutable": false,
+    "tags": [
+      "legislation",
+      "amendments",
+      "federal",
+      "congress.gov"
+    ]
+  },
+  "congress.gov:sponsors-cosponsors": {
+    "ttl": 86400,
+    "ttl_by_phase": {
+      "all": 86400
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "feeds",
+      "updates",
+      "federal",
+      "legislation",
+      "congress.gov"
+    ]
+  },
+  "congress.gov:member-profile": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "active": 2592000,
+      "retired": 31536000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "members",
+      "profiles",
+      "federal",
+      "congress.gov"
+    ]
+  },
+  "congress.gov:member-votes": {
+    "ttl": 31536000,
+    "ttl_by_phase": {
+      "all": 31536000
+    },
+    "swr": 86400,
+    "immutable": true,
+    "tags": [
+      "members",
+      "votes",
+      "immutable",
+      "federal",
+      "congress.gov"
+    ]
+  },
+  "congress.gov:committee-members": {
+    "ttl": 604800,
+    "ttl_by_phase": {
+      "all": 604800
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "members",
+      "roster",
+      "federal",
+      "congress.gov"
+    ]
+  },
+  "whitehouse.gov:president-vp": {
+    "ttl": 7776000,
+    "ttl_by_phase": {
+      "current": 7776000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "executive",
+      "terms",
+      "federal",
+      "whitehouse.gov"
+    ]
+  },
+  "whitehouse.gov:cabinet": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "current": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "executive",
+      "cabinet",
+      "federal",
+      "whitehouse.gov"
+    ]
+  },
+  "whitehouse.gov:executive-order-document": {
+    "ttl": 7776000,
+    "ttl_by_phase": {
+      "signed": 7776000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "documents",
+      "executive",
+      "federal",
+      "whitehouse.gov"
+    ]
+  },
+  "whitehouse.gov:executive-order-status": {
+    "ttl": 604800,
+    "ttl_by_phase": {
+      "active": 604800,
+      "amended": 86400,
+      "revoked": 31536000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "executive",
+      "orders",
+      "status",
+      "federal",
+      "whitehouse.gov"
+    ]
+  },
+  "federalregister:nprm": {
+    "ttl": 43200,
+    "ttl_by_phase": {
+      "open-comment": 43200,
+      "closed": 31536000
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "register",
+      "comments",
+      "federal",
+      "federalregister"
+    ]
+  },
+  "federalregister:final-rule": {
+    "ttl": 31536000,
+    "ttl_by_phase": {
+      "final": 31536000
+    },
+    "swr": 86400,
+    "immutable": true,
+    "tags": [
+      "documents",
+      "final",
+      "immutable",
+      "federal",
+      "register",
+      "federalregister"
+    ]
+  },
+  "scotus:justices": {
+    "ttl": 7776000,
+    "ttl_by_phase": {
+      "current": 7776000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "judiciary",
+      "justices",
+      "federal",
+      "scotus"
+    ]
+  },
+  "court:opinion-slip": {
+    "ttl": 604800,
+    "ttl_by_phase": {
+      "slip": 604800
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "judiciary",
+      "opinions",
+      "preliminary",
+      "federal",
+      "scotus"
+    ]
+  },
+  "court:opinion-bound": {
+    "ttl": 31536000,
+    "ttl_by_phase": {
+      "bound": 31536000
+    },
+    "swr": 86400,
+    "immutable": true,
+    "tags": [
+      "judiciary",
+      "opinions",
+      "final",
+      "federal",
+      "scotus"
+    ]
+  },
+  "usaspending:awards": {
+    "ttl": 86400,
+    "ttl_by_phase": {
+      "awarded": 604800,
+      "modified": 86400,
+      "closed": 31536000
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "spending",
+      "procurement",
+      "federal",
+      "usaspending"
+    ]
+  },
+  "usaspending:agency-budgets": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "proposed": 604800,
+      "enacted": 2592000,
+      "amended": 604800
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "budget",
+      "fiscal",
+      "federal",
+      "spending",
+      "usaspending"
+    ]
+  },
+  "lda:quarterly-filings": {
+    "ttl": 7776000,
+    "ttl_by_phase": {
+      "filed": 7776000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "filings",
+      "quarterly",
+      "lobbying",
+      "federal",
+      "lobbying_finance",
+      "senate.gov/lda"
+    ]
+  },
+  "fec:committee-filings": {
+    "ttl": 86400,
+    "ttl_by_phase": {
+      "filed": 86400
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "feeds",
+      "updates",
+      "federal",
+      "lobbying_finance",
+      "fec.gov"
+    ]
+  },
+  "fec:candidate-filings": {
+    "ttl": 86400,
+    "ttl_by_phase": {
+      "filed": 86400
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "elections",
+      "fec",
+      "candidates",
+      "federal",
+      "lobbying_finance",
+      "fec.gov"
+    ]
+  },
+  "elections:results-federal": {
+    "ttl": 86400,
+    "ttl_by_phase": {
+      "uncertified": 86400,
+      "certified": 31536000
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "elections",
+      "results",
+      "federal",
+      "fec.gov"
+    ]
+  },
+  "elections:voter-registration": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "current": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "monthly",
+      "statistics",
+      "federal",
+      "elections",
+      "state_sos"
+    ]
+  },
+  "openstates:bill-status": {
+    "ttl": 43200,
+    "ttl_by_phase": {
+      "introduced": 43200,
+      "committee": 86400,
+      "floor": 21600,
+      "passed": 604800,
+      "failed": 2592000,
+      "signed": 31536000
+    },
+    "swr": 7200,
+    "immutable": false,
+    "tags": [
+      "state",
+      "legislation",
+      "bills",
+      "openstates"
+    ]
+  },
+  "openstates:bill-text": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "draft": 86400,
+      "enrolled": 2592000,
+      "chaptered": 31536000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "state",
+      "bills",
+      "text",
+      "legislation",
+      "openstates"
+    ]
+  },
+  "openstates:legislators": {
+    "ttl": 604800,
+    "ttl_by_phase": {
+      "all": 604800
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "state",
+      "legislature",
+      "members",
+      "openstates"
+    ]
+  },
+  "state:governor": {
+    "ttl": 7776000,
+    "ttl_by_phase": {
+      "current": 7776000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "state",
+      "governor",
+      "members",
+      "state_portal"
+    ]
+  },
+  "state:cabinet": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "current": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "state",
+      "cabinet",
+      "members",
+      "state_portal"
+    ]
+  },
+  "local:mayor": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "current": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "local",
+      "mayor",
+      "officials",
+      "city_portal"
+    ]
+  },
+  "local:city-council": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "current": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "local",
+      "council",
+      "officials",
+      "city_portal"
+    ]
+  },
+  "local:county-commissioners": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "current": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "local",
+      "county",
+      "officials",
+      "county_portal"
+    ]
+  },
+  "local:agenda": {
+    "ttl": 86400,
+    "ttl_by_phase": {
+      "posted": 86400,
+      "revised": 43200,
+      "final": 604800
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "local",
+      "meetings",
+      "agendas",
+      "legistar_or_city_api"
+    ]
+  },
+  "local:minutes-votes": {
+    "ttl": 604800,
+    "ttl_by_phase": {
+      "draft": 86400,
+      "published": 604800
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "local",
+      "meetings",
+      "minutes",
+      "legistar_or_city_api"
+    ]
+  },
+  "local:ordinances": {
+    "ttl": 604800,
+    "ttl_by_phase": {
+      "proposed": 86400,
+      "adopted": 604800,
+      "codified": 31536000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "local",
+      "ordinances",
+      "meetings",
+      "municode_or_city_api"
+    ]
+  },
+  "local:payments-awards": {
+    "ttl": 86400,
+    "ttl_by_phase": {
+      "posted": 86400,
+      "corrected": 43200
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "feeds",
+      "updates",
+      "local",
+      "procurement",
+      "city_open_data"
+    ]
+  },
+  "local:contracts": {
+    "ttl": 604800,
+    "ttl_by_phase": {
+      "active": 604800,
+      "completed": 31536000,
+      "terminated": 31536000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "local",
+      "contracts",
+      "procurement",
+      "city_open_data"
+    ]
+  },
+  "school:board-members": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "current": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "hyperlocal",
+      "school",
+      "board",
+      "school_board",
+      "district_portal"
+    ]
+  },
+  "school:meetings": {
+    "ttl": 86400,
+    "ttl_by_phase": {
+      "posted": 86400,
+      "final": 604800
+    },
+    "swr": 3600,
+    "immutable": false,
+    "tags": [
+      "local",
+      "meetings",
+      "agendas",
+      "hyperlocal",
+      "school_board",
+      "district_portal"
+    ]
+  },
+  "school:budget": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "proposed": 604800,
+      "adopted": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "hyperlocal",
+      "school",
+      "budget",
+      "school_board",
+      "district_portal"
+    ]
+  },
+  "special:water-board": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "current": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "hyperlocal",
+      "special",
+      "district",
+      "special_districts",
+      "district_portal"
+    ]
+  },
+  "special:transit-authority": {
+    "ttl": 2592000,
+    "ttl_by_phase": {
+      "current": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "hyperlocal",
+      "special",
+      "district",
+      "special_districts",
+      "transit_portal"
+    ]
+  },
+  "ocd:district-boundaries": {
+    "ttl": 31536000,
+    "ttl_by_phase": {
+      "baseline": 31536000,
+      "redistricted": 7776000,
+      "court-adjusted": 2592000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "districts",
+      "boundaries",
+      "redistricting",
+      "reference",
+      "districts_boundaries",
+      "census_tiger"
+    ]
+  },
+  "census:demographics": {
+    "ttl": 31536000,
+    "ttl_by_phase": {
+      "decennial": 315360000,
+      "acs-5yr": 31536000,
+      "acs-1yr": 31536000
+    },
+    "swr": 86400,
+    "immutable": true,
+    "tags": [
+      "census",
+      "demographics",
+      "immutable",
+      "reference",
+      "census_data",
+      "census.gov"
+    ]
+  },
+  "usps:zip-to-district": {
+    "ttl": 7776000,
+    "ttl_by_phase": {
+      "current": 7776000
+    },
+    "swr": 86400,
+    "immutable": false,
+    "tags": [
+      "quarterly",
+      "reports",
+      "reference",
+      "postal_zipcodes",
+      "usps"
+    ]
+  }
+}

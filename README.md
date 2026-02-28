@@ -3,6 +3,7 @@
 ![CI](https://github.com/pegboard-guild/pegboard/actions/workflows/ci.yml/badge.svg)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-React-blue.svg)](frontend/)
 [![GitHub stars](https://img.shields.io/github/stars/pegboard-guild/pegboard)](https://github.com/pegboard-guild/pegboard/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/pegboard-guild/pegboard)](https://github.com/pegboard-guild/pegboard/commits/main)
 
@@ -20,16 +21,22 @@ No editorializing. No spin. Just structured, verifiable, connected facts.
 
 | Component | Status |
 |-----------|--------|
-| ✅ Base ingestor framework | Built |
-| ✅ Congress.gov members ingestor | Built |
-| ✅ Congress.gov bills ingestor | Built |
-| ✅ FEC campaign finance ingestor | Built |
-| ✅ USAspending contracts ingestor | Built |
+| ✅ React + TypeScript frontend with Objective Canvas | Live |
+| ✅ Supabase backend (PostgreSQL, Edge Functions, Auth) | Live |
+| ✅ Multi-level representative lookup (Federal → State → Local) | Live |
+| ✅ Real-time bill tracking & vote monitoring | Live |
+| ✅ Congress.gov API integration (members, bills, votes) | Live |
+| ✅ OpenStates API integration (50-state legislature data) | Live |
+| ✅ Federal Register integration | Live |
+| ✅ USAspending contracts integration | Live |
+| ✅ District-based representative lookup | Live |
+| ✅ Intelligent API caching layer | Live |
+| ✅ Base ingestor framework (Python) | Built |
 | ✅ Neo4j graph schema + loader | Built |
 | ✅ FastAPI with search, graph viz, money-flow endpoints | Built |
+| ✅ FEC campaign finance ingestor | Built |
 | 🔨 Dallas City Council scraper | In progress |
 | 🔨 Texas Legislature ingestor | In progress |
-| 📋 Svelte Canvas (frontend) | Planned |
 | 📋 Forum layer (comments on graph nodes) | Planned |
 
 ---
@@ -52,42 +59,49 @@ All of this is public record. None of it is easy to find. The data exists across
 
 ## How Pegboard Works
 
-Three layers, each building on the last:
+Two complementary layers:
 
 ```
 ┌─────────────────────────────────────────────────┐
-│            🗣️  The Forum                         │
-│  Citizens comment, flag, investigate.            │
-│  Every post anchored to a data node.             │
-│  Opinions come with receipts.                    │
+│         🖥️  The App (Supabase + React)           │
+│  Real-time UI: representative profiles, bills,   │
+│  votes, spending. Supabase Edge Functions for     │
+│  Congress.gov, OpenStates, Federal Register,      │
+│  USAspending APIs. PostgreSQL + caching layer.    │
 ├─────────────────────────────────────────────────┤
-│            🗺️  The Canvas                        │
-│  Visual navigation of the graph.                 │
-│  Federal → State → County → City.                │
-│  Follow the money. See the connections.          │
+│         🔗  The Graph (Neo4j + Python)           │
+│  Knowledge graph for connection analysis.         │
+│  Trace money flows: Donor → Official → Contract.  │
+│  Python ingestors pull from public APIs.          │
+│  FastAPI serves graph queries.                    │
 ├─────────────────────────────────────────────────┤
-│            🔗  The Graph                         │
-│  Neo4j knowledge graph.                          │
-│  Officials, votes, bills, budgets, contracts,    │
-│  donors, lobbyists — all connected.              │
-├─────────────────────────────────────────────────┤
-│            ⚙️  Ingestors                         │
-│  Automated pulls from public APIs.               │
-│  Normalize → deduplicate → load.                 │
-│  Full provenance on every data point.            │
+│         🗣️  The Forum (Planned)                  │
+│  Citizens comment, flag, investigate.             │
+│  Every post anchored to a data node.              │
+│  Opinions come with receipts.                     │
 └─────────────────────────────────────────────────┘
 ```
 
-<!-- Screenshots of Neo4j graph queries coming soon -->
-
 ## Quick Start
 
+### Frontend (React + Supabase)
+
 ```bash
-# Clone and set up
 git clone https://github.com/pegboard-guild/pegboard.git
+cd pegboard/frontend
+npm install
+npm start
+```
+
+The frontend connects to Supabase Edge Functions for live government data. See `frontend/.env.local.example` for configuration.
+
+### Graph Layer (Python + Neo4j)
+
+```bash
 cd pegboard
-make setup
-source .venv/bin/activate
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 
 # Configure (optional — DEMO_KEY works for Congress.gov)
 cp .env.example .env
@@ -113,6 +127,7 @@ We're building the first city implementation. The architecture is designed so an
 | **Texas Legislature** | Bills, votes, committees (DFW districts) |
 | **Federal Delegation** | Congress.gov voting records, FEC campaign finance, USAspending contracts |
 | **Campaign Finance** | FEC + Texas Ethics Commission |
+| **All 50 States** | State legislator data via OpenStates |
 
 **Your city is next.** See [docs/writing-an-ingestor.md](docs/writing-an-ingestor.md) for the tutorial.
 
@@ -120,20 +135,23 @@ We're building the first city implementation. The architecture is designed so an
 
 | Layer | Technology |
 |-------|-----------|
-| **Graph Database** | Neo4j |
-| **Backend** | Python · FastAPI |
-| **Frontend** | Svelte |
-| **Data Ingestors** | Python (httpx, APScheduler) |
+| **Frontend** | React · TypeScript · Mobile-responsive |
+| **Backend** | Supabase (PostgreSQL, Edge Functions, Real-time, Auth) |
+| **Graph Database** | Neo4j (connection analysis) |
+| **Graph API** | Python · FastAPI |
+| **Data Ingestors** | Python (httpx, APScheduler) · Deno (Supabase Edge Functions) |
+| **Data Sources** | Congress.gov, OpenStates, USASpending, Federal Register, FEC, Dallas OpenData |
 | **License** | AGPL-3.0 |
 
 ## Data Sources
 
 | Source | What It Provides | API | Status |
 |--------|-----------------|-----|--------|
-| [Congress.gov](https://api.congress.gov) | Members, bills, votes, committees | ✅ Free (key required) | 🟢 Built |
+| [Congress.gov](https://api.congress.gov) | Members, bills, votes, committees | ✅ Free (key required) | 🟢 Live |
+| [OpenStates](https://openstates.org) | State legislators, bills (all 50 states) | ✅ Free (key required) | 🟢 Live |
+| [USAspending.gov](https://api.usaspending.gov) | Federal contracts, grants | ✅ Free (no key) | 🟢 Live |
+| [Federal Register](https://www.federalregister.gov/developers) | Regulations, executive orders | ✅ Free (no key) | 🟢 Live |
 | [FEC](https://api.open.fec.gov) | Campaign contributions, PAC spending | ✅ Free (key required) | 🟢 Built |
-| [USAspending.gov](https://api.usaspending.gov) | Federal contracts, grants | ✅ Free (no key) | 🟢 Built |
-| [Federal Register](https://www.federalregister.gov/developers) | Regulations, executive orders | ✅ Free (no key) | 🟡 Planned |
 | [Texas Legislature](https://capitol.texas.gov) | TX bills, votes, committees | ⚠️ Scraping required | 🟡 Planned |
 | [TX Ethics Commission](https://www.ethics.state.tx.us) | State campaign finance | ⚠️ Bulk download | 🟡 Planned |
 | [Dallas City Secretary](https://dallascityhall.com) | Council votes, agendas, minutes | ⚠️ Scraping required | 🟡 Planned |
@@ -144,7 +162,7 @@ We're building the first city implementation. The architecture is designed so an
 
 This project needs people who care about civic transparency — not just developers:
 
-🔧 **Developers** — Write ingestors, build the Canvas UI, improve the graph schema
+🔧 **Developers** — Write ingestors, build UI components, improve the graph schema
 📊 **Data people** — Find and document government data sources for your city/state
 🎨 **Designers** — Help make complex government data actually comprehensible
 📝 **Writers** — Documentation, tutorials, data source guides
@@ -154,17 +172,20 @@ This project needs people who care about civic transparency — not just develop
 
 ## Roadmap
 
-- [x] Project architecture and graph schema
-- [x] Base ingestor framework
-- [x] Congress.gov members ingestor
-- [x] Congress.gov bills & votes ingestors
+- [x] React + TypeScript frontend with Objective Canvas
+- [x] Supabase backend with Edge Functions
+- [x] Multi-level representative lookup
+- [x] Congress.gov API integration
+- [x] OpenStates integration (50-state coverage)
+- [x] Federal Register integration
+- [x] USAspending integration
+- [x] Intelligent caching layer
+- [x] Base ingestor framework (Python)
+- [x] Neo4j graph schema + loader
+- [x] FastAPI graph query endpoints
 - [x] FEC campaign finance ingestor
-- [x] USAspending contracts ingestor
-- [x] Neo4j graph loader + schema constraints
-- [x] FastAPI endpoints for graph queries
 - [ ] Dallas City Council scraper
 - [ ] Texas Legislature ingestor
-- [ ] Svelte Canvas (v1 — representative profiles)
 - [ ] Forum layer (comments anchored to graph nodes)
 - [ ] **Your city here** — add ingestors, expand the graph
 

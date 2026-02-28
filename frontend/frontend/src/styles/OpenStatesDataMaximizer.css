@@ -1,0 +1,539 @@
+.openstates-maximizer {
+  padding: 24px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 16px;
+  color: white;
+  margin: 20px 0;
+}
+
+.maximizer-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.maximizer-header h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.maximizer-header p {
+  opacity: 0.9;
+  font-size: 16px;
+}
+
+.data-tabs {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.data-tabs button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 24px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.data-tabs button:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.data-tabs button.active {
+  background: white;
+  color: #764ba2;
+  border-color: white;
+}
+
+.data-content {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  color: #333;
+  min-height: 400px;
+}
+
+/* Legislators Section */
+.legislators-section h3 {
+  color: #764ba2;
+  margin-bottom: 20px;
+  font-size: 24px;
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 10px;
+}
+
+.legislators-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.legislator-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.legislator-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  border-color: #667eea;
+}
+
+.legislator-card img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+
+.legislator-card h4 {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.legislator-card .role {
+  color: #667eea;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.legislator-card .party {
+  color: #666;
+  margin-bottom: 4px;
+}
+
+.legislator-card .district {
+  color: #999;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+
+.contact-info {
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.contact-info a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: white;
+  border-radius: 50%;
+  color: #667eea;
+  transition: all 0.3s ease;
+}
+
+.contact-info a:hover {
+  background: #667eea;
+  color: white;
+  transform: scale(1.1);
+}
+
+/* Bills Section */
+.bills-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 20px;
+}
+
+.bill-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-left: 4px solid #667eea;
+}
+
+.bill-card:hover {
+  transform: translateX(4px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.bill-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.bill-header h4 {
+  color: #667eea;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.session {
+  background: #764ba2;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.bill-title {
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.bill-abstract {
+  color: #666;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.latest-action {
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.latest-action p {
+  margin-bottom: 4px;
+  font-size: 14px;
+}
+
+.action-date {
+  color: #999;
+  font-size: 12px;
+}
+
+.sponsors {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 12px;
+}
+
+.bill-meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+
+.subject-tag {
+  background: #e9ecef;
+  color: #495057;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.view-on-openstates {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: #667eea;
+  font-size: 14px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.view-on-openstates:hover {
+  text-decoration: underline;
+}
+
+/* Votes Section */
+.votes-list {
+  display: grid;
+  gap: 16px;
+}
+
+.vote-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 16px;
+  border-left: 4px solid #667eea;
+}
+
+.vote-card h4 {
+  color: #333;
+  margin-bottom: 12px;
+}
+
+.vote-stats {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+
+.vote-stats span {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.vote-stats .yes {
+  background: #d4edda;
+  color: #155724;
+}
+
+.vote-stats .no {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+.vote-stats .absent {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.vote-stats .abstain {
+  background: #e2e3e5;
+  color: #383d41;
+}
+
+.result {
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.result.pass {
+  color: #28a745;
+}
+
+.result.fail {
+  color: #dc3545;
+}
+
+.vote-date {
+  color: #999;
+  font-size: 14px;
+}
+
+/* Committees Section */
+.committees-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+.committee-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 16px;
+  border-top: 3px solid #667eea;
+}
+
+.committee-card h4 {
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.committee-card .chamber {
+  color: #667eea;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.committee-card .jurisdiction {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.members-count {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #999;
+  font-size: 14px;
+}
+
+/* Events Section */
+.events-list {
+  display: grid;
+  gap: 16px;
+}
+
+.event-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+  border-left: 4px solid #764ba2;
+}
+
+.event-card h4 {
+  color: #333;
+  margin-bottom: 12px;
+  font-size: 18px;
+}
+
+.event-date,
+.location {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #666;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.description {
+  color: #666;
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.agenda {
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+
+.agenda h5 {
+  color: #764ba2;
+  margin-bottom: 8px;
+}
+
+.agenda ul {
+  list-style: none;
+  padding: 0;
+}
+
+.agenda li {
+  padding: 4px 0;
+  color: #666;
+  font-size: 14px;
+}
+
+/* Modal */
+.detail-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  border-radius: 12px;
+  padding: 32px;
+  max-width: 600px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  position: relative;
+}
+
+.modal-content .close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #999;
+}
+
+.modal-content h3 {
+  color: #764ba2;
+  margin-bottom: 24px;
+}
+
+.voting-record h4 {
+  color: #333;
+  margin-bottom: 16px;
+}
+
+.vote-item {
+  background: #f8f9fa;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+/* Loading State */
+.openstates-maximizer.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+}
+
+.loading-spinner {
+  text-align: center;
+}
+
+.loading-spinner .spin {
+  animation: spin 1s linear infinite;
+  width: 48px;
+  height: 48px;
+  margin-bottom: 16px;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Error State */
+.openstates-maximizer.error {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  text-align: center;
+}
+
+.openstates-maximizer.error svg {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 16px;
+  color: #dc3545;
+}
+
+.openstates-maximizer.error button {
+  margin-top: 16px;
+  padding: 12px 24px;
+  background: white;
+  color: #764ba2;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.no-data {
+  text-align: center;
+  color: #999;
+  padding: 40px;
+  font-size: 16px;
+}

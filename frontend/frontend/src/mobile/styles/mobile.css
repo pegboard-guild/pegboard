@@ -1,0 +1,60 @@
+:root { --m-bg:#f7f7fb; --m-card:#fff; --m-text:#111827; --m-muted:#6b7280; --m-border:#e5e7eb; --m-primary:#1d4ed8; }
+.m-shell { display:flex; flex-direction:column; min-height:100vh; background:var(--m-bg); }
+.m-content { flex:1 1 auto; padding-bottom:64px; }
+.d-shell { display:flex; min-height:100vh; background:var(--m-bg); }
+.d-rail { width:76px; border-right:1px solid var(--m-border); background:#fff; }
+.d-rail-inner { padding:8px 6px; display:flex; flex-direction:column; gap:8px; }
+.d-rail-item { background:none; border:none; display:flex; flex-direction:column; align-items:center; gap:6px; color:#6b7280; padding:10px 6px; border-radius:10px; }
+.d-rail-item.active { background:#eef2ff; color:#1e40af; }
+.d-rail-icon { line-height:0; }
+.d-rail-label { font-size:10px; }
+.m-page { padding:12px 12px 80px; }
+.m-top { position:sticky; top:0; background:var(--m-bg); padding:8px 0 12px; z-index:2; }
+.m-top h1 { margin:0 4px 8px; font-size:18px; font-weight:700; }
+.m-chips { display:flex; gap:8px; overflow:auto; padding:0 4px; }
+.m-chip { padding:6px 10px; border-radius:9999px; border:1px solid var(--m-border); background:#fff; color:#374151; font-size:12px; }
+.m-chip.active { background:#dbeafe; color:#1e40af; border-color:#bfdbfe; }
+.m-card { background:var(--m-card); border:1px solid var(--m-border); border-radius:14px; padding:12px; margin:10px 4px; box-shadow:0 1px 2px rgba(0,0,0,.04); }
+.m-card-head { display:flex; justify-content:space-between; align-items:center; margin-bottom:6px; }
+.m-card-tag { font-size:11px; padding:3px 8px; border-radius:9999px; background:#eef2ff; color:#4338ca; }
+.m-card-tag.local { background:#ecfeff; color:#155e75; }
+.m-card-tag.vote { background:#dbeafe; color:#1e40af; }
+.m-card-tag.decision { background:#fef3c7; color:#b45309; }
+.m-card-time { color:var(--m-muted); font-size:11px; }
+.m-card-title { margin:4px 0 8px; font-size:16px; font-weight:700; color:var(--m-text); }
+.m-card-title { display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+.m-card-img-skel { height:140px; border-radius:10px; background:linear-gradient(90deg,#f3f4f6, #e5e7eb, #f3f4f6); background-size:200% 100%; animation:m-skel 1.2s ease-in-out infinite; margin-bottom:8px; }
+.m-card-desc { margin:0 0 8px; color:#374151; font-size:13px; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+.m-card-foot { display:flex; justify-content:space-between; align-items:center; color:#374151; font-size:12px; }
+.m-card-more { background:none; border:none; color:var(--m-primary); display:inline-flex; align-items:center; gap:4px; font-size:12px; }
+.m-card-actions { display:flex; gap:16px; padding-top:8px; color:#374151; }
+.m-act { display:inline-flex; align-items:center; gap:6px; font-size:12px; }
+
+/* ZipControl inline edit */
+.m-zip { background:#fff; border:1px solid var(--m-border); border-radius:10px; padding:6px 10px; display:inline-flex; align-items:center; gap:6px; font-size:12px; }
+.m-zip-edit { background:#fff; border:1px solid var(--m-border); border-radius:10px; padding:4px 8px; display:inline-flex; align-items:center; gap:6px; }
+.m-zip-input { border:none; outline:none; width:64px; font-size:12px; letter-spacing:1px; }
+
+.m-rep-row { display:flex; align-items:center; gap:10px; margin-bottom:6px; }
+.m-avatar { width:36px; height:36px; background:#e5e7eb; border-radius:9999px; }
+.m-rep-meta { display:flex; flex-direction:column; font-size:12px; color:#374151; }
+.m-rep-meta strong { color:var(--m-text); font-size:13px; }
+
+.m-bottom { position:fixed; bottom:0; left:0; right:0; height:56px; background:#fff; border-top:1px solid var(--m-border); display:flex; justify-content:space-around; align-items:center; padding-bottom:env(safe-area-inset-bottom); }
+.m-bottom-item { background:none; border:none; display:flex; flex-direction:column; align-items:center; gap:2px; color:#6b7280; font-size:10px; }
+.m-bottom-item.active { color:var(--m-primary); }
+.m-bottom-icon { line-height:0; }
+.m-bottom-label { font-size:10px; }
+
+.m-placeholder { padding:24px; color:#6b7280; text-align:center; }
+
+/* Status chip variants for state bills */
+.m-card-tag.status-introduced { background:#E6F0FF; color:#0B5FFF; }
+.m-card-tag.status-committee { background:#FFF6E6; color:#A86500; }
+.m-card-tag.status-passed { background:#E7F6EC; color:#087443; }
+.m-card-tag.status-enacted { background:#E5F5FF; color:#0552B5; }
+.m-card-tag.status-vetoed { background:#FDEEEF; color:#B42318; }
+.m-card-tag.status-progress { background:#EEF1F6; color:#4B5563; }
+
+@keyframes m-skel { 0%{ background-position:200% 0 } 100%{ background-position:-200% 0 } }
+

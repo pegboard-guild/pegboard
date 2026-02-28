@@ -1,0 +1,4807 @@
+{
+  "state": "nm",
+  "state_name": "New Mexico",
+  "legislators": [
+    {
+      "id": "ocd-person/be61f240-c0ad-4a98-8ad5-d30f4c5f4a06",
+      "name": "Alan Martinez",
+      "given_name": "Alan",
+      "family_name": "Martinez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "alan.martinez@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HMAAL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMAAL",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Alan_Martinez_(New_Mexico)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alan_Martinez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/alanmartinez"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMAAL"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c4caca3c-faa3-445f-91e0-cce9edd53a5a",
+      "name": "Andi Reeb",
+      "given_name": "Andi",
+      "family_name": "Reeb",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "andrea.reeb@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HREEB.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "64",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HREEB",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://andreareeb.com/meet-andrea"
+        },
+        {
+          "url": "https://ballotpedia.org/Andrea_Reeb"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrea_Reeb"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HREEB"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ed0ba54a-4fc3-4c50-aa0d-f74b1f0e86f6",
+      "name": "Andrea Romero",
+      "given_name": "Andrea",
+      "family_name": "Romero",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "andrea@andrearomero.com",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HROAN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "46",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/andreadromero/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROAN",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Andrea_Romero"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrea_Romero"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180803/andrea-romero"
+        },
+        {
+          "url": "https://www.linkedin.com/in/andreadromero"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROAN"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/948ee9a0-a718-46f1-a1fe-35eb97f01fad",
+      "name": "Angel Charley",
+      "given_name": "Angel",
+      "family_name": "Charley",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "angel.charley@nmlegis.gov",
+      "image": "https://images.squarespace-cdn.com/content/v1/65a92fa05202ee2b13428333/630e642f-dfc6-48c0-930b-c25b16d80e76/Headshot.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCHAR"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Angel_Charley"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCHAR"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ea2a9403-248c-4474-aea0-47b45265e0be",
+      "name": "Angelica Rubio",
+      "given_name": "Angelica",
+      "family_name": "Rubio",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "angelica.rubio@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HRUBI.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2017-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/angelicarubio/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HRUBI",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC2VFQSuJ2XNJylakavA0EMw",
+          "note": "youtube"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Angelica_Rubio"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Angelica_Rubio"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/168321/angelica-rubio"
+        },
+        {
+          "url": "https://www.linkedin.com/in/angelicarubio"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HRUBI"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/75986bbd-3629-4520-a770-f86c46f423ab",
+      "name": "Angelita Mejia",
+      "given_name": "Angelita",
+      "family_name": "Mejia",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "angelita.mejia@nmlegis.gov",
+      "image": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/5/0f/50f20b06-de3c-11ee-8fb3-1b97c5eaf40c/65ec9fd35dc59.image.jpg?resize=457%2C500",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMEAN"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Angelita_Mejia"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMEAN"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ee127909-55b5-4854-b3c6-2e45e19b7156",
+      "name": "Anita Gonzales",
+      "given_name": "Anita",
+      "family_name": "Gonzales",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "anita.gonzales@nmlegis.gov",
+      "image": "https://anita4newmexico.com/wp-content/uploads/2024/02/Anita-ABOUT.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "70",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGOAN"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Anita_Gonzales"
+        },
+        {
+          "url": "https://www.linkedin.com/in/anita-gonzales-1a07a645"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGOAN"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/02d806fd-fb8f-4d66-b9b8-6dacd2bd9656",
+      "name": "Ant Thornton",
+      "given_name": "Ant",
+      "family_name": "Thornton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "anthony.thornton@nmlegis.gov",
+      "image": "https://antthorntonfornm.com/wp-content/uploads/2024/02/Ant-Thornton-768x768.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STHOR"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Anthony_L._Thornton"
+        },
+        {
+          "url": "https://www.linkedin.com/in/anthony-%E2%80%9Cant%E2%80%9D-thornton-25b2347"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STHOR"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3dcac810-1d9b-4a4d-9e82-8b6e49eba735",
+      "name": "Antoinette Sedillo Lopez",
+      "given_name": "Antoinette",
+      "family_name": "Sedillo Lopez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "a.sedillolopez@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSEDI.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/antoinette-sedillo-lopez-ab3a5014/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSEDI",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCbdMb0StJwEM_P5WXsx0w7Q",
+          "note": "youtube"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Antoinette_Sedillo_Lopez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Antoinette_Sedillo_Lopez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/antoinette-sedillo-lopez-ab3a5014"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSEDI"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2913173a-2bfe-4474-8bdc-d145f868c4de",
+      "name": "Moe Maestas",
+      "given_name": "Moe",
+      "family_name": "Maestas",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "antonio.maestas@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SMAEM.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "end_date": "2022-11-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nmlegis.gov/Members/Legislator?SponCode=smaem"
+        },
+        {
+          "url": "https://www.linkedin.com/in/antonio-moe%E2%80%8B-maestas-1262466/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMAES"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SMAEM",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7G5hJOY0O8otO1RpJtszSQ",
+          "note": "youtube"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Antonio_Maestas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Moe_Maestas"
+        },
+        {
+          "url": "https://moejustice.com"
+        },
+        {
+          "url": "https://nmlegis.gov/Members/Legislator?SponCode=smaem"
+        },
+        {
+          "url": "https://www.linkedin.com/in/antonio-moe​-maestas-1262466"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMAES"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SMAEM"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/057c7d79-a168-4b7b-ae96-66cf41e4f115",
+      "name": "Art De La Cruz",
+      "given_name": "Art",
+      "family_name": "De La Cruz",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "art.delacruz@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HDELA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2020-09-09T00:00:00.000Z",
+        "end_date": "2021-01-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDELA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Art_De_La_Cruz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Art_De_La_Cruz"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDELA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/145aba4a-89ba-4c17-b1ec-2f4b568f5048",
+      "name": "Benny Shendo",
+      "given_name": "Benny",
+      "family_name": "Shendo",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "benny.shendo@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSHEN.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2013-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSHEN",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Benny_Shendo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Benny_Shendo"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/102414/benny-shendo-jr"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSHEN"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e0e4fcc9-1e0c-49f8-894d-223c863d61f8",
+      "name": "Bill Hall",
+      "given_name": "Bill",
+      "family_name": "Hall",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.hall@nmlegis.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2024-04-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHABI"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bill_Hall_(New_Mexico)"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHABI"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/05f3609c-c2a6-42fc-bf6a-5141f8050ff8",
+      "name": "Brian Baca",
+      "given_name": "Brian",
+      "family_name": "Baca",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brian.baca@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HBACB.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2022-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBACB",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Baca"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brian_Baca"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brian-baca-03191bb2"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBACB"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/46464f19-1bda-489f-93cf-3772d0445407",
+      "name": "Candy Ezzell",
+      "given_name": "Candy",
+      "family_name": "Ezzell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "csecows@aol.com",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HEZZE.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2005-01-18T00:00:00.000Z",
+        "end_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SEZZE"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Candy_Spence_Ezzell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Candy_Ezzell"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/43577/candy-ezzell"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SEZZE"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/83df260f-2110-4d39-8e19-6a2edc33491d",
+      "name": "Carrie Hamblen",
+      "given_name": "Carrie",
+      "family_name": "Hamblen",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "carrie.hamblen@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SHAMB.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SHAMB",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carrie_Hamblen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carrie_Hamblen"
+        },
+        {
+          "url": "https://hamblennmsenate38.com/about-carrie"
+        },
+        {
+          "url": "https://www.linkedin.com/in/carrie-hamblen-87a4a7b"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SHAMB"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/35f36593-4252-4205-b123-cc7236e96954",
+      "name": "Catherine Cullen",
+      "given_name": "Catherine",
+      "family_name": "Cullen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "catherine.cullen@nmlegis.gov",
+      "image": "https://cullen4nm.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGY3VsbGVuNG5tLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyNCUyRjA3JTJGSU1HXzMyMjguanBnJmNhY2hlTWFya2VyPTE3MzAxNTM0NzYtMTUyNzQyJnRva2VuPTU0MDM0MzcxMmJiYWYyZmY.q.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "57",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCUCA"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Catherine_Cullen"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCUCA"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8b51e39c-5f4c-48dd-affd-b97c6062d87e",
+      "name": "Cathrynn Brown",
+      "given_name": "Cathrynn",
+      "family_name": "Brown",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "c.brown.nm55@gmail.com",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HBROW.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "55",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2011-01-18T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/cathrynnbrown/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBROW",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cathrynn_Brown"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cathrynn_Brown"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/110625/cathrynn-brown"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cathrynnbrown"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBROW"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/052e06cd-7f58-4c3c-8640-be1d8842a19b",
+      "name": "Charlotte Little",
+      "given_name": "Charlotte",
+      "family_name": "Little",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "charlotte.little@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HLITC.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "68",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLITC",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Charlotte_Little"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlotte_Little"
+        },
+        {
+          "url": "https://www.linkedin.com/in/charlotte-little-6709974"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLITC"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6ecab682-9ccf-4777-940d-afa418b601b8",
+      "name": "Chris Chandler",
+      "given_name": "Chris",
+      "family_name": "Chandler",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "christine.chandler@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HCHAN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "43",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/christine-chandler-b567865a/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAN",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCfJsAcQbA02PTqGqjUjzbBA",
+          "note": "youtube"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Christine_Chandler"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christine_Chandler"
+        },
+        {
+          "url": "https://www.linkedin.com/in/christine-chandler-b567865a"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAN"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/631f715e-754c-4410-a967-1e5a928ae971",
+      "name": "Cindy Nava",
+      "given_name": "Cindy",
+      "family_name": "Nava",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cindy.nava@nmlegis.gov",
+      "image": "https://s3.amazonaws.com/cms.ipressroom.com/175/files/20187/5b883c6f2cfac267c6377417_Cindy+Nava+1/Cindy+Nava+1_mid.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SNACI"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cindy_Nava"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cindy_Nava"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cindy-nava-77245b32"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SNACI"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7",
+      "name": "Craig Brandt",
+      "given_name": "Craig",
+      "family_name": "Brandt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "craig.brandt@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SBRAN.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2013-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/craigbrandtnm/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAN",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Craig_Brandt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Craig_Brandt"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/139123/craig-brandt"
+        },
+        {
+          "url": "https://www.linkedin.com/in/craigbrandtnm"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAN"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8819e763-061e-4f30-9828-af635428b41a",
+      "name": "Cristina Parajón",
+      "given_name": "Cristina",
+      "family_name": "Parajón",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cristina.parajon@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HPARA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-08-18T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HPARA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cristina_Paraj%C3%B3n"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cristina_Paraj%C3%B3n"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cristina-paraj%C3%B3n-8a2ab1146"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HPARA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1ed6a003-54c1-4da3-b297-0cec8ddf4882",
+      "name": "Crystal Brantley",
+      "given_name": "Crystal",
+      "family_name": "Brantley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "crystal.diamond@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SDIAM.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAC"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SDIAM",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Crystal_Diamond_Brantley"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Crystal_Diamond"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAC"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SDIAM"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2e2ecadf-7236-48c5-8145-e7fea6fcd393",
+      "name": "Cynthia Borrego",
+      "given_name": "Cynthia",
+      "family_name": "Borrego",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cynthia.borrego@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HBORR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBORR",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cynthia_Borrego"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cynthia_Borrego"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cynthia-d-borrego-899bb732"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBORR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/69fcccf7-9cfb-4c8f-978a-c85fbd55922d",
+      "name": "Wonda Johnson",
+      "given_name": "Wonda",
+      "family_name": "Johnson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "dwonda.johnson@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HJOHD.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2015-01-20T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HJOHD",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/D._Wonda_Johnson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doreen_Wonda_Johnson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/d-wanda-johnson-b4806211"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HJOHD"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9d5296b7-b8b1-40c8-a8ce-246f719b8ff0",
+      "name": "David Gallegos",
+      "given_name": "David",
+      "family_name": "Gallegos",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "david@ramirezandsonsinc.com",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SGADM.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "61",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "end_date": "2020-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/david-gallegos-02427756/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGADV"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SGADM",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_M._Gallegos"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Gallegos"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/139056/david-gallegos"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-gallegos-02427756"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGADV"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SGADM"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/124f1c82-12f1-45ab-b21e-67cc4a529d18",
+      "name": "Day Hochman-Vigil",
+      "given_name": "Day",
+      "family_name": "Hochman-Vigil",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "dayan.hochman-vigil@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HHOCH.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/day-hochman-vigil-3536a036/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHOCH",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dayan_Hochman-Vigil"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dayan_Hochman-Vigil"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180778/day-hochman-vigil"
+        },
+        {
+          "url": "https://www.linkedin.com/in/day-hochman-vigil-3536a036"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHOCH"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e347c564-d1f5-4fb8-a24d-47218fa754e7",
+      "name": "Debbie O'Malley",
+      "given_name": "Debbie",
+      "family_name": "O'Malley",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "debbie.o'malley@nmlegis.gov",
+      "image": "https://www.naco.org/sites/default/files/styles/349x333/public/PIC_OMalley%2C%20Debbie.webp",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SOMAL"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Debbie_O%27Malley"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SOMAL"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8cb27ec7-dc78-49b1-bc3f-18ad2beb76b6",
+      "name": "Debbie Sariñana",
+      "given_name": "Debbie",
+      "family_name": "Sariñana",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "debbie.sarinana@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HSARI.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2017-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/debra-sarinana-05a362141/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSARI",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Debra_Marie_Sarinana"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Debra_M._Sari%C3%B1ana"
+        },
+        {
+          "url": "https://www.linkedin.com/in/debra-sarinana-05a362141"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSARI"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0421351b-6a8c-4731-bf93-5029d6b4feab",
+      "name": "Derrick Lente",
+      "given_name": "Derrick",
+      "family_name": "Lente",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "derrick.lente@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HLENT.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "65",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2017-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLENT",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Derrick_J._Lente"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Derrick_Lente"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLENT"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c8e6de13-632b-4e09-8d1f-ff8ab2431acc",
+      "name": "Diane Torres-Velásquez",
+      "given_name": "Diane",
+      "family_name": "Torres-Velásquez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "diane.torres-velasquez@nmlegis.gov",
+      "image": "https://static.wixstatic.com/media/4db618_2eb9e70e0469459fa20a1b6a172d7f67~mv2.jpg/v1/fill/w_200,h_200,fp_0.47_0.36,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image000000.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTOLE"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elizabeth_Torres-Velasquez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/diane-torres-velasquez-48a3702b"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTOLE"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6563f869-64f5-42fb-9707-263fee6f59dc",
+      "name": "Doreen Gallegos",
+      "given_name": "Doreen",
+      "family_name": "Gallegos",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "doreen.gallegos@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HGADO.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "52",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2013-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGADO",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Doreen_Y._Gallegos"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doreen_Gallegos"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/139044/doreen-gallegos"
+        },
+        {
+          "url": "https://www.linkedin.com/in/doreen-gallegos-a3423b43"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGADO"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/810e1619-ebae-4139-be1e-778e252a09b0",
+      "name": "Elaine Sena Cortez",
+      "given_name": "Elaine",
+      "family_name": "Sena Cortez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "elaine.senacortez@nmlegis.gov",
+      "image": "https://images.squarespace-cdn.com/content/v1/6101dbe38853cb26aaf1d169/482eeab7-b7c0-4dfc-bc83-1b4ecc0e66b4/945A8275-Edit.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "62",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSEEL"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elaine_Sena_Cortez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dr-elaine-sena-cortez-117b37211"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSEEL"
+        },
+        {
+          "url": "https://www.senacortez.com"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/19ad7971-bfe4-49e2-bc0f-c5416df1f241",
+      "name": "Eleanor Chávez",
+      "given_name": "Eleanor",
+      "family_name": "Chávez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "eleanor.chavez@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HCHAL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAL",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HCHAL"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eleanor_Chavez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eleanor_Chavez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/eleanor-chavez-08378a12"
+        },
+        {
+          "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HCHAL"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAL"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1ed4e059-94c6-4404-b28e-0dc572112d03",
+      "name": "Liz Stefanics",
+      "given_name": "Liz",
+      "family_name": "Stefanics",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lstefanics@msn.com",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEF.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2017-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/liz-stefanics-140488151/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEF",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Liz_Stefanics"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Liz_Stefanics"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/11985/elizabeth-stefanics"
+        },
+        {
+          "url": "https://www.linkedin.com/in/liz-stefanics-0487b56"
+        },
+        {
+          "url": "https://www.linkedin.com/in/liz-stefanics-140488151"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEF"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/13ad8eb1-a64f-4a08-8c68-a1488466128f",
+      "name": "Liz Thomson",
+      "given_name": "Liz",
+      "family_name": "Thomson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "liz.thomson@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HTHOE.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTHOE",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elizabeth_L._Thomson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_Thomson_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/138977/elizabeth-thomson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/liz-thomson-47a97a25"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTHOE"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5cf6976d-e616-4579-a194-ec3c37260ebd",
+      "name": "Andrés Romero",
+      "given_name": "Andrés",
+      "family_name": "Romero",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "andres.romero@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HROMA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2015-01-20T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROMA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/G._Andres_Romero"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/G._Andr%C3%A9s_Romero"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/150987/andres-romero"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROMA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6677ca7f-f961-44f1-a241-d14280762f5d",
+      "name": "Gabriel Ramos",
+      "given_name": "Gabriel",
+      "family_name": "Ramos",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gabriel.ramos@nmlegis.gov",
+      "image": "http://www.nmlegis.gov/Images/Legislators/Senate/SRAMO.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "end_date": "2020-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/gabriel-ramos-a5aa74109/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SRAMO"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gabriel_Ramos"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gabriel_Ramos_(politician)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gabriel-ramos-0a767457"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SRAMO"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9564298b-dc55-4037-8205-5eca1c2063dc",
+      "name": "Gail Armstrong",
+      "given_name": "Gail",
+      "family_name": "Armstrong",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gail@gailfornewmexico.com",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HARMG.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "49",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2017-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HARMG",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gail_Armstrong"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gail_Armstrong_(politician)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gail-armstrong-03029b63"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HARMG"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b4c20aea-b56c-4a19-a89a-788c53d995d7",
+      "name": "George Muñoz",
+      "given_name": "George",
+      "family_name": "Muñoz",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "george.munoz@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SMUNO.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2009-01-20T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SMUNO",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/George_Munoz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Mu%C3%B1oz_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/103938/george-munoz"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SMUNO"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e7e8e973-411b-45fd-8fd7-7e4ea7d9f1be",
+      "name": "Harlan Vincent",
+      "given_name": "Harlan",
+      "family_name": "Vincent",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "harlan.vincent@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HVINC.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "56",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HVINC",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Harlan_Vincent"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Harlan_Vincent"
+        },
+        {
+          "url": "https://harlanvincentfornm.com/about.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/harlan-vincent-01357ba7"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HVINC"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/713e2881-4ecb-4d66-9bd3-6422c898df91",
+      "name": "Harold Pope",
+      "given_name": "Harold",
+      "family_name": "Pope",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "harold.popejr@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPOPE.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPOPE",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Harold_Pope_Jr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Harold_Pope_Jr."
+        },
+        {
+          "url": "https://www.linkedin.com/in/harold-pope-jr-53351321"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPOPE"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e5d44d75-76df-41fc-87ae-27bc4c943d50",
+      "name": "Heather Berghmans",
+      "given_name": "Heather",
+      "family_name": "Berghmans",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "heather.berghmans@nmlegis.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/HeatherBerghmans24.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBERG"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Heather_Berghmans"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Heather_Berghmans"
+        },
+        {
+          "url": "https://www.linkedin.com/in/hberghmans"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBERG"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c41b373a-7376-4084-b0de-3648cfce9b05",
+      "name": "Jack Chatfield",
+      "given_name": "Jack",
+      "family_name": "Chatfield",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jack.chatfield@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HCHAT.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "67",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAT",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jackey_Chatfield"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jack_Chatfield"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180816/jack-chatfield"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAT"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/667a8a3c-dbe9-4aba-b768-e90be503df88",
+      "name": "Jim Townsend",
+      "given_name": "Jim",
+      "family_name": "Townsend",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "townsend@pvtn.net",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HTOWJ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "54",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2015-01-20T00:00:00.000Z",
+        "end_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/jim-townsend-5897b633/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTOWJ",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STOWJ"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/James_Townsend_(New_Mexico)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_G._Townsend"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/168398/jim-townsend"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jim-townsend-5897b633"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTOWJ"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STOWJ"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bc8985ad-c6e6-42cd-b2d5-30688e4616a1",
+      "name": "Janelle Anyanonu",
+      "given_name": "Janelle",
+      "family_name": "Anyanonu",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "janelle.anyanonu@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HANYA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HANYA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Janelle_Anyanonu"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Janelle_Anyanonu"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HANYA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/221a42af-f54f-4e66-b648-9b0028165595",
+      "name": "Javier Martínez",
+      "given_name": "Javier",
+      "family_name": "Martínez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "javier.martinez@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HMARJ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2015-01-20T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMARJ",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Javier_I._Martinez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Javier_Mart%C3%ADnez_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/150977/javier-martinez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/javier-mart%C3%ADnez-719283145"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMARJ"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ee5fab91-b6eb-43be-bf26-300302eec5d1",
+      "name": "Jay Block",
+      "given_name": "Jay",
+      "family_name": "Block",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jay.block@nmlegis.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jay_Block.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBLOC"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jay_Block"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jay-block-lt-col-usaf-retired-35159589"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBLOC"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/601202fc-f916-4be1-ae20-8c437293817e",
+      "name": "Jeff Steinborn",
+      "given_name": "Jeff",
+      "family_name": "Steinborn",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jeff.steinborn@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEI.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/jeff-steinborn-57879346/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEI",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeff_Steinborn"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeff_Steinborn"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeff-steinborn-57879346"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEI"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6968fa09-cbf8-42a5-a5a6-132b0b663103",
+      "name": "Jenifer Jones",
+      "given_name": "Jenifer",
+      "family_name": "Jones",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jenifer.jones@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HJONJ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HJONJ",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jenifer_Jones"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jenifer_Jones"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jenifer-m-jones-91278026b"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HJONJ"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d92a32b1-e3ef-43d7-8e63-c24e59c52b3d",
+      "name": "Jimmy Mason",
+      "given_name": "Jimmy",
+      "family_name": "Mason",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jimmy.mason@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HMASO.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "66",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMASO",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jimmy_Mason"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jimmy_Mason_(politician)"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMASO"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
+      "name": "Joanne Ferrary",
+      "given_name": "Joanne",
+      "family_name": "Ferrary",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "joanne.ferrary@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HFERJ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2017-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HFERJ",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joanne_J._Ferrary"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joanne_Ferrary"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/139018/joanne-ferrary"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joanne-ferrary-74a6b559"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HFERJ"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fd2e3bdc-3ca7-495c-b853-8a4db020e4d0",
+      "name": "John Block",
+      "given_name": "John",
+      "family_name": "Block",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.block@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HBLOC.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBLOC",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Block"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Block_(New_Mexico_politician)"
+        },
+        {
+          "url": "https://pinonpost.com/about"
+        },
+        {
+          "url": "https://www.linkedin.com/in/johnfornm"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBLOC"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3c29303f-1a07-4767-9172-b7f453918d77",
+      "name": "Jon Henry",
+      "given_name": "Jon",
+      "family_name": "Henry",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jonathan.henry@nmlegis.gov",
+      "image": "https://assets.civicengine.com/uploads/candidate/headshot/810348/810348.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "54",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHENR"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jonathan_Henry"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHENR"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b",
+      "name": "Joe Cervantes",
+      "given_name": "Joe",
+      "family_name": "Cervantes",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "joseph.cervantes@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SCERV.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2013-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCERV",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joseph_Cervantes"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Cervantes"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/55143/joe-cervantes"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joseph-cervantes-82846821"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCERV"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/854e0c8a-0093-4282-8544-8d20bafde8f6",
+      "name": "Joseph Hernandez",
+      "given_name": "Joseph",
+      "family_name": "Hernandez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "joseph.hernandez@nmlegis.gov",
+      "image": "https://progressivevotersguide.com/sites/default/files/styles/candidate/public/new%20mexico/2024/general/Joseph%20H.jpg?itok=DRcr52HE",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHEJO"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joseph_Hernandez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joseph-hernandez-877761117"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHEJO"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0ed175a3-3c71-4b42-bf53-9435d0f93f52",
+      "name": "Joseph Sanchez",
+      "given_name": "Joseph",
+      "family_name": "Sanchez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "joseph.sanchez@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HSAJO.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSAJO",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCxxw8xKzoQkJ-VwbfgeXz5g",
+          "note": "youtube"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joseph_Sanchez_(New_Mexico)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_L._Sanchez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joseph-sanchez-p-e-ba981141"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSAJO"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/82528266-9d6a-4fb3-854e-be9ab6a549b7",
+      "name": "Joshua Sanchez",
+      "given_name": "Joshua",
+      "family_name": "Sanchez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jas4nm@gmail.com",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSANJ.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-01T00:00:00.000Z",
+        "end_date": "2024-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSANJ",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joshua_A._Sanchez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joshua_A._Sanchez"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/191188/joshua-sanchez"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSANJ"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/71b8feb5-0bbd-45bd-9b25-c6dc7642962b",
+      "name": "Josh Hernandez",
+      "given_name": "Josh",
+      "family_name": "Hernandez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "joshua.hernandez@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HHERN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "60",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHERN",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joshua_Hernandez_(New_Mexico)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joshua_Hernandez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dapengi"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHERN"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/930a9ffb-d292-49d5-8c43-c42bdab290ff",
+      "name": "Joy Garratt",
+      "given_name": "Joy",
+      "family_name": "Garratt",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "joy.garratt@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HGARR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/joygarratt/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGARR",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joy_I._Garratt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joy_Garratt"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/168124/joy-garratt"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joygarratt"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGARR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/73fc9839-619a-4ad5-bbbd-dfaf7f308e09",
+      "name": "Kathleen Cates",
+      "given_name": "Kathleen",
+      "family_name": "Cates",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "kathleen.cates@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HCATE.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "44",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCATE",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kathleen_Cates"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kathleen_Cates"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kathleen-holmes-cates-b179831ab"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCATE"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cce76180-bf09-413a-9d9d-1cc8ae7cf2db",
+      "name": "Katy Duhigg",
+      "given_name": "Katy",
+      "family_name": "Duhigg",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "katy.duhigg@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SDUHI.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SDUHI",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Katy_Duhigg"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Katy_Duhigg"
+        },
+        {
+          "url": "https://sutinfirm.com/lawyers/katy-m-duhigg"
+        },
+        {
+          "url": "https://www.linkedin.com/in/katyduhigg"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SDUHI"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0dd8a8ff-99c5-4d1a-90fb-3b74398a4141",
+      "name": "Kristina Ortez",
+      "given_name": "Kristina",
+      "family_name": "Ortez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "kristina.ortez@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HORTE.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HORTE",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kristina_Ortez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kristina_Ortez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kristina-ortez-703b3b43"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HORTE"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/febbd8f4-a85e-476c-b96f-52f4f759f8c7",
+      "name": "Larry Scott",
+      "given_name": "Larry",
+      "family_name": "Scott",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "larry.scott@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HSCOT.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "62",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2015-01-20T00:00:00.000Z",
+        "end_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSCOT",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSCOL"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Larry_Scott"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_R._Scott"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/150991/larry-scott"
+        },
+        {
+          "url": "https://www.linkedin.com/in/larry-scott-9a94703b"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSCOT"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSCOL"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9b0d6912-d333-4ae7-b626-ce643099a43d",
+      "name": "Leo Jaramillo",
+      "given_name": "Leo",
+      "family_name": "Jaramillo",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "leo.jaramillo@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SJARA.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2020-12-29T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SJARA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Leo_Jaramillo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Leo_Jaramillo"
+        },
+        {
+          "url": "https://www.linkedin.com/in/leo-jaramillo-586963186"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SJARA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ecc60fc8-8598-4650-8a55-6e91d24e991e",
+      "name": "Linda López",
+      "given_name": "Linda",
+      "family_name": "López",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "linda.lopez@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SLOPE.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "1997-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/linda-lopez-018b9111/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SLOPE",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Linda_Lopez,_New_Mexico_Senator"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Linda_M._Lopez"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/10302/linda-lopez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/linda-lopez-018b9111"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SLOPE"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4cbcf352-3f7a-412d-afc6-568dc4b94400",
+      "name": "Linda Trujillo",
+      "given_name": "Linda",
+      "family_name": "Trujillo",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "linda.trujillo@nmlegis.gov",
+      "image": "http://www.nmlegis.gov/Images/Legislators/House/HTRUL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "end_date": "2020-07-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTRUL"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STRUL"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Linda_Trujillo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Linda_Trujillo"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/168393/linda-trujillo"
+        },
+        {
+          "url": "https://www.linkedin.com/in/linda-trujillo-606472240"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTRUL"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STRUL"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/570bb94a-0500-44de-8983-ca259e0d4a60",
+      "name": "Linda Serrato",
+      "given_name": "Linda",
+      "family_name": "Serrato",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "linda.serrato@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HSERR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2020-10-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSERR",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Linda_Serrato"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Linda_Serrato"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lindaserratoybarra"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSERR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6f02eec7-0afe-4f15-ad56-653148da00c0",
+      "name": "Luis Terrazas",
+      "given_name": "Luis",
+      "family_name": "Terrazas",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "luis.terrazas@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HTERR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTERR",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Luis_Terrazas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Luis_Terrazas_(politician)"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTERR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c2fb0283-189c-4b0c-9d99-7b70d2f62c40",
+      "name": "Marian Matthews",
+      "given_name": "Marian",
+      "family_name": "Matthews",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "marian.matthews@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HMATT.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2020-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/marianmatthews/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMATT",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marian_Matthews"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marian_Matthews"
+        },
+        {
+          "url": "https://www.linkedin.com/in/marianmatthews"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMATT"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bc194113-8c8a-4cba-b1f4-25269c72a9fd",
+      "name": "Marianna Anaya",
+      "given_name": "Marianna",
+      "family_name": "Anaya",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "marianna.anaya@nmlegis.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MariannaAnaya.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HANMA"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marianna_Anaya"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marianna_Anaya"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mariannaanaya"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HANMA"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/aa8f331c-d541-4acd-b025-e218e01764e2",
+      "name": "Mark Duncan",
+      "given_name": "Mark",
+      "family_name": "Duncan",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mark.duncan@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HDUNC.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDUNC",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Duncan_(New_Mexico)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_Duncan_(politician)"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDUNC"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/406c0ab4-c372-42bc-ba14-77181dc7c418",
+      "name": "Mark Murphy",
+      "given_name": "Mark",
+      "family_name": "Murphy",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mark.murphy@nmlegis.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "59",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMURP"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Murphy_(New_Mexico)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mark-murphy-909b7135"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMURP"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fb0443f9-b6d7-4b3b-a87e-0d8b143ed64b",
+      "name": "Martha Garcia",
+      "given_name": "Martha",
+      "family_name": "Garcia",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "martha.garcia@nmlegis.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-02-27T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HGAMA"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Martha_Garcia_(New_Mexico)"
+        },
+        {
+          "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HGAMA"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/88fd357f-3fb1-4c2b-b49b-555231011c46",
+      "name": "Martin Hickey",
+      "given_name": "Martin",
+      "family_name": "Hickey",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "martin.hickey@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SHICK.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SHICK",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Martin_Hickey"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Martin_Hickey"
+        },
+        {
+          "url": "https://www.linkedin.com/in/martin-hickey-ab64894b"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SHICK"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dc968f82-503e-4246-9124-b880fd6ae3ae",
+      "name": "Martin Zamora",
+      "given_name": "Martin",
+      "family_name": "Zamora",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "martin.zamora@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HZAMO.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "63",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HZAMO",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Martin_Ruben_Zamora"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Martin_R._Zamora"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180813/martin-zamora"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HZAMO"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e3affc46-1790-48ba-ae36-5c00473d6c35",
+      "name": "Matthew McQueen",
+      "given_name": "Matthew",
+      "family_name": "McQueen",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "matthew.mcqueen@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HMCQU.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "50",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2015-01-20T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/matthew-mcqueen-86a8322/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMCQU",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matthew_McQueen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Matthew_McQueen_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/150981/matthew-mcqueen"
+        },
+        {
+          "url": "https://www.linkedin.com/in/matthew-mcqueen-86a8322"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMCQU"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ac49b3cf-9fb8-4fa1-af55-4b35a6570c87",
+      "name": "Meredith Dixon",
+      "given_name": "Meredith",
+      "family_name": "Dixon",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "meredith.dixon@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HDIXO.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDIXO",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Meredith_Dixon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Meredith_Dixon"
+        },
+        {
+          "url": "https://www.linkedin.com/in/meredith-dixon-230b834"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDIXO"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5b9af862-0f9f-42b2-a694-f80055129d6c",
+      "name": "Micaela Cadena",
+      "given_name": "Micaela",
+      "family_name": "Cadena",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "micaela.cadena@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HCADA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/micaela-cadena-95541a183/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCADA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Micaela_Lara_Cadena"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Micaela_Lara_Cadena"
+        },
+        {
+          "url": "https://www.linkedin.com/in/micaela-lara-cadena-95541a183"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCADA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ce888eff-62f5-41c0-9114-651c43f77aba",
+      "name": "Michael Padilla",
+      "given_name": "Michael",
+      "family_name": "Padilla",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "michael.padilla@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPADI.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2013-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/michaelpadilla1/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPADI",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Padilla_(New_Mexico)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Padilla"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/103955/michael-padilla"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michaelpadilla1"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPADI"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3363aa83-2490-4631-b04b-9a52fdbad14b",
+      "name": "Miguel García",
+      "given_name": "Miguel",
+      "family_name": "García",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "miguel.garcia@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HGAMP.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "1997-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGAMP",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Miguel_Garcia_(New_Mexico)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Miguel_Garcia_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/12346/miguel-garcia"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGAMP"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f1144347-0a16-43e4-97b9-01308a890631",
+      "name": "Mimi Stewart",
+      "given_name": "Mimi",
+      "family_name": "Stewart",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mimi.stewart@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEW.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEW",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mimi_Stewart"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mimi_Stewart"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/8357/mimi-stewart"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEW"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/48969449-b004-4ca3-a72b-8508e95e0051",
+      "name": "Natalie Figueroa",
+      "given_name": "Natalie",
+      "family_name": "Figueroa",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "natalie.figueroa@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HFIGU.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z",
+        "end_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/natalie-figueroa-150a0670/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HFIGU",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SFIGU"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Natalie_R._Figueroa"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Natalie_Figueroa_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/168298/natalie-figueroa"
+        },
+        {
+          "url": "https://www.linkedin.com/in/natalie-figueroa-150a0670"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HFIGU"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SFIGU"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/57440e55-06ad-4f1f-8aa5-3bdd31a805dd",
+      "name": "Nathan Small",
+      "given_name": "Nathan",
+      "family_name": "Small",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "nathan.small@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HSMAL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2017-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/nathan-small-20685816/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSMAL",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nathan_P._Small"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nathan_Small"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nathan-small-20685816"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSMAL"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/64c876a4-6685-4bc9-b2a7-415dec197d02",
+      "name": "Nick Paul",
+      "given_name": "Nick",
+      "family_name": "Paul",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "nicholas.paul@nmlegis.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Nicholas_Paul_20241023_120017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPAUL"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nicholas_Paul"
+        },
+        {
+          "url": "https://www.linkedin.com/in/storageinvestornick"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPAUL"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f2ed2dd1-ba2d-48cd-8365-cbb149b459e9",
+      "name": "Nicole Chavez",
+      "given_name": "Nicole",
+      "family_name": "Chavez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "nicole.chavez@nmlegis.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/NicoleChavez.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHNI"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nicole_Chavez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nicole-chavez-a490a8a"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHNI"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/daefbf8d-768f-4dab-8f4f-0a272e2cb697",
+      "name": "Nicole Tobiassen",
+      "given_name": "Nicole",
+      "family_name": "Tobiassen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "nicole.tobiassen@nmlegis.gov",
+      "image": "https://nicolefornm.com/wp-content/uploads/2023/06/Nicole-Tobiassen-Headshot-3-768x512.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STOBI"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nicole_Tobiassen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nicole_Tobiassen"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STOBI"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/800d2a2e-1622-4ab2-b290-3c537b38bdf8",
+      "name": "Pamelya Herndon",
+      "given_name": "Pamelya",
+      "family_name": "Herndon",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "pamelya.herndon@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HHEPA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-06-22T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHEPA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Pamelya_Herndon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pamelya_Herndon"
+        },
+        {
+          "url": "https://www.linkedin.com/in/pamelya-herndon-4055929"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHEPA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4093c9b8-d07a-4a12-b13b-abbd4130b1fe",
+      "name": "Pat Boone",
+      "given_name": "Pat",
+      "family_name": "Boone",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "pat.boone@nmlegis.gov",
+      "image": "https://senatorpatboone.com/wp-content/uploads/2024/03/Pat-Boone-Photo-1.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBOON"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patrick_Boone_IV"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBOON"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6a28626b-9919-4d77-9b62-44ad1d45215d",
+      "name": "Pat Woods",
+      "given_name": "Pat",
+      "family_name": "Woods",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "pat.woods@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SWOOD.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2012-10-25T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/pat-woods-abb44b46/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWOOD",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Pat_Woods"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pat_Woods_(politician)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/pat-woods-abb44b46"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWOOD"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/94eed261-74bb-4f8b-a0ab-62b2a7ff8e98",
+      "name": "Patty Lundstrom",
+      "given_name": "Patty",
+      "family_name": "Lundstrom",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "patricia.lundstrom@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HLUND.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2003-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/patty-lundstrom-a47ba450/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLUND",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patricia_Lundstrom"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patricia_Lundstrom"
+        },
+        {
+          "url": "https://www.linkedin.com/in/patty-lundstrom-a47ba450"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLUND"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/20dc90cf-7805-4609-8631-45db1973cd5c",
+      "name": "Pat Roybal Caballero",
+      "given_name": "Pat",
+      "family_name": "Roybal Caballero",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "pat.roybalcaballero@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HROYB.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2013-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/patricia-roybal-caballero-2007b135/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROYB",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patricia_A._Roybal_Caballero"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patricia_Roybal_Caballero"
+        },
+        {
+          "url": "https://www.linkedin.com/in/patricia-roybal-caballero-2007b135"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROYB"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8cc272e5-bf6a-441e-9b0a-407ed6361afa",
+      "name": "Paulene Abeyta",
+      "given_name": "Paulene",
+      "family_name": "Abeyta",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "michelle.abeyta@nmlegis.gov",
+      "image": "https://womencount.org/wp-content/uploads/2024/03/Michelle-Paulene-Abeyta-300x300.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "69",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HABMI"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michelle_Abeyta"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michelle-paulene-abeyta-8265b8173"
+        },
+        {
+          "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HABMI"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e2f7dd70-36fc-4b65-8dfd-19fcc1d63e38",
+      "name": "Pete Campos",
+      "given_name": "Pete",
+      "family_name": "Campos",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "pete.campos@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SCAMP.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "1991-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://petecampos.com"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCAMP",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Pete_Campos"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pete_Campos"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/5789/pete-campos"
+        },
+        {
+          "url": "https://petecampos.com"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCAMP"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7595b557-0c70-44e3-a26b-af533d1ca94d",
+      "name": "Peter Wirth",
+      "given_name": "Peter",
+      "family_name": "Wirth",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "peter.wirth@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SWIRT.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2009-01-20T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRT",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Peter_Wirth"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Wirth_(politician)"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRT"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a36bdc41-5666-4208-b8f0-8d9012d31f22",
+      "name": "Randy Pettigrew",
+      "given_name": "Randy",
+      "family_name": "Pettigrew",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "randall.pettigrew@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HPETT.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "61",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HPETT",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Randall_Pettigrew"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Randall_Pettigrew"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/191485/randall-pettigrew"
+        },
+        {
+          "url": "https://www.linkedin.com/in/randall-t-pettigrew-pe-27133336"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HPETT"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e8d69d4c-dfd4-4e22-939a-cc356ba7ac05",
+      "name": "Ray Lara",
+      "given_name": "Ray",
+      "family_name": "Lara",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "raymundo.lara@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HLARA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLARA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Raymundo_Lara"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Raymundo_Lara"
+        },
+        {
+          "url": "https://www.linkedin.com/in/raymundo-lara-1217b989"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLARA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2904a9a3-7e21-4c6f-b40a-e79288ca1b49",
+      "name": "Rebecca Dow",
+      "given_name": "Rebecca",
+      "family_name": "Dow",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rebecca.dow@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HDOWR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "end_date": "2022-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/rebecca-dow-43670a15/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Former_Legislator?SponCode=HDOWR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDOWR",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rebecca_L._Dow"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Dow"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/168388/rebecca-dow"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rebecca-dow-43670a15"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Former_Legislator?SponCode=HDOWR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDOWR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0b7d9451-0462-4064-b28e-6d44123edd1e",
+      "name": "Reena Szczepanski",
+      "given_name": "Reena",
+      "family_name": "Szczepanski",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "reena.szczepanski@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HSZCZ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSCZE",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSZCZ",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Reena_Szczepanski"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Reena_Szczepanski"
+        },
+        {
+          "url": "https://www.linkedin.com/in/reenaszcz"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSCZE"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSZCZ"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5e9a828c-3dfb-4f88-8dfe-f8fccf11ef78",
+      "name": "Bobby Gonzales",
+      "given_name": "Bobby",
+      "family_name": "Gonzales",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "roberto.gonzales@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SGONZ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "end_date": "2019-12-20T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Roberto_Gonzales"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Roberto_Gonzales"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/5837/roberto-gonzales"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/948ba2f7-fd71-42ed-a35a-e692b76d2ca2",
+      "name": "Rod Montoya",
+      "given_name": "Rod",
+      "family_name": "Montoya",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "roddmontoya@gmail.com",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HMONR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2015-01-20T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMONR",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rodney_Montoya"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rod_Montoya"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/150983/rod-montoya"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMONR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a9377979-b109-4e11-b338-89b203c04527",
+      "name": "Sarah Silva",
+      "given_name": "Sarah",
+      "family_name": "Silva",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sarah.silva@nmlegis.gov",
+      "image": "https://images.squarespace-cdn.com/content/v1/66d0e643284c6d63d067a073/8916e12c-d13c-49fb-810a-2c7ffb58d300/SilvaSarah.JPG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "53",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSISA"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sarah_Silva"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sarah-silva-36369527"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSISA"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fa98430a-5031-4c64-bd6d-8a6f0cc4043e",
+      "name": "Shannon Pinto",
+      "given_name": "Shannon",
+      "family_name": "Pinto",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "shannon.pinto@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SPINS.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-07-23T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPINS",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shannon_Pinto"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shannon_Pinto"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPINS"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/eef5df5d-b9da-4ac3-9a3e-7f6ba775e6d7",
+      "name": "Stefani Lord",
+      "given_name": "Stefani",
+      "family_name": "Lord",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stefani.lord@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HLORD.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2021-01-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLORD",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stefani_Lord"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stefani_Lord"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLORD"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/82ac8832-cb59-4ea3-b6e7-a74e2115f37d",
+      "name": "Steve Lanier",
+      "given_name": "Steve",
+      "family_name": "Lanier",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steve.lanier@nmlegis.gov",
+      "image": "https://www.naco.org/sites/default/files/styles/349x333/public/Steve%20Lanier.webp",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SLANI"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Lanier"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_D._Lanier"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215387/steve-lanier"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SLANI"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d5d0e9d9-bd6f-4f28-9a3f-13a56cadcc0f",
+      "name": "Susan Herrera",
+      "given_name": "Susan",
+      "family_name": "Herrera",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "susan.herrera@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HHERS.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "41",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2019-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/susan-herrera-62757815/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHERS",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Susan_Herrera"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Susan_K._Herrera"
+        },
+        {
+          "url": "https://www.linkedin.com/in/susan-herrera-62757815"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHERS"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f2394325-2797-4403-8f77-7f4dd3db0bb9",
+      "name": "Tanya Moya",
+      "given_name": "Tanya",
+      "family_name": "Moya",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tanya.mirabalmoya@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HMIRA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMIRA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tanya_Mirabal_Moya"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tanya_Mirabal_Moya"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMIRA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a564eb5c-5c29-43ef-a40f-241efb70ef8d",
+      "name": "Tara Luján",
+      "given_name": "Tara",
+      "family_name": "Luján",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "tara.lujan@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HLUTA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2020-07-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLUTA",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tara_Lujan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tara_Lujan"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tara-lujan-142531258"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLUTA"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7a7be318-78b1-49c6-bd98-f2b9b7476372",
+      "name": "Bill Sharer",
+      "given_name": "Bill",
+      "family_name": "Sharer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill@williamsharer.com",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSHAR.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2001-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.linkedin.com/in/william-sharer-71248033/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSHAR",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/William_Sharer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Sharer"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/43442/bill-sharer"
+        },
+        {
+          "url": "https://www.linkedin.com/in/william-sharer-71248033"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSHAR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/33aa9a6b-b106-4216-8ea5-82d85cd2250a",
+      "name": "Bill Soules",
+      "given_name": "Bill",
+      "family_name": "Soules",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "bill.soules@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/Senate/SSOUL.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2013-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSOUL",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/William_P._Soules"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Soules"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/139118/bill-soules"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bill-soules-76792b7a"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSOUL"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bc947ac1-c584-4e5f-84a9-ea9f6ac959c6",
+      "name": "Yanira Gurrola",
+      "given_name": "Yanira",
+      "family_name": "Gurrola",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "yanira.gurrola@nmlegis.gov",
+      "image": "https://www.nmlegis.gov/Images/Legislators/House/HGURR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nm/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGURR",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HGURR"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Yanira_Gurrola_Valenzuela"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Yanira_Gurrola"
+        },
+        {
+          "url": "https://www.linkedin.com/in/yanira-gurrola-valenzuela-80594bb5"
+        },
+        {
+          "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HGURR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGURR"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Members/Legislator_List?T=R"
+        }
+      ]
+    }
+  ],
+  "count": 112,
+  "last_updated": "2025-09-14T02:00:52.883Z"
+}

@@ -1,0 +1,5481 @@
+{
+  "state": "ky",
+  "state_name": "Kentucky",
+  "legislators": [
+    {
+      "id": "ocd-person/e46eb488-2e34-4f33-840f-917496473c64",
+      "name": "Aaron Reed",
+      "given_name": "Aaron",
+      "family_name": "Reed",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "aaron.reed@kylegislature.gov",
+      "image": "https://gunleash.com/wp-content/uploads/2023/11/Aaron_Reed.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=107"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Aaron_Reed"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aaron_Reed"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/201476/aaron-reed"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=107"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1439bad2-f18b-49e2-94ca-21f2b563dfdd",
+      "name": "Aaron Thompson",
+      "given_name": "Aaron",
+      "family_name": "Thompson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "aaron.thompson@kylegislature.gov",
+      "image": "https://content.campaignpartner.net/images/126420/Headshot.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "98",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=98"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Aaron_Thompson_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=98"
+        },
+        {
+          "url": "https://www.linkedin.com/in/aaron-thompson-092b5854"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e7f7a316-4eb0-4be9-adf9-e7067b20dcfc",
+      "name": "Adam Bowling",
+      "given_name": "Adam",
+      "family_name": "Bowling",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "adam.bowling@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house87.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "87",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=87",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Adam_Bowling"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=87"
+        },
+        {
+          "url": "https://www.linkedin.com/in/adam-bowling-3090094b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1ce736fd-c1ca-4366-a235-9509fdb2dcaf",
+      "name": "Adam Moore",
+      "given_name": "Adam",
+      "family_name": "Moore",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "adam.moore@kylegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AdamMoore2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=45"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Adam_Moore_(Kentucky)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214186/adam-moore"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=45"
+        },
+        {
+          "url": "https://www.linkedin.com/in/adam-moore-1a398629"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/943724d5-5e02-4d0f-bd79-a74e30f18d1a",
+      "name": "Adrielle Camuel",
+      "given_name": "Adrielle",
+      "family_name": "Camuel",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "adrielle.camuel@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house93.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "93",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-11-29T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=93",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Adrielle_Camuel"
+        },
+        {
+          "url": "https://camuel4ky.com/about"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=93"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dfaa3769-decc-4c1c-9c0b-7195153ab6c8",
+      "name": "Al Gentry",
+      "given_name": "Al",
+      "family_name": "Gentry",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "al.gentry@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house46.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "46",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=46",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Alan_Gentry"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=46"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7c03bd44-8541-49b0-9794-a9e606c292ce",
+      "name": "Amanda Bledsoe",
+      "given_name": "Amanda",
+      "family_name": "Bledsoe",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "amanda.maysbledsoe@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate112.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=112",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://amandamaysbledsoe.com/about"
+        },
+        {
+          "url": "https://ballotpedia.org/Amanda_Mays_Bledsoe"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Amanda_Mays_Bledsoe"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/159716/amanda-bledsoe"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=112"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/amanda-mays-bledsoe-a4008259"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f7bb262c-026f-4af2-9e17-939692c96e89",
+      "name": "Amy Neighbors",
+      "given_name": "Amy",
+      "family_name": "Neighbors",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "amy.neighbors@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house21.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=21",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Amy_Neighbors"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=21"
+        },
+        {
+          "url": "https://www.linkedin.com/in/amy-neighbors-59377b20"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2b9ac6b5-8979-40b1-b2d1-8241b93061a7",
+      "name": "Anne Donworth",
+      "given_name": "Anne",
+      "family_name": "Donworth",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "anne.donworth@kylegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AnneDonworth.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "76",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=76"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Anne_Donworth"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=76"
+        },
+        {
+          "url": "https://www.linkedin.com/in/anne-donworth-51958112"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6bc2a8c3-3370-4586-b0b7-a5028f336d12",
+      "name": "Ashley Laferty",
+      "given_name": "Ashley",
+      "family_name": "Laferty",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "ashley.tackettlaferty@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house95.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "95",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=95",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ashley_Tackett_Laferty"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=95"
+        },
+        {
+          "url": "https://www.kirkandcrum.com/meet-our-attorneys/ashley-t-laferty"
+        },
+        {
+          "url": "https://www.kirklawfirm.net/our-attorneys/ashley-tackett-laferty"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c8a9f2cf-9a79-45f6-94df-346b546e1d9b",
+      "name": "Beverly Chester-Burton",
+      "given_name": "Beverly",
+      "family_name": "Chester-Burton",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "beverly.chesterburton@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house44.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "44",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=44",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Beverly_Chester-Burton"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=44"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/91eec267-436a-49a5-9d41-b6b2632d0a51",
+      "name": "Bill Wesley",
+      "given_name": "Bill",
+      "family_name": "Wesley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.wesley@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house91.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "91",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=91",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Billy_Wesley"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/189608/bill-wesley"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=91"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/22e056d2-728a-425a-a0a1-19e0e5cc59cb",
+      "name": "Bobby McCool",
+      "given_name": "Bobby",
+      "family_name": "McCool",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bobby.mccool@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house97.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "97",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=97",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bobby_McCool"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=97"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bobby-mccool-0a8a4b34"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/209d5334-d4a2-45f3-b910-0cd52f96dd4e",
+      "name": "Brandon Smith",
+      "given_name": "Brandon",
+      "family_name": "Smith",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brandon.smith@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate130.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2008-02-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=130",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brandon_Smith_(Kentucky)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brandon_Smith_%28politician%29"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/34928/brandon-smith"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=130"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/257271f3-68b1-4481-94e5-f98300493413",
+      "name": "Brandon Storm",
+      "given_name": "Brandon",
+      "family_name": "Storm",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brandon.storm@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate121.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=121",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brandon_Storm"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=121"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brandon-storm-0a801b30"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/70d58905-dd36-4e9a-b281-639600e6b945",
+      "name": "Candy Massaroni",
+      "given_name": "Candy",
+      "family_name": "Massaroni",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "candy.massaroni@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house50.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "50",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=50",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Candy_Massaroni"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=50"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8dbecabb-ef15-4925-8e50-26331e738a05",
+      "name": "Cassie Armstrong",
+      "given_name": "Cassie",
+      "family_name": "Armstrong",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cassie.armstrong@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate119.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-03-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=119",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cassie_Chambers_Armstrong"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=119"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://louisville.edu/law/faculty-staff/faculty-directory/armstrong-cassie-chambers"
+        },
+        {
+          "url": "https://www.cassieforky.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/51dc7033-7377-44d4-a5d8-7bd36b371896",
+      "name": "Chad Aull",
+      "given_name": "Chad",
+      "family_name": "Aull",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "chad.aull@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house79.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "79",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=79",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chad_Aull"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=79"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chad-aull-2987714"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/db36edd8-6c2f-4441-aa30-5b4dc48b3357",
+      "name": "Chris Freeland",
+      "given_name": "Chris",
+      "family_name": "Freeland",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.freeland@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house6.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=6",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Freeland"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=6"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chris-freeland-9b231aa4"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6843e90b-a30a-4dbf-885c-7321ccc8f73f",
+      "name": "Chris Fugate",
+      "given_name": "Chris",
+      "family_name": "Fugate",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.fugate@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house84.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "84",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=84",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Fugate"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=84"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7da80b33-fc71-4d7f-8c96-e6068bd4c19b",
+      "name": "Chris Lewis",
+      "given_name": "Chris",
+      "family_name": "Lewis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.lewis@kylegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ChrisLewis2024.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=29"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Lewis_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=29"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chris-lewis-20231a6"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b32a95c9-42ba-449b-8581-97b9cef73c6a",
+      "name": "Chris McDaniel",
+      "given_name": "Chris",
+      "family_name": "McDaniel",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.mcdaniel@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate123.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2013-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=123",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_McDaniel_(Kentucky)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christian_McDaniel"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=123"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3109e3ae-10c1-417e-bf7f-bf4f539bd3c8",
+      "name": "Craig Richardson",
+      "given_name": "Craig",
+      "family_name": "Richardson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "craig.richardson@kylegislature.gov",
+      "image": "https://richardsoncraig.com/wp-content/uploads/2020/10/Craig-1.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=103"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Craig_Richardson"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=103"
+        },
+        {
+          "url": "https://www.linkedin.com/in/craig-richardson-56228a1ab"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ed9307f1-cd95-4004-9e72-46970ea64adf",
+      "name": "D.J. Johnson",
+      "given_name": "D.J.",
+      "family_name": "Johnson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dj.johnson@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house13.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z",
+        "end_date": "2018-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=13",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.lrc.ky.gov/legislator/H013.htm"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/D.J._Johnson_(Kentucky)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/DJ_Johnson_(politician)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=13"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dj-johnson-49146b66"
+        },
+        {
+          "url": "https://www.lrc.ky.gov/legislator/H013.htm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d93e2493-49a8-4395-b7e0-5842893344e1",
+      "name": "Daniel Elliott",
+      "given_name": "Daniel",
+      "family_name": "Elliott",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "daniel.elliott@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house54.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "54",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2016-03-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=54",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Daniel_Elliott_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=54"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c88c6162-de24-4d8b-98a9-f1788390d043",
+      "name": "Dan Fister",
+      "given_name": "Dan",
+      "family_name": "Fister",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "daniel.fister@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house56.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "56",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=56",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Daniel_Fister"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167625/dan-fister"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=56"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d4dd968d-1508-476b-bde1-7504a47288f0",
+      "name": "Daniel Grossberg",
+      "given_name": "Daniel",
+      "family_name": "Grossberg",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "daniel.grossberg@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house30.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=30",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Daniel_Grossberg"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Daniel_Grossberg"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=30"
+        },
+        {
+          "url": "https://www.linkedin.com/in/danielbgrossberg"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0ec7d376-4235-44e7-a6d7-d63962dff167",
+      "name": "Danny Carroll",
+      "given_name": "Danny",
+      "family_name": "Carroll",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "danny.carroll@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate102.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2015-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=102",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Danny_Carroll"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Danny_Carroll_(Kentucky_politician)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=102"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ebd5f90d-e3cc-45ef-97ff-d51ff1685bcc",
+      "name": "David Hale",
+      "given_name": "David",
+      "family_name": "Hale",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "david.hale@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house74.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "74",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2015-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=74",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Hale_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=74"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3643503c-1da8-4a57-90f1-54f063b1d25e",
+      "name": "David Meade",
+      "given_name": "David",
+      "family_name": "Meade",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "david.meade@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house80.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "80",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=80",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Meade"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Meade"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=80"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bf8bfdc3-66f2-417c-8178-9ed16bf8843f",
+      "name": "David Osborne",
+      "given_name": "David",
+      "family_name": "Osborne",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "david.osborne@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house59.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "59",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=59",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Osborne"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/35099/david-osborne"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=59"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-osborne-086b1750"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5594a97f-7358-427e-af84-43150a21c97e",
+      "name": "David Givens",
+      "given_name": "David",
+      "family_name": "Givens",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "david.givens@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate109.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=109",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Givens"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/102311/david-givens"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=109"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/77ce8a4c-90d4-4e54-b1da-ef6796aa71b5",
+      "name": "David Yates",
+      "given_name": "David",
+      "family_name": "Yates",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "david.yates@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate137.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=137",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Yates"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/132043/david-yates"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=137"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-yates-30ba974a"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-yates-847627119"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/96ab59e2-44c2-4c3d-ac8a-1ee24acc5b55",
+      "name": "Deanna Frazier Gordon",
+      "given_name": "Deanna",
+      "family_name": "Frazier Gordon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "deanna.gordon@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house81.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "81",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=81",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Deanna_Frazier"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=81"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/60ef609e-8aed-4698-a626-664f536a6122",
+      "name": "Derek Lewis",
+      "given_name": "Derek",
+      "family_name": "Lewis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "derek.lewis@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house90.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "90",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=90",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Derek_Lewis_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=90"
+        },
+        {
+          "url": "https://www.linkedin.com/in/derek-lewis-mba-b1407428"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a7cd8577-c315-4bf0-b95f-3259ab7dfce7",
+      "name": "Don Douglas",
+      "given_name": "Don",
+      "family_name": "Douglas",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "donald.douglas@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate122.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-11-18T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=122",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Donald_Douglas"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=122"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/67b233b8-474d-49ce-81a8-7f48eec3c79a",
+      "name": "Emily Callaway",
+      "given_name": "Emily",
+      "family_name": "Callaway",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "emily.callaway@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house37.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=37",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Emily_Callaway"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=37"
+        },
+        {
+          "url": "https://www.linkedin.com/in/emily-callaway-bb590361"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4ce23404-165d-4c96-9130-56acaf2e73a7",
+      "name": "Erika Hancock",
+      "given_name": "Erika",
+      "family_name": "Hancock",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "erika.hancock@kylegislature.gov",
+      "image": "https://bloximages.newyork1.vip.townnews.com/state-journal.com/content/tncms/assets/v3/editorial/8/27/827a15cc-9be9-11ef-a889-4bb4879f7bf8/672ad8d50e1e4.image.jpg?crop=1288%2C1041%2C4%2C184&resize=619%2C500&order=crop%2Cresize",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "57",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=57"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Erika_Hancock"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/214197/erika-hancock"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=57"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4342be62-2791-4d48-b601-43949239cd94",
+      "name": "Felicia Rabourn",
+      "given_name": "Felicia",
+      "family_name": "Rabourn",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "felicia.rabourn@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house47.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=47",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Felicia_Rabourn"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Felicia_Rabourn"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/189557/felicia-rabourn"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=47"
+        },
+        {
+          "url": "https://www.linkedin.com/in/felicia-rabourn-24aa2a54"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2d6a7358-f685-4476-aa31-b92cf72b11ec",
+      "name": "Gary Boswell",
+      "given_name": "Gary",
+      "family_name": "Boswell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gary.boswell@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate108.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=108",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gary_Boswell"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=108"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bb3e5fee-3bda-4a5d-95ee-dc31ff9defed",
+      "name": "George Brown",
+      "given_name": "George",
+      "family_name": "Brown",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "george.brown@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house77.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "77",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2015-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=77",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/George_A._Brown_Jr."
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=77"
+        },
+        {
+          "url": "https://www.linkedin.com/in/george-brown-52ab6775"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0d92a09c-ce23-46cd-9582-b7d1b08d76dd",
+      "name": "Gerald Neal",
+      "given_name": "Gerald",
+      "family_name": "Neal",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "gerald.neal@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate133.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=133",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gerald_Neal"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gerald_Neal"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/4041/gerald-neal"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=133"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6aa07729-a16f-4465-a605-7afbbe982882",
+      "name": "Gex Williams",
+      "given_name": "Gex",
+      "family_name": "Williams",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gex.williams@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate120.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=120",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gex_Williams"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gex_Williams"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/4055/jay-williams-iii"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=120"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/egex3"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/139d004c-7a19-4153-a58b-919a1b70180e",
+      "name": "Greg Elkins",
+      "given_name": "Greg",
+      "family_name": "Elkins",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "greg.elkins@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate128.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-06-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=128",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Greg_Elkins"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=128"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/greg-elkins-8177252b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fded60a9-de72-47ba-bf20-90dddd9f9138",
+      "name": "J.T. Payne",
+      "given_name": "J.T.",
+      "family_name": "Payne",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jt.payne@kylegislature.gov",
+      "image": "https://thenews.org/wp-content/uploads/2018/08/7BD9AD2B-7439-4C90-86BE-692CC9C4D09A-777x437.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=11"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/J.T._Payne_(Kentucky)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/J._T._Payne"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=11"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d6c9aa9b-3c6b-411a-bff1-fc1c38d4bce0",
+      "name": "James Tipton",
+      "given_name": "James",
+      "family_name": "Tipton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "james.tipton@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house53.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "53",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2015-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=53",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/James_A._Tipton"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148972/james-tipton"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=53"
+        },
+        {
+          "url": "https://www.linkedin.com/in/james-tipton-55541311"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b86f4912-39b1-44a0-90a8-0b233921a094",
+      "name": "Jared Bauman",
+      "given_name": "Jared",
+      "family_name": "Bauman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jared.bauman@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house28.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=28",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jared_Bauman"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=28"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jared-bauman-855aa61a8"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b2299f51-c122-46ac-9937-3a6a7b682bb8",
+      "name": "Jared Carpenter",
+      "given_name": "Jared",
+      "family_name": "Carpenter",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jared.carpenter@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate134.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=134",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jared_Carpenter"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jared_Carpenter"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117573/jared-carpenter"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=134"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a796965c-0c0f-43b2-975b-d9726b34acd8",
+      "name": "Jason Howell",
+      "given_name": "Jason",
+      "family_name": "Howell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jason.howell@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate101.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=101",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jason_Howell_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=101"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jason-howell-509682"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c56fc398-975e-47b9-919a-fbdd0c9f721d",
+      "name": "Jason Nemes",
+      "given_name": "Jason",
+      "family_name": "Nemes",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jason.nemes@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house33.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=33",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jason_Michael_Nemes"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=33"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jasonnemes"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3fac3a9c-78ad-4b24-8483-f1786fac9c9e",
+      "name": "Jason Petrie",
+      "given_name": "Jason",
+      "family_name": "Petrie",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jason.petrie@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house16.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=16",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jason_Petrie"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/154004/jason-petrie"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=16"
+        },
+        {
+          "url": "https://www.jasonpetrie.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2c5c20cc-807b-44c8-a1a9-582fe69ca87c",
+      "name": "Jennifer Decker",
+      "given_name": "Jennifer",
+      "family_name": "Decker",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jennifer.decker@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house58.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=58",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jennifer_Decker"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/189567/jennifer-decker"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=58"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jennifer-decker-80b78463"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f40ed494-ce37-43f4-b323-1bc2b6197831",
+      "name": "Jim Gooch",
+      "given_name": "Jim",
+      "family_name": "Gooch",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jim.gooch@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house12.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=12",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jim_Gooch,_Jr."
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=12"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4042b29b-c6bb-407e-856d-9197a03d55ff",
+      "name": "Jimmy Higdon",
+      "given_name": "Jimmy",
+      "family_name": "Higdon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jimmy.higdon@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate114.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=114",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jimmy_Higdon"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/35042/jimmy-higdon"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=114"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7cda4251-f26b-4bab-bf88-ed61b947018e",
+      "name": "John Blanton",
+      "given_name": "John",
+      "family_name": "Blanton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.blanton@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house92.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "92",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=92",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Blanton"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=92"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2f3255d6-7801-4089-a275-f01e00444ee0",
+      "name": "John Hodgson",
+      "given_name": "John",
+      "family_name": "Hodgson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.hodgson@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house36.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=36",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Hodgson"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=36"
+        },
+        {
+          "url": "https://www.linkedin.com/in/hodgson"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ff91cf3b-77a1-47b0-81b3-1c18f006349a",
+      "name": "Josh Branscum",
+      "given_name": "Josh",
+      "family_name": "Branscum",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "josh.branscum@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house83.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "83",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=83",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joshua_Branscum"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=83"
+        },
+        {
+          "url": "https://www.bloomberg.com/profile/person/20027693"
+        },
+        {
+          "url": "https://www.linkedin.com/in/josh-branscum-302276192"
+        },
+        {
+          "url": "https://www.linkedin.com/in/josh-branscum-baa4856"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a110d6ba-f17f-4847-b0e9-327c82cd7122",
+      "name": "Josh Bray",
+      "given_name": "Josh",
+      "family_name": "Bray",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "josh.bray@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house71.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "71",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=71",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josh_Bray"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/189584/josh-bray"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=71"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joshua-bray-b95419129"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f218fb5a-2336-4f82-b192-acc3893dabdf",
+      "name": "Josh Calloway",
+      "given_name": "Josh",
+      "family_name": "Calloway",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "josh.calloway@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house10.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=10",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josh_Calloway"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177911/josh-calloway"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=10"
+        },
+        {
+          "url": "https://www.linkedin.com/in/josh-calloway-68a32277"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/118003d1-9f48-4ef8-bbd0-748d17ebb699",
+      "name": "Joshua Watkins",
+      "given_name": "Joshua",
+      "family_name": "Watkins",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "joshua.watkins@kylegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoshuaWatkins2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=42"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joshua_Watkins"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=42"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joshuawatkinsprojectmanager"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/38ae421f-f4fa-40f6-b025-a75bc6b42f35",
+      "name": "Julie Adams",
+      "given_name": "Julie",
+      "family_name": "Adams",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "julie.adams@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate136.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2011-01-04T00:00:00.000Z",
+        "end_date": "2015-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=136",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Julie_Adams"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Julie_Adams_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/73611/julie-raque-adams"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=136"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/julie-raque-adams-9249a611"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b45a3156-f662-4884-9c13-b33a4c2d9105",
+      "name": "Karen Berg",
+      "given_name": "Karen",
+      "family_name": "Berg",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "karen.berg@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate126.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2020-07-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=126",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Karen_Berg"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Karen_Berg_(politician)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=126"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d7b86c25-2f90-4d8b-a92e-4b4ef5dd0512",
+      "name": "Ken Fleming",
+      "given_name": "Ken",
+      "family_name": "Fleming",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ken.fleming@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house48.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z",
+        "end_date": "2018-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=48",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.lrc.ky.gov/legislator/H048.htm"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ken_Fleming"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/73588/ken-fleming"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=48"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kenfleming1"
+        },
+        {
+          "url": "https://www.lrc.ky.gov/legislator/H048.htm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7aa13bf4-126a-4901-bfeb-2244bd2d3cc3",
+      "name": "Ken Upchurch",
+      "given_name": "Ken",
+      "family_name": "Upchurch",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ken.upchurch@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house52.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "52",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2013-02-25T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=52",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ken_Upchurch"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ken_Upchurch"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/18799/ken-upchurch"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=52"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/15b970f1-bd55-4876-80d5-13570b8f1a1a",
+      "name": "Keturah Herron",
+      "given_name": "Keturah",
+      "family_name": "Herron",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "keturah.herron@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house42.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2022-02-28T00:00:00.000Z",
+        "end_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=135"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=42",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Keturah_Herron"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Keturah_Herron"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=135"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=42"
+        },
+        {
+          "url": "https://www.linkedin.com/in/keturah-herron-60425959"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0e905c68-fbcc-4392-865e-a4dbc5d2ea42",
+      "name": "Kevin Jackson",
+      "given_name": "Kevin",
+      "family_name": "Jackson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kevin.jackson@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house20.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=20",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kevin_Jackson"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=20"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kevinjackson1121"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/27b951aa-c951-4160-9373-721ca3b6a9db",
+      "name": "Kim Banta",
+      "given_name": "Kim",
+      "family_name": "Banta",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kim.banta@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house63.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "63",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-11-22T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=63",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kimberly_Banta"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=63"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kimberly-banta-414738139"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5cb48d67-2db5-4b6e-89b1-1509110bd708",
+      "name": "Kim Holloway",
+      "given_name": "Kim",
+      "family_name": "Holloway",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kim.holloway@kylegislature.gov",
+      "image": "https://npr.brightspotcdn.com/01/2a/8d768d42405b8992ce1c5dcb8159/244626154-114463787658953-2523667072088681096-n.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kimberly_Holloway_(Kentucky)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kimberly_Holloway"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/201490/kimberly-holloway"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=2"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cd95ada0-14f0-4b63-aeea-f4a92525eeaf",
+      "name": "Kim King",
+      "given_name": "Kim",
+      "family_name": "King",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kim.king@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house55.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "55",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=55",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kim_King"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kim_King_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117329/kim-king"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=55"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kimberly-king-10814611"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/92511255-ca06-4241-bd91-0cafd92e3d5c",
+      "name": "Kim Moser",
+      "given_name": "Kim",
+      "family_name": "Moser",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kimberly.moser@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house64.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "64",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=64",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kimberly_Poore_Moser"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kimberly_Poore_Moser"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167634/kim-moser"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=64"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kimberly-poore-moser-a065aa2"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8048f367-9d46-4be5-9cb8-7a249d06cb13",
+      "name": "Lindsey Burke",
+      "given_name": "Lindsey",
+      "family_name": "Burke",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lindsey.burke@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house75.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "75",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=75",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lindsey_Burke"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=75"
+        },
+        {
+          "url": "https://micahlegal.org/attorney-lindsey-burke"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lindseytburke"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/db2324a8-1ae2-4e3a-81e5-ac83cb7bbb05",
+      "name": "Lindsey Tichenor",
+      "given_name": "Lindsey",
+      "family_name": "Tichenor",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lindsey.tichenor@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate106.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=106",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lindsey_Tichenor"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=106"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lindsey-tichenor-0751a398"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6dd815a4-fc3c-4e79-8cd5-a574d8cf0af8",
+      "name": "Lisa Willner",
+      "given_name": "Lisa",
+      "family_name": "Willner",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lisa.willner@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house35.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=35",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lisa_Willner"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=35"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1ad4657b-84d4-4ce1-864e-2f1f75686cc7",
+      "name": "Marianne Proctor",
+      "given_name": "Marianne",
+      "family_name": "Proctor",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "marianne.proctor@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house60.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "60",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=60",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marianne_Proctor"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=60"
+        },
+        {
+          "url": "https://proctorky.com/about-marianne-proctor"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b1a31b02-5d89-42be-97d4-7d08d99161d8",
+      "name": "Mark Hart",
+      "given_name": "Mark",
+      "family_name": "Hart",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mark.hart@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house78.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "78",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=78",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Hart"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=78"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ad063b4f-a860-48c3-abfb-18e977a21caf",
+      "name": "Mary Beth Imes",
+      "given_name": "Mary Beth",
+      "family_name": "Imes",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "marybeth.imes@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house5.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=5",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mary_Imes"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=5"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/86342422-7a28-4631-b3d7-3912eb444ffd",
+      "name": "Mary Lou Marzian",
+      "given_name": "Mary Lou",
+      "family_name": "Marzian",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "marylou.marzian@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house34.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "end_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=41"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mary_Marzian"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary_Lou_Marzian"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/4109/mary-marzian"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=41"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7afd2d36-9415-44ff-b96d-0010cf4f864e",
+      "name": "Matt Lehman",
+      "given_name": "Matt",
+      "family_name": "Lehman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "matt.lehman@kylegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MatthewLehman2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "67",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=67"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matthew_Lehman_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=67"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9a6d1b5a-6cb4-421e-b7c2-2cb27cfa4cc9",
+      "name": "Matt Lockett",
+      "given_name": "Matt",
+      "family_name": "Lockett",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "matt.lockett@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house39.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=39",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matt_Lockett"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117291/matt-lockett"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=39"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/86bd13c4-c404-4a34-aaf4-561621f2b2d8",
+      "name": "Matt Nunn",
+      "given_name": "Matt",
+      "family_name": "Nunn",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "matt.nunn@kylegislature.gov",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAwk-VsxWc9P7zUFu6kXXFswQiXfHR8HdEg&s",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=117"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matt_Nunn"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Matt_Nunn_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/214137/matt-nunn"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=117"
+        },
+        {
+          "url": "https://www.linkedin.com/in/matthew-nunn-b51b128"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b76a3218-b1bd-475c-a775-7a6cbefbc1f3",
+      "name": "Matt Deneen",
+      "given_name": "Matt",
+      "family_name": "Deneen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "matthew.deneen@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate110.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=110",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matthew_Deneen"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=110"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/matthew-deneen-3734a4b7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1b8bc567-b895-4fae-8b3f-7a7160ca5138",
+      "name": "Matt Koch",
+      "given_name": "Matt",
+      "family_name": "Koch",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "matthew.koch@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house72.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "72",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=72",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matthew_Koch"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=72"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/32b5035e-6d1a-44b8-9f7a-4173a1cdb940",
+      "name": "Max Wise",
+      "given_name": "Max",
+      "family_name": "Wise",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "max.wise@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate116.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2015-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=116",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Max_Wise"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Max_Wise"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=116"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/max-wise-1a1b1970"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/230c230d-7313-4a94-8eb3-60f57a86543c",
+      "name": "Mike Nemes",
+      "given_name": "Mike",
+      "family_name": "Nemes",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.nemes@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate138.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2011-01-01T00:00:00.000Z",
+        "end_date": "2012-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=138",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.lrc.ky.gov/legislator/H038.htm"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Nemes"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Nemes"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117321/michael-nemes"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=138"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.lrc.ky.gov/legislator/H038.htm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f013115a-6bbc-48ac-aab4-7949dd902701",
+      "name": "Michael Meredith",
+      "given_name": "Michael",
+      "family_name": "Meredith",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "michael.meredith@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house19.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=19",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Meredith"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117313/michael-meredith"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=19"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3e417407-423f-45d3-b18a-c2845cd1ec57",
+      "name": "Sarge Pollock",
+      "given_name": "Sarge",
+      "family_name": "Pollock",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sarge.pollock@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house51.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-11-29T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=51",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Pollock"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=51"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michael-%E2%80%9Csarge%E2%80%9D-pollock-45b5741a3"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sarge-pollock-05593216"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/34a39b2d-1ff6-4ced-adf2-32f92fa781b1",
+      "name": "Mike Clines",
+      "given_name": "Mike",
+      "family_name": "Clines",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.clines@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house68.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "68",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=68",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Clines"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=68"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-clines"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/64af8584-1675-47fd-acfb-1cec59dfdda5",
+      "name": "Mike Wilson",
+      "given_name": "Mike",
+      "family_name": "Wilson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.wilson@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate132.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2011-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=132",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Wilson_(Kentucky)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Wilson_(Kentucky_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117300/mike-wilson"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=132"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-wilson-75091714"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3f4b9459-8c62-4d89-b2d6-9d0e951ed24f",
+      "name": "Mitch Whitaker",
+      "given_name": "Mitch",
+      "family_name": "Whitaker",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mitchum.whitaker@kylegislature.gov",
+      "image": "https://whitakerforky.com/wp-content/uploads/2023/10/174675061_4495865760430094_8296166563898892766_n-1024x1024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "94",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=94"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mitchum_Whitaker"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mitch_Whitaker"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=94"
+        },
+        {
+          "url": "https://www.hfkylawyers.com/attorney/whitaker-mitchum-a"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mitchumaddisonwhitaker"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c6904810-37a8-428d-8342-7831d7dc100c",
+      "name": "Myron Dossett",
+      "given_name": "Myron",
+      "family_name": "Dossett",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "myron.dossett@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house9.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=9",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Myron_Dossett"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/58221/myron-dossett"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=9"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/911af3e2-7435-4f82-a477-99cb078ea99b",
+      "name": "Nancy Tate",
+      "given_name": "Nancy",
+      "family_name": "Tate",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "nancy.tate@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house27.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=27",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nancy_Tate"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177937/nancy-tate"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=27"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/716d7b2c-0576-4bf8-b5a9-b6fa2c1f8024",
+      "name": "Nick Wilson",
+      "given_name": "Nick",
+      "family_name": "Wilson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "nick.wilson@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house82.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "82",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=82",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nick_Wilson"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=82"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bee3f0dd-450a-41a2-b9b9-e056d0a0f14d",
+      "name": "Nima Kulkarni",
+      "given_name": "Nima",
+      "family_name": "Kulkarni",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "nima.kulkarni@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house40.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=40",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nima_Kulkarni"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=40"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nirupamakulkarni"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/897f811e-273d-4fc1-9268-0087e57444cf",
+      "name": "Pamela Stevenson",
+      "given_name": "Pamela",
+      "family_name": "Stevenson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "pamela.stevenson@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house43.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "43",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=43",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Pamela_Stevenson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pamela_Stevenson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177964/pamela-stevenson"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=43"
+        },
+        {
+          "url": "https://www.linkedin.com/in/pamela-stevenson-5166b116"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8ae56ea2-3f37-490b-a3dc-0dec9fe85c7c",
+      "name": "Patrick Flannery",
+      "given_name": "Patrick",
+      "family_name": "Flannery",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "patrick.flannery@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house96.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "96",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=96",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patrick_Flannery"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patrick_Flannery_(politician)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=96"
+        },
+        {
+          "url": "https://www.linkedin.com/in/patrick-flannery-2466804"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/eddce954-34a0-4b9a-aaca-6114e6bf418f",
+      "name": "Peyton Griffee",
+      "given_name": "Peyton",
+      "family_name": "Griffee",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "peyton.griffee@kylegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PeytonGriffee2024.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2024-03-25T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=26"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Peyton_Griffee"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peyton_Griffee"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=26"
+        },
+        {
+          "url": "https://www.linkedin.com/in/peyton-griffee-3b1153149"
+        },
+        {
+          "url": "https://www.peytongriffee.com/about"
+        },
+        {
+          "url": "https://www.sweatgriffee.com/attorney/griffee-peyton"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/18063ded-67cb-46a9-b558-14d5da92b860",
+      "name": "Phillip Wheeler",
+      "given_name": "Phillip",
+      "family_name": "Wheeler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "phillip.wheeler@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate131.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-03-19T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=131",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Phillip_Wheeler"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Phillip_Wheeler"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167660/phillip-wheeler"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=131"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.kirkandcrum.com/meet-our-attorneys/phillip-wheeler"
+        },
+        {
+          "url": "https://www.kirklawfirm.net/meet-our-attorneys/phillip-wheeler"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1217ac1a-4ca4-4fe4-953b-572beb008bed",
+      "name": "Rachel Roarx",
+      "given_name": "Rachel",
+      "family_name": "Roarx",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "rachel.roarx@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house38.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=38",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rachel_Roarx"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=38"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rachel-roarx-36918669"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c033dd77-f8d7-4558-8582-9e0088ae5406",
+      "name": "Randy Bridges",
+      "given_name": "Randy",
+      "family_name": "Bridges",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "randy.bridges@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house3.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=3",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Randy_Bridges"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=3"
+        },
+        {
+          "url": "https://www.linkedin.com/in/randy-bridges-0a55627"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/be2fd4e3-6dfe-4d54-8c45-631eac63bc27",
+      "name": "Rebecca Raymer",
+      "given_name": "Rebecca",
+      "family_name": "Raymer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rebecca.raymer@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house15.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=15",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rebecca_Raymer"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=15"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rebecca-raymer-990569189"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/42b259db-9ddb-4588-a463-b1a38c944c66",
+      "name": "Reggie Thomas",
+      "given_name": "Reggie",
+      "family_name": "Thomas",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "reginald.thomas@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate113.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2014-01-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=113",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Reggie_Thomas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Reggie_Thomas"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=113"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/reggie-thomas-35980b2a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/29b248e1-4033-41f6-ba30-136f2aa55045",
+      "name": "Richard White",
+      "given_name": "Richard",
+      "family_name": "White",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "richard.white@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house99.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "99",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2020-03-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=99",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Richard_White_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=99"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/34ed9881-46b8-41ba-b625-3d350140d2b9",
+      "name": "Rick Girdler",
+      "given_name": "Rick",
+      "family_name": "Girdler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rick.girdler@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate115.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=115",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rick_Girdler"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167526/rick-girdler"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=115"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rick-girdler-0b833958"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/366daab1-a877-49b9-86b8-e3c497143bf0",
+      "name": "Robby Mills",
+      "given_name": "Robby",
+      "family_name": "Mills",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "robby.mills@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate104.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "end_date": "2018-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=104",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robby_Mills"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=104"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ad2d1d2a-b838-4727-ac0f-a6fb64298b14",
+      "name": "Robert Duvall",
+      "given_name": "Robert",
+      "family_name": "Duvall",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "robert.duvall@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house17.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=17",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Duvall_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=17"
+        },
+        {
+          "url": "https://www.bgeyes.com/team/robert-b-duvall-od"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-duvall-2818298"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8659c7e3-ec01-4c40-b7ee-d21f37facff5",
+      "name": "Robert Stivers",
+      "given_name": "Robert",
+      "family_name": "Stivers",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "robert.stivers@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate125.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=125",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Stivers"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Stivers"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/9609/robert-stivers-ii"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=125"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/42990da5-7020-4327-bbd8-496955b00040",
+      "name": "Robin Webb",
+      "given_name": "Robin",
+      "family_name": "Webb",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "robin.webb@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate118.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-05-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=118",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robin_Webb"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robin_L._Webb"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/18710/robin-webb"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=118"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robin-webb-4936608"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/af59339a-aedf-4d1c-94b6-de071030773b",
+      "name": "Ryan Bivens",
+      "given_name": "Ryan",
+      "family_name": "Bivens",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ryan.bivens@kylegislature.gov",
+      "image": "https://www.kyfb.com/KYFB/assets/Image/Federation/Newsroom/2024/Ryan-Bivens-11.21.24.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=24"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ryan_Bivens"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ryan_Bivens"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/214159/ryan-bivens"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=24"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ryan-bivens-b4002864"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/718ec3d2-325d-4ddf-b72b-728cea857222",
+      "name": "Ryan Dotson",
+      "given_name": "Ryan",
+      "family_name": "Dotson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ryan.dotson@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house73.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "73",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=73",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ryan_Dotson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117297/ryan-dotson"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=73"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d3176059-683c-48be-9c43-a57da08a2f49",
+      "name": "Samara Heavrin",
+      "given_name": "Samara",
+      "family_name": "Heavrin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ryan.dotson@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house18.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=18",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Samara_Heavrin"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=18"
+        },
+        {
+          "url": "https://www.linkedin.com/in/samara-heavrin-67685442"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bb3f614a-7fa0-4e55-a76b-dedfea0fdaa9",
+      "name": "Sarah Stalker",
+      "given_name": "Sarah",
+      "family_name": "Stalker",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sarah.stalker@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house34.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sarah_Stalker"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sstalker"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a8988de2-d65f-461c-96d1-4f1cddc6a969",
+      "name": "Savannah Maddox",
+      "given_name": "Savannah",
+      "family_name": "Maddox",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "savannah.maddox@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house61.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "61",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=61",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Savannah_Maddox"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/178000/savannah-maddox"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=61"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/07773b3f-387f-4e4e-ba79-571940c186f0",
+      "name": "Scott Lewis",
+      "given_name": "Scott",
+      "family_name": "Lewis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.lewis@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house14.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=14",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Lewis_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=14"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d7adea26-9f4f-477f-a0bd-4b29ae9072b4",
+      "name": "Scott Madon",
+      "given_name": "Scott",
+      "family_name": "Madon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.madon@kylegislature.gov",
+      "image": "https://thecityofpineville.com/wp-content/uploads/2018/08/mayor-scott-madon-228x300.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=129"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Madon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scott_Madon"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=129"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/65469c71-edc2-4c9f-87da-bcf4d3277591",
+      "name": "Scott Sharp",
+      "given_name": "Scott",
+      "family_name": "Sharp",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.sharp@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house100.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "100",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=100",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Sharp"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/178054/scott-sharp"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=100"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2eab3a78-154d-43cd-8278-73ad2e166b08",
+      "name": "Shane Baker",
+      "given_name": "Shane",
+      "family_name": "Baker",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "shane.baker@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house85.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "85",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=85",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shane_Baker"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shane_Baker"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/189594/shane-baker"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=85"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5a327e3b-ae91-4279-ae17-9214aad32fa9",
+      "name": "Shawn McPherson",
+      "given_name": "Shawn",
+      "family_name": "McPherson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "shawn.mcpherson@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house22.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=22",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shawn_McPherson"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=22"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b7112818-3357-413d-acae-a46bf3442b1d",
+      "name": "Shelley Frommeyer",
+      "given_name": "Shelley",
+      "family_name": "Frommeyer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "shelley.funkefrommeyer@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate124.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=124",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shelley_Funke_Frommeyer"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=124"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        },
+        {
+          "url": "https://www.ffrwealthteam.com/team-members/shelley-funke-frommeyer"
+        },
+        {
+          "url": "https://www.linkedin.com/in/shelley-funke-frommeyer"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/737ae037-a61c-4649-9c08-bf5fe052ff36",
+      "name": "Stephanie Dietz",
+      "given_name": "Stephanie",
+      "family_name": "Dietz",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stephanie.dietz@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house65.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "65",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=65",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephanie_A._Dietz"
+        },
+        {
+          "url": "https://dofamilylaw.com/stephanie-a-dietz"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=65"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stephanie-dietz-4a16156b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8915acb8-6089-451f-be08-c79b0be59c40",
+      "name": "Stephen Meredith",
+      "given_name": "Stephen",
+      "family_name": "Meredith",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stephen.meredith@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate105.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=105",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephen_Meredith"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/135519/stephen-meredith"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=105"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1f3bbab4-2be0-496c-9c3b-b8f340f6b404",
+      "name": "Steve West",
+      "given_name": "Steve",
+      "family_name": "West",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steve.west@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate127.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2015-03-23T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=127",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_West_(Kentucky)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/156107/steve-west"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=127"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/senate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e0860aa8-43ba-4bf2-94d7-3632c7375ab6",
+      "name": "Steve Bratcher",
+      "given_name": "Steve",
+      "family_name": "Bratcher",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steve.bratcher@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house25.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=25",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Bratcher"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=25"
+        },
+        {
+          "url": "https://www.linkedin.com/in/steve-bratcher-79552918"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b702771e-135c-4444-b148-a321ee8088b2",
+      "name": "Steve Rawlings",
+      "given_name": "Steve",
+      "family_name": "Rawlings",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steve.rawlings@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house66.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "66",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z",
+        "end_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=111"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=66",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Rawlings"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=111"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=66"
+        },
+        {
+          "url": "https://rawlings4ky.com/about-steve-rawlings"
+        },
+        {
+          "url": "https://www.linkedin.com/in/j-steven-rawlings-751316b7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/817df40b-8e76-460d-81cf-63277866268a",
+      "name": "Steve Riley",
+      "given_name": "Steve",
+      "family_name": "Riley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steve.riley@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house23.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=23",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Riley_(Kentucky)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167592/steve-riley"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=23"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a41c47ce-cbfa-49e3-8a21-5666f24ef96a",
+      "name": "Steven Doan",
+      "given_name": "Steven",
+      "family_name": "Doan",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steven.doan@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house69.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "69",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=69",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steven_Doan"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=69"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stevendoan"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f73e54d0-9547-4688-b97d-4818b104d160",
+      "name": "Steven Rudy",
+      "given_name": "Steven",
+      "family_name": "Rudy",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steven.rudy@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house1.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=1",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steven_Rudy"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steven_Rudy"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/35156/steven-rudy"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=1"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c85ace8f-67e3-438d-afeb-e6442aec43cd",
+      "name": "Susan Tyler Witten",
+      "given_name": "Susan",
+      "family_name": "Tyler Witten",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "susan.witten@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house31.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=31",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Susan_Tyler_Witten"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=31"
+        },
+        {
+          "url": "https://www.linkedin.com/in/susan-witten-34a2056"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/92576283-508e-4613-b1a0-3d227edf4068",
+      "name": "Suzanne Miles",
+      "given_name": "Suzanne",
+      "family_name": "Miles",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "suzanne.miles@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house7.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=7",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Suzanne_Miles"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Suzanne_Miles"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1c369689-ed04-484c-ab53-c50bd6011192",
+      "name": "T.J. Roberts",
+      "given_name": "T.J.",
+      "family_name": "Roberts",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tj.roberts@kylegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/T.J._Roberts.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "66",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=66"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/T.J._Roberts"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/T._J._Roberts_(politician)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=66"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tj-roberts-172356185"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7d2b01df-9356-4eaa-923f-144e3f229860",
+      "name": "Thomas Huff",
+      "given_name": "Thomas",
+      "family_name": "Huff",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "thomas.huff@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house49.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "49",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=49",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Thomas_Huff_(Kentucky)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177970/thomas-huff"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=49"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b2834b48-3186-4fbd-aa3e-daa1d38fa308",
+      "name": "Timmy Truett",
+      "given_name": "Timmy",
+      "family_name": "Truett",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "timmy.truett@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house89.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "89",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-11-23T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=89",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Timmy_Truett"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=89"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/77db7bcf-dfa8-4365-bb3a-4ca0351a8368",
+      "name": "Tina Bojanowski",
+      "given_name": "Tina",
+      "family_name": "Bojanowski",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "tina.bojanowski@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house32.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=32",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tina_Bojanowski"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=32"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5764151d-bf80-422b-bc46-93ac2be910cc",
+      "name": "Tom Smith",
+      "given_name": "Tom",
+      "family_name": "Smith",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tom.smith@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house86.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "86",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=86",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tom_Smith_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=86"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/79a62906-5436-4ac8-adea-0c566273bbde",
+      "name": "Tony Hampton",
+      "given_name": "Tony",
+      "family_name": "Hampton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tony.hampton@kylegislature.gov",
+      "image": "https://cdn.photos.sparkplatform.com/lex/20240524200530073416000000.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "62",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=62"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tony_Hampton"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/214204/tony-hampton"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=62"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bc34f3ad-05ad-494c-bb80-bd2eb99e4fe9",
+      "name": "Vanessa Grossl",
+      "given_name": "Vanessa",
+      "family_name": "Grossl",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "vanessa.grossl@kylegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/VanessaGrossl.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "88",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2025-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=88"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Vanessa_Grossl"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=88"
+        },
+        {
+          "url": "https://www.linkedin.com/in/vgrossl"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/66619aa2-a521-4318-b5d7-b4c36954b43d",
+      "name": "Wade Williams",
+      "given_name": "Wade",
+      "family_name": "Williams",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "wade.williams@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house4.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2023-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=4",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/D._Wade_Williams"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=4"
+        },
+        {
+          "url": "https://www.linkedin.com/in/wade-williams-teammate"
+        },
+        {
+          "url": "https://www.wadewilliamsforkentucky.com/meet_wade"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ec846db3-c75b-4460-ba72-3e2b3fd9e04d",
+      "name": "Walker Thomas",
+      "given_name": "Walker",
+      "family_name": "Thomas",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "walker.thomas@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house8.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2017-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=8",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Walker_Thomas"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167582/walker-thomas"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=8"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3d3b33bc-8852-48fe-90cf-42ce9551424c",
+      "name": "William Lawrence",
+      "given_name": "William",
+      "family_name": "Lawrence",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "william.lawrence@kylegislature.gov",
+      "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house70.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "70",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ky/government",
+        "start_date": "2021-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=70",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/William_Lawrence_(Kentucky)"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/house-of-representatives"
+        },
+        {
+          "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=70"
+        }
+      ]
+    }
+  ],
+  "count": 138,
+  "last_updated": "2025-09-14T02:00:52.580Z"
+}

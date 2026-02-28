@@ -1,0 +1,323 @@
+.enhanced-representative-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.enhanced-representative-card.expanded {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.enhanced-representative-card .party-indicator {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+}
+
+.enhanced-representative-card .rep-content {
+  padding: 16px 16px 16px 20px;
+}
+
+.enhanced-representative-card .rep-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+
+.enhanced-representative-card .rep-avatar {
+  flex-shrink: 0;
+}
+
+.enhanced-representative-card .avatar-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.enhanced-representative-card .rep-details {
+  flex: 1;
+}
+
+.enhanced-representative-card .rep-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 4px;
+}
+
+.enhanced-representative-card .rep-role {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 4px;
+}
+
+.enhanced-representative-card .rep-party {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.enhanced-representative-card .contact-info {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.enhanced-representative-card .contact-info a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #f0f0f0;
+  color: #666;
+  transition: all 0.2s ease;
+}
+
+.enhanced-representative-card .contact-info a:hover {
+  background: #667eea;
+  color: white;
+  transform: scale(1.1);
+}
+
+.enhanced-representative-card .alignment-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.enhanced-representative-card .alignment-circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 3px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.enhanced-representative-card .alignment-text {
+  font-size: 11px;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.enhanced-representative-card .rep-stats {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 12px;
+  padding: 8px 0;
+  border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.enhanced-representative-card .stat {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: #666;
+}
+
+.enhanced-representative-card .stat svg {
+  color: #667eea;
+}
+
+.enhanced-representative-card .rep-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.enhanced-representative-card .peg-button {
+  flex: 1;
+  padding: 8px;
+  border: none;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.enhanced-representative-card .peg-button.approve {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.enhanced-representative-card .peg-button.approve:hover {
+  background: #2e7d32;
+  color: white;
+}
+
+.enhanced-representative-card .peg-button.disapprove {
+  background: #ffebee;
+  color: #c62828;
+}
+
+.enhanced-representative-card .peg-button.disapprove:hover {
+  background: #c62828;
+  color: white;
+}
+
+.enhanced-representative-card .expand-button {
+  padding: 8px 12px;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  background: white;
+  color: #666;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.enhanced-representative-card .expand-button:hover {
+  background: #f5f5f5;
+  border-color: #667eea;
+  color: #667eea;
+}
+
+.enhanced-representative-card .expanded-content {
+  padding: 20px;
+  background: #f8f9fa;
+  border-top: 1px solid #e0e0e0;
+  animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.enhanced-representative-card .loading {
+  text-align: center;
+  color: #666;
+  padding: 20px;
+}
+
+.enhanced-representative-card .voting-record {
+  margin-bottom: 20px;
+}
+
+.enhanced-representative-card .voting-record h4 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 12px;
+}
+
+.enhanced-representative-card .votes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.enhanced-representative-card .vote-item {
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.enhanced-representative-card .vote-info {
+  flex: 1;
+}
+
+.enhanced-representative-card .vote-motion {
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
+.enhanced-representative-card .vote-date {
+  font-size: 12px;
+  color: #999;
+}
+
+.enhanced-representative-card .vote-stance {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.enhanced-representative-card .vote-option {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.enhanced-representative-card .vote-option.yes {
+  background: #d4edda;
+  color: #155724;
+}
+
+.enhanced-representative-card .vote-option.no {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+.enhanced-representative-card .vote-option.absent,
+.enhanced-representative-card .vote-option.abstain {
+  background: #e2e3e5;
+  color: #383d41;
+}
+
+.enhanced-representative-card .vote-result {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.enhanced-representative-card .vote-result.pass {
+  color: #28a745;
+}
+
+.enhanced-representative-card .vote-result.fail {
+  color: #dc3545;
+}
+
+.enhanced-representative-card .committee-memberships h4 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 12px;
+}
+
+.enhanced-representative-card .committee-info {
+  font-size: 14px;
+  color: #666;
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+}

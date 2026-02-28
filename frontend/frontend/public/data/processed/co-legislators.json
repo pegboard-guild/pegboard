@@ -1,0 +1,4042 @@
+{
+  "state": "co",
+  "state_name": "Colorado",
+  "legislators": [
+    {
+      "id": "ocd-person/45c957a4-0017-4c0c-8650-393d656fc5a0",
+      "name": "Alex Valdez",
+      "given_name": "Alex",
+      "family_name": "Valdez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "alex.valdez.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_valdez%2Calex.jpg?itok=NsEe2BaG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/alex-valdez",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Alex_Valdez_(Colorado)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Valdez"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/181727/alex-valdez"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/alex-valdez"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/34dbb5f1-239b-4924-911e-27ff91bde5cd",
+      "name": "Amy Paschal",
+      "given_name": "Amy",
+      "family_name": "Paschal",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "amy.paschal.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AmyPaschall24.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/amy-paschal"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Amy_Paschal"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/amy-paschal"
+        },
+        {
+          "url": "https://www.linkedin.com/in/amy-paschal"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/278f042b-4fe3-4325-ad59-bc240e4fda0c",
+      "name": "Andy Boesenecker",
+      "given_name": "Andy",
+      "family_name": "Boesenecker",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "andrew.boesenecker.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_boesenecker%2Candrew.jpg?itok=3jMO1y9L",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "53",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2021-04-28T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/andrew-boesenecker"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Andrew_Boesenecker"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrew_Boesenecker"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/andrew-boesenecker"
+        },
+        {
+          "url": "https://www.linkedin.com/in/andrew-boesenecker-477657134"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/561892b1-c618-43cb-9767-9237514f0a92",
+      "name": "Tony Hartsook",
+      "given_name": "Tony",
+      "family_name": "Hartsook",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "anthony.hartsook.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_hartsook%2Canthony.jpg?itok=jDCFtuOk",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "44",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/anthony-hartsook",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Anthony_Hartsook"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Anthony_Hartsook"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/anthony-hartsook"
+        },
+        {
+          "url": "https://www.linkedin.com/in/anthony-hartsook-a5a1ba3b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6d1fcaf0-ed3d-4772-876f-09dc5e931556",
+      "name": "Barbara Kirkmeyer",
+      "given_name": "Barbara",
+      "family_name": "Kirkmeyer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "barbara.kirkmeyer.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_kirkmeyer%2Cbarb-.jpg?itok=0RWY0AqY",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2021-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/barbara-kirkmeyer"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Barbara_Kirkmeyer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Barbara_Kirkmeyer"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/29991/barbara-kirkmeyer"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/barbara-kirkmeyer"
+        },
+        {
+          "url": "https://www.linkedin.com/in/barb-kirkmeyer-8173183b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ade56d2d-41d7-436d-b76b-85051f036c7a",
+      "name": "Bob Marshall",
+      "given_name": "Bob",
+      "family_name": "Marshall",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "bob.marshall.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_marshall%2C%20bob.jpg?itok=5ohSNQXK",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "43",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/bob-marshall",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Marshall_(Colorado)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/bob-marshall"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8",
+      "name": "Brandi Bradley",
+      "given_name": "Brandi",
+      "family_name": "Bradley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brandi.bradley.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_bradley%2Cbrandi.jpg?itok=gkSqfLu8",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/brandi-bradley",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brandi_Bradley"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/brandi-bradley"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fa9b604d-5981-4de1-97bc-9400e03909c9",
+      "name": "Brianna Titone",
+      "given_name": "Brianna",
+      "family_name": "Titone",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "brianna.titone.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_titone%2Cbrianna.jpg?itok=uJAlJK9O",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/brianna-titone",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brianna_Titone"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brianna_Titone"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/brianna-titone"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brianna-titone-36b1419"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
+      "name": "Byron Pelton",
+      "given_name": "Byron",
+      "family_name": "Pelton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "byron.pelton.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_pelton%2Cbyron-.jpg?itok=dSwGCsUR",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/byron-pelton",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Byron_Pelton"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Byron_Pelton"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/byron-pelton"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5f8d1bd0-329b-4a87-8d2f-cb62b8f2e921",
+      "name": "Carlos Barron",
+      "given_name": "Carlos",
+      "family_name": "Barron",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "carlos.barron.house@coleg.gov",
+      "image": "https://i0.wp.com/coloradocommunitymedia.com/wp-content/uploads/2024/10/7A10C326-743A-4DF1-9625-6E709398C30F-JF-Services-Inc-Office-e1728345969755.jpg?resize=150%2C150&ssl=1",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/carlos-barron"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carlos_Barron"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carlos_Barron_(politician)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/carlos-barron"
+        },
+        {
+          "url": "https://www.linkedin.com/in/representative-elect-carlos-barron-1664695a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
+      "name": "Cathy Kipp",
+      "given_name": "Cathy",
+      "family_name": "Kipp",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cathy.kipp.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_kipp%2Ccathy-.jpg?itok=5TZvGZWf",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "52",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-07T00:00:00.000Z",
+        "end_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/cathy-kipp",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cathy_Kipp"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/cathy-kipp"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cathy-kipp-009a3541"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a34a6b10-12d9-4109-86d1-76c311463333",
+      "name": "Cecelia Espenoza",
+      "given_name": "Cecelia",
+      "family_name": "Espenoza",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cecelia.espenoza.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/CeceliaEspenoza24.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/cecelia-espenoza"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cecelia_Espenoza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cecelia_Espenoza"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/cecelia-espenoza"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cecelia-espenoza"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/faaae748-7c57-47df-bdf7-1811e0a61458",
+      "name": "Chad Clifford",
+      "given_name": "Chad",
+      "family_name": "Clifford",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "chad.clifford.house@coleg.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2024-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/chad-clifford"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://leg.colorado.gov/legislators/chad-clifford"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chadclifford"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f72691ec-a5a0-413b-a344-e452009551a2",
+      "name": "Chris Kolker",
+      "given_name": "Chris",
+      "family_name": "Kolker",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "chris.kolker.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_kolker%2Cchris.jpg?itok=DVQOTDRw",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/chris-kolker"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Kolker"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Kolker"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/181774/chris-kolker"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/chris-kolker"
+        },
+        {
+          "url": "https://www.linkedin.com/in/christopher-kolker-7a07214"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0c428ee3-a327-4906-96c9-c46da7dfd7f1",
+      "name": "Chris Richardson",
+      "given_name": "Chris",
+      "family_name": "Richardson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.richardson.house@coleg.gov",
+      "image": "https://i0.wp.com/coloradocommunitymedia.com/wp-content/uploads/2022/10/20221012-100004-Richardson20for20Facebook.jpg?resize=1200%2C782&ssl=1",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "56",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/chris-richardson"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Richardson_(Colorado)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/chris-richardson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/christopher-richardson-163a372"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/715df6f2-cef6-4b88-b745-0207c8ffb4ff",
+      "name": "Cleave Simpson",
+      "given_name": "Cleave",
+      "family_name": "Simpson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cleave.simpson.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_simpson%2Ccleave.jpg?itok=tY6QiPQW",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/cleave-simpson"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cleave_Simpson_Jr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cleave_Simpson"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/cleave-simpson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cleave-simpson-48055038"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3818c80e-ca06-40d5-be21-ae570f6a21b5",
+      "name": "Dafna Michaelson Jenet",
+      "given_name": "Dafna",
+      "family_name": "Michaelson Jenet",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "dafna.michaelson.jenet.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_michaelson%20jenet%2Cdafna-.jpg?itok=3WaYGuub",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2021-01-13T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/dafna-michaelson-jenet"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dafna_Michaelson_Jenet"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dafna_Michaelson_Jenet"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169990/dafna-michaelson-jenet"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/dafna-michaelson-jenet"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dafnamichaelson"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/df050043-0b4f-4b51-8df0-ffd6cd6cd5b2",
+      "name": "Dan Woog",
+      "given_name": "Dan",
+      "family_name": "Woog",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dan.woog.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2022a_woog%2C%20dan.jpg?itok=VCcwkzOa",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "63",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2021-01-13T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/dan-woog",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dan_Woog"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dan_Woog"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/dan-woog"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dan-woog-9784b322"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f38f9f4b-9d3a-4e79-a96f-fab94d553d89",
+      "name": "Dusty Johnson",
+      "given_name": "Dusty",
+      "family_name": "Johnson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dustyforcolorado@gmail.com",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/DustyJohnsonCO.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "63",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/dusty-johnson"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dusty_Johnson_(Colorado)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/dusty-johnson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dusty-a-johnson-30a7b58b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad",
+      "name": "Dylan Roberts",
+      "given_name": "Dylan",
+      "family_name": "Roberts",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "dylan.roberts.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_roberts%2Cdylan.jpg?itok=reORJBqi",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/dylan-roberts"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dylan_Roberts"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dylan_Roberts"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179465/dylan-roberts"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/dylan-roberts"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dylan-roberts-b214b933"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c02b7bf5-a583-43c0-b6d6-2e757c7d42b7",
+      "name": "Eliza Hamrick",
+      "given_name": "Eliza",
+      "family_name": "Hamrick",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "eliza.hamrick.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_hamrick%2Celiza-.jpg?itok=x__dbth_",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "61",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/eliza-hamrick",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eliza_Hamrick"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/eliza-hamrick"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd50bf12-cf63-4a3d-a887-93008333e694",
+      "name": "Elizabeth Velasco",
+      "given_name": "Elizabeth",
+      "family_name": "Velasco",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "elizabeth.velasco.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_velasco%2Celizabeth.jpg?itok=y0rtvQsw",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "57",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/elizabeth-velasco",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elizabeth_Velasco"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_Velasco"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/elizabeth-velasco"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c8c1a9c5-c7c2-4894-8829-fc83251bcaf2",
+      "name": "Emily Sirota",
+      "given_name": "Emily",
+      "family_name": "Sirota",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "emily.sirota.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_sirota%2Cemily.jpg?itok=lU6YsziF",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/emily-sirota",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Emily_Sirota"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Emily_Sirota"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/emily-sirota"
+        },
+        {
+          "url": "https://www.linkedin.com/in/emilysirota"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d8091b89-e076-404f-a2a3-886f5cb9b89c",
+      "name": "Faith Winter",
+      "given_name": "Faith",
+      "family_name": "Winter",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "faith.winter.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_winter%2Cfaith.jpg?itok=Gj2wPzoG",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/faith-winter"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Faith_Winter"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Faith_Winter"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/faith-winter"
+        },
+        {
+          "url": "https://www.linkedin.com/in/faith-winter-44571a4"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e0edd86c-a50d-4e78-96ac-f3e8217de4a8",
+      "name": "Gretchen Rydin",
+      "given_name": "Gretchen",
+      "family_name": "Rydin",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "gretchen.rydin.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/GretchenRydin2024.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/gretchen-rydin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gretchen_Rydin"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/217161/gretchen-rydin"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/gretchen-rydin"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gretchen-rydin-32174b73"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/506f18ea-3611-408b-aa0e-73adf9681efe",
+      "name": "Iman Jodeh",
+      "given_name": "Iman",
+      "family_name": "Jodeh",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "iman.jodeh.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_jodeh%2C%20iman.jpg?itok=rVcBxpYT",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "41",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2021-01-13T00:00:00.000Z",
+        "end_date": "2025-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/iman-jodeh"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Iman_Jodeh"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Iman_Jodeh"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/iman-jodeh"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ijodeh"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/48d0af72-b21b-44a5-afc2-325b80f1c551",
+      "name": "Jacque Phillips",
+      "given_name": "Jacque",
+      "family_name": "Phillips",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jacqueline.phillips.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/jacque_phillips.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/jacqueline-phillips"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jacque_Phillips"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/jacqueline-phillips"
+        },
+        {
+          "url": "https://www.jacquephillips.com"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dr-jacque-phillips-esq-583b9512"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e4e1f1a9-7134-4d90-9fed-2aa7a0e3a307",
+      "name": "James Coleman",
+      "given_name": "James",
+      "family_name": "Coleman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "james.coleman.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_coleman%2Cjames.jpg?itok=U8FI_CeH",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2020-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/james-coleman"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/James_Coleman_(Colorado)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Coleman_(politician)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/james-coleman"
+        },
+        {
+          "url": "https://www.linkedin.com/in/james-coleman-54206612"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/09ef4f5a-7c9d-463a-8ab6-52c861f97a74",
+      "name": "Jamie Jackson",
+      "given_name": "Jamie",
+      "family_name": "Jackson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jamie.jackson.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jamie_Jackson_Colorado_House.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "41",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-27T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/jamie-jackson"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jamie_Jackson_(Colorado)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/jamie-jackson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jamie-jackson-denver"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2718c918-a38c-49c2-a120-5503164f959f",
+      "name": "Janice Marchman",
+      "given_name": "Janice",
+      "family_name": "Marchman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "janice.marchman.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_marchman%2Cjanice.jpg?itok=Of-P3JI-",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/janice-marchman",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Janice_Marchman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Janice_Marchman"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/janice-marchman"
+        },
+        {
+          "url": "https://www.linkedin.com/in/janice-marchman-a123a32b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6",
+      "name": "Janice Rich",
+      "given_name": "Janice",
+      "family_name": "Rich",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "janicerichsd7@gmail.com",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_rich%2Cjanice-.jpg?itok=2ZTgyDv7",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/janice-rich",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Janice_Rich"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Janice_Rich"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/181791/janice-rich"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/janice-rich"
+        },
+        {
+          "url": "https://www.linkedin.com/in/janice-rich-12205032"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/544a4247-320e-456a-b5dd-f0373bdad788",
+      "name": "Jarvis Caldwell",
+      "given_name": "Jarvis",
+      "family_name": "Caldwell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jarvis.caldwell.house@coleg.gov",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2023/12/jarvis-caldwell--200x300.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/jarvis-caldwell"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jarvis_Caldwell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jarvis_Caldwell"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/jarvis-caldwell"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jarvis-caldwell"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d2b25169-0772-4e97-aa9e-49f82f0f5d08",
+      "name": "Javier Mabrey",
+      "given_name": "Javier",
+      "family_name": "Mabrey",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "javier.mabrey.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_mabrey%2Cjavier-.jpg?itok=nfzx9teU",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/javier-mabrey",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Javier_Mabrey"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/206129/javier-mabrey"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/javier-mabrey"
+        },
+        {
+          "url": "https://www.linkedin.com/in/javier-mabrey-70571162"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c2cade07-9c95-4439-938c-77ac4ed44fab",
+      "name": "Jeff Bridges",
+      "given_name": "Jeff",
+      "family_name": "Bridges",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jeff.bridges.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_bridges%2Cjeff.jpg?itok=7ZsoC6-F",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2019-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/jeff-bridges"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeff_Bridges"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bridges_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169966/jeff-bridges"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/jeff-bridges"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeffbridges"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4aba3e11-9554-405d-b926-5435eb77fa26",
+      "name": "Jennifer Bacon",
+      "given_name": "Jennifer",
+      "family_name": "Bacon",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jennifer.bacon.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_bacon%2Cjennifer.jpg?itok=IifAHPYj",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2021-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/jennifer-bacon"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jennifer_Bacon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jennifer_Bacon"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/191820/jennifer-bacon"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/jennifer-bacon"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jennifer-bacon-303"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/655c629d-72f6-45d1-bd8f-a241e200d089",
+      "name": "Jenny Willford",
+      "given_name": "Jenny",
+      "family_name": "Willford",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jenny.willford.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_willford%2Cjenny.jpg?itok=ydfmMYJj",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z",
+        "end_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/jenny-willford",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jenny_Willford"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/jenny-willford"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jennyclaywillford"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c06af980-c553-4f79-a39d-295b7226f029",
+      "name": "Jessie Danielson",
+      "given_name": "Jessie",
+      "family_name": "Danielson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jessie.danielson.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_danielson%2Cjessie.jpg?itok=PNVRiYDq",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-04T00:00:00.000Z",
+        "end_date": "2023-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/jessie-danielson",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jessie_Danielson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jessie_Danielson"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/jessie-danielson"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8e95ac06-ddbb-4f6c-ba7e-854a92860be4",
+      "name": "John Carson",
+      "given_name": "John",
+      "family_name": "Carson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.carson.senate@coleg.gov",
+      "image": "https://i0.wp.com/coloradocommunitymedia.com/wp-content/uploads/2024/06/DCO-0613-Commissioner-D3-race-2.jpg?w=768&ssl=1",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/john-carson"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Carson_(Colorado)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Carson_(Colorado_politician)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/john-carson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/johnkcarson"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/829879ea-a9a3-42b6-8f5f-d209b1cc961d",
+      "name": "Judy Amabile",
+      "given_name": "Judy",
+      "family_name": "Amabile",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "judy.amabile.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_amabile%2Cjudy.jpg?itok=7ZbVKo7E",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/judy-amabile"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Judith_Amabile"
+        },
+        {
+          "url": "https://ballotpedia.org/Judy_Amabile"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Judy_Amabile"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/judy-amabile"
+        },
+        {
+          "url": "https://www.linkedin.com/in/judyamabilehd13"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8dae5ba5-6741-4aca-8c1e-24f014fda187",
+      "name": "Julie Gonzales",
+      "given_name": "Julie",
+      "family_name": "Gonzales",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "julie.gonzales.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_gonzales%2Cjulie.jpg?itok=YD-7SxZl",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/julie-gonzales",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Julie_Gonzales"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Julie_Gonzales"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/181717/julie-gonzales"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/julie-gonzales"
+        },
+        {
+          "url": "https://www.linkedin.com/in/julie-gonzales-50aa3556"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/53facaaf-5673-4c76-b15a-6b5061965ae1",
+      "name": "Julie McCluskie",
+      "given_name": "Julie",
+      "family_name": "McCluskie",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "julie.mccluskie.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_mccluskie%2C%20julie%20-%20speaker.jpg?itok=Gnk_5Fmt",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/julie-mccluskie",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Julie_McCluskie"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Julie_McCluskie"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/181795/julie-mccluskie"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/julie-mccluskie"
+        },
+        {
+          "url": "https://www.linkedin.com/in/juliemccluskie"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0c2271df-5808-42ff-9550-700f454b8b3a",
+      "name": "Junie Joseph",
+      "given_name": "Junie",
+      "family_name": "Joseph",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "junie.joseph.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_joseph%2Cjunie.jpg?itok=Lx4YgUSv",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/junie-joseph"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Junie_Joseph"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Junie_Joseph"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/junie-joseph"
+        },
+        {
+          "url": "https://www.linkedin.com/in/junie-j-27a44a75"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7631027c-2467-4112-8f03-abad6c6ed8f2",
+      "name": "Karen McCormick",
+      "given_name": "Karen",
+      "family_name": "McCormick",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "karen.mccormick.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_mccormick%2Ckaren.jpg?itok=b2GRKW9h",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2021-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/karen-mccormick"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Karen_McCormick"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Karen_McCormick"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/180213/karen-mccormick"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/karen-mccormick"
+        },
+        {
+          "url": "https://www.linkedin.com/in/karen-mccormick-dvm-2400a812"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fa06bf42-5305-4b04-95d0-a63f94ae8913",
+      "name": "Katie Stewart",
+      "given_name": "Katie",
+      "family_name": "Stewart",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "katie.stewart.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KatieStewart2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "59",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/katie-stewart"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Katie_Stewart_(Colorado)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/katie-stewart"
+        },
+        {
+          "url": "https://www.linkedin.com/in/katie-stewart-colorado"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f0fa561d-39cf-48f3-ae8c-84b4d30d2662",
+      "name": "Katie Wallace",
+      "given_name": "Katie",
+      "family_name": "Wallace",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "katie.wallace.senate@coleg.gov",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-03-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/katie-wallace"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Katie_Wallace"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Katie_Wallace"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/222022/katie-wallace"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/katie-wallace"
+        },
+        {
+          "url": "https://www.linkedin.com/in/wallace-katie"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/767c8676-7cf0-45bf-9e20-e615d4d13c5e",
+      "name": "Ken DeGraaf",
+      "given_name": "Ken",
+      "family_name": "DeGraaf",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ken.degraaf.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_degraaf%2Cken.jpg?itok=kBCJZk7B",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/ken-degraaf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kenneth_DeGraaf"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ken_DeGraaf"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/ken-degraaf"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f376a75e-e0b0-4bf7-95b1-0931ade3bdb8",
+      "name": "Kyle Brown",
+      "given_name": "Kyle",
+      "family_name": "Brown",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "kyle.brown.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_kyle%20brown.jpg?itok=wfdtmHtz",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-02-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/kyle-brown",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/kyle-brown"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kyle-brown-0905677"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
+      "name": "Kyle Mullica",
+      "given_name": "Kyle",
+      "family_name": "Mullica",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "kyle.mullica.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_mullica%2Ckyle.jpg?itok=8ek9BxJC",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/kyle-mullica",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kyle_Mullica"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kyle_Mullica"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148897/kyle-mullica"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/kyle-mullica"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kyle-mullica-51aa9629"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1",
+      "name": "Larry Liston",
+      "given_name": "Larry",
+      "family_name": "Liston",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "larry.liston.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_liston%2Clarry.jpg?itok=iMiSIx7h",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2020-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/larry-liston"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Larry_Liston"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_Liston"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/30002/larry-liston"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/larry-liston"
+        },
+        {
+          "url": "https://www.linkedin.com/in/larry-liston-12120410"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a2745e24-bcf2-40f8-aa77-fad08d873ab1",
+      "name": "Larry Suckla",
+      "given_name": "Larry",
+      "family_name": "Suckla",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "larry.suckla.house@coleg.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/larry-suckla"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Larry_Suckla"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_Don_Suckla"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/larry-suckla"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/475639af-fb56-4fde-9a78-213593db91d0",
+      "name": "Lesley Smith",
+      "given_name": "Lesley",
+      "family_name": "Smith",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lesley.smith.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lesley_Smith_20230524_083227.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "49",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/lesley-smith"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lesley_Smith_(Colorado)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lesley-smith"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lesley-smith-colorado"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d5ec869e-db7a-480f-b270-428805b90cee",
+      "name": "Lindsay Gilchrist",
+      "given_name": "Lindsay",
+      "family_name": "Gilchrist",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lindsay.gilchrist.house@coleg.gov",
+      "image": "https://images.squarespace-cdn.com/content/v1/5ea0cb44b06d660224de3cc9/1588045290088-U5X5Z0VC06EFGHN9K1AC/lindsay-gilchrist.jpg?format=500w",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/lindsay-gilchrist"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lindsay_Gilchrist"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lindsay-gilchrist"
+        },
+        {
+          "url": "https://www.gilchristandcompany.com/lindsay-gilchrist"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lindsay-gilchrist-5a373214"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2de0a3a1-a1e3-477f-88b9-3212fa52fb9c",
+      "name": "Lindsey Daugherty",
+      "given_name": "Lindsey",
+      "family_name": "Daugherty",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lindsey.daugherty.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_daugherty%2Clindsey.jpg?itok=27KHw-jU",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/lindsey-daugherty"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lindsey_Daugherty"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lindsey_Daugherty"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lindsey-daugherty"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lindsey-daugherty-6396aa21"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5226ebdd-0710-49da-b446-61fac19765ce",
+      "name": "Lisa Cutter",
+      "given_name": "Lisa",
+      "family_name": "Cutter",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lisa.cutter.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_cutter%2Clisa.jpg?itok=9pY76BLB",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/lisa-cutter",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lisa_Cutter"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lisa_Cutter"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/181764/lisa-cutter"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lisa-cutter"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lisa-cutter-8525413"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e1a861fa-2163-4ef5-a891-fc9d36c2504b",
+      "name": "Lisa Feret",
+      "given_name": "Lisa",
+      "family_name": "Feret",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lisa.feret.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lisa_Feret_20240622_065004.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/lisa-feret"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lisa_Feret"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lisa-feret"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lisaferet"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea",
+      "name": "Lisa Frizell",
+      "given_name": "Lisa",
+      "family_name": "Frizell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lisa.frizell.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_frizell%2Clisa.jpg?itok=1nUPX3uM",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z",
+        "end_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/lisa-frizell",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lisa_Frizell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lisa_Frizell"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/206207/lisa-frizell"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lisa-frizell"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lisa-frizell"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d7569723-ddde-4706-a857-422804198fa8",
+      "name": "Lorena García",
+      "given_name": "Lorena",
+      "family_name": "García",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lorena.garcia.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_garcia%2Clorena.jpg?itok=AB_Ecmz-",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/lorena-garc%C3%ADa",
+          "note": "homepage"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lorena-garcia",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lorena_Garcia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lorena_Garcia_(politician)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lorena-garc%C3%ADa"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lorena-garcia"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lorena-e-garcia"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d450c0d3-b829-4855-ad0d-1228c5284a4f",
+      "name": "Lori Sander",
+      "given_name": "Lori",
+      "family_name": "Sander",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lori garciasander.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LoriSander2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "65",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/lori-garcia-sander"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lori_Sander"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/217188/lori-garcia-sander"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lori-garcia-sander"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lori-garcia-sander-bb2552325"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e5055578-02cb-435c-9fe0-b877318e3b1b",
+      "name": "Lynda Zamora Wilson",
+      "given_name": "Lynda",
+      "family_name": "Zamora Wilson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lynda.zamorawilson.senate@coleg.gov",
+      "image": "https://img.legistorm.com/people/947/186947.jpg?rand=16679",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-07-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/lynda-zamora-wilson"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lynda_Zamora_Wilson"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/lynda-zamora-wilson"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lyndazamora"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2582d3dd-20c0-4d15-83a0-3b6dab1e98d2",
+      "name": "Mandy Lindsay",
+      "given_name": "Mandy",
+      "family_name": "Lindsay",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mandy.lindsay.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_lindsay%2Cmandy.jpg?itok=FHjKFjNG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2022-01-18T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/mandy-lindsay"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mandy_Lindsay"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/mandy-lindsay"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ce4bd827-c1bc-4736-a580-f4f0215e727d",
+      "name": "Manny Rutinel",
+      "given_name": "Manny",
+      "family_name": "Rutinel",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "manny.rutinel.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_rep%20rutinel%20v2.png?itok=m5Xp301H",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-10-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/manny-rutinel"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Manny_Rutinel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Manny_Rutinel"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/manny-rutinel"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mannyrutinel"
+        },
+        {
+          "url": "https://www.mannyforcolorado.com/meetmanny"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
+      "name": "Marc Catlin",
+      "given_name": "Marc",
+      "family_name": "Catlin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "marc.catlin.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_catlin%2Cmarc.jpg?itok=H8c5qcvv",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2017-01-11T00:00:00.000Z",
+        "end_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/marc-catlin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marc_Catlin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marc_Catlin"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/176449/marc-catlin"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/marc-catlin"
+        },
+        {
+          "url": "https://www.linkedin.com/in/marc-catlin-a35476b4"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5dbb7ac2-a4c8-42b8-bfb1-1b012737fa74",
+      "name": "Marc Snyder",
+      "given_name": "Marc",
+      "family_name": "Snyder",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "marc.snyder.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_snyder%2C%20marc.jpg?itok=H0ekSgX2",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-09T00:00:00.000Z",
+        "end_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/marc-snyder",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marc_Snyder"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marc_Snyder"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/181752/marc-snyder"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/marc-snyder"
+        },
+        {
+          "url": "https://www.linkedin.com/in/marc-snyder-5158716"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
+      "name": "Mark Baisley",
+      "given_name": "Mark",
+      "family_name": "Baisley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mark.baisley@senate.co.com",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_baisley%2Cmark.jpg?itok=_MDPUMlG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/mark-baisley",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Baisley"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_Baisley"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/66344/mark-baisley"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/mark-baisley"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mark-baisley-7946595"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162",
+      "name": "Mary Bradfield",
+      "given_name": "Mary",
+      "family_name": "Bradfield",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mary.bradfield.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_bradfield%2Cmary.jpg?itok=QsKqEtTp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2021-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/mary-bradfield"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mary_Bradfield"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary_Bradfield"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/191847/mary-bradfield"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/mary-bradfield"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4a72c7ee-c3e5-4c61-8e79-3301cb70a599",
+      "name": "Matt Ball",
+      "given_name": "Matt",
+      "family_name": "Ball",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "matt.ball.senate@coleg.gov",
+      "image": "https://images.squarespace-cdn.com/content/67330255adbf4c1a48d665b3/1732088535559-59YBHTFEFBLWVIPHRMDL/Matt+Ball+Headshot_park.jpeg?content-type=image%2Fjpeg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/matt-ball"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matt_Ball"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/matt-ball"
+        },
+        {
+          "url": "https://www.linkedin.com/in/matthew-ball-06385a261"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9e529237-916b-407c-a60e-abd8e0708329",
+      "name": "Matt Soper",
+      "given_name": "Matt",
+      "family_name": "Soper",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "matthew.soper.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_soper%2C%20matt.jpg?itok=n4TTkQb0",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "54",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/matt-soper",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matt_Soper"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Matt_Soper"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/181789/matt-soper"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/matt-soper"
+        },
+        {
+          "url": "https://www.linkedin.com/in/matthewsoper"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a",
+      "name": "Matt Martinez",
+      "given_name": "Matt",
+      "family_name": "Martinez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "matthew.martinez.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_martinez%2Cmatthew.jpg?itok=JOH2bZF1",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "62",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/matthew-martinez",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matthew_Martinez"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/matthew-martinez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/matthew-martinez-2a882094"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
+      "name": "Max Brooks",
+      "given_name": "Max",
+      "family_name": "Brooks",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "max.brooks.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MaxBrooks2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/max-brooks"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Max_Brooks"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Max_Brooks_(politician)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/max-brooks"
+        },
+        {
+          "url": "https://www.linkedin.com/in/maxbrooksmarketing"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8e6bc6cb-fe7e-4640-a938-eb32536e95c5",
+      "name": "Meg Froelich",
+      "given_name": "Meg",
+      "family_name": "Froelich",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "meg.froelich.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_froelich%2Cmeg.jpg?itok=YaGZpLnx",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/meg-froelich",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Meg_Froelich"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Meg_Froelich"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/meg-froelich"
+        },
+        {
+          "url": "https://www.linkedin.com/in/meg-froelich-2b6a823"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c1a18202-08ad-487f-99bb-b1a606c15a22",
+      "name": "Meghan Lukens",
+      "given_name": "Meghan",
+      "family_name": "Lukens",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "meghan.lukens.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_lukens%2Cmeghan.jpg?itok=uumAlRsU",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/meghan-lukens",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Meghan_Lukens"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/meghan-lukens"
+        },
+        {
+          "url": "https://www.linkedin.com/in/meghan-lukens-000a1513a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9c2accab-1bbf-495c-8036-137e48ba684d",
+      "name": "Michael Carter",
+      "given_name": "Michael",
+      "family_name": "Carter",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "michael.carter.house@coleg.gov",
+      "image": "https://aps.ss20.sharpschool.com/UserFiles/Servers/Server_3217444/Image/Board%20of%20Education/Members/Carter_Michael_152-200x300.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/michael-carter"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Carter_(Colorado)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/michael-carter"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michael-carter-82a0196"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b680cb39-442c-4dd2-81bd-88696cfe9df2",
+      "name": "Mike Weissman",
+      "given_name": "Mike",
+      "family_name": "Weissman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mike.weissman.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_weissman%2Cmike.jpg?itok=7RFIpBao",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2017-01-11T00:00:00.000Z",
+        "end_date": "2025-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/mike-weissman"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Weissman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Weissman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169997/mike-weissman"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/mike-weissman"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mjweissman"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d8b6809c-61d9-4ea3-b21b-c846051468c2",
+      "name": "Monica Duran",
+      "given_name": "Monica",
+      "family_name": "Duran",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "monica.duran.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_duran%2C%20monica.jpg?itok=weFukimD",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/monica-duran",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Monica_Duran"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Monica_Duran"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/173284/monica-duran"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/monica-duran"
+        },
+        {
+          "url": "https://www.linkedin.com/in/monica-duran-25a96726"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/64f01ef4-238f-4e48-9657-e221e0d030c0",
+      "name": "Naquetta Ricks",
+      "given_name": "Naquetta",
+      "family_name": "Ricks",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "naquetta.ricks.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_ricks%2Cnaquetta-.jpg?itok=ZtahH919",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2021-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/naquetta-ricks"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Naquetta_Ricks"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Naquetta_Ricks"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/191811/naquetta-ricks"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/naquetta-ricks"
+        },
+        {
+          "url": "https://www.linkedin.com/in/naquetta-ricks-mba-726a19b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4d753f6e-b7e3-420d-a684-e9a27f7ab27b",
+      "name": "Nick Hinrichsen",
+      "given_name": "Nick",
+      "family_name": "Hinrichsen",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "nick.hinrichsen.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_hinrichsen%2Cnick.jpg?itok=dwNkn_3k",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2022-02-28T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/nick-hinrichsen"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nick_Hinrichsen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nick_Hinrichsen"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/nick-hinrichsen"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nick-hinrichsen-b1722468"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/04df7ed2-3683-4e00-ae08-9660cd6d878b",
+      "name": "Rebecca Keltie",
+      "given_name": "Rebecca",
+      "family_name": "Keltie",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rebecca.keltie.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Rebecca_Keltie_new.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/rebecca-keltie"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rebecca_Keltie"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Keltie"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/rebecca-keltie"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rebecca-keltie-9155b63"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ef2507af-95ba-4a2f-84d5-84771785bfc2",
+      "name": "Rebekah Stewart",
+      "given_name": "Rebekah",
+      "family_name": "Stewart",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "rebekah.stewart.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RebekahStewart2024.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/rebekah-stewart"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rebekah_Stewart"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/rebekah-stewart"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rebekahforco"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rebekahkstewart"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d5be5146-f7a9-46eb-86f9-b0d1cebc4e9c",
+      "name": "Regina English",
+      "given_name": "Regina",
+      "family_name": "English",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "regina.english.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_english%2Cregina.jpg?itok=JnUXbH3O",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/regina-english"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Regina_English"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/regina-english"
+        },
+        {
+          "url": "https://www.linkedin.com/in/regina-english-1b4bb218"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5dae0c7f-430e-42a2-906d-9e177782f91b",
+      "name": "Rick Taggart",
+      "given_name": "Rick",
+      "family_name": "Taggart",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rick.taggart.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_taggartrick.jpg?itok=nCWfv2vG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "55",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/rick-taggart",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rick_Taggart"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rick_Taggart"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/rick-taggart"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rick-taggart-b3b44128"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ab377224-ab70-4c20-a535-baa429520e7c",
+      "name": "Robert Rodriguez",
+      "given_name": "Robert",
+      "family_name": "Rodriguez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "robert.rodriguez.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_rodriguez%2Crobert.jpg?itok=n2lsSdht",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/robert-rodriguez",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Rodriguez_(Colorado)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Rodriguez_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/181713/robert-rodriguez"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/robert-rodriguez"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d",
+      "name": "Rod Pelton",
+      "given_name": "Rod",
+      "family_name": "Pelton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rod.pelton.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_pelton%2C%20rod.jpg?itok=UiBGO0En",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "65",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/rod-pelton",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rod_Pelton"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rod_Pelton"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148937/rod-pelton"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/rod-pelton"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9b1256a4-11c6-4c9e-81e6-2e0a3c5871be",
+      "name": "Ron Weinberg",
+      "given_name": "Ron",
+      "family_name": "Weinberg",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ron.weinberg.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_rep%20ron%20weinberg.jpg?itok=7Z-RCYNp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/ron-weinberg",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ron_Weinberg"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/ron-weinberg"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ron-weinberg-03129371"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fff006df-2e97-49e4-a0a8-8ace6a38c3ac",
+      "name": "Rose Pugliese",
+      "given_name": "Rose",
+      "family_name": "Pugliese",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rose.pugliese.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_pugliese%2Crose.jpg?itok=u58QR1cb",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/rose-pugliese"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rose_Pugliese"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rose_Pugliese"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148997/rose-pugliese"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/rose-pugliese"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rose-pugliese-53751b150"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dd44278d-c02f-4c51-b686-ed8c85bb6718",
+      "name": "Ryan Armagost",
+      "given_name": "Ryan",
+      "family_name": "Armagost",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ryan.armagost.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_armagost%2Cryan.jpg?itok=XZOPNKg2",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "64",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/ryan-armagost",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ryan_Armagost"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ryan_Armagost"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/206242/ryan-armagost"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/ryan-armagost"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ryan-armagost-b0534395"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e7b1210b-3400-4ad4-a461-a55023e54042",
+      "name": "Ryan Gonzalez",
+      "given_name": "Ryan",
+      "family_name": "Gonzalez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ryan.gonzalez.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ryangonzalez.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "50",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/ryan-gonzalez"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ryan_Gonzalez"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/ryan-gonzalez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ryanagonzalez"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/66254480-6178-4312-8a18-268ec84153cc",
+      "name": "Scott Bottoms",
+      "given_name": "Scott",
+      "family_name": "Bottoms",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.bottoms.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_scott%20bottoms.jpg?itok=q9FETlLN",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/scott-bottoms"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Bottoms"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scott_Bottoms"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/scott-bottoms"
+        },
+        {
+          "url": "https://www.linkedin.com/in/scott-bottoms-48425b81"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fb530f21-a08e-473c-b215-9a4de6a86ee9",
+      "name": "Scott Bright",
+      "given_name": "Scott",
+      "family_name": "Bright",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.bright.senate@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ScottBright.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/scott-bright"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Bright_(Colorado)"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/scott-bright"
+        },
+        {
+          "url": "https://scottbright.net"
+        },
+        {
+          "url": "https://www.linkedin.com/in/scott-bright-6874378"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/56e058a4-2a75-4864-8d5e-18c1c98f6960",
+      "name": "Sean Camacho",
+      "given_name": "Sean",
+      "family_name": "Camacho",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sean.camacho.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SeanCamacho2024.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/sean-camacho"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sean_Camacho"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sean_Camacho"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/sean-camacho"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sean-camacho-86462063"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/308dfb14-bd0d-4e11-b86b-384960e3152c",
+      "name": "Shannon Bird",
+      "given_name": "Shannon",
+      "family_name": "Bird",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "shannon.bird.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_bird%2Cshannon.jpg?itok=CealA-8A",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/shannon-bird",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shannon_Bird"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shannon_Bird"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/173290/shannon-bird"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/shannon-bird"
+        },
+        {
+          "url": "https://www.linkedin.com/in/shannon-bird-7418b684"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b44045eb-e2fb-4723-9e91-d68fb55c0bf7",
+      "name": "Sheila Lieder",
+      "given_name": "Sheila",
+      "family_name": "Lieder",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sheila.lieder.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_lieder%2Csheila.jpg?itok=eytxsbcE",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/sheila-lieder",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sheila_Lieder"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/sheila-lieder"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sheilalieder"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3e7145a3-8729-497c-a168-db98d22cf015",
+      "name": "Stephanie Luck",
+      "given_name": "Stephanie",
+      "family_name": "Luck",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stephanie.luck.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_luck%2C%20stephanie.jpg?itok=b1DCrqcw",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/stephanie-luck"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephanie_Luck"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephanie_Luck"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/stephanie-luck"
+        },
+        {
+          "url": "https://www.linkedin.com/in/smluck"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/09af4a19-c07e-49b2-b320-104f3784705b",
+      "name": "Steven Woodrow",
+      "given_name": "Steven",
+      "family_name": "Woodrow",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "steven.woodrow.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_woodrow%2Csteven-.jpg?itok=s0Qxv3Oj",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/steven-woodrow"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steven_Woodrow"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steven_Woodrow"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/steven-woodrow"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stevenlezell"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/489b3afa-1e08-40f4-918a-f01c186b6f73",
+      "name": "Tammy Story",
+      "given_name": "Tammy",
+      "family_name": "Story",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "tammy.story.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_story%2Ctammy.jpg?itok=NP2YRnLu",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/tammy-story",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tammy_Story"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tammy_Story"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169987/tammy-story"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/tammy-story"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/851b5f31-0694-4674-a3b8-468b6eb1f0a8",
+      "name": "Tisha Mauro",
+      "given_name": "Tisha",
+      "family_name": "Mauro",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "tisha.mauro.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_t%20mauro.jpg?itok=05-hhChK",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "46",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/tisha-mauro",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tisha_Mauro"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/tisha-mauro"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tisha-mauro-248a5733"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dc9056b8-fb9c-4a66-99b8-210acce64bff",
+      "name": "Tom Sullivan",
+      "given_name": "Tom",
+      "family_name": "Sullivan",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "tom.sullivan.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_sullivan%2Ctom.jpg?itok=rbln5IBq",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/tom-sullivan",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tom_Sullivan_(Colorado)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Sullivan_(Colorado_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169958/tom-sullivan"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/tom-sullivan"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/473bd095-778d-4418-8e61-96a2b8005c8e",
+      "name": "Tony Exum",
+      "given_name": "Tony",
+      "family_name": "Exum",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "tony.exum.senate@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_exum%2Ctony%20sr.jpg?itok=NGfbn-0x",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/tony-exum",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Thomas_Exum,_Sr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Exum"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/tony-exum"
+        },
+        {
+          "url": "https://www.linkedin.com/in/exum4citycouncil"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f3cd2006-7729-41b0-a009-0c5cf64e95e0",
+      "name": "Ty Winter",
+      "given_name": "Ty",
+      "family_name": "Winter",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ty.winter.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_winter%2Cty.jpg?itok=aGQTR3tx",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/ty-winter",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ty_Winter"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ty_Winter"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/ty-winter"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e",
+      "name": "William Lindstedt",
+      "given_name": "William",
+      "family_name": "Lindstedt",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "william.lindstedt.house@coleg.gov",
+      "image": "http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_lindstedt%2Cwilliam.jpg?itok=UVhLAS88",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/william-lindstedt",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/William_Lindstedt"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/william-lindstedt"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e8a7d2a2-1907-450d-8c61-8c328839e922",
+      "name": "Yara Zokaie",
+      "given_name": "Yara",
+      "family_name": "Zokaie",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "yara.zokaie.house@coleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/yf.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "52",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:co/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/legislators/yara-zokaie"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Yara_Zokaie"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/191790/yara-zokaie"
+        },
+        {
+          "url": "https://leg.colorado.gov/legislators/yara-zokaie"
+        }
+      ]
+    }
+  ],
+  "count": 100,
+  "last_updated": "2025-09-14T02:00:52.344Z"
+}

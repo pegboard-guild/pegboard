@@ -1,0 +1,23 @@
+.hyperlocal-now { padding: 20px; }
+.hl-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+.hl-header h2 { margin: 0; font-size: 20px; font-weight: 700; }
+.hl-header p { margin: 4px 0 0 0; color: #6b7280; }
+.hl-zip { display: inline-flex; align-items: center; gap: 6px; background: #eff6ff; color: #1e40af; padding: 6px 10px; border-radius: 9999px; font-size: 12px; }
+.hl-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+.hl-card { background: white; border: 1px solid #e5e7eb; border-radius: 10px; padding: 12px; display: flex; flex-direction: column; gap: 8px; }
+.hl-card-head { display: flex; align-items: center; gap: 10px; }
+.hl-icon { width: 32px; height: 32px; background: #f3f4f6; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #111827; }
+.hl-title { flex: 1; }
+.hl-title h4 { margin: 0; font-size: 14px; font-weight: 600; color: #111827; }
+.hl-sub { font-size: 12px; color: #6b7280; }
+.hl-meta { display: flex; flex-wrap: wrap; gap: 10px; color: #374151; font-size: 12px; }
+.hl-meta svg { color: #9ca3af; }
+.hl-desc { margin: 0; color: #374151; font-size: 13px; }
+.hl-link { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; color: #1d4ed8; text-decoration: none; margin-top: 4px; }
+.hl-link:hover { text-decoration: underline; }
+.hl-badge { padding: 4px 8px; border-radius: 9999px; font-size: 11px; font-weight: 600; }
+.hl-badge.planned { background: #ede9fe; color: #6d28d9; }
+.hl-badge.progress { background: #fef3c7; color: #b45309; }
+.hl-badge.done { background: #d1fae5; color: #065f46; }
+.hl-empty { display: flex; align-items: center; gap: 8px; color: #6b7280; background: #f9fafb; border: 1px dashed #e5e7eb; border-radius: 10px; padding: 16px; }
+

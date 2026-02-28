@@ -1,0 +1,3729 @@
+{
+  "state": "ak",
+  "state_name": "Alaska",
+  "legislators": [
+    {
+      "id": "ocd-person/2a1a6b8f-1f9c-4a1b-9059-7b2f8cc93ed9",
+      "name": "Alyse Galvin",
+      "given_name": "Alyse",
+      "family_name": "Galvin",
+      "party": {
+        "name": "Independent"
+      },
+      "email": "representative.alyse.galvin@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/GAL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-galvin/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=gal"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=gal"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-galvin"
+        },
+        {
+          "url": "https://ballotpedia.org/Alyse_Galvin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alyse_Galvin"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=GAL"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=gal"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=gal"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7db414a5-dd7e-48a9-aba2-9c0204f93a5c",
+      "name": "Andi Story",
+      "given_name": "Andi",
+      "family_name": "Story",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.andi.story@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/STO.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-story/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=sto"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=sto"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=STO"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=sto"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=sto"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-story"
+        },
+        {
+          "url": "https://ballotpedia.org/Andi_Story"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andi_Story"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=STO"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=sto"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=sto"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/822df52b-f962-478d-8bf5-3bbe3c9dd811",
+      "name": "Andrew Gray",
+      "given_name": "Andrew",
+      "family_name": "Gray",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.andrew.gray@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/GRY.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-gray/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=gry"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=gry"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-gray"
+        },
+        {
+          "url": "https://ballotpedia.org/Andrew_Gray_(Alaska)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrew_Gray_(politician)"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=GRY"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=gry"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=gry"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e1989648-fdd3-4e88-a0f0-9e27e75c0f03",
+      "name": "Andy Josephson",
+      "given_name": "Andy",
+      "family_name": "Josephson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.andy.josephson@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/JOS.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep_josephson/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=jos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=jos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=jos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=jos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=jos"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep_josephson"
+        },
+        {
+          "url": "https://ballotpedia.org/Andrew_L._Josephson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andy_Josephson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/140434/andy-josephson"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=jos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=JOS"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=jos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=jos"
+        },
+        {
+          "url": "https://www.linkedin.com/in/andrew-josephson-34157829"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543",
+      "name": "Ashley Carrick",
+      "given_name": "Ashley",
+      "family_name": "Carrick",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.ashley.carrick@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/CAI.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-carrick/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=cai"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=cai"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-carrick"
+        },
+        {
+          "url": "https://ballotpedia.org/Ashley_Carrick"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=CAI"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=cai"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=cai"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ashley-carrick-a102a2119"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a160c8f2-f8a9-4429-9bc2-e14831545503",
+      "name": "Becky Schwanke",
+      "given_name": "Becky",
+      "family_name": "Schwanke",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.rebecca.schwanke@akleg.gov",
+      "image": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/3/e9/3e94520a-9536-11ef-bf77-632b9a4876c1/671f9b183c878.image.jpg?resize=424%2C500",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=scw"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Becky_Schwanke"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/218216/rebecca-schwanke"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=scw"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rebeccaschwanke"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285",
+      "name": "Bert Stedman",
+      "given_name": "Bert",
+      "family_name": "Stedman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.bert.stedman@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/SMN.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "R",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/stedman/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=smn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=smn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=smn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=smn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=smn"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/stedman"
+        },
+        {
+          "url": "https://ballotpedia.org/Bert_K._Stedman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bert_Stedman"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=smn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=SMN"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=smn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=smn"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/354dc869-cbaf-4298-89cd-c691c0f52a1e",
+      "name": "Bill Elam",
+      "given_name": "Bill",
+      "family_name": "Elam",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.bill.elam@akleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/BillElam2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=ela"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bill_Elam"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/196774/bill-elam"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=ela"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bill-elam-b6970213"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
+      "name": "Bill Wielechowski",
+      "given_name": "Bill",
+      "family_name": "Wielechowski",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.bill.wielechowski@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/WIE.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "H",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/wielechowski/"
+        },
+        {
+          "url": "https://senatorbill.org/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=wie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=wie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=wie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=wie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=wie"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/wielechowski"
+        },
+        {
+          "url": "https://ballotpedia.org/Bill_Wielechowski"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Wielechowski"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/68283/bill-wielechowski"
+        },
+        {
+          "url": "https://senatorbill.org"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=wie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=WIE"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=wie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=wie"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bill-wielechowski-641866"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc",
+      "name": "Bryce Edgmon",
+      "given_name": "Bryce",
+      "family_name": "Edgmon",
+      "party": {
+        "name": "Independent"
+      },
+      "email": "representative.bryce.edgmon@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/EDG.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2019-02-11T00:00:00.000Z",
+        "end_date": "2019-02-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-edgmon/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=edg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=edg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=edg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=edg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=edg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-edgmon"
+        },
+        {
+          "url": "https://ballotpedia.org/Bryce_E._Edgmon"
+        },
+        {
+          "url": "https://ballotpedia.org/Bryce_Edgmon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bryce_Edgmon"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/68319/bryce-edgmon"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=edg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=EDG"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=edg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=edg"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bryce-edgmon-8a05b765"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8ed150a0-45be-4844-abe5-d921c9f5a435",
+      "name": "Calvin Schrage",
+      "given_name": "Calvin",
+      "family_name": "Schrage",
+      "party": {
+        "name": "Independent"
+      },
+      "email": "representative.calvin.schrage@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/SCG.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-schrage/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=scg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=SCG"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=scg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=scg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-schrage"
+        },
+        {
+          "url": "https://ballotpedia.org/Calvin_Schrage"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Calvin_Schrage"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/194416/calvin-schrage"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=SCG"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=scg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=scg"
+        },
+        {
+          "url": "https://www.linkedin.com/in/calvinschrage"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c9bf1b47-3ed8-49e8-9535-2a7094c52d1a",
+      "name": "Carolyn Hall",
+      "given_name": "Carolyn",
+      "family_name": "Hall",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.carolyn.hall@akleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/CarolynHall2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hll"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carolyn_Hall"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hll"
+        },
+        {
+          "url": "https://www.jensenhall.com"
+        },
+        {
+          "url": "https://www.linkedin.com/in/carolyn-hall"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb",
+      "name": "Cathy Giessel",
+      "given_name": "Cathy",
+      "family_name": "Giessel",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.cathy.giessel@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/GIE.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "N",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2020-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/giessel/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=gie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=gie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=GIE"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=gie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=gie"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/giessel"
+        },
+        {
+          "url": "https://ballotpedia.org/Catherine_A._Giessel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cathy_Giessel"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117402/cathy-giessel"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=gie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=GIE"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=gie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=gie"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f1816065-31d1-4757-b8b9-714e15daeccf",
+      "name": "Cathy Tilton",
+      "given_name": "Cathy",
+      "family_name": "Tilton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.cathy.tilton@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/TLT.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-tilton/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=tlt"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=tlt"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=tlt"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=tlt"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=tlt"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-tilton"
+        },
+        {
+          "url": "https://ballotpedia.org/Cathy_L._Tilton"
+        },
+        {
+          "url": "https://cathytilton.com"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cathy_Tilton"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=tlt"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=TLT"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=tlt"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=tlt"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cathy-tilton-5b736744"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2",
+      "name": "Chuck Kopp",
+      "given_name": "Chuck",
+      "family_name": "Kopp",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.chuck.kopp@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/kop.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2021-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=kop"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=kop"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=kop"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Charles_M._Kopp"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chuck_Kopp"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/171542/charles-kopp"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=kop"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=kop"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chuck-kopp-b026097b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7dcdf7b8-530a-4b81-85b6-745af9224eb1",
+      "name": "Dan Saddler",
+      "given_name": "Dan",
+      "family_name": "Saddler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.dan.saddler@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/SAD.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2018-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-saddler/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=sad"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=SAD"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=sad"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=sad"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-saddler"
+        },
+        {
+          "url": "https://ballotpedia.org/Dan_Saddler"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dan_Saddler"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=sad"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=SAD"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=sad"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=sad"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dan-saddler-420a9aa5"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e1a32811-98f9-484f-8d4b-12df7eab4183",
+      "name": "David Nelson",
+      "given_name": "David",
+      "family_name": "Nelson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.david.nelson@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/ned.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=ned"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=ned"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Nelson_(Alaska)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Nelson_(Alaska_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/194410/david-nelson"
+        },
+        {
+          "url": "https://nelsonforalaska.com/meet-david"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=ned"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=ned"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025",
+      "name": "DeLena Johnson",
+      "given_name": "DeLena",
+      "family_name": "Johnson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.delena.johnson@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/JHS.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-d-johnson/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=jhs"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=jhs"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=jhs"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=JHS"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=jhs"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=jhs"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=jim"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-d-johnson"
+        },
+        {
+          "url": "https://ballotpedia.org/Delena_Johnson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/DeLena_Johnson"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=jhs"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=JHS"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=jhs"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=jhs"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=jim"
+        },
+        {
+          "url": "https://www.linkedin.com/in/delena-johnson-a7070248"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee",
+      "name": "Donna Mears",
+      "given_name": "Donna",
+      "family_name": "Mears",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.donna.mears@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/MEA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-mears/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mea"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mea"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-mears"
+        },
+        {
+          "url": "https://ballotpedia.org/Donna_Mears"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=MEA"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mea"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mea"
+        },
+        {
+          "url": "https://www.linkedin.com/in/donna-c-mears-p-e-0a30b0a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cd3ca264-553d-4e21-a993-e3f5097b1b77",
+      "name": "Donny Olson",
+      "given_name": "Donny",
+      "family_name": "Olson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.donald.olson@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/OLS.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "T",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2001-01-15T00:00:00.000Z",
+        "end_date": "2003-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/olson/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=ols"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=ols"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=ols"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=ols"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=ols"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/olson"
+        },
+        {
+          "url": "https://ballotpedia.org/Donald_C._Olson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Donny_Olson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/27314/donald-olson"
+        },
+        {
+          "url": "https://senatorolson.wordpress.com"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=ols"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=OLS"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=ols"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=ols"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6e6762ad-37ca-4166-982c-75aab9701d0c",
+      "name": "Elexie Moore",
+      "given_name": "Elexie",
+      "family_name": "Moore",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.elexie.moore@akleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ElexieMoore2024.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=moo"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elexie_Moore"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/218162/elexie-moore"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=moo"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2ba2d14f-a08a-4f05-a9d4-5ca63d09561e",
+      "name": "Elvi Gray-Jackson",
+      "given_name": "Elvi",
+      "family_name": "Gray-Jackson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.elvi.gray-jackson@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/GRA.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "I",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/gray-jackson/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=gra"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=gra"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=GRA"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=gra"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=gra"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/gray-jackson"
+        },
+        {
+          "url": "https://ballotpedia.org/Elvi_Gray-Jackson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Elvi_Gray-Jackson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/105212/elvi-gray-jackson"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=GRA"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=gra"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=gra"
+        },
+        {
+          "url": "https://www.linkedin.com/in/elvi-gray-jackson-6640983"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4511370e-1ac8-4135-a622-d5b533faeb43",
+      "name": "Forrest Dunbar",
+      "given_name": "Forrest",
+      "family_name": "Dunbar",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.forrest.dunbar@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/DNB.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "J",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/dunbar/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=dnb"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=dnb"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/dunbar"
+        },
+        {
+          "url": "https://ballotpedia.org/Forrest_Dunbar"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Forrest_Dunbar"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=DNB"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=dnb"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=dnb"
+        },
+        {
+          "url": "https://www.forrestdunbar.com"
+        },
+        {
+          "url": "https://www.linkedin.com/in/forrest-dunbar-4a61b113"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/498eadb3-9999-4055-9358-84ccfe64f788",
+      "name": "Frank Tomaszewski",
+      "given_name": "Frank",
+      "family_name": "Tomaszewski",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.frank.tomaszewski@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/TMZ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=tmz"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=tmz"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Frank_Tomaszewski"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=TMZ"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=tmz"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=tmz"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b",
+      "name": "Gary Stevens",
+      "given_name": "Gary",
+      "family_name": "Stevens",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.gary.stevens@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/STG.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "P",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=stg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=stg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=stg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=stg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=stg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gary_Stevens"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gary_Stevens_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/12784/gary-stevens"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=stg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=STG"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=stg"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=stg"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a1adb2e5-3c63-4032-81e8-9e787976ca63",
+      "name": "Genevieve Mina",
+      "given_name": "Genevieve",
+      "family_name": "Mina",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.genevieve.mina@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/MNA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-mina/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mna"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mna"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-mina"
+        },
+        {
+          "url": "https://ballotpedia.org/Genevieve_Mina"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Genevieve_Mina"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=MNA"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mna"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mna"
+        },
+        {
+          "url": "https://www.linkedin.com/in/genevieve-mina-04594592"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/627922d3-e631-4c32-841f-148f061b0c75",
+      "name": "George Rauscher",
+      "given_name": "George",
+      "family_name": "Rauscher",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.george.rauscher@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/RAU.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-rauscher/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=rau"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=rau"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=rau"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=RAU"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=rau"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=rau"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-rauscher"
+        },
+        {
+          "url": "https://ballotpedia.org/George_Rauscher"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Rauscher"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=rau"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=RAU"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=rau"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=rau"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f6cd7b64-a3f3-44ec-89a1-68c17fa6d4c9",
+      "name": "James Kaufman",
+      "given_name": "James",
+      "family_name": "Kaufman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.james.kaufman@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/KAU.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/kaufman/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=kau"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=KAU"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=kau"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=kau"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/kaufman"
+        },
+        {
+          "url": "https://ballotpedia.org/James_Kaufman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_D._Kaufman"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=KAU"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=kau"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=kau"
+        },
+        {
+          "url": "https://www.linkedin.com/in/james-kaufman-299042a"
+        },
+        {
+          "url": "https://www.senatorkaufman.com"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9d56634b-f2d0-43fe-b20e-ed2465b0ad9c",
+      "name": "Jamie Allard",
+      "given_name": "Jamie",
+      "family_name": "Allard",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.jamie.allard@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/ALR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-allard/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=alr"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=alr"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-allard"
+        },
+        {
+          "url": "https://ballotpedia.org/Jamie_Allard"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=ALR"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=alr"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=alr"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b2eaa848-d651-4521-9abb-21b68da5d5c6",
+      "name": "Jeremy Bynum",
+      "given_name": "Jeremy",
+      "family_name": "Bynum",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.jeremy.bynum@akleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/jbynum.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=byn"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeremy_Bynum"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/200111/jeremy-bynum"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=byn"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e14b5980-9a38-4420-8903-70738802edf6",
+      "name": "Jesse Bjorkman",
+      "given_name": "Jesse",
+      "family_name": "Bjorkman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.jesse.bjorkman@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/BJK.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "D",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/bjorkman/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=bjk"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=bjk"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/bjorkman"
+        },
+        {
+          "url": "https://ballotpedia.org/Jesse_Bjorkman"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=BJK"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=bjk"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=bjk"
+        },
+        {
+          "url": "https://www.votebjorkman.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a",
+      "name": "Jesse Kiehl",
+      "given_name": "Jesse",
+      "family_name": "Kiehl",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.jesse.kiehl@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/KIE.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "Q",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/kiehl/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=kie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=kie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=kie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=kie"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/kiehl"
+        },
+        {
+          "url": "https://ballotpedia.org/Jesse_Kiehl"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesse_Kiehl"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/141440/jesse-kiehl"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=KIE"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=kie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=kie"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jesse-kiehl-58a79615"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a5fc1d39-03f4-427f-9266-8baf789b6ac6",
+      "name": "Jubilee Underwood",
+      "given_name": "Jubilee",
+      "family_name": "Underwood",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.jubilee.underwood@akleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JubileeUnderwood2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=und"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jubilee_Underwood"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jubilee_Underwood"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/218161/jubilee-underwood"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=und"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jubileeunderwood"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a66f1539-56d3-458c-8ac0-3aff6907a69d",
+      "name": "Julie Coulombe",
+      "given_name": "Julie",
+      "family_name": "Coulombe",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.julie.coulombe@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/COU.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-coulombe/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=cou"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=cou"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-coulombe"
+        },
+        {
+          "url": "https://ballotpedia.org/Julie_Coulombe"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=COU"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=cou"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=cou"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/722ec3e9-7e0d-4dda-bf19-11d873df7031",
+      "name": "Justin Ruffridge",
+      "given_name": "Justin",
+      "family_name": "Ruffridge",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.justin.ruffridge@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/RUF.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-ruffridge/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=ruf"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=ruf"
+        },
+        {
+          "url": "https://www.repruffridge.com/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-ruffridge"
+        },
+        {
+          "url": "https://ballotpedia.org/Justin_Ruffridge"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=RUF"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=ruf"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=ruf"
+        },
+        {
+          "url": "https://www.linkedin.com/in/justin-ruffridge-a803a0133"
+        },
+        {
+          "url": "https://www.repruffridge.com"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ddad148b-d8ed-4eff-826d-3861709eb500",
+      "name": "Kelly Merrick",
+      "given_name": "Kelly",
+      "family_name": "Merrick",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.kelly.merrick@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/MRR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/merrick/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=mrr"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=mrr"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=MRR"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mrr"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mrr"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/merrick"
+        },
+        {
+          "url": "https://ballotpedia.org/Kelly_Merrick"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kelly_Merrick"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=MRR"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mrr"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mrr"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0160c6d2-4090-4143-8e23-f8501501bdd0",
+      "name": "Kevin McCabe",
+      "given_name": "Kevin",
+      "family_name": "McCabe",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.kevin.mccabe@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/MCA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-mccabe/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=mca"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mca"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mca"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-mccabe"
+        },
+        {
+          "url": "https://ballotpedia.org/Kevin_McCabe_(Alaska)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_J._McCabe"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/194398/kevin-mccabe"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=MCA"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mca"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mca"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kevin-mccabe-b28b341"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a669e6fd-ba4c-42db-b2e8-079600a60f58",
+      "name": "Ky Holland",
+      "given_name": "Ky",
+      "family_name": "Holland",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "representative.ky.holland@akleg.gov",
+      "image": "https://kyholland.com/wp-content/uploads/2024/04/Ky-headshot-new.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hla"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ky_Holland"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ky_Holland"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/219598/ky-holland"
+        },
+        {
+          "url": "https://kyholland.com"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hla"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kyholland"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c66c309d-1612-4eab-863c-59e34b643e2c",
+      "name": "Löki Tobin",
+      "given_name": "Löki",
+      "family_name": "Tobin",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.loki.tobin@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/TOB.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "I",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/tobin/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=tob"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=tob"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/tobin"
+        },
+        {
+          "url": "https://ballotpedia.org/Loki_Tobin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Löki_Tobin"
+        },
+        {
+          "url": "https://pridefoundation.org/team/gale-tobin"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=TOB"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=tob"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=tob"
+        },
+        {
+          "url": "https://www.linkedin.com/in/l%C3%B6ki-gale-tobin-ma-908674167"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56",
+      "name": "Louise Stutes",
+      "given_name": "Louise",
+      "family_name": "Stutes",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.louise.stutes@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/STS.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep_stutes"
+        },
+        {
+          "url": "https://akhouse.org/rep_stutes/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=sts"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=sts"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=sts"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=STS"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=sts"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=sts"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep_stutes"
+        },
+        {
+          "url": "https://ballotpedia.org/Louise_Stutes"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Louise_Stutes"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=sts"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=STS"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=sts"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=sts"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e187d603-9202-4f64-80b0-6366702aec11",
+      "name": "Lyman Hoffman",
+      "given_name": "Lyman",
+      "family_name": "Hoffman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.lyman.hoffman@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/HOF.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "S",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "1987-01-19T00:00:00.000Z",
+        "end_date": "1991-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/hoffman/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=hof"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=hof"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=hof"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=hof"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hof"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/hoffman"
+        },
+        {
+          "url": "https://ballotpedia.org/Lyman_Hoffman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lyman_Hoffman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/8816/lyman-hoffman"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=hof"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=HOF"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=hof"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hof"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lyman-hoffman-8291a536"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4",
+      "name": "Matt Claman",
+      "given_name": "Matt",
+      "family_name": "Claman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.matt.claman@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/CLA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://alaskasenate.org/matt-claman/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=cla"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=cla"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=cla"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=CLA"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=cla"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=cla"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://alaskasenate.org/matt-claman"
+        },
+        {
+          "url": "https://ballotpedia.org/Matt_Claman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Matt_Claman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/71396/matt-claman"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=cla"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=CLA"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=cla"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=cla"
+        },
+        {
+          "url": "https://www.linkedin.com/in/matt-claman-55440717"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5ef3ef20-0fd1-41a3-be56-7844d169bba8",
+      "name": "Maxine Dibert",
+      "given_name": "Maxine",
+      "family_name": "Dibert",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.maxine.dibert@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/DIB.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-dibert/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=dib"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=dib"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-dibert"
+        },
+        {
+          "url": "https://ballotpedia.org/Maxine_Dibert"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=DIB"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=dib"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=dib"
+        },
+        {
+          "url": "https://www.linkedin.com/in/maxine-dibert-52715566"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/aea19844-4572-4086-9462-e50ad3ff4b76",
+      "name": "Mia Costello",
+      "given_name": "Mia",
+      "family_name": "Costello",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.mia.costello@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/cos.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "K",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akleg.gov/legislator.php?id=cos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=cos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=cos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=cos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=cos"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akleg.gov/legislator.php?id=cos"
+        },
+        {
+          "url": "https://ballotpedia.org/Mia_Costello"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mia_Costello"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/117406/mia-costello"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=cos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=cos"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=cos"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mia-costello-6a0b118"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c50de9c3-90a3-4c6d-9003-50e12c6c5246",
+      "name": "Mike Cronk",
+      "given_name": "Mike",
+      "family_name": "Cronk",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.mike.cronk@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/CRN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-cronk/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=crn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=crn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=crn"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-cronk"
+        },
+        {
+          "url": "https://ballotpedia.org/Mike_Cronk"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Cronk"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/194392/mike-cronk"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=CRN"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=crn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=crn"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3f4670ef-c5b7-4a5b-bd91-9f8605a0affa",
+      "name": "Mike Prax",
+      "given_name": "Mike",
+      "family_name": "Prax",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.mike.prax@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/PRA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-prax/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=pra"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=pra"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=pra"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-prax"
+        },
+        {
+          "url": "https://ballotpedia.org/Glenn_Prax"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Prax"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=PRA"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=pra"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=pra"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f8593ecf-bd23-47b9-92e4-ae6910979e00",
+      "name": "Mike Shower",
+      "given_name": "Mike",
+      "family_name": "Shower",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.mike.shower@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/SHO.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "E",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akleg.gov/legislator.php?id=sho"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=sho"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=sho"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=sho"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=SHO"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=sho"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=sho"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akleg.gov/legislator.php?id=sho"
+        },
+        {
+          "url": "https://ballotpedia.org/Mike_Shower"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Shower"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=sho"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=sho"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=sho"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=SHO"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=sho"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-s-6b1b7833"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/14f39e67-1604-4eb4-8000-99c699f196a0",
+      "name": "Neal Foster",
+      "given_name": "Neal",
+      "family_name": "Foster",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.neal.foster@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/FON.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-foster/"
+        },
+        {
+          "url": "https://akleg.gov/legislator.php?id=fon"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=fon"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=fon"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=fon"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=fon"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=fon"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-foster"
+        },
+        {
+          "url": "https://akleg.gov/legislator.php?id=fon"
+        },
+        {
+          "url": "https://ballotpedia.org/Neal_Foster"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Neal_Foster"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/116449/neal-foster"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=fon"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=fon"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=FON"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=fon"
+        },
+        {
+          "url": "https://www.linkedin.com/in/neal-foster-78938b26"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1454451c-f821-4b6d-903e-07bef45ab0de",
+      "name": "Nellie Jimmie",
+      "given_name": "Nellie",
+      "family_name": "Jimmie",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.nellie.unangiq.jimmie@akleg.gov",
+      "image": "https://npr.brightspotcdn.com/dims4/default/41429e9/2147483647/strip/true/crop/6000x4000+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F2b%2F2bf76eb540a397e680305d5eac7d%2Fimg-2003.JPG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=jim"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nellie_Jimmie"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nellie_Jimmie"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/218218/nellie-jimmie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=jim"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9",
+      "name": "Rebecca Himschoot",
+      "given_name": "Rebecca",
+      "family_name": "Himschoot",
+      "party": {
+        "name": "Independent"
+      },
+      "email": "representative.rebecca.himschoot@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/HMS.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-himschoot/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=hms"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hms"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-himschoot"
+        },
+        {
+          "url": "https://ballotpedia.org/Rebecca_Himschoot"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Himschoot"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=HMS"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=hms"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hms"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rebecca-himschoot-64937b132"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/82334f7b-8119-4494-bf3e-a7ddb09536bd",
+      "name": "Rob Yundt",
+      "given_name": "Rob",
+      "family_name": "Yundt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.robert.yundt@akleg.gov",
+      "image": "https://ktna.org/wp-content/uploads/2023/06/YundtThumb.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "N",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=yun"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Yundt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Yundt"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/194395/robert-yundt-ii"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=yun"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-yundt-4a96b49a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/697cb834-6aa1-44f1-9c6e-9cf57ad30774",
+      "name": "Robert Myers",
+      "given_name": "Robert",
+      "family_name": "Myers",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.robert.myers@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/MYE.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=mye"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=MYE"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mye"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mye"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Myers_Jr._(Alaska)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Myers_Jr."
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=MYE"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=mye"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=mye"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c3b004d2-d62a-45de-a212-382396a20b59",
+      "name": "Robyn Burke",
+      "given_name": "Robyn",
+      "family_name": "Burke",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.robyn.burke@akleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RobynBurke2024.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=bur"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robyn_Burke"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robyn_Burke"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/218219/robyn-burke"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=bur"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robyn-niayuq-burke-20a378161"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d",
+      "name": "Sara Hannan",
+      "given_name": "Sara",
+      "family_name": "Hannan",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.sara.hannan@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/HNN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-hannan/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=hnn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=hnn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=hnn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hnn"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-hannan"
+        },
+        {
+          "url": "https://ballotpedia.org/Sara_Hannan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sara_Hannan"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=HNN"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=hnn"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hnn"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sara-hannan-a75774103"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e8756722-e9e9-4246-95e3-13019cb3bd50",
+      "name": "Sarah Vance",
+      "given_name": "Sarah",
+      "family_name": "Vance",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.sarah.vance@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/VAN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-vance/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=van"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=van"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=van"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=van"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-vance"
+        },
+        {
+          "url": "https://ballotpedia.org/Sarah_Vance_(Alaska)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sarah_Vance_(politician)"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=VAN"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=van"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=van"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c",
+      "name": "Scott Kawasaki",
+      "given_name": "Scott",
+      "family_name": "Kawasaki",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.scott.kawasaki@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/KAW.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://aksenatedems.com/sen-kawasaki/"
+        },
+        {
+          "url": "https://alaskasenate.org/kawasaki/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=kaw"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=kaw"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=kaw"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=kaw"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=kaw"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://aksenatedems.com/sen-kawasaki"
+        },
+        {
+          "url": "https://alaskasenate.org/kawasaki"
+        },
+        {
+          "url": "https://ballotpedia.org/Scott_Kawasaki"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scott_Kawasaki"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/27313/scott-kawasaki"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=kaw"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=KAW"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=kaw"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=kaw"
+        },
+        {
+          "url": "https://www.linkedin.com/in/scott-kawasaki-88539115"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f0e5bb6f-c8d1-43c1-a671-9c15d23781a1",
+      "name": "Shelley Hughes",
+      "given_name": "Shelley",
+      "family_name": "Hughes",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.shelley.hughes@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/HUS.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "F",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=hus"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/31?code=hus"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=hus"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=hus"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hus"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shelley_Hughes"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shelley_Hughes"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/140422/shelley-hughes"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/30?code=hus"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=HUS"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=hus"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hus"
+        },
+        {
+          "url": "https://www.linkedin.com/in/shelley-hughes-92937522"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/132c5970-0ed3-4a8c-baa9-2917196daedb",
+      "name": "Ted Eischeid",
+      "given_name": "Ted",
+      "family_name": "Eischeid",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.ted.eischeid@akleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ted_Eischeid2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2025-01-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=eis"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ted_Eischeid"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ted_Eischeid"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/164969/ted-eischeid"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=eis"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tedeischeid"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ede005ce-9d29-4b8e-8b24-b2136d05edf6",
+      "name": "Will Stapp",
+      "given_name": "Will",
+      "family_name": "Stapp",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "representative.will.stapp@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/SPP.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "start_date": "2023-01-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhousemajority.com/rep-stapp/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=spp"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=spp"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhousemajority.com/rep-stapp"
+        },
+        {
+          "url": "https://ballotpedia.org/Will_Stapp"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=SPP"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=spp"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=spp"
+        },
+        {
+          "url": "https://www.linkedin.com/in/will-stapp-a8ab2a44"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716",
+      "name": "Zack Fields",
+      "given_name": "Zack",
+      "family_name": "Fields",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "representative.zack.fields@akleg.gov",
+      "image": "http://akleg.gov/images/legislators/450x600/FIE.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ak/government",
+        "end_date": "2023-01-16T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://akhouse.org/rep-fields/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/32?code=fie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=fie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=fie"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akhouse.org/rep-fields"
+        },
+        {
+          "url": "https://ballotpedia.org/Zack_Fields_(Alaska)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Zack_Fields"
+        },
+        {
+          "url": "https://w3.akleg.gov"
+        },
+        {
+          "url": "https://w3.akleg.gov/"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/mbr_info.asp?session=33",
+          "note": "member list page"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=FIE"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/33?code=fie"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/Member/Detail/34?code=fie"
+        },
+        {
+          "url": "https://www.linkedin.com/in/zack-fields-1aab7912"
+        },
+        {
+          "url": "https://zackfields.blogspot.com"
+        }
+      ]
+    }
+  ],
+  "count": 60,
+  "last_updated": "2025-09-14T02:00:52.233Z"
+}

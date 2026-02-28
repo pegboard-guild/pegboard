@@ -1,0 +1,4842 @@
+{
+  "state": "az",
+  "state_name": "Arizona",
+  "legislators": [
+    {
+      "id": "ocd-person/c6a181c7-b58e-4c2a-aa2d-9ca31fc6548f",
+      "name": "Aaron Marquez",
+      "given_name": "Aaron",
+      "family_name": "Marquez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "amarquez@azleg.gov",
+      "image": "https://cmsv2-assets.apptegy.net/uploads/23522/file/3233138/f4ffcd47-cd48-4c93-a121-db3084965d55.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2355"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Aaron_Marquez"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2355"
+        },
+        {
+          "url": "https://www.linkedin.com/in/aaronmarquez"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/102ffcb1-3028-401f-b74f-6f45db25e05e",
+      "name": "Alexander Kolodin",
+      "given_name": "Alexander",
+      "family_name": "Kolodin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "akolodin@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Alexander_Kolodin.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2174"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2318"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2174"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2174"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Alexander_Kolodin"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/192510/alexander-kolodin"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2174"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2318"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/alexander-kolodin-16535222"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6dba6afa-b274-4273-b8c6-270d27214eee",
+      "name": "Alma Hernández",
+      "given_name": "Alma",
+      "family_name": "Hernández",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "ahernandez@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_A.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2033"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2312"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1893"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2033"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2033"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2168"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2168"
+        },
+        {
+          "url": "https://www.linkedin.com/in/alma-hernandez-48139a188/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCbBfWrdnhNiGe0NPq2j-3NQ/featured",
+          "note": "youtube"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Alma_Hernandez_(Arizona)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alma_Hernandez"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184546/alma-hernandez"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2033"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2312"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/alma-hernandez-a64b47156"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/87e6206a-c16e-4038-a86f-0d5c88b993e3",
+      "name": "Analise Ortiz",
+      "given_name": "Analise",
+      "family_name": "Ortiz",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "analise.ortiz@azleg.gov",
+      "image": "https://cdn.runforsomething.net/candidates/2022/04/campaign/2552.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z",
+        "end_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2178"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2178"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2178"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2384"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Analise_Ortiz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Analise_Ortiz"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205629/analise-ortiz"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2178"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2384"
+        },
+        {
+          "url": "https://www.linkedin.com/in/analise-ortiz"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2e9c0206-d392-48a3-a599-7f6d226527b7",
+      "name": "Anna Abeytia",
+      "given_name": "Anna",
+      "family_name": "Abeytia",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "aabeytia@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/ABEYTIA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2366"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Anna_Abeytia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Anna_Abeytia"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2366"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/81d12f3a-b635-4111-be8d-a71d2f7565f2",
+      "name": "Betty Villegas",
+      "given_name": "Betty",
+      "family_name": "Villegas",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "bvillegas@azleg.gov",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Betty_Villegas_by_Gage_Skidmore.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-07-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2274"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2346"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2274"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Betty_Villegas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Betty_Villegas"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184515/betty-villegas"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2274"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2346"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bettyvillegasaz"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/77be0e97-4c93-4332-a9f9-9348560fdf98",
+      "name": "Beverly Pingerelli",
+      "given_name": "Beverly",
+      "family_name": "Pingerelli",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bpingerelli@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PINGERELLI.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2071"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2333"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2071"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2071"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2191"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2191"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Beverly_Pingerelli"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Beverly_Pingerelli"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/192549/beverly-pingerelli"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2071"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2333"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/beverly-pingerelli-a20a3318"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b",
+      "name": "Brian Fernandez",
+      "given_name": "Brian",
+      "family_name": "Fernandez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "bfernandez@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/FERNANDEZ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2021-11-23T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2101"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2101"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2379"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2124"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2124"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Fernandez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brian_Fernandez_(politician)"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2101"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2379"
+        },
+        {
+          "url": "https://www.linkedin.com/in/briansfernandez"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c13f449f-0423-4ad5-836b-69913aad6600",
+      "name": "Brian Garcia",
+      "given_name": "Brian",
+      "family_name": "Garcia",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "bgarcia@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/GARCIA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2358"
+        },
+        {
+          "url": "https://www.legistorm.com/bo.php/core_person/edit/core_person_id/211707"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Garcia"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/216876/brian-garcia"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2358"
+        },
+        {
+          "url": "https://www.legistorm.com/bo.php/core_person/edit/core_person_id/211707"
+        },
+        {
+          "url": "https://www.linkedin.com/in/briangarciaaz"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/051cb7cf-e965-49a7-844a-a8830447df0c",
+      "name": "Carine Werner",
+      "given_name": "Carine",
+      "family_name": "Werner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cwerner@azleg.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164676.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2389"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carine_Werner"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carine_Werner"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2389"
+        },
+        {
+          "url": "https://www.linkedin.com/in/carinewerner"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6241112b-910b-4ad8-9c0d-9caad318874f",
+      "name": "Catherine Miranda",
+      "given_name": "Catherine",
+      "family_name": "Miranda",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cmiranda@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/MIRANDA.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2138"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2392"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2138"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2138"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Catherine_Miranda"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Catherine_Miranda"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2138"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2392"
+        },
+        {
+          "url": "https://www.linkedin.com/in/catherine-miranda-635ba6116"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b1da595a-8c97-42f8-ae58-694c17efa3f3",
+      "name": "Cesar Aguilar",
+      "given_name": "Cesar",
+      "family_name": "Aguilar",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "caguilar@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/AGUILAR.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2146"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2293"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2146"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2146"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cesar_Aguilar_(Arizona)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cesar_Aguilar"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2146"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2293"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cesar-aguilar-1904187a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9128a4e7-1464-483c-8642-0d878da05619",
+      "name": "Chris Lopez",
+      "given_name": "Chris",
+      "family_name": "Lopez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "clopez@azleg.gov",
+      "image": "https://images.squarespace-cdn.com/content/v1/651b0dc83f033107360db6a8/3cdfad91-9aeb-434f-ae53-bb6febf9025d/LOPEZ+STATE+FAIR.2+VERTICAL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Lopez_(Arizona)"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2364"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd",
+      "name": "Chris Mathis",
+      "given_name": "Chris",
+      "family_name": "Mathis",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cmathis@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/MATHIS.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2021-12-09T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2103"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2322"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2103"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2180"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2180"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Christopher_Mathis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christopher_Mathis"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2103"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2322"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/christopher-mathis-65347812"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0a4e4b0a-a16e-475b-8aa1-75088657d8c1",
+      "name": "Consuelo Hernandez",
+      "given_name": "Consuelo",
+      "family_name": "Hernandez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "chernandez@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Consuelo_Hernandez.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2169"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2313"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2169"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2169"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Consuelo_Hernandez"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2169"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2313"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/consuelo-hernandez-7aa21a3b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2",
+      "name": "Dave Farnsworth",
+      "given_name": "Dave",
+      "family_name": "Farnsworth",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dfarnsworth@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/FARNSWORTH.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2123"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2378"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2123"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2123"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Farnsworth"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dave_Farnsworth"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2123"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2378"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-farnsworth-748ba632"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/51520de4-0e87-475b-91d2-99aa18addf72",
+      "name": "David Gowan",
+      "given_name": "David",
+      "family_name": "Gowan",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dgowan@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/GOWAN.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1968"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2382"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2127"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2127"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Gowan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Gowan_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/28241/david-gowan-sr"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1968"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2382"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-gowan-912b2518"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6e8f2c0d-c9d3-4cb5-ae59-5264cb6d61a7",
+      "name": "David Livingston",
+      "given_name": "David",
+      "family_name": "Livingston",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dlivingston@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/LIVINGSTON.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&legislator=2175&session=128"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2319"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2175"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2175"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1976"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=54&session=122&legislator=1938"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1976"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1976"
+        },
+        {
+          "url": "https://www.linkedin.com/in/davidalivingston/",
+          "note": "linkedin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Livingston"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Livingston_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/141496/david-livingston"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&legislator=2175&session=128"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2319"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1976"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-livingston-32179052"
+        },
+        {
+          "url": "https://www.linkedin.com/in/davidalivingston"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8bc6f450-7fc4-4258-bf5a-86465e85b9fb",
+      "name": "David Marshall",
+      "given_name": "David",
+      "family_name": "Marshall",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dmarshall@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/MARSHALL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2179"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2179"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Marshall_(Arizona)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Marshall_(Arizona_politician)"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2179"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f0175b18-52a0-407d-af38-c1fe118e209d",
+      "name": "Mitzi Epstein",
+      "given_name": "Mitzi",
+      "family_name": "Epstein",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mepstein@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/EPSTEIN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1881"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2022"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2022"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2122"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2377"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2122"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2122"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mitziepstein/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCY91YAoAbmGYtBtz0tTQCMw",
+          "note": "youtube"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Denise_Epstein"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Denise_Epstein"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/153884/mitzi-epstein"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2122"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2377"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mitziepstein"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/93db82ca-c8b1-43e4-98ce-ba52f4d0f635",
+      "name": "Elda Luna-Nájera",
+      "given_name": "Elda",
+      "family_name": "Luna-Nájera",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "eluna-najera@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/EldaLunaNajera2024.JPG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2024-03-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2281"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2349"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elda_Luna-N%C3%A1jera"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Elda_Luna-N%C3%A1jera"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2281"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2349"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e1cd66fa-a0de-45fd-ae53-a4db7d178d21",
+      "name": "Eva Diaz",
+      "given_name": "Eva",
+      "family_name": "Diaz",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "eva.diaz@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/DIAZ.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2121"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2376"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2121"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2121"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eva_Diaz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eva_Diaz_(Arizona_politician)"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2121"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2376"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/36cc8d88-e944-4889-b8ab-cf5610f3f03e",
+      "name": "Flavio Bravo",
+      "given_name": "Flavio",
+      "family_name": "Bravo",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "fbravo@azleg.gov",
+      "image": "https://chci.org/wp-content/uploads/2019/09/Bravo-Flavio.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-05-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2150"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2271"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2399"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2271"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2271"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Flavio_Bravo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Flavio_Bravo"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2271"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2399"
+        },
+        {
+          "url": "https://www.linkedin.com/in/flaviogbravo"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/faca0001-6681-450b-9577-6185f4f49a3d",
+      "name": "Frank Carroll",
+      "given_name": "Frank",
+      "family_name": "Carroll",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "fcarroll@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/CARROLL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1906"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2046"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2046"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2120"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2375"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2120"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2120"
+        },
+        {
+          "url": "https://www.linkedin.com/in/frank-carroll-b1b2a821/",
+          "note": "linkedin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Frank_Carroll"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Carroll_(Arizona_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184604/frank-carroll"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2120"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2375"
+        },
+        {
+          "url": "https://www.linkedin.com/in/frank-carroll-b1b2a821"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed",
+      "name": "Gail Griffin",
+      "given_name": "Gail",
+      "family_name": "Griffin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ggriffin@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRIFFIN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2053"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2309"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1913"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2053"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2053"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2164"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2164"
+        },
+        {
+          "url": "https://www.legistorm.com/bo.php/core_person/edit/core_person_id/189190"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gail_Griffin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gail_Griffin"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/12274/gail-griffin"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2053"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2309"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.legistorm.com/bo.php/core_person/edit/core_person_id/189190"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a739b3e9-8161-4b10-b007-3d1e90de791f",
+      "name": "Hildy Angius",
+      "given_name": "Hildy",
+      "family_name": "Angius",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hangius@azleg.gov",
+      "image": "https://www.azvoterguide.com/wp-content/uploads/2024/06/photo1.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2373"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Hildy_Angius"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hildy_Angius"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/156980/hildy-angius"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2373"
+        },
+        {
+          "url": "https://www.linkedin.com/in/hildy-angius-0b9a7a1a1"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/35f7056c-9f29-4b66-9ae0-f041fe6e7e05",
+      "name": "Jake Hoffman",
+      "given_name": "Jake",
+      "family_name": "Hoffman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jake.hoffman@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/HOFFMAN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2066"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2066"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2130"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2385"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2130"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2130"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jake_Hoffman_(Arizona)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jake_Hoffman_(Arizona_politician)"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2130"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2385"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jakemhoffman"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/70f55f83-fed8-497f-86a9-94b6d428b9b4",
+      "name": "James Taylor",
+      "given_name": "James",
+      "family_name": "Taylor",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jtaylor@azleg.gov",
+      "image": "https://www.azcentral.com/gcdn/authoring/authoring-images/2024/05/29/PPHX/73887409007-james-taylor-gop-candidate-for-the-arizona-house-of-representatives-in-ld-29.jpg?width=300&height=359&fit=crop&format=pjpg&auto=webp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2370"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/James_Taylor_(Arizona)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Taylor_(Arizona_politician)"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2370"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9",
+      "name": "Janae Shamp",
+      "given_name": "Janae",
+      "family_name": "Shamp",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jshamp@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/SHAMP.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2141"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2395"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2141"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2141"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Janae_Shamp"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Janae_Shamp"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2141"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2395"
+        },
+        {
+          "url": "https://www.linkedin.com/in/janae-shamp-44b07a339"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/acfd8972-7a82-41f3-9fd7-0993cfa7365c",
+      "name": "Janeen Connolly",
+      "given_name": "Janeen",
+      "family_name": "Connolly",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jconnolly@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JaneenConnolly2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2357"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Janeen_Connolly"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Janeen_Connolly"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2357"
+        },
+        {
+          "url": "https://www.linkedin.com/in/janeen-connolly-formerly-rohovit-38963a213"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/06adeea1-c37c-4dd1-8be5-92e9b5d3556e",
+      "name": "J.D. Mesnard",
+      "given_name": "J.D.",
+      "family_name": "Mesnard",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jmesnard@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/MESNARD.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2021-01-11T00:00:00.000Z",
+        "end_date": "2023-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2137"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2391"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=54&session=122&legislator=1933"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1971"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1971"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2137"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2137"
+        },
+        {
+          "url": "https://www.linkedin.com/in/javanmesnard/",
+          "note": "linkedin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/J.D._Mesnard"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/J._D._Mesnard"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2137"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2391"
+        },
+        {
+          "url": "https://www.linkedin.com/in/javanmesnard"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce",
+      "name": "Jeff Weninger",
+      "given_name": "Jeff",
+      "family_name": "Weninger",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jweninger@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WENINGER.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2361"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1874"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2015"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2015"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeffweninger/",
+          "note": "linkedin"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCcXrPdn1aEt8ZiiQ1IliB2A",
+          "note": "youtube"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeff_Weninger"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeff_Weninger"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/71915/jeff-weninger"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2361"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeffweninger"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fd68e4c2-0463-477c-81ea-e2e36273e12b",
+      "name": "John Gillette",
+      "given_name": "John",
+      "family_name": "Gillette",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jgillette@azleg.gov",
+      "image": "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/6/1b/61ba5bf8-e969-11e5-953b-3ba1ad504638/56e5e78dbc277.image.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2161"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2306"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2161"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2161"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Gillette"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2161"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2306"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea",
+      "name": "John Kavanagh",
+      "given_name": "John",
+      "family_name": "Kavanagh",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jkavanagh@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAVANAGH.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2056"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1916"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2056"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2056"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2386"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2132"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2132"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Kavanagh"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Kavanagh_(Arizona_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/68209/john-kavanagh"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2056"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2386"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2cfee9f0-0fab-418e-b14e-0e001a1414fa",
+      "name": "Joseph Chaplik",
+      "given_name": "Joseph",
+      "family_name": "Chaplik",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jchaplik@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CHAPLIK.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2058"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2299"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2058"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2058"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2154"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2154"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joseph_Chaplik"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Chaplik"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2058"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2299"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/josephchaplik"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab",
+      "name": "Julie Willoughby",
+      "given_name": "Julie",
+      "family_name": "Willoughby",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jwilloughby@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/WILLOUGHBY.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-05-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2270"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2344"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2270"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2270"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Julie_Willoughby"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Julie_Willoughby"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184592/julie-willoughby"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2270"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2344"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/julie-willoughby-b3a6791a4"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/94895484-6eda-42d7-823b-a4eab17071e8",
+      "name": "Junelle Cavero",
+      "given_name": "Junelle",
+      "family_name": "Cavero",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jcavero@azleg.gov",
+      "image": "https://static.wixstatic.com/media/d096d8_c9a25023041540c296a3b81e09b137e8~mv2.png/v1/crop/x_0,y_247,w_2800,h_2553/fill/w_327,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Junelle%20Cavero_KO.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2024-04-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2287"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2351"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Junelle_Cavero"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Junelle_Cavero"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205549/junelle-cavero"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2287"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2351"
+        },
+        {
+          "url": "https://www.linkedin.com/in/junellecavero"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/448cb969-a498-4826-ad1e-c443fe9b8057",
+      "name": "Justin Olson",
+      "given_name": "Justin",
+      "family_name": "Olson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jolson@azleg.gov",
+      "image": "http://www.azleg.gov/alisImages/MemberPhotos/51leg/House/OLSON.gif",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&legislator=2359"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Justin_Olson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Justin_Olson"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&legislator=2359"
+        },
+        {
+          "url": "https://www.linkedin.com/in/justin-olson-3938585a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869",
+      "name": "Justin Wilmeth",
+      "given_name": "Justin",
+      "family_name": "Wilmeth",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jwilmeth@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WILMETH.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2068"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2342"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2068"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2068"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2205"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2205"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Justin_Wilmeth"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Justin_Wilmeth"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2068"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2342"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jcwilmeth"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4b336587-cb71-4a49-9cf8-514cdd2771ff",
+      "name": "Kevin Payne",
+      "given_name": "Kevin",
+      "family_name": "Payne",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kpayne@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PAYNE.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2017-01-09T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2023"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1882"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2023"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2023"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2188"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2188"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2387"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kevin_Payne"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Payne_(politician)"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2023"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2387"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kevin-payne-32a61895"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/183af2d0-dd61-476d-873f-305ae591968f",
+      "name": "Kevin Volk",
+      "given_name": "Kevin",
+      "family_name": "Volk",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "kvolk@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Alyssa_Perrini_20240808_093111.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2365"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kevin_Volk"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2365"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kevinvolk"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd3fb0ce-720a-4137-bd45-87fb6bcf8649",
+      "name": "Khyl Powell",
+      "given_name": "Khyl",
+      "family_name": "Powell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kpowell@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Khyl_Powell_20240619_062043.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2362"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Khyl_Powell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Khyl_Powell"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/216888/khyl-powell"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2362"
+        },
+        {
+          "url": "https://www.linkedin.com/in/khyl-powell-2bb84a11"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/78fce9ac-3aa4-484f-b345-f55bbbf9db9b",
+      "name": "Kiana Sears",
+      "given_name": "Kiana",
+      "family_name": "Sears",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "ksears@azleg.gov",
+      "image": "https://www.azcentral.com/gcdn/authoring/authoring-images/2024/07/09/PPHX/74340559007-kiana-sears-headshot.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-03-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2415"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kiana_Sears"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2415"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kiana-maria-sears"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/159091af-9aa8-4cb8-8c9c-9e20ba83c0ed",
+      "name": "Lauren Kuby",
+      "given_name": "Lauren",
+      "family_name": "Kuby",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lkuby@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LaurenKuby24.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2390"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lauren_Kuby"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lauren_Kuby"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2390"
+        },
+        {
+          "url": "https://www.linkedin.com/in/laurenkuby"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/45d0b998-57ed-4c6f-ae22-bdbc4262f3e3",
+      "name": "Laurin Hendrix",
+      "given_name": "Laurin",
+      "family_name": "Hendrix",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lhendrix@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/HENDRIX.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2009-01-01T00:00:00.000Z",
+        "end_date": "2010-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2172"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2316"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2172"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2172"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Laurin_Hendrix"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Laurin_Hendrix"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/106551/laurin-hendrix"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2172"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2316"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster.asp?Session_ID=89&body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/laurin-hendrix-8242166b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/030638cb-5fcd-4637-8c59-c129e28db988",
+      "name": "Lela Alston",
+      "given_name": "Lela",
+      "family_name": "Alston",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lalston@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/ALSTON.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1978"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2371"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2116"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2116"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lela_Alston"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lela_Alston"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/123722/lela-alston"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1978"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2371"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/433aab5d-35be-48cc-80a9-f468d5279022",
+      "name": "Leo Biasiucci",
+      "given_name": "Leo",
+      "family_name": "Biasiucci",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lbiasiucci@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BIASIUCCI.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2034"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2294"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1894"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2034"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2034"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2147"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2147"
+        },
+        {
+          "url": "https://www.linkedin.com/in/leo4azhouse/",
+          "note": "linkedin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Leo_Biasiucci"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Leo_Biasiucci"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/171694/leo-biasiucci"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2034"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2294"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/leo4azhouse"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/981d0aee-d239-4acc-9da8-1332481e57ee",
+      "name": "Lisa Fink",
+      "given_name": "Lisa",
+      "family_name": "Fink",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lfink@azleg.gov",
+      "image": "https://www.azvoterguide.com/wp-content/uploads/2024/06/Fink16-photo.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2369"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lisa_Fink"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2369"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lisa-fink-11a05413"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/90a36fec-df56-4f22-bf16-790866d5b227",
+      "name": "Lorena Austin",
+      "given_name": "Lorena",
+      "family_name": "Austin",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "laustin@azleg.gov",
+      "image": "https://thestoryexchange.org/app/uploads/2022/08/Lorena-Austin.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2206"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2343"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2206"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2206"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lorena_Austin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lorena_Austin"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2206"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2343"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lorenaaustinaz"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c",
+      "name": "Lupe Contreras",
+      "given_name": "Lupe",
+      "family_name": "Contreras",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lcontreras@azleg.gov",
+      "image": "https://npr.brightspotcdn.com/dims4/default/ccf2d8e/2147483647/strip/true/crop/189x266+0+0/resize/880x1239!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fknau%2Ffiles%2F202004%2Flupe_contreras.jpeg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2156"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2301"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2156"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2156"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=54&session=122&legislator=1935"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1973"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1973"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lupe_Contreras"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lupe_Contreras"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/141487/lupe-contreras"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2156"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2301"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5",
+      "name": "Lupe Diaz",
+      "given_name": "Lupe",
+      "family_name": "Diaz",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ldiaz@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DIAZ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2021-11-23T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2100"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2304"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2100"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2159"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2159"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lupe_Diaz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lupe_Diaz"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2100"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2304"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lupediaz"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7a33e2bd-8394-45d9-967b-0c39430ff39b",
+      "name": "Lydia Hernandez",
+      "given_name": "Lydia",
+      "family_name": "Hernandez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "lhernandez@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lydia_Hernandez.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2170"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2314"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2170"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2170"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lydia_Hernandez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lydia_Hernandez"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2170"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2314"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lydia-hernandez-34619232"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bcc217f5-fe08-4213-b8a5-78d1e4d64184",
+      "name": "Mae Peshlakai",
+      "given_name": "Mae",
+      "family_name": "Peshlakai",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mpeshlakai@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/PESHLAKAI.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2190"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2332"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2190"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2190"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mae_Peshlakai"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mae_Peshlakai"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2190"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2332"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3b6fa6b2-0a60-4f2e-9fd8-0882b04d9e0b",
+      "name": "Mariana Sandoval",
+      "given_name": "Mariana",
+      "family_name": "Sandoval",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "msandoval@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/SANDOVAL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2194"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2334"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2194"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2194"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mariana_Sandoval"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mariana_Sandoval"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/192539/mariana-sandoval"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2194"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2334"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08",
+      "name": "Mark Finchem",
+      "given_name": "Mark",
+      "family_name": "Finchem",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mfinchem@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/FINCHEM.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1865"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2006"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2006"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2372"
+        },
+        {
+          "url": "https://www.linkedin.com/in/markfinchem/",
+          "note": "linkedin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Finchem"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_Finchem"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/153852/mark-finchem"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2372"
+        },
+        {
+          "url": "https://www.linkedin.com/in/markfinchem"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f",
+      "name": "Matt Gress",
+      "given_name": "Matt",
+      "family_name": "Gress",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mgress@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MattGress.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2163"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2308"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2163"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2163"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matt_Gress"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Matt_Gress"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2163"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2308"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mattgress"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3",
+      "name": "Michael Carbone",
+      "given_name": "Michael",
+      "family_name": "Carbone",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mcarbone@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/CARBONE.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2153"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2298"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2153"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2153"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Carbone"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Carbone"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2153"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2298"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/555adc5f-cc3a-46b1-a00b-8fb209bc457e",
+      "name": "Michael Way",
+      "given_name": "Michael",
+      "family_name": "Way",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mway@azleg.gov",
+      "image": "https://azcapitoltimes.com/wp-content/blogs.dir/1/files/2024/08/Michael-Way.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2363"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Way"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2363"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michael-way-783066a1"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/68c38dfc-a12b-4c51-8b70-c4e02931cddf",
+      "name": "Michele Peña",
+      "given_name": "Michele",
+      "family_name": "Peña",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mpena@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MichelePena.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2189"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2331"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2189"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2189"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michele_Pena"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michele_Pena"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2189"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2331"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a437a3ce-e3ba-44ec-af75-3308e70f5a87",
+      "name": "Myron Tsosie",
+      "given_name": "Myron",
+      "family_name": "Tsosie",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mtsosie@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/TSOSIE.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2037"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2341"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1897"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2037"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2037"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2204"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2204"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Myron_Tsosie"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Myron_Tsosie"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184557/myron-tsosie"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2037"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2341"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/myron-tsosie-1a240574"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f9216229-6490-412d-aa30-8baac5c2be3e",
+      "name": "Nancy Gutierrez",
+      "given_name": "Nancy",
+      "family_name": "Gutierrez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "ngutierrez@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/GUTIERREZ.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2165"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2310"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2165"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2165"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nancy_Gutierrez"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205615/nancy-gutierrez"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2165"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2310"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nancy-gutierrez-0268253a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/17f344ec-ffe3-46fe-ba7a-8efdc5fbf2fd",
+      "name": "Neal Carter",
+      "given_name": "Neal",
+      "family_name": "Carter",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ncarter@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CARTER.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2021-11-05T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2098"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2297"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2098"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2152"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2152"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Neal_Carter"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Neal_Carter_(politician)"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2098"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2297"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nealcarterpodcast"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8595d83f-1e95-4c0d-8c24-100a4a763a8f",
+      "name": "Nick Kupper",
+      "given_name": "Nick",
+      "family_name": "Kupper",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "nkupper@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/KUPPER.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2367"
+        },
+        {
+          "url": "https://www.legistorm.com/bo.php/core_person/edit/core_person_id/517293"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nick_Kupper"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2367"
+        },
+        {
+          "url": "https://www.legistorm.com/bo.php/core_person/edit/core_person_id/517293"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nick-kupper"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a4fabea6-f50e-4fe9-8696-8b4505a481e8",
+      "name": "Oscar De Los Santos",
+      "given_name": "Oscar",
+      "family_name": "De Los Santos",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "odelossantos@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/DE_LOS_SANTOS.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2158"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2303"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2158"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2158"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Oscar_De_Los_Santos"
+        },
+        {
+          "url": "https://pdsoros.org/fellows/oscar-de-los-santos"
+        },
+        {
+          "url": "https://pdsoros.org/meet-the-fellows/oscar-de-los-santos"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2158"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2303"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.pdsoros.org/meet-the-fellows/oscar-de-los-santos"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d78cb0f9-fd3c-472e-aeb8-716abd42f26e",
+      "name": "Pamela Carter",
+      "given_name": "Pamela",
+      "family_name": "Carter",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "pcarter@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PamelaCarter2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2354"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Pamela_Carter"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2354"
+        },
+        {
+          "url": "https://www.linkedin.com/in/pamela-carter-0713944b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/61dc96d8-140a-4042-b832-ac51bf0796f3",
+      "name": "Patty Contreras",
+      "given_name": "Patty",
+      "family_name": "Contreras",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "pcontreras@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Patty_Contreras.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2157"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2302"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2157"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2157"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patricia_Contreras"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patty_Contreras"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2157"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2302"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/patty-contreras-71ba62178"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b",
+      "name": "Priya Sundareshan",
+      "given_name": "Priya",
+      "family_name": "Sundareshan",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "psundareshan@azleg.gov",
+      "image": "https://law.arizona.edu/sites/default/files/styles/az_medium/public/images/people/Sundareshan_Priyanka_600x600web.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2143"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2397"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2143"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2143"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Priya_Sundareshan"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2143"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2397"
+        },
+        {
+          "url": "https://www.linkedin.com/in/priya-sundareshan-340b908"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a4f969ab-e79a-4364-9a93-ad8c75ccf668",
+      "name": "Quang Nguyen",
+      "given_name": "Quang",
+      "family_name": "Nguyen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "qnguyen@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/NGUYEN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2021-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2063"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2326"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2063"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2063"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2184"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Quang_Nguyen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Quang_Nguyen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/192521/quang-nguyen"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2063"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2326"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/quang-nguyen-20b72172"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0fb2e73b-b140-4669-a9bd-b75facb342dd",
+      "name": "Quantá Crews",
+      "given_name": "Quantá",
+      "family_name": "Crews",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "qcrews@azleg.gov",
+      "image": "https://static.wixstatic.com/media/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg/v1/fill/w_925,h_1156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-06-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2272"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2345"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2272"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2272"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Quanta_Crews"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Quant%C3%A1_Crews"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2272"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2345"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/quantacrews"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/11b313a8-0f20-4d81-8060-4ec7e65f1a29",
+      "name": "Rachel Keshel",
+      "given_name": "Rachel",
+      "family_name": "Keshel",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rkeshel@azleg.gov",
+      "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/KESHEL.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2173"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&legislator=2317"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2173"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2173"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rachel_Keshel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rachel_Jones_(Arizona_politician)"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2173"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&legislator=2317"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/176a6d0b-88bb-45fa-bf37-b4610972b2ae",
+      "name": "Ralph Heap",
+      "given_name": "Ralph",
+      "family_name": "Heap",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rheap@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ralph_Heap.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2360"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ralph_Heap"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ralph_Heap"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/153821/ralph-heap"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2360"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ralph-heap-6a534987"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6de57177-1b9e-4864-bb87-97c528842030",
+      "name": "Rosanna Gabaldón",
+      "given_name": "Rosanna",
+      "family_name": "Gabaldón",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "rgabaldon@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/GABALD%C3%93N.gif",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1956"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2380"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2125"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2125"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rosanna_Gabaldon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rosanna_Gabald%C3%B3n"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/141336/rosanna-gabaldon"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1956"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2380"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rosanna-gabaldon-a8563620"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3c965e03-1e51-4f10-a037-4fb2f35292c5",
+      "name": "Sally Gonzales",
+      "given_name": "Sally",
+      "family_name": "Gonzales",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sgonzales@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/GONZALES.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1957"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2381"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=54&session=122&legislator=1919"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1957"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1957"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2126"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2126"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sally-ann-gonzales-1452a532/",
+          "note": "linkedin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sally_Ann_Gonzales"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sally_Ann_Gonzales"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/12275/sally-gonzales"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1957"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2381"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sally-ann-gonzales-1452a532"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/99f91f84-b1db-4a48-897a-4f87593357ea",
+      "name": "Sarah Liguori",
+      "given_name": "Sarah",
+      "family_name": "Liguori",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sliguori@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/LIGUORI.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2024-02-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2279"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2347"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sarah_Liguori"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sarah_Liguori"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2279"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2347"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sarah-liguori-b1aa58b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bdcadc0a-7e86-4e6a-8e27-4896dbb094ce",
+      "name": "Selina Bliss",
+      "given_name": "Selina",
+      "family_name": "Bliss",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sbliss@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rsz_mar162020527pm_80182230_435a2599nwnbbliss2.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2149"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2296"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2149"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2149"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Selina_Bliss"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Selina_Bliss"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/192519/selina-bliss"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2149"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2296"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/selina-bliss"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4b29d125-27ee-46c7-a6ac-ed870c1f10a7",
+      "name": "Seth Blattman",
+      "given_name": "Seth",
+      "family_name": "Blattman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sblattman@azleg.gov",
+      "image": "https://cdn.runforsomething.net/candidates/2020/w9466-blattman.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2148"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2295"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2148"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2148"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Seth_Blattman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Seth_Blattman"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2148"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2295"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sethblattman"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/355be281-2f88-4108-b894-62c54b67fba3",
+      "name": "Shawnna Bolick",
+      "given_name": "Shawnna",
+      "family_name": "Bolick",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sbolick@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOLICK.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2019-01-04T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2273"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2400"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2273"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shawnna_Bolick"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shawnna_Bolick"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/123699/shawnna-bolick"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2273"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2400"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7bd58fc8-e6df-4091-86c6-c64f54b96c35",
+      "name": "Stacey Travers",
+      "given_name": "Stacey",
+      "family_name": "Travers",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "stravers@azleg.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Anastasia_Travers.JPG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2203"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2340"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2203"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2203"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Anastasia_Travers"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stacey_Travers"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2203"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2340"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stacey-travers-446226229"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39",
+      "name": "Stephanie Stahl Hamilton",
+      "given_name": "Stephanie",
+      "family_name": "Stahl Hamilton",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sstahlhamilton@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/STAHL_HAMILTON.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2021-10-28T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&legislator=2199&session=128"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2338"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2062"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2062"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2199"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2199"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=2093"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=2093"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephanie_Stahl_Hamilton"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephanie_Stahl_Hamilton"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/192535/stephanie-stahl-hamilton"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&legislator=2199&session=128"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2338"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=2093"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stephanie-stahl-hamilton-a59b48a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bf406953-ad2b-43f7-95ea-3af060525c90",
+      "name": "Stephanie Simacek",
+      "given_name": "Stephanie",
+      "family_name": "Simacek",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "ssimacek@azleg.gov",
+      "image": "https://resources.finalsite.net/images/f_auto,q_auto/v1718034059/dvusdorg/vjx082srjgddzgtgsmof/stephaniesimacek.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2353"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephanie_Simacek"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2353"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/37f8815d-1672-42dd-9e9b-305449d7bb8b",
+      "name": "Steve Montenegro",
+      "given_name": "Steve",
+      "family_name": "Montenegro",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "smontenegro@azleg.gov",
+      "image": "http://www.azleg.gov/alisImages/MemberPhotos/49leg/House/MONTENEGRO.gif",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2009-01-01T00:00:00.000Z",
+        "end_date": "2012-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2183"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2325"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2183"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2183"
+        },
+        {
+          "url": "https://www.azleg.gov/MembersPage.asp?Member_ID=66&Legislature=52&Session_ID=115"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=53&session=119&legislator=1786"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_B._Montenegro"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Montenegro"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2183"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2325"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster.asp?Session_ID=115&body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=S"
+        },
+        {
+          "url": "https://www.linkedin.com/in/steve-montenegro-25576222"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe",
+      "name": "Teresa Martinez",
+      "given_name": "Teresa",
+      "family_name": "Martinez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tmartinez@azleg.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/30908.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2021-11-01T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2096"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2323"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2096"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2181"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2181"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Teresa_Martinez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Teresa_Martinez"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2096"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2323"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.linkedin.com/in/teresa-martinez-65661216"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/384e8b4c-d85b-4414-9372-40116a10b3b6",
+      "name": "Theresa Hatathlie",
+      "given_name": "Theresa",
+      "family_name": "Hatathlie",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "thatathlie@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/HATATHLIE.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2021-01-10T00:00:00.000Z",
+        "end_date": "2023-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2128"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2383"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=2114"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2128"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2128"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Theresa_Hatathlie"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Theresa_Hatathlie"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2128"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2383"
+        },
+        {
+          "url": "https://www.linkedin.com/in/theresa-hatathlie-8a7280119"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015",
+      "name": "T.J. Shope",
+      "given_name": "T.J.",
+      "family_name": "Shope",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tshope@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/SHOPE.png",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1871"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2142"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2396"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1962"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1962"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2142"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2142"
+        },
+        {
+          "url": "https://www.linkedin.com/in/t-j-shope-76585a132/",
+          "note": "linkedin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/T.J._Shope"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/T._J._Shope"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/141366/tj-shope"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2142"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2396"
+        },
+        {
+          "url": "https://www.linkedin.com/in/t-j-shope-76585a132"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0b8c9973-1ae5-4af3-8a73-713c8365eccd",
+      "name": "Tim Dunn",
+      "given_name": "Tim",
+      "family_name": "Dunn",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tdunn@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DUNN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2018-02-13T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2031"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1890"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2031"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2160"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2388"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tim_Dunn_(Arizona)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tim_Dunn_(politician)"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2031"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=H"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2388"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ec93f89c-d32f-4f34-bbe9-1aeb8305a065",
+      "name": "Tony Rivero",
+      "given_name": "Tony",
+      "family_name": "Rivero",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "trivero@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/RIVERO.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2020-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1870"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=57&session=129&legislator=2368"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tony_Rivero"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Rivero"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/129363/tony-rivero"
+        },
+        {
+          "url": "https://www.azleg.gov/House/House-member/?legislature=57&session=129&legislator=2368"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=H"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/00f9103d-191e-40ca-8f5c-e5bf806896a6",
+      "name": "Vince Leach",
+      "given_name": "Vince",
+      "family_name": "Leach",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "vleach@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/LEACH.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1965"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2398"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=54&session=122&legislator=1927"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1965"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1965"
+        },
+        {
+          "url": "https://www.linkedin.com/in/vince-leach-9a07ab1a/",
+          "note": "linkedin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Vince_Leach"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vince_Leach"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/153854/vince-leach"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1965"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2398"
+        },
+        {
+          "url": "https://www.linkedin.com/in/vince-leach-9a07ab1a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d4068bfb-d487-4fde-b36e-7db0ac5cae38",
+      "name": "Walt Blackman",
+      "given_name": "Walt",
+      "family_name": "Blackman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "wblackman@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BLACKMAN.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2356"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Walter_Blackman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Walter_Blackman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184551/walt-blackman"
+        },
+        {
+          "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2356"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rep-walt-blackman-b7076a2a4"
+        },
+        {
+          "url": "https://www.linkedin.com/in/walt-blackman-67a268119"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/66e496a4-a407-4af1-add3-ef6899b89807",
+      "name": "Warren Petersen",
+      "given_name": "Warren",
+      "family_name": "Petersen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "wpetersen@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/PETERSEN.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "start_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1966"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2393"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2139"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2139"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Warren_Petersen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Warren_Petersen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/141381/warren-petersen"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1966"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2393"
+        },
+        {
+          "url": "https://www.linkedin.com/in/warren-petersen-68487425"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/417c9599-7617-4b6d-ac0a-1d1b2a005f4e",
+      "name": "Wendy Rogers",
+      "given_name": "Wendy",
+      "family_name": "Rogers",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "wrogers@azleg.gov",
+      "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/ROGERS.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:az/government",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1960"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2394"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1960"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1960"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2140"
+        },
+        {
+          "url": "https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2140"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Wendy_Rogers"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wendy_Rogers_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/123618/wendy-rogers"
+        },
+        {
+          "url": "https://www.azleg.gov/MemberRoster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/memberroster/?body=S"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1960"
+        },
+        {
+          "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2394"
+        },
+        {
+          "url": "https://www.linkedin.com/in/wendyrogersaz"
+        }
+      ]
+    }
+  ],
+  "count": 90,
+  "last_updated": "2025-09-14T02:00:52.304Z"
+}

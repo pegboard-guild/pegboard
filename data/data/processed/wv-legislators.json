@@ -1,0 +1,6078 @@
+{
+  "state": "wv",
+  "state_name": "West Virginia",
+  "legislators": [
+    {
+      "id": "ocd-person/76544899-58ec-4065-a3e8-4a4d8a12b4eb",
+      "name": "Adam Burkhammer",
+      "given_name": "Adam",
+      "family_name": "Burkhammer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "adam.burkhammer@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/burkhammer_adam.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "46",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Burkhammer"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Burkhammer"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Adam_Burkhammer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Adam_Burkhammer"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/190582/adam-burkhammer"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Burkhammer"
+        },
+        {
+          "url": "https://www.linkedin.com/in/adam-burkhammer-a0165a7b"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Burkhammer"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c15b4eb1-1dc4-498f-9929-43ff34445317",
+      "name": "Adam Vance",
+      "given_name": "Adam",
+      "family_name": "Vance",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "adam.vance@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/vance_adam.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Vance"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Adam_Vance"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Adam_Vance"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Vance"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/57c08164-a673-4269-84d9-6017e740eaac",
+      "name": "Amy Grady",
+      "given_name": "Amy",
+      "family_name": "Grady",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "amy.grady@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/senate/grady_amy.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Grady"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Grady"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Amy_Nichole_Grady"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Amy_Grady"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184289/amy-nichole-grady"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Grady"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Grady"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e6deff1e-fb70-4bf0-a2b6-9c30567fcd9d",
+      "name": "Andy Shamblin",
+      "given_name": "Andy",
+      "family_name": "Shamblin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "andy.shamblin@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/shamblin_andy.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "59",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Shamblin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Andy_Shamblin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andy_Shamblin"
+        },
+        {
+          "url": "https://www.linkedin.com/in/andy-shamblin-902892ab"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Shamblin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/86a1fdf7-e6af-41b4-8d69-0d0815fc9512",
+      "name": "Anitra Hamilton",
+      "given_name": "Anitra",
+      "family_name": "Hamilton",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "anitra.hamilton@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/hamilton_anitra.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "81",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2023-05-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hamilton"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Anitra_Hamilton"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Anitra_Hamilton"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/212180/anitra-hamilton"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hamilton"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/37bf9de9-84b5-4983-8742-a5c3eeeca64a",
+      "name": "Anne Charnock",
+      "given_name": "Anne",
+      "family_name": "Charnock",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "anne.charnock@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/charnock_anne.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2025-02-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Charnock"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Charnock"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/de50d28d-6a58-4244-8c74-36ca3f41767a",
+      "name": "Ben Queen",
+      "given_name": "Ben",
+      "family_name": "Queen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ben.queen@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2023/senate/queen_ben.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Queen"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Queen",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Queen",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ben_Queen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ben_Queen_(politician)"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Queen"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ben-queen-81b44634"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Queen"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Queen"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4d4f0511-706a-406b-9259-05c4008d8b64",
+      "name": "Bill Bell",
+      "given_name": "Bill",
+      "family_name": "Bell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.bell@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/bell_bill.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2025-07-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Bell"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bill_Bell_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Bell_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/billbell87"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Bell"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/84ae4ee5-01d1-402d-8267-787a78dd58e5",
+      "name": "Bill Flanigan",
+      "given_name": "Bill",
+      "family_name": "Flanigan",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.flanigan@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/flanigan_bill.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2015-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Flanigan"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Flanigan"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bill_Flanigan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Flanigan"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/148617/william-flanigan"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Flanigan"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bill-flanigan-a48b36262"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Flanigan"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8bd21671-34c1-4ba3-aced-0dcaa110029c",
+      "name": "Bill Hamilton",
+      "given_name": "Bill",
+      "family_name": "Hamilton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.hamilton@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/senate/hamilton_bill.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2018-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Hamilton"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Hamilton"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/William_Hamilton"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Hamilton_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/52422/bill-hamilton"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Hamilton"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Hamilton"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ad2e5607-a6ef-4458-88fc-bea91da19ac6",
+      "name": "Bill Ridenour",
+      "given_name": "Bill",
+      "family_name": "Ridenour",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.ridenour@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/ridenour_bill.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "100",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ridenour"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/William_Ridenour"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Ridenour"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/201653/william-ridenour"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ridenour"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9f35a509-bd40-4ed2-8792-407169b7a944",
+      "name": "Bill Roop",
+      "given_name": "Bill",
+      "family_name": "Roop",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.roop@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/roop_carl.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "44",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-08-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Roop"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carl_Roop_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carl_%22Bill%22_Roop"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Roop"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a70a295b-82a5-44a0-ba22-a462823f7abb",
+      "name": "Bob Fehrenbacher",
+      "given_name": "Bob",
+      "family_name": "Fehrenbacher",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bob.fehrenbacher@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/fehrenbacher_bob.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Fehrenbacher"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bob_Fehrenbacher"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bob_Fehrenbacher"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/201629/bob-fehrenbacher"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-fehrenbacher-941b164"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Fehrenbacher"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/98b93926-7d9c-4553-8278-7e585a1482b9",
+      "name": "Brandon Steele",
+      "given_name": "Brandon",
+      "family_name": "Steele",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brandon.steele@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/steele_brandon.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Steele"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Steele"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brandon_Steele"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brandon_Steele"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177733/brandon-steele"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Steele"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Steele"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/be5e24ac-6372-4364-a9b0-2e9b33a1a234",
+      "name": "Brian Helton",
+      "given_name": "Brian",
+      "family_name": "Helton",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brian.helton@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/helton_brian.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Helton"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Helton"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214461/brian-helton"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brianh88"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Helton"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9cdbf48f-3fd5-4147-9f26-a78632d99929",
+      "name": "Bryan Smith",
+      "given_name": "Bryan",
+      "family_name": "Smith",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bryan.smith@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/smith_bryan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "73",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Smith,%20B."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bryan_Smith_(West_Virginia)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/214517/bryan-smith"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Smith,%20B."
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6e588e9a-4d48-444d-92b4-629e00900440",
+      "name": "Bryan Ward",
+      "given_name": "Bryan",
+      "family_name": "Ward",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bryan.ward@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/ward_bryan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "55",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ward%2C+B."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward,%20B.",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bryan_Ward"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bryan_Ward_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/190632/bryan-ward"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ward%2C+B."
+        },
+        {
+          "url": "https://www.linkedin.com/in/bryan-ward-790b28b3"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward,%20B."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/aa01a651-9834-4b98-b9c3-25aee388087a",
+      "name": "Robbie Martin",
+      "given_name": "Robbie",
+      "family_name": "Martin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "carl.martin@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2019/house/martin_carl.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Martin"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Martin%2C+C."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Martin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carl_Martin_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carl_Martin_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177772/carl-martin"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Martin"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Martin%2C+C."
+        },
+        {
+          "url": "https://www.linkedin.com/in/carlrmartin09"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Martin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8941d02d-cee0-47a4-9c68-de73382b20af",
+      "name": "Charles Clements",
+      "given_name": "Charles",
+      "family_name": "Clements",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "charles.clements@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/senate/clements_charles.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2017-01-28T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Clements"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Clements"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Charles_Clements"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_H._Clements"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/7578/charles-clements"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Clements"
+        },
+        {
+          "url": "https://www.linkedin.com/in/charles-clements-4271181aa"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Clements"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/338acc2a-d910-4c29-aa94-bf39fbebdeec",
+      "name": "Chuck Sheedy",
+      "given_name": "Chuck",
+      "family_name": "Sheedy",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "charles.sheedy@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/sheedy_charles.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Sheedy"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Charles_Sheedy"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Sheedy_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/188995/charles-sheedy-sr"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chuck-sheedy-home-sheedy-45472759"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Sheedy"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7ad5da9a-c2b3-4f9b-b62c-6cd7f0564f43",
+      "name": "Chris Anders",
+      "given_name": "Chris",
+      "family_name": "Anders",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.anders@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/anders_chris.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "97",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anders"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/S._Chris_Anders"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/214534/s-anders"
+        },
+        {
+          "url": "https://www.linkedin.com/in/s-chris-anders-597b2554"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anders"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/eb6d633a-5526-413b-872d-bd36f4d9a906",
+      "name": "Chris Phillips",
+      "given_name": "Chris",
+      "family_name": "Phillips",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.phillips@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2019/house/phillips_chris.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Phillips"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Phillips"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Phillips_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Phillips_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177776/chris-phillips"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Phillips"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Phillips"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9c82f11d-28f2-4167-b10c-26815533f73a",
+      "name": "Chris Rose",
+      "given_name": "Chris",
+      "family_name": "Rose",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.rose@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/rose_chris.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Rose"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Christopher_Rose"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chrisrosewv"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Rose"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cdd73d73-98d4-43f0-9eec-a030c4ce080f",
+      "name": "Chris Toney",
+      "given_name": "Chris",
+      "family_name": "Toney",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.toney@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/toney_christopher.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Toney"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Toney"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Christopher_Wayne_Toney"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Toney"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Toney"
+        },
+        {
+          "url": "https://www.linkedin.com/in/christopher-toney-803040178"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Toney"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1f91d255-ce76-40b4-86fd-f9412407f869",
+      "name": "Chuck Horst",
+      "given_name": "Chuck",
+      "family_name": "Horst",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "charles.horst@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/horst_chuck.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "62",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Horst"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Horst"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Charles_Horst_Sr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chuck_Horst"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Horst"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Horst"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cf728c9e-40e8-4f73-a5fa-0d46844aa38e",
+      "name": "Clay Riley",
+      "given_name": "Clay",
+      "family_name": "Riley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "clay.riley@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/house/riley_clay.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Riley"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Riley"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Clay_Riley"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Riley"
+        },
+        {
+          "url": "https://www.linkedin.com/in/clay-riley-1198925b"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Riley"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e304d393-2b0a-45c3-9f59-98455e0d73a0",
+      "name": "Craig Hart",
+      "given_name": "Craig",
+      "family_name": "Hart",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "craig.hart@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/hart_craig.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/senate1/lawmaker.cfm?member=Senator%20Hart"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Craig_Hart"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/senate1/lawmaker.cfm?member=Senator%20Hart"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/34e1e6dd-469b-4e3d-9cc5-604bffe79730",
+      "name": "Buck Jennings",
+      "given_name": "Buck",
+      "family_name": "Jennings",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "buck.jennings@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/jennings_d.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "53",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jennings"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jennings"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/D.R._Jennings"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/D._Rolland_Jennings"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167574/buck-jennings"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jennings"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jennings"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6c7fa52c-c313-4f10-aab9-ba9cc0269743",
+      "name": "Dana Ferrell",
+      "given_name": "Dana",
+      "family_name": "Ferrell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dana.ferrell@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/ferrell_dana.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ferrell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ferrell"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dana_Ferrell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dana_Ferrell"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/184300/dana-ferrell"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ferrell"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dana-ferrell-54469432"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ferrell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/32c4e5cf-81f5-4564-bb9b-568d13156dec",
+      "name": "Daniel Linville",
+      "given_name": "Daniel",
+      "family_name": "Linville",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "daniel.linville@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/linville_daniel.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Linville"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Linville"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Daniel_Linville"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Daniel_Linville"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177708/daniel-linville"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Linville"
+        },
+        {
+          "url": "https://www.linkedin.com/in/daniel-linville-8b879a184"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Linville"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/60b7f294-2c42-40ab-ab7d-2a639e5be5e5",
+      "name": "Darren Thorne",
+      "given_name": "Darren",
+      "family_name": "Thorne",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "darren.thorne@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/thorne_darren.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z",
+        "end_date": "2025-01-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Thorne"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Thorne"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Darren_Thorne"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Darren_Thorne"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Thorne"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Thorne"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9ad2e11c-daf4-4f33-9c2d-0075beaeada8",
+      "name": "Dave Foggin",
+      "given_name": "Dave",
+      "family_name": "Foggin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dave.foggin@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/foggin_dave.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Foggin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dave_Foggin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dave_Foggin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Foggin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/297732cd-3e12-4ce1-b6ca-7e046d8b3e46",
+      "name": "Dave McCormick",
+      "given_name": "Dave",
+      "family_name": "McCormick",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "david.mccormick@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/mccormick_david.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "82",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20McCormick"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_McCormick_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_McCormick_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214522/david-mccormick"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-mccormick-a0ba92172"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20McCormick"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/79e71ddf-33fc-4e28-8324-dd52aaa0e653",
+      "name": "David Cannon",
+      "given_name": "David",
+      "family_name": "Cannon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "david.cannon@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/cannon_david.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "89",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cannon,%20D."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Cannon_(West_Virginia)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/220818/david-cannon"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cannon,%20D."
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d7f119af-3e41-40a1-9541-bfa1a1e7a9b4",
+      "name": "Elliott Pritt",
+      "given_name": "Elliott",
+      "family_name": "Pritt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "elliott.pritt@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/pritt_david.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "50",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z",
+        "end_date": "2023-04-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pritt"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pritt,%20E."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Pritt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Elliott_Pritt"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/184299/elliot-pritt"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pritt"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pritt,%20E."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b0526275-df8b-4f42-b16b-064aa721a858",
+      "name": "David Green",
+      "given_name": "David",
+      "family_name": "Green",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "david.green@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/green_david.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-01-29T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Green"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/S._David_Green"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_%22David%22_Green"
+        },
+        {
+          "url": "https://www.linkedin.com/in/s-david-green"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Green"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/94a511d8-31ee-4f7d-9227-005b143f9c47",
+      "name": "Dean Jeffries",
+      "given_name": "Dean",
+      "family_name": "Jeffries",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dean.jeffries@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2022/house/jeffries_dean.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jeffries"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jeffries%2C+D."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jeffries"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jeffries,%20D.",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dean_Jeffries"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dean_Jeffries_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/177753/dean-jeffries"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jeffries"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jeffries%2C+D."
+        },
+        {
+          "url": "https://www.linkedin.com/in/dean-jeffries-b5216565"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jeffries"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jeffries,%20D."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3d093b6a-24b4-4a7c-807b-b81def2c38a4",
+      "name": "Donna Boley",
+      "given_name": "Donna",
+      "family_name": "Boley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "donna.boley@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/boley_donna.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "1985-05-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Boley"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Boley",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Boley"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Donna_Boley"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Donna_Boley"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/7535/donna-boley"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Boley"
+        },
+        {
+          "url": "https://www.linkedin.com/in/donna-boley-5bb4a536"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Boley"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Boley"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/70ac0a53-79d8-426b-950b-83e9be022bf3",
+      "name": "Doug Smith",
+      "given_name": "Doug",
+      "family_name": "Smith",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "doug.smith@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/smith_doug.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Smith"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Smith"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Smith,%20D."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Doug_Smith_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doug_Smith_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/190481/doug-smith"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Smith"
+        },
+        {
+          "url": "https://www.linkedin.com/in/douglas-smith-92459936"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Smith"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Smith,%20D."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0714e7e4-9da4-46bf-a8f5-e48be1af2242",
+      "name": "Elías Coop-González",
+      "given_name": "Elías",
+      "family_name": "Coop-González",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "elias.coop-gonzalez@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/coopgonzalez_elias.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "67",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Coop-Gonzalez"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elias_Coop-Gonzalez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Elias_Coop-Gonzalez"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/201746/elias-coop-gonzalez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/elias-coop-gonzalez-5508551aa"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Coop-Gonzalez"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/db5d813b-3cd2-4a6d-b656-b48624f61094",
+      "name": "Eric Brooks",
+      "given_name": "Eric",
+      "family_name": "Brooks",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "eric.brooks@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/brooks_eric.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Brooks"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eric_Brooks"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eric_Brooks_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/201758/eric-brooks"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Brooks"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/18d03332-9bd9-4070-9101-6cf93ab2105e",
+      "name": "Eric Tarr",
+      "given_name": "Eric",
+      "family_name": "Tarr",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "eric.tarr@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/tarr_eric.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2018-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Tarr"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Tarr"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eric_Tarr"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eric_Tarr"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177679/eric-tarr"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Tarr"
+        },
+        {
+          "url": "https://www.linkedin.com/in/eric-tarr-pt-dpt-mba-ocs-49b06b36"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Tarr"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/74fee589-c9e9-4dd7-a719-d9b165b2b2c7",
+      "name": "Erica Moore",
+      "given_name": "Erica",
+      "family_name": "Moore",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "erica.moore@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/moore_erica.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2023-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Moore"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Erica_Moore_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Erica_Moore_(politician)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/erica-j-moore-a633b6142"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Moore"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/10dbdccd-3754-49b8-ae28-8f75c4d6936f",
+      "name": "Evan Hansen",
+      "given_name": "Evan",
+      "family_name": "Hansen",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "evan.hansen@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2019/house/hansen_evan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Hansen"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hansen"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Evan_Hansen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Evan_Hansen_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167440/evan-hansen"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Hansen"
+        },
+        {
+          "url": "https://www.linkedin.com/in/evan-hansen-2374215"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hansen"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b875b7d6-4941-42a6-bcdf-c5da19bf0ced",
+      "name": "Evan Worrell",
+      "given_name": "Evan",
+      "family_name": "Worrell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "evan.worrell@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/worrell_evan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Worrell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Worrell"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Evan_Worrell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Evan_Worrell"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Worrell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Worrell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/405fa851-873f-4895-acd5-d394fbb06be3",
+      "name": "Gary Howell",
+      "given_name": "Gary",
+      "family_name": "Howell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gary.howell@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/howell_gary.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "56",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Howell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell,%20G."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Howell"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gary_Howell_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gary_Howell_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/102188/gary-howell"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Howell"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gary-howell-42425610"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell,%20G."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Howell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/409397ae-ceea-4b1b-bce5-b042af057232",
+      "name": "Geno Chiarelli",
+      "given_name": "Geno",
+      "family_name": "Chiarelli",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "geno.chiarelli@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/chiarelli_geno.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "78",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Chiarelli"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eugene_Chiarelli"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Geno_Chiarelli"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Chiarelli"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5bb7ff93-88f4-42ec-ba11-6921dead66a1",
+      "name": "George Miller",
+      "given_name": "George",
+      "family_name": "Miller",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "george.miller@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/miller_george.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Miller"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Miller"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/George_Miller_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Miller_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Miller"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Miller"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2ee0335d-f067-4ca3-99ce-e10944fa8875",
+      "name": "George Street",
+      "given_name": "George",
+      "family_name": "Street",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "george.street@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/street_george.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "83",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Street"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/George_Street"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Street_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Street"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/de2f5e4b-192a-463d-91b0-73f212e8f953",
+      "name": "Glenn Jeffries",
+      "given_name": "Glenn",
+      "family_name": "Jeffries",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "glenn.jeffries@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/jeffries_glenn.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2016-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Jeffries"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Jeffries"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Glenn_Jeffries"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Glenn_Jeffries"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Jeffries"
+        },
+        {
+          "url": "https://www.linkedin.com/in/glenn-jeffries-574086aa"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Jeffries"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e05b927b-a702-4143-87b2-79a8c81d4eee",
+      "name": "Corby Dillon",
+      "given_name": "Corby",
+      "family_name": "Dillon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "henry.dillon@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/dillon_henry.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dillon"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Henry_C._Dillon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Dillon_(American_politician)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/henrydillon"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dillon"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/68163122-16de-4528-8eda-fd1f9783c45d",
+      "name": "Hollis Lewis",
+      "given_name": "Hollis",
+      "family_name": "Lewis",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hollis.lewis@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2023/house/lewis_hollis.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "57",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2023-11-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Lewis"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Hollis_Lewis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hollis_Lewis"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/212986/hollis-lewis"
+        },
+        {
+          "url": "https://www.linkedin.com/in/hollis-t-lewis-ii-jd-719a46a3"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Lewis"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f8921713-413e-4f72-8291-464f2cef3f7b",
+      "name": "Ian Masters",
+      "given_name": "Ian",
+      "family_name": "Masters",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ian.masters@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/masters_ian.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "91",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2025-01-24T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/house/lawmaker.cfm?member=Delegate%20Masters"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ian_Masters"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ian-masters-65b5998a"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/house/lawmaker.cfm?member=Delegate%20Masters"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/33e56ab1-3106-45fa-a992-fab181983a99",
+      "name": "J.B. Akers",
+      "given_name": "J.B.",
+      "family_name": "Akers",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jb.akers@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/akers_james.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "55",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/house/lawmaker.cfm?member=Delegate%20Akers"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/JB_Akers"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/JB_Akers"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214509/jb-akers"
+        },
+        {
+          "url": "https://www.akerslawoffices.com/attorney-profile/jb-akers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jbakers"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/house/lawmaker.cfm?member=Delegate%20Akers"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b4df4940-ac0e-4e1a-ba3c-940d604b4ad2",
+      "name": "Jack Woodrum",
+      "given_name": "Jack",
+      "family_name": "Woodrum",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jack.woodrum@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/woodrum_jack.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Woodrum"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Woodrum"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jack_Woodrum"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jack_Woodrum"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/131522/jack-woodrum"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Woodrum"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jack-david-woodrum-9a2b73a"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Woodrum"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e617259d-e2c9-4043-a759-321c7e3ff7f0",
+      "name": "Jarred Cannon",
+      "given_name": "Jarred",
+      "family_name": "Cannon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jarred.cannon@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2022/house/cannon_jarred.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-06-15T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cannon"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cannon,%20J."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jarred_Cannon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jarred_Cannon"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167315/jarred-cannon"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jarred-c-538001109"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cannon"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cannon,%20J."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bcbe03de-3df0-4c07-8973-0304dafa2cb8",
+      "name": "Jason Barrett",
+      "given_name": "Jason",
+      "family_name": "Barrett",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jason.barrett@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/barrett_jason.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "61",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Barrett"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Barrett",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Barrett"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jason_Barrett_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jason_Barrett_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117383/jason-barrett"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Barrett"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Barrett"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Barrett"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a7ae16a1-8a1e-4280-8d00-9125719a893e",
+      "name": "Jay Taylor",
+      "given_name": "Jay",
+      "family_name": "Taylor",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jay.taylor@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/taylor_jay.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Taylor"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jay_Taylor_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jay_Taylor_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/52174/john-taylor-jr"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Taylor"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/81cad520-b015-42c8-b533-64a9e4596197",
+      "name": "Jeff Campbell",
+      "given_name": "Jeff",
+      "family_name": "Campbell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jeff.campbell@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/campbell_jeff.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "46",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2017-11-09T00:00:00.000Z",
+        "end_date": "2020-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Campbell"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeff_Campbell_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeff_Campbell_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177759/jeff-campbell"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeff-campbell-1b1a1955"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Campbell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e43a22ad-b630-496b-81f8-6b1f6ceaa13e",
+      "name": "Jeff Eldridge",
+      "given_name": "Jeff",
+      "family_name": "Eldridge",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jeff.eldridge@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/eldridge_jeff.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2018-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Eldridge"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Eldridge"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeff_Eldridge"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeff_Eldridge"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/135171/jeff-eldridge"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Eldridge"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeff-eldridge-5a5a75a5"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Eldridge"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0092e49c-3dfe-4a2b-b053-e7a0360accf1",
+      "name": "Jeff Stephens",
+      "given_name": "Jeff",
+      "family_name": "Stephens",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jeffrey.stephens@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2023/house/stephens_jeffrey.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2023-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Stephens"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeffrey_Stephens"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeffrey_Stephens"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Stephens"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/905290bd-c655-4a3d-9961-65a2f9c0e271",
+      "name": "Jim Butler",
+      "given_name": "Jim",
+      "family_name": "Butler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jim.butler@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/butler_jim.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2020-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Butler"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Butler",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Butler"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jim_Butler_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jim_Butler_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/135172/jim-butler"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Butler"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jim-butler-6337006a"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Butler"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Butler"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5a2928e1-3371-480d-be6f-1c3133de4609",
+      "name": "Jimmy Willis",
+      "given_name": "Jimmy",
+      "family_name": "Willis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jimmy.willis@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/willis_jimmy.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Willis"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jimmy_Willis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jimmy_Willis_(politician)"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Willis"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fe6a6b8e-91f2-427f-9060-2cac2b9eb66c",
+      "name": "Joe Ellington",
+      "given_name": "Joe",
+      "family_name": "Ellington",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "joe.ellington@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2023/house/ellington_joe.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ellington"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ellington",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Ellington"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joe_Ellington"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Ellington"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/58022/joe-ellington-jr"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Ellington"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ellington"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Ellington"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c93039e0-7c57-4289-9447-466f56bba802",
+      "name": "Joe Funkhouser",
+      "given_name": "Joe",
+      "family_name": "Funkhouser",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "joe.funkhouser@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/funkhouser_joe.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "98",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-10-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Funkhouser"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joe_Funkhouser"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joe-funkhouser-0604091"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Funkhouser"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e2f71bb6-832a-46f3-8247-5e2c16685fe1",
+      "name": "Joe Parsons",
+      "given_name": "Joe",
+      "family_name": "Parsons",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "frederick.parsons@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/parsons_frederick.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Parsons"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joe_Parsons_(West_Virginia)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/216314/joe-parsons"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joe-parsons-7b276412"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Parsons"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/79271821-3d79-4f99-bba3-a147779bb3d0",
+      "name": "Joe Statler",
+      "given_name": "Joe",
+      "family_name": "Statler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "joe.statler@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/statler_joe.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Statler"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Statler"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joe_Statler"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Statler"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148623/joseph-statler"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Statler"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joe-statler-720b4190"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Statler"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/387d11ce-ecf1-4c80-a338-bd8c86f52004",
+      "name": "Joey Garcia",
+      "given_name": "Joey",
+      "family_name": "Garcia",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "joey.garcia@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/garcia_joey.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "50",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Garcia"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Garcia"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Garcia"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joey_Garcia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joey_Garcia"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/190615/joey-garcia"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Garcia"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joey-garcia-ab4b2431"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Garcia"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Garcia"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/06c041be-0a45-4bfe-8e2d-49055af1205f",
+      "name": "John Paul Hott",
+      "given_name": "John Paul",
+      "family_name": "Hott",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "johnpaul.hott@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/house/hott_john.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "54",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Hott"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hott"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Paul_Hott_II"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Paul_Hott"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177788/john-hott-ii"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Hott"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-paul-hott-ii-148485a"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hott"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2c8a36d4-5afa-4b68-a6a0-1a9b170401b0",
+      "name": "John Williams",
+      "given_name": "John",
+      "family_name": "Williams",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "john.williams@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/house/williams_john.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Williams"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Williams"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Williams_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Williams_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Williams"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-williams-12029b99"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Williams"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e83c168f-6725-47ea-ac8d-7dbadc6736c7",
+      "name": "Jonathan Kyle",
+      "given_name": "Jonathan",
+      "family_name": "Kyle",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jonathan.kyle@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/kyle_jonathan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "66",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kyle"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jonathan_B._Kyle"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/167421/jonathan-kyle"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jonathan-kyle-b6a2b72b"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kyle"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a71cd621-aa1e-4338-b0bd-ca9f7a03f667",
+      "name": "Jonathan Pinson",
+      "given_name": "Jonathan",
+      "family_name": "Pinson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jonathan.pinson@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/pinson_jonathan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pinson"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pinson"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jonathan_Pinson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Pinson"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pinson"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pinson"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/be682c29-e66f-4a19-89cc-761c60330eea",
+      "name": "Jordan Bridges",
+      "given_name": "Jordan",
+      "family_name": "Bridges",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jordan.bridges@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/house/bridges_jordan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Bridges"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Bridges"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jordan_Bridges_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jordan_Bridges_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167262/jordan-bridges"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Bridges"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Bridges"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/487dd54b-3091-4b0e-b798-0df99523b4c6",
+      "name": "Jordan Maynor",
+      "given_name": "Jordan",
+      "family_name": "Maynor",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jordan.maynor@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/maynor_jordan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Maynor"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jordan_Maynor"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jordan_Maynor"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jordan-maynor-0a528474"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Maynor"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9d8c89be-2ece-4dff-8a6d-65dccb8e647e",
+      "name": "Josh Holstein",
+      "given_name": "Josh",
+      "family_name": "Holstein",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "josh.holstein@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/holstein_josh.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Holstein"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Holstein"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josh_Holstein"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Josh_Holstein"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Holstein"
+        },
+        {
+          "url": "https://www.linkedin.com/in/josh-holstein-4037b1186"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Holstein"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0686b8e2-2d6a-4950-b3c3-0dbfe5a6e719",
+      "name": "Kathie Hess Crouse",
+      "given_name": "Kathie",
+      "family_name": "Hess Crouse",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kathie.crouse@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/crouse_kathie.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Crouse"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kathie_Hess_Crouse"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kathie_Hess_Crouse"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kathiehesscrouse"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Crouse"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3317959e-9fbd-40dc-aa7a-0f0a9cc06c3f",
+      "name": "Kayla Young",
+      "given_name": "Kayla",
+      "family_name": "Young",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "kayla.young@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/young_kayla.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Young"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Young"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kayla_Young"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kayla_Young"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Young"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kaylawilsonyoung"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Young"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/13a851e4-7ecb-4609-bd19-3bd4ff7fbc1c",
+      "name": "Keith Marple",
+      "given_name": "Keith",
+      "family_name": "Marple",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "keith.marple@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/marple_keith.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "69",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Marple"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Keith_Marple"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Keith_Marple"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Marple"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bf1213a4-9f13-4c3e-a900-c1722909f8a6",
+      "name": "Kevan Bartlett",
+      "given_name": "Kevan",
+      "family_name": "Bartlett",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kevan.bartlett@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2019/house/bartlett_t.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2019-10-28T00:00:00.000Z",
+        "end_date": "2020-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Bartlett"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/T._Kevan_Bartlett"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Bartlett"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/17ae499e-4b87-4631-851d-5e55185da510",
+      "name": "Larry Kump",
+      "given_name": "Larry",
+      "family_name": "Kump",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "larry.kump@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2019/house/kump_larry.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "59",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2020-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Kump"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kump"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Larry_D._Kump"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_Kump"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117682/larry-kump"
+        },
+        {
+          "url": "https://larrykump.blogspot.com"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Kump"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kump"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ce1e7053-19d4-4405-8e31-f5c39af87ae9",
+      "name": "Laura Kimble",
+      "given_name": "Laura",
+      "family_name": "Kimble",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "laura.kimble@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/kimble_laura.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Kimble"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kimble"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Laura_Kimble"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Laura_Kimble"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/190588/laura-kimble"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Kimble"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kimble"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/599fd572-0475-4215-8d43-1474237f5a78",
+      "name": "Laura Chapman",
+      "given_name": "Laura",
+      "family_name": "Chapman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "laura.chapman@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/chapman_laura.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Chapman"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Laura_Wakim_Chapman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Laura_Chapman"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Chapman"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7ae7ca12-88dc-4387-a9ee-49295af32fb7",
+      "name": "Lisa White",
+      "given_name": "Lisa",
+      "family_name": "White",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lisa.white@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/white_lisa.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "96",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20White"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lisa_White"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214533/lisa-white"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lisakwhite"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20White"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3f45442d-ffd9-4566-a661-42efa25f8e18",
+      "name": "Lori Dittman",
+      "given_name": "Lori",
+      "family_name": "Dittman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lori.dittman@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/dittman_lori.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "63",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dittman"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lori_Cowger_Dittman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lori_Dittman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/201748/lori-dittman"
+        },
+        {
+          "url": "https://www.loridittman.com/about"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dittman"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/92599af8-32f7-4aa4-bab2-8c7b461f54a5",
+      "name": "Margitta Mazzocchi",
+      "given_name": "Margitta",
+      "family_name": "Mazzocchi",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "margitta.mazzocchi@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/house/mazzocchi_margitta.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Mazzocchi"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Mazzocchi"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Margitta_Mazzocchi"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Margitta_Mazzocchi"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/190477/margitta-mazzocchi"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Mazzocchi"
+        },
+        {
+          "url": "https://www.linkedin.com/in/margitta-mazzocchi-4897b530"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Mazzocchi"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2461647c-b7dc-4df2-b1b8-6acee9700b7c",
+      "name": "Mark Dean",
+      "given_name": "Mark",
+      "family_name": "Dean",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mark.dean@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/dean_mark.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Dean"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dean"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Dean"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_Dean_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/167333/mark-dean"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Dean"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dean"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e98e90d4-7e6d-47e0-b837-6f5f8b492d9c",
+      "name": "Mark Maynard",
+      "given_name": "Mark",
+      "family_name": "Maynard",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mark.maynard@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/maynard_mark.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2015-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Maynard"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Maynard",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Maynard"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_R._Maynard"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_R._Maynard"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/104892/mark-maynard"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Maynard"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Maynard"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Maynard"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/af0b8606-3832-40d4-91e2-3b71975e4b8f",
+      "name": "Mark Zatezalo",
+      "given_name": "Mark",
+      "family_name": "Zatezalo",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mark.zatezalo@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/zatezalo_mark.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Zatezalo"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Zatezalo"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Zatezalo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_Zatezalo"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148393/mark-zatezalo"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Zatezalo"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mark-zatezalo-17905960"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Zatezalo"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6a8371d3-32ba-4997-9cd4-ad26bafab694",
+      "name": "Marshall Clay",
+      "given_name": "Marshall",
+      "family_name": "Clay",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "marshall.clay@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/clay_marshall.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clay"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marshall_Clay"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/102214/marshall-clay"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clay"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c56adc82-a476-4d3c-bd7f-51b2257b0032",
+      "name": "Marty Gearheart",
+      "given_name": "Marty",
+      "family_name": "Gearheart",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "marty.gearheart@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/house/gearheart_marty.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Gearheart"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Gearheart",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Gearheart"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marty_Gearheart"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marty_Gearheart"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/52089/marty-gearheart"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Gearheart"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Gearheart"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Gearheart"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/074a2aa9-d012-437a-8d59-d3f4b9d73905",
+      "name": "Matthew Rohrbach",
+      "given_name": "Matthew",
+      "family_name": "Rohrbach",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "matthew.rohrbach@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/rohrbach_matthew.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Rohrbach"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Rohrbach",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Rohrbach"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matthew_Rohrbach"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Matthew_Rohrbach"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/148431/matthew-rohrbach"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Rohrbach"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Rohrbach"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Rohrbach"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3d5db222-66fb-4f3a-a178-d12246697654",
+      "name": "Michael Amos",
+      "given_name": "Michael",
+      "family_name": "Amos",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "michael.amos@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/amos_michael.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Amos"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Amos"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214484/michael-amos"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michael-amos-md-dabfm-dabom-6b89b6198"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Amos"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0ef791a3-2e24-4751-8686-21ffac958ce0",
+      "name": "Mike Hite",
+      "given_name": "Mike",
+      "family_name": "Hite",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "michael.hite@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/hite_michael.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "92",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hite"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Hite"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Hite"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/201688/michael-hite"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michael-hite-567b6464"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hite"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b76899a3-5189-495c-af2f-9ca8a4e8036e",
+      "name": "Mike Hornby",
+      "given_name": "Mike",
+      "family_name": "Hornby",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "michael.hornby@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/hornby_mike.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "93",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hornby"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Hornby"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Hornby_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/201687/michael-hornby"
+        },
+        {
+          "url": "https://www.linkedin.com/in/aroundthepanhandlemagazine"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hornby"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/354b56ae-dee4-4536-879e-cfb0d80b4069",
+      "name": "Mickey Petitto",
+      "given_name": "Mickey",
+      "family_name": "Petitto",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mickey.petitto@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/petitto_mickey.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "70",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Petitto"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mickey_Petitto"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mickey_Petitto"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Petitto"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8fe81e26-b0ce-4349-a3e3-91d25247b980",
+      "name": "Mike Azinger",
+      "given_name": "Mike",
+      "family_name": "Azinger",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.azinger@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/azinger_michael.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2016-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Azinger"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Azinger"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Azinger"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Azinger"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148408/michael-azinger"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Azinger"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-azinger-9a82042"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Azinger"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f1ac96d8-f6f8-4e3d-af5d-05544e874f72",
+      "name": "Mike DeVault",
+      "given_name": "Mike",
+      "family_name": "DeVault",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.devault@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/devault_michael.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "74",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20DeVault"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_DeVault"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_DeVault"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/201734/mike-devault"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-devault-03a7693b"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20DeVault"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c00003a6-3518-496e-b972-fd5aa566d4c4",
+      "name": "Mike Oliverio",
+      "given_name": "Mike",
+      "family_name": "Oliverio",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.oliverio@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/oliverio_michael.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "1994-12-01T00:00:00.000Z",
+        "end_date": "2010-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Oliverio"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Oliverio"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Oliverio"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mikeoliverio"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Oliverio"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1a97b137-218f-43cc-a24f-d806c6ac9fd2",
+      "name": "Mike Pushkin",
+      "given_name": "Mike",
+      "family_name": "Pushkin",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mike.pushkin@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/pushkin_mike.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pushkin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pushkin",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Pushkin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Pushkin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Pushkin"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148557/mike-pushkin"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Pushkin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pushkin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Pushkin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9237b2d2-52dd-4e7c-98e0-6c5a346356f6",
+      "name": "Mike Stuart",
+      "given_name": "Mike",
+      "family_name": "Stuart",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.stuart@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/stuart_mike.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Stuart"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Stuart_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_B._Stuart"
+        },
+        {
+          "url": "https://www.dinsmore.com/michael-b-stuart"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Stuart"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/500ddd59-2fb2-406a-869c-2b06f6cc2385",
+      "name": "Mike Woelfel",
+      "given_name": "Mike",
+      "family_name": "Woelfel",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mike.woelfel@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/woelfel_michael.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2015-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Woelfel"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Woelfel",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Woelfel"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Woelfel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Woelfel"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Woelfel"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Woelfel"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Woelfel"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/aa7bf09a-ce90-4e58-a893-42c813a16434",
+      "name": "Pat McGeehan",
+      "given_name": "Pat",
+      "family_name": "McGeehan",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "pat.mcgeehan@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/mcgeehan_pat.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2008-12-01T00:00:00.000Z",
+        "end_date": "2010-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+McGeehan"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20McGeehan",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+McGeehan"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patrick_McGeehan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pat_McGeehan"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/102190/patrick-mcgeehan"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+McGeehan"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20McGeehan"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+McGeehan"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/61c66718-ebd4-4ded-827d-14b21ed01b0a",
+      "name": "Patricia Rucker",
+      "given_name": "Patricia",
+      "family_name": "Rucker",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "patricia.rucker@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/rucker_patricia.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2016-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Rucker"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Rucker"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patricia_Rucker"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patricia_Rucker"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148634/patricia-rucker"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Rucker"
+        },
+        {
+          "url": "https://www.patriciarucker.com/about-me"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Rucker"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9a7c2d4d-002a-439e-b095-e7b86329fc1c",
+      "name": "Patrick Lucas",
+      "given_name": "Patrick",
+      "family_name": "Lucas",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "patrick.lucas@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/lucas_patrick.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Lucas"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patrick_Lucas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patrick_Lucas"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117635/patrick-lucas"
+        },
+        {
+          "url": "https://www.linkedin.com/in/patrick-lucas-39534835"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Lucas"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/69547a9d-4e96-4ea8-94eb-528e40d5d004",
+      "name": "Patrick Martin",
+      "given_name": "Patrick",
+      "family_name": "Martin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "patrick.martin@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/senate/martin_patrick.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "46",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Martin"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Martin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Martin"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Patrick_S._Martin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patrick_S._Martin"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Martin"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Martin"
+        },
+        {
+          "url": "https://www.linkedin.com/in/patrick-martin-901440100"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Martin"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ca7ec436-00a0-447d-8592-00fc7d358571",
+      "name": "Phil Mallow",
+      "given_name": "Phil",
+      "family_name": "Mallow",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "phil.mallow@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/house/mallow_phil.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "50",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Mallow"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Mallow"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Phil_Mallow"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Phil_Mallow"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148613/phil-mallow"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Mallow"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Mallow"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/28321ca7-5b8c-4b1a-9a85-2ae30e52045b",
+      "name": "Randy Smith",
+      "given_name": "Randy",
+      "family_name": "Smith",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "randy.smith@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/smith_randy.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2012-12-01T00:00:00.000Z",
+        "end_date": "2016-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Smith"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=President%20Smith"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Smith"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Randy_Smith_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Randy_Smith_%28politician%29"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Smith"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=President%20Smith"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Smith"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/639eb22f-b161-4be3-9abc-9cccf4dfdd05",
+      "name": "Ray Canterbury",
+      "given_name": "Ray",
+      "family_name": "Canterbury",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ray.canterbury@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/canterbury_ray.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2011-01-01T00:00:00.000Z",
+        "end_date": "2012-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Canterbury"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Canterbury"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Denny_Canterbury_Jr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ray_Canterbury"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/26493/ray-canterbury-jr"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Canterbury"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Canterbury"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cc1fb64b-859b-4009-88b3-2cb23e7e9d9b",
+      "name": "Rick Garcia",
+      "given_name": "Rick",
+      "family_name": "Garcia",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "rick.garcia@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/garcia_rick.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "76",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Garcia"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rick_Garcia_(West_Virginia)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/163738/rick-garcia"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rick-garcia-63b6ba65"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Garcia"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5e9dad08-2267-4354-b695-814e1014a0ec",
+      "name": "Rick Hillenbrand",
+      "given_name": "Rick",
+      "family_name": "Hillenbrand",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rick.hillenbrand@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/hillenbrand_rick.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "88",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hillenbrand"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rick_Hillenbrand"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rick_Hillenbrand"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/201692/rick-hillenbrand"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rickhillenbrand"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hillenbrand"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/86c70f70-4fc9-43f3-bd70-632d3a8f023b",
+      "name": "Robbie Morris",
+      "given_name": "Robbie",
+      "family_name": "Morris",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "robbie.morris@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/morris_robbie.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Morris"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robbie_Morris"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robbie-morris-5b596598"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Morris"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a5fb80fa-41db-4bb7-8d0c-9f643b029b86",
+      "name": "Roger Hanshaw",
+      "given_name": "Roger",
+      "family_name": "Hanshaw",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "roger.hanshaw@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/house/hanshaw_roger.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Speaker+Hanshaw"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Speaker%20Hanshaw"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Roger_Hanshaw"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Roger_Hanshaw"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/148481/roger-hanshaw"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Speaker+Hanshaw"
+        },
+        {
+          "url": "https://www.linkedin.com/in/roger-hanshaw-b0282968"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Speaker%20Hanshaw"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e0166da1-e7d4-42ed-bf99-fe2a9cd3e82e",
+      "name": "Rollan Roberts",
+      "given_name": "Rollan",
+      "family_name": "Roberts",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rollan.roberts@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/roberts_rollan.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2018-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Roberts"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Roberts"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rollan_Roberts_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rollan_Roberts"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177687/rollan-roberts"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Roberts"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dr-rollan-roberts-4631372b"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Roberts"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f7a82cd3-d2c6-4f57-b0d0-d38322d1ad54",
+      "name": "Roy Cooper",
+      "given_name": "Roy",
+      "family_name": "Cooper",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "roy.cooper@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/cooper_roy.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Cooper"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cooper",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Cooper"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Roy_G._Cooper"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Roy_Cooper_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117639/roy-cooper"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Cooper"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cooper"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Cooper"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c1187148-471e-4bdc-acf5-16fa0d5d998e",
+      "name": "Rupie Phillips",
+      "given_name": "Rupie",
+      "family_name": "Phillips",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rupie.phillips@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/senate/phillips_rupie.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2017-05-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Phillips"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Phillips"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rupert_Phillips_Jr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rupie_Phillips"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Phillips"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rupie-phillips-65594a64"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Phillips"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c95f5292-14c3-4e79-8465-05cca13242b6",
+      "name": "Ryan Browning",
+      "given_name": "Ryan",
+      "family_name": "Browning",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ryan.browning@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2024/house/browning_ryan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-07-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Browning"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ryan_Browning"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ryan_Browning"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214487/ryan-browning"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ryan-browning-08485673"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Browning"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/680aa2ce-6408-4047-a36b-0b3badc82851",
+      "name": "Ryan Weld",
+      "given_name": "Ryan",
+      "family_name": "Weld",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ryan.weld@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/senate/weld_ryan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2015-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Weld"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Weld"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ryan_Weld"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ryan_Weld"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Weld"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ryan-weld-258b6880"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Weld"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/003871b4-bf51-4bba-bacc-bf1ead7a9947",
+      "name": "Sarah Drennan",
+      "given_name": "Sarah",
+      "family_name": "Drennan",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sarah.drennan@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/drennan_sarah.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Drennan"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sarah_Drennan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sarah_Drennan"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214477/sarah-drennan"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sarah-drennan-a1566a2a2"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Drennan"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5cd39fcf-7682-4cb0-8ac3-f7c4816f950d",
+      "name": "Scot Heckert",
+      "given_name": "Scot",
+      "family_name": "Heckert",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scot.heckert@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/heckert_scot.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Heckert"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scot_Heckert"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scot_Heckert"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/201633/scot-heckert"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Heckert"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7a94bf35-24ea-49ba-bf09-b53c1465ffa7",
+      "name": "Scott Fuller",
+      "given_name": "Scott",
+      "family_name": "Fuller",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.fuller@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/fuller_scott.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Fuller"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Fuller_(West_Virginia)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/201602/scott-fuller"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Fuller"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/916ee127-a228-4dac-b945-312a5f76121a",
+      "name": "Sean Hornbuckle",
+      "given_name": "Sean",
+      "family_name": "Hornbuckle",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sean.hornbuckle@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/hornbuckle_sean.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Hornbuckle"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hornbuckle",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Hornbuckle"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sean_Hornbuckle"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sean_Hornbuckle"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/139620/sean-hornbuckle"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Hornbuckle"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sean-hornbuckle-b475b520"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hornbuckle"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Hornbuckle"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd0e9ba2-fe37-4251-96f2-44715a186750",
+      "name": "Shawn Fluharty",
+      "given_name": "Shawn",
+      "family_name": "Fluharty",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "shawn.fluharty@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/fluharty_shawn.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Fluharty"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Fluharty",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Fluharty"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shawn_Fluharty"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shawn_Fluharty"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/117619/shawn-fluharty"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Fluharty"
+        },
+        {
+          "url": "https://www.linkedin.com/in/shawnfluharty"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Fluharty"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate+Fluharty"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4b7f8925-344a-4ce2-b70c-76bb9127c4fa",
+      "name": "Stan Adkins",
+      "given_name": "Stan",
+      "family_name": "Adkins",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stanley.adkins@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/adkins_stanley.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "49",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Adkins"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stanley_Adkins"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stanley_Adkins_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/214500/stanley-adkins"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stan-adkins-39aa2329"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Adkins"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e9f7081c-2e1d-4140-922c-abb75aad765e",
+      "name": "Tom Clark",
+      "given_name": "Tom",
+      "family_name": "Clark",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "thomas.clark@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/clark_thomas.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-01-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark,%20T."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tom_Clark_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Clark_(politician)"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark,%20T."
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c6a91d2b-9230-4d3e-a3d0-c3844ad9e985",
+      "name": "Tom Takubo",
+      "given_name": "Tom",
+      "family_name": "Takubo",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tom.takubo@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2021/senate/takubo_tom.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2015-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Takubo"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Takubo",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Takubo"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tom_Takubo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Takubo"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148384/tom-takubo"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Takubo"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tom-takubo-do-fccp-b7955a83"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Takubo"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Takubo"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/da86ac6a-5d19-472e-80a0-8b8595cb3054",
+      "name": "Tom Willis",
+      "given_name": "Tom",
+      "family_name": "Willis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tom.willis@wvsenate.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/senate/willis_tom.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Willis"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tom_Willis_(West_Virginia)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/177667/tom-willis"
+        },
+        {
+          "url": "https://www.linkedin.com/in/willisforwv"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Willis"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4a909c49-37c6-4105-ac77-afe4745a1b1b",
+      "name": "Trenton Barnhart",
+      "given_name": "Trenton",
+      "family_name": "Barnhart",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "trenton.barnhart@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/barnhart_trenton.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Barnhart"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Barnhart"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Trenton_Barnhart"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Trenton_Barnhart"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/187328/trenton-barnhart"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Barnhart"
+        },
+        {
+          "url": "https://www.linkedin.com/in/trenton-barnhart-mba-77a691161"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Barnhart"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a6ad12cd-7040-4cf0-83b5-9de1fd835fa8",
+      "name": "Tresa Howell",
+      "given_name": "Tresa",
+      "family_name": "Howell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tresa.howell@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/howell_tresa.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "52",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell,%20T."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tresa_Howell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tresa_Howell"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214504/tresa-howell"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell,%20T."
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8b2ff1b1-618d-47c4-8b20-8388c53eb412",
+      "name": "Tristan Leavitt",
+      "given_name": "Tristan",
+      "family_name": "Leavitt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tristan.leavitt@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/leavitt_tristan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "53",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Leavitt"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tristan_Leavitt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tristan_Leavitt"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/214507/tristan-leavitt"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tristanleavitt"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Leavitt"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/381e0784-9202-4308-a138-399c84740804",
+      "name": "Vernon Criss",
+      "given_name": "Vernon",
+      "family_name": "Criss",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "vernon.criss@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/criss_vernon.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Criss"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Criss"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Vernon_Criss"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vernon_Criss"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/52393/vernon-criss"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Criss"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Criss"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/147a2b54-846b-4fec-b394-be4b50827f5f",
+      "name": "Vince Deeds",
+      "given_name": "Vince",
+      "family_name": "Deeds",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "vince.deeds@wvsenate.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/senate/deeds_vince.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Deeds"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Vince_Deeds"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vince_Deeds"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Deeds"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Senate1/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/542b49b1-72ed-4e96-98bf-e7c236b92e12",
+      "name": "Walter Hall",
+      "given_name": "Walter",
+      "family_name": "Hall",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "walter.hall@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2023/house/hall_walter.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hall"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hall,%20W."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Walter_Hall"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Walter_Hall_(American_politician)"
+        },
+        {
+          "url": "https://www.linkedin.com/in/walter-hall-15a0bb229"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hall"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hall,%20W."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/de66a26a-0d5d-44d4-a687-58cffa1a2512",
+      "name": "Wayne Clark",
+      "given_name": "Wayne",
+      "family_name": "Clark",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "wayne.clark@wvhouse.gov",
+      "image": "https://www.wvlegislature.gov/images/members/2025/house/clark_wayne.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "65",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Clark"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark,%20W."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Wayne_Clark_(West_Virginia)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wayne_Clark_(politician)"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Clark"
+        },
+        {
+          "url": "https://www.linkedin.com/in/wayne-clark-7906933"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark,%20W."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b5b3734c-fa9f-422b-b0d4-ce8b2b2624c5",
+      "name": "Bill Anderson",
+      "given_name": "Bill",
+      "family_name": "Anderson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bill.anderson@wvhouse.gov",
+      "image": "http://www.wvlegislature.gov/images/members/2022/house/anderson_bill.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:wv/government",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Anderson"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anderson",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anderson,%20B.",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Everette_Anderson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Anderson_(West_Virginia_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/7564/bill-anderson-jr"
+        },
+        {
+          "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Anderson"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anderson"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anderson,%20B."
+        },
+        {
+          "url": "https://www.wvlegislature.gov/House/roster.cfm"
+        }
+      ]
+    }
+  ],
+  "count": 134,
+  "last_updated": "2025-09-14T02:00:53.131Z"
+}

@@ -1,0 +1,5562 @@
+{
+  "state": "id",
+  "state_name": "Idaho",
+  "legislators": [
+    {
+      "id": "ocd-person/c77bc461-d0fe-47b4-8999-72e4eda69da1",
+      "name": "Ali Rabe",
+      "given_name": "Ali",
+      "family_name": "Rabe",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "arabe@senate.idaho.gov",
+      "image": "https://cdn.theorg.com/61b74bbb-61b5-48d5-a84d-fb498da306b9_thumb.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2021-10-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6687/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id6687/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=17"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=16"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Alison_Rabe"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alison_Rabe"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6687"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6687/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id6687"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/arabe"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c8c374b3-22b8-4221-a65a-6a4616cb107d",
+      "name": "Barbara Ehardt",
+      "given_name": "Barbara",
+      "family_name": "Ehardt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "behardt@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Ehardt4945.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2017-12-27T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id4945/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=33"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=33",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=33",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Barbara_Ehardt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Barbara_Ehardt"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id4945"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id4945/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/barbara-ehardt-b5919a50"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/02a86541-b10a-42cc-b260-0d0f5e3226c0",
+      "name": "Ben Adams",
+      "given_name": "Ben",
+      "family_name": "Adams",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "badams@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Adams6685.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6685/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id6685/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=13"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=13",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=12",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ben_Adams_(Idaho)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ben_Adams_(Idaho_politician)"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6685"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6685/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id6685"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/benjaminadams538"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cd9538d6-3ed0-4c87-8e0d-d524e8861157",
+      "name": "Ben Fuhriman",
+      "given_name": "Ben",
+      "family_name": "Fuhriman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bfuhriman@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Fuhriman9429.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9429/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ben_Fuhriman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/216091/ben-fuhriman"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9429"
+        },
+        {
+          "url": "https://www.linkedin.com/in/benfuhriman"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a0bec144-a980-4ce8-9e02-ada83079a300",
+      "name": "Ben Toews",
+      "given_name": "Ben",
+      "family_name": "Toews",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "btoews@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Toews7795.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7795/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7795/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=4",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ben_Toews"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7795"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7795/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7795"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.ben4idaho.com/about"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ben-toews-9179a016"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/59fc8cd0-bec0-4df6-a3e6-99ea305c7100",
+      "name": "Brandon Mitchell",
+      "given_name": "Brandon",
+      "family_name": "Mitchell",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bmitchell@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Mitchell6704.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6704/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=5"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=5",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=6",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brandon_Mitchell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brandon_Mitchell_(politician)"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6704"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6704/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brandon-m-mitchell"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/42e5ac22-a35c-4e0e-80fb-05bab9093b28",
+      "name": "Brandon Shippy",
+      "given_name": "Brandon",
+      "family_name": "Shippy",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bshippy@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Shippy9215.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-07-18T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id9215/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9215/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brandon_Shippy"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id9215"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9215"
+        },
+        {
+          "url": "https://www.shippyforidaho.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/81d4b890-9bf4-44e0-99b2-eda866f02d48",
+      "name": "Brent Crane",
+      "given_name": "Brent",
+      "family_name": "Crane",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bcrane@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Crane21.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2006-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id21/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=13"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=13",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=13",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brent_Crane"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brent_Crane"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/58399/brent-crane"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id21"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id21/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brentjcrane"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e89ea88e-7519-48fe-8cb9-65ea18d0dd7b",
+      "name": "Brian Lenney",
+      "given_name": "Brian",
+      "family_name": "Lenney",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "blenney@senate.idaho.gov",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Brian_Lenney_by_Gage_Skidmore.jpg/800px-Brian_Lenney_by_Gage_Skidmore.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7778/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7778/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=13",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Lenney"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7778"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7778/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7778"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brian-lenney"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/df313cc3-ceb2-4fb0-bb36-b2f9cb9e959d",
+      "name": "Britt Raybould",
+      "given_name": "Britt",
+      "family_name": "Raybould",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "braybould@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Raybould5381.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5381/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2019&district=34"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=34",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Britt_Raybould"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Britt_Raybould"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5381"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5381/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brittraybould"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/50e557e4-e7b6-4765-a636-1638a675189c",
+      "name": "Brooke Green",
+      "given_name": "Brooke",
+      "family_name": "Green",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "bgreen@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Green5374.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5374/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=18"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=18",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=18",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brooke_Green"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5374"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5374/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brookegreenboiseid"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e8eea4c8-b669-4609-b991-13ef3a6ff10b",
+      "name": "Bruce Skaug",
+      "given_name": "Bruce",
+      "family_name": "Skaug",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bskaug@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Skaug6708.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6708/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=12"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=12",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=10",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bruce_Skaug"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bruce_Skaug"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6708"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6708/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bruce-skaug-79a677a2"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f67b55ee-1cc0-431b-b950-4b5dfca332ad",
+      "name": "Scott Grow",
+      "given_name": "Scott",
+      "family_name": "Grow",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sgrow@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Grow5126.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-08-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5126/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id5126/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=14"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=14",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=14",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/C._Scott_Grow"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/C._Scott_Grow"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5126"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5126/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id5126"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6a0fc69b-9842-4d47-b509-f555fee240e6",
+      "name": "Camille Blaylock",
+      "given_name": "Camille",
+      "family_name": "Blaylock",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cblaylock@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Blaylock9400.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9400/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Camille_Blaylock"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9400"
+        },
+        {
+          "url": "https://www.linkedin.com/in/camilleblaylock"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a1af9e8e-8f2c-4b6a-a7ca-708a0d0bf6f2",
+      "name": "Carl Bjerke",
+      "given_name": "Carl",
+      "family_name": "Bjerke",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cbjerke@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Bjerke7796.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7796/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7796/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=5",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carl_Bjerke"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7796"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7796/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7796"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/34bec23f-67e3-4940-8f5e-29850f0e9170",
+      "name": "Carrie Semmelroth",
+      "given_name": "Carrie",
+      "family_name": "Semmelroth",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "csemmelroth@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2022/directory/Semmelroth7115.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2021-11-24T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7115/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7115/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=17",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=17",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carrie_Semmelroth"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carrie_Semmelroth"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7115"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7115/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7115"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/carriesemmelroth"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e3d1a2f1-913b-40ec-8256-36eba043156b",
+      "name": "Charlie Shepherd",
+      "given_name": "Charlie",
+      "family_name": "Shepherd",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cshepherd@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Shepherd6707.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6707/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=7"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=7",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=7",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Charlie_Shepherd"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/190909/charlie-shepherd"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6707"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6707/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dbc641db-1cb7-4110-9121-96ddf5d877d7",
+      "name": "Chris Bruce",
+      "given_name": "Chris",
+      "family_name": "Bruce",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cbruce@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Bruce9423.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9423/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Bruce"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9423"
+        },
+        {
+          "url": "https://www.linkedin.com/in/christopher-bruce-39951b46"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7e3f625c-e56e-409a-9989-b07cd77344f6",
+      "name": "Chris Mathias",
+      "given_name": "Chris",
+      "family_name": "Mathias",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cmathias@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Mathias6703.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id6703/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=19"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=19",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=19",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Mathias"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/190993/chris-mathias"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id6703"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id6703/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cpmathias"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/adb43503-bebd-4a83-8fa6-e6416576de2f",
+      "name": "Christy Zito",
+      "given_name": "Christy",
+      "family_name": "Zito",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "czito@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Zito4281.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id4281/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id4281/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=23"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=23",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Christy_Zito"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christy_Zito"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/168302/christy-zito"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id4281"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id4281"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/christy-zito-2232b2133"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4f02e826-da06-4286-8aaf-b89ef3f659bc",
+      "name": "Cindy Carlson",
+      "given_name": "Cindy",
+      "family_name": "Carlson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ccarlson@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Carlson7776.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7776/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7776/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=7",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cindy_Carlson"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7776"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7776/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7776"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1bef63af-a339-47dd-872d-ef1c94a72900",
+      "name": "Clay Handy",
+      "given_name": "Clay",
+      "family_name": "Handy",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chandy@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Handy7811.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7811/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=27",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Clay_Handy"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7811"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7811/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/clay-handy-22363712"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/39fe1103-009e-4594-8ae1-107ba5ffd388",
+      "name": "Clint Hostetler",
+      "given_name": "Clint",
+      "family_name": "Hostetler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chostetler@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Hostetler9425.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9425/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Clint_Hostetler"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/216038/clint-hostetler"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9425"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd3c88a6-3476-4aa8-b267-a5c30d454cac",
+      "name": "Codi Galloway",
+      "given_name": "Codi",
+      "family_name": "Galloway",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "cgalloway@sente.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Galloway6702.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id6702/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id6702/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=15"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=15",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Codi_Galloway"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Codi_Galloway"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id6702"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id6702"
+        },
+        {
+          "url": "https://www.linkedin.com/in/codigalloway"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a41cd894-d64d-406e-99cd-f1935e40a812",
+      "name": "Cornel Rasor",
+      "given_name": "Cornel",
+      "family_name": "Rasor",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "crasor@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Rasor9315.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-09-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id9315/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9315/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cornel_Rasor"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cornel_Rasor"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id9315"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9315"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cornel-rasor-b2b60310"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d9426884-2195-45ee-8130-4a8cf0d61adf",
+      "name": "Dale Hawkins",
+      "given_name": "Dale",
+      "family_name": "Hawkins",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dhawkins@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Hawkins7855.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7855/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=2",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dale_Hawkins"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7855"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7855/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bae06244-d892-41b2-a4a5-beaaa6cba0da",
+      "name": "Dan Garner",
+      "given_name": "Dan",
+      "family_name": "Garner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dgarner@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Garner7813.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7813/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=28",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dan_Garner"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7813"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7813/"
+        },
+        {
+          "url": "https://www.dangarner4idaho.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/04ccb3bd-ae8d-4a64-a6c2-1b63a6f94d15",
+      "name": "Dan Foreman",
+      "given_name": "Dan",
+      "family_name": "Foreman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dforeman@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Foreman4269.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "end_date": "2018-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id4269/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id4269/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2018&district=5"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=6"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dan_Foreman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dan_Foreman"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id4269"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id4269/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id4269"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fdcf0c8e-5794-4c3c-a092-a64ee5cab9d3",
+      "name": "Dave Lent",
+      "given_name": "Dave",
+      "family_name": "Lent",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dlent@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Lent5345.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5345/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id5345/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=33"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=33",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=33",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Lent"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179822/dave-lent"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5345"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5345/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id5345"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dave-lent-2a3225b8"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/140cefcc-8d67-4b5d-9051-c7892072bc38",
+      "name": "David Leavitt",
+      "given_name": "David",
+      "family_name": "Leavitt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dleavitt@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Leavitt9426.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9426/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Leavitt_(Idaho)"
+        },
+        {
+          "url": "https://leavitt4idaho.com"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9426"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/20fe3cd5-d9e1-4d03-9247-9a1ccde862d3",
+      "name": "David Cannon",
+      "given_name": "David",
+      "family_name": "Cannon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dcannon@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Cannon6699.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6699/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=31"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=31",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=30",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Cannon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Cannon_(politician)"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6699"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6699/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-cannon-2068b126"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-cannon-9aa8b026"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3caa9714-29b4-4851-b530-b696c1a87b41",
+      "name": "Dori Healey",
+      "given_name": "Dori",
+      "family_name": "Healey",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dhealey@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Healey7861.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7861/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=15",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dori_Healey"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7861"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7861/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dori-healey-cns-msn-rn-mba-ha-cpps-lnc-60671915a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/db1a3f87-5a7e-4133-a36d-5b319d28d38c",
+      "name": "Doug Okuniewicz",
+      "given_name": "Doug",
+      "family_name": "Okuniewicz",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dougo@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Okuniewicz6706.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6706/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id6706/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=2"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=2",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=3",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Doug_Okuniewicz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doug_Okuniewicz"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179708/doug-okuniewicz"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6706"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6706/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id6706"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/doug-okuniewicz-2a04aa106"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2960c6c4-abca-4406-9d9d-4734fec3f68d",
+      "name": "Doug Ricks",
+      "given_name": "Doug",
+      "family_name": "Ricks",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dricks@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Ricks5383.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5383/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id5383/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=34"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=34",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=34",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Doug_Ricks"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5383"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5383/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id5383"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6dbb9465-3ef5-4754-a482-08ae17c4cb9b",
+      "name": "Doug Pickett",
+      "given_name": "Doug",
+      "family_name": "Pickett",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dpickett@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Pickett7810.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7810/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=27",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Douglas_T._Pickett"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7810"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7810/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/douglas-pickett-8b46b719"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f7a93a62-fa0b-4d95-a9ad-10a938fd47a0",
+      "name": "Dustin Manwaring",
+      "given_name": "Dustin",
+      "family_name": "Manwaring",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dmanwaring@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Manwaring4277.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "end_date": "2018-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id4277/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=29"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=29",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=29",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dustin_W._Manwaring"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dustin_Manwaring"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id4277"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id4277/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/manwaring"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ceec86a5-6519-452a-ba13-9f7ba2da84e5",
+      "name": "Ted Hill",
+      "given_name": "Ted",
+      "family_name": "Hill",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "thill@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Hill7859.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7859/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=14",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ted_Hill"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179739/ted-hill"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7859"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7859/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f6437e18-b7fb-4e53-8c40-a2423d82853d",
+      "name": "Elaine Price",
+      "given_name": "Elaine",
+      "family_name": "Price",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "eprice@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Price7856.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7856/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=4",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elaine_Price"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7856"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7856/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d54c2ad2-bd9d-499f-9046-b6d1eaebbef1",
+      "name": "Faye Thompson",
+      "given_name": "Faye",
+      "family_name": "Thompson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "fthompson@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Thompson9420.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9420/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Faye_Thompson"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9420"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7ba08b82-5bfc-4b36-b036-28b04c0d8bd2",
+      "name": "Glenneda Zuiderveld",
+      "given_name": "Glenneda",
+      "family_name": "Zuiderveld",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gzuiderveld@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Zuiderveld7798.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7798/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7798/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=24",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Glenneda_Zuiderveld"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7798"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7798/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7798"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd967aaf-a9d5-4bec-bf7c-cf0aa19d72ca",
+      "name": "Heather Scott",
+      "given_name": "Heather",
+      "family_name": "Scott",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "hscott@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Scott3137.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3137/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=1"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=1",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=2",
+          "note": "homepage"
+        },
+        {
+          "url": "https://repheatherscott.com/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Heather_Scott_(Idaho)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Heather_Scott"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3137"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3137/"
+        },
+        {
+          "url": "https://repheatherscott.com"
+        },
+        {
+          "url": "https://www.linkedin.com/in/heather-scott-3557b780"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8b37fbb7-bc05-4fd5-be33-a8940e489195",
+      "name": "Ilana Rubel",
+      "given_name": "Ilana",
+      "family_name": "Rubel",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "irubel@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Rubel2888.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2014-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2888/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=18"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=18",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=18",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ilana_Rubel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ilana_Rubel"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2888"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2888/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ilana-rubel-5433296"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6e4d92d8-1f64-4284-95cf-d9c50e3d5730",
+      "name": "Jack Nelsen",
+      "given_name": "Jack",
+      "family_name": "Nelsen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jnelsen@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Nelsen7838.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7838/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=26",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jack_Nelsen"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7838"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7838/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jack-nelsen-239a7a91"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bcb4f50c-1f70-484a-90c2-65652b6a1133",
+      "name": "James Ruchti",
+      "given_name": "James",
+      "family_name": "Ruchti",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jruchti@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Ruchti52.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id52/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=29"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=29",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=29",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/James_Ruchti"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Ruchti"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/59700/james-ruchti"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id52"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id52/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/james-ruchti-5266562a"
+        },
+        {
+          "url": "https://www.linkedin.com/in/james-ruchti-9b634b7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/28827442-9341-4768-86ea-a9186d718be0",
+      "name": "James Holtzclaw",
+      "given_name": "James",
+      "family_name": "Holtzclaw",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jholtzclaw@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Holtzclaw2086.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2012-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2086/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=20"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=20",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=20",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/James_Holtzclaw"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Holtzclaw"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2086"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2086/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/james-holtzclaw-73126711"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/07e5711c-2e3d-4d26-a82a-6c710ed9bf3b",
+      "name": "James Petzke",
+      "given_name": "James",
+      "family_name": "Petzke",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jpetzke@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Petzke7863.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7863/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=21",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/James_Petzke"
+        },
+        {
+          "url": "https://jamespetzke.com"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7863"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7863/"
+        },
+        {
+          "url": "https://petzkeforidaho.com/about-james"
+        },
+        {
+          "url": "https://www.linkedin.com/in/james-petzke-32209b4a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c3b6822b-8900-408d-8745-7066b79e1e52",
+      "name": "Janie Ward-Engelking",
+      "given_name": "Janie",
+      "family_name": "Ward-Engelking",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jwardengelking@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Ward-Engelking2091.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2013-12-20T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2091/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id2091/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=18"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=18",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=18",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Janie_Ward-Engelking"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Janie_Ward-Engelking"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/119940/janie-ward-engelking"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2091"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2091/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id2091"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/janie-ward-engelking-43658239"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/da5babc3-b974-4f3c-a750-8989ab3a122b",
+      "name": "Jaron Crane",
+      "given_name": "Jaron",
+      "family_name": "Crane",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jcrane@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Crane7803.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7803/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=12",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jaron_Crane"
+        },
+        {
+          "url": "https://jaroncrane.com/about"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/203102/jaron-crane"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7803"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7803/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jaron-crane-9a18b4a7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9808edb1-15b0-4b9b-91d9-91a97ff7bb4b",
+      "name": "Jason Monks",
+      "given_name": "Jason",
+      "family_name": "Monks",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jmonks@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Monks2084.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2012-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2084/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id2084/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=22"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=22",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=22",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jason_Monks"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jason_Monks"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2084"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2084/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id2084"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jasonmonks"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a0b66388-5039-4a2c-b022-ac2ece0ce865",
+      "name": "Jeff Ehlers",
+      "given_name": "Jeff",
+      "family_name": "Ehlers",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jehlers@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Ehlers7805.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7805/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=21",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeff_Ehlers"
+        },
+        {
+          "url": "https://jeffehlers4idaho.com/about"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7805"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7805/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ehlersjeff"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/42d3b7d7-1a3a-4d58-ae68-a84cbaaf7ad0",
+      "name": "Jeff Cornilles",
+      "given_name": "Jeff",
+      "family_name": "Cornilles",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jcornilles@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Cornilles7802.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7802/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=12",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeff_Cornilles"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7802"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7802/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeff-cornilles"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0147a633-d6d2-4005-9eb9-35dcf205718b",
+      "name": "Jerald Raymond",
+      "given_name": "Jerald",
+      "family_name": "Raymond",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jraymond@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Raymond5382.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5382/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2019&district=35"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=31",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jerald_Raymond"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jerald_Raymond"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5382"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5382/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e2a8fbe1-e9dc-4569-865f-450fa5f13665",
+      "name": "Jim Guthrie",
+      "given_name": "Jim",
+      "family_name": "Guthrie",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jguthrie@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Guthrie1179.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2011-01-01T00:00:00.000Z",
+        "end_date": "2012-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id1179/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id1179/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=28"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=28",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=28",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jim_Guthrie_(Idaho)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jim_Guthrie_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/59699/jim-guthrie"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id1179"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id1179/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id1179"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jim-guthrie-89a18064"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/76cd07b1-e4de-4e1b-bd7c-a3153493ac5f",
+      "name": "Jim Woodward",
+      "given_name": "Jim",
+      "family_name": "Woodward",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jwoodward@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Woodward5347.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id5347/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id5347/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=1"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=1",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jim_Woodward"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jim_Woodward_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179702/jim-woodward"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id5347"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id5347"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/561516c4-4e4f-45bc-b1d0-6ed359006597",
+      "name": "Joe Alfieri",
+      "given_name": "Joe",
+      "family_name": "Alfieri",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jalfieri@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Alfieri7857.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7857/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=4",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joe_Alfieri"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7857"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7857/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jalfieri"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ed09bbbc-7b10-4ee8-be6b-a4dfcd7330ec",
+      "name": "Joe Palmer",
+      "given_name": "Joe",
+      "family_name": "Palmer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jpalmer@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Palmer749.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2008-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id749/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=20"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=20",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=20",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joe_Palmer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Palmer_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/103874/joe-palmer"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id749"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id749/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/048117e1-cf54-4ebf-9afc-f244d023e039",
+      "name": "John Gannon",
+      "given_name": "John",
+      "family_name": "Gannon",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jgannon@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Gannon2144.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2012-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2144/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=17"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=17",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=17",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_L._Gannon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Gannon_(American_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/33078/john-gannon"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2144"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2144/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-gannon-889247b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7fb821ae-d24a-4e5c-b7bf-70c04b00b269",
+      "name": "John Shirts",
+      "given_name": "John",
+      "family_name": "Shirts",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jshirts@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Shirts9421.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9421/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Shirts"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9421"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ed9290a6-47b1-4b24-8b61-0c0de9b45c73",
+      "name": "John Vander Woude",
+      "given_name": "John",
+      "family_name": "Vander Woude",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jvanderwoude@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Vander%20Woude67.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2011-01-01T00:00:00.000Z",
+        "end_date": "2012-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id67/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=22"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=22",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=22",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Vander_Woude"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Vander_Woude"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/57371/john-vander-woude"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id67"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id67/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/johnvanderwoudeidaho"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4501fe8d-11d8-43ee-a9bd-5ba3a82eb5d4",
+      "name": "Jon Weber",
+      "given_name": "Jon",
+      "family_name": "Weber",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jweber@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Weber6709.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6709/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=34"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=34",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=34",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jon_Weber"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/113860/jon-weber"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6709"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6709/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9cbfadc5-8393-444c-bb39-b1c79390d01b",
+      "name": "Jordan Redman",
+      "given_name": "Jordan",
+      "family_name": "Redman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jredman@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Redman7800.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7800/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=3",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jordan_Redman"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7800"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7800/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jordan-redman-885508a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b01dc4f2-6477-4386-ba9b-eb0c3a2c2c8b",
+      "name": "Josh Keyser",
+      "given_name": "Josh",
+      "family_name": "Keyser",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jkeyser@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Keyser9395.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9395/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josh_Keyser"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9395"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7ea55825-b942-4464-bb86-878113e524fe",
+      "name": "Josh Kohl",
+      "given_name": "Josh",
+      "family_name": "Kohl",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jkohl@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Kohl9401.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9401/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josh_Kohl"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9401"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joshua-kohl-5620134a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/188ce2db-4021-4af8-b562-c90bfab83ebf",
+      "name": "Josh Tanner",
+      "given_name": "Josh",
+      "family_name": "Tanner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jtanner@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Tanner7860.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7860/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=14",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josh_Tanner"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7860"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7860/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/647e5e14-6813-4fc7-a20d-be175157ffb0",
+      "name": "Josh Wheeler",
+      "given_name": "Josh",
+      "family_name": "Wheeler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "joshwheeler@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Wheeler7839.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7839/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=35",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josh_Wheeler_(Idaho)"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7839"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7839/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/josh-wheeler-5735982"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bcaace10-c9c4-4018-a87c-6112eeb33346",
+      "name": "Judy Boyle",
+      "given_name": "Judy",
+      "family_name": "Boyle",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jboyle@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Boyle745.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2008-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id745/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id745/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=9"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=9",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=9",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Judy_Boyle"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Judy_Boyle"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/103843/judy-boyle"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id745"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id745/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id745"
+        },
+        {
+          "url": "https://www.linkedin.com/in/judy-boyle-673b4329"
+        },
+        {
+          "url": "https://www.linkedin.com/in/judyboyleidaho"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8efc94ea-7306-48f5-8d45-5bed5f5e1f85",
+      "name": "Julie VanOrden",
+      "given_name": "Julie",
+      "family_name": "VanOrden",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jvanorden@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/VanOrden2129.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2012-12-01T00:00:00.000Z",
+        "end_date": "2018-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/house/membershipSingle.cfm?ID=2129"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2129/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id2129/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2018&district=31"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=30"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Julie_Van_Orden"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Julie_VanOrden"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/137112/julie-vanorden"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership.cfm"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2129"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2129/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id2129"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/julie-vanorden-bab081a4"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9577c53b-0d84-4d3b-9c5b-7d38227c8e32",
+      "name": "Kelly Anthon",
+      "given_name": "Kelly",
+      "family_name": "Anthon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kanthon@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Anthon3524.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2015-07-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3524/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3524/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=27"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=27",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=27",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kelly_Anthon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kelly_Anthon"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/163456/kelly-anthon"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3524"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3524/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3524"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kelly-arthur-anthon-j-d-18621ba"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c92ba4ff-72aa-4985-b8c0-bb3178187c81",
+      "name": "Kent Marmon",
+      "given_name": "Kent",
+      "family_name": "Marmon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kmarmon@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Marmon9417.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9417/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kent_Marmon"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/103814/kent-marmon"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9417"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kent-marmon-ba073367"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4b8c165b-c49a-413c-846d-8578272d6be6",
+      "name": "Kevin Andrus",
+      "given_name": "Kevin",
+      "family_name": "Andrus",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kandrus@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Andrus5367.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5367/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=28"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=28",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=35",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kevin_Andrus"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Andrus"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179811/kevin-andrus"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5367"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5367/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kevin-andrus"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9134f853-f2da-47e8-a11f-9fbe77849414",
+      "name": "Kevin Cook",
+      "given_name": "Kevin",
+      "family_name": "Cook",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kcook@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Cook6686.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6686/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id6686/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=30"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=30",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=32",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kevin_Cook"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Cook_(politician)"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6686"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6686/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id6686"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kevin-cook-11601663"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0c646770-75cb-4f65-b2af-fd7c933dfe24",
+      "name": "Kyle Harris",
+      "given_name": "Kyle",
+      "family_name": "Harris",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kharris@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Harris9415.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9415/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kyle_Harris_(Idaho)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/215941/kyle-harris"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9415"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2bec666b-1ca3-41dd-af37-9ae8225a83bd",
+      "name": "Lance Clow",
+      "given_name": "Lance",
+      "family_name": "Clow",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lclow@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Clow2107.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2012-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/house/membershipSingle.cfm?ID=2107"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2107/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=24"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=24",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=25",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lance_Clow"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lance_Clow"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/72377/lance-clow"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership.cfm"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2107"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2107/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lanceclow"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d3ee525f-429f-4ac6-ba52-e947881a3e6c",
+      "name": "Lori Den Hartog",
+      "given_name": "Lori",
+      "family_name": "Den Hartog",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ldenhartog@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Den%20Hartog3124.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2014-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3124/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3124/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=22"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=22",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=22",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lori_Den_Hartog"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lori_Den_Hartog"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/168216/lori-den-hartog"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3124"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3124/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3124"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5c049d3c-e605-4f3f-9eba-c91949d5f9f4",
+      "name": "Lori McCann",
+      "given_name": "Lori",
+      "family_name": "McCann",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lmccann@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/McCann6955.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2021-05-17T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id6955/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=6",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=6",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lori_McCann"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lori_McCann"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id6955"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id6955/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lori-mccann-458a6018"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f51cb798-c8e6-4cb7-954c-6507c0d3d054",
+      "name": "Lucas Cayler",
+      "given_name": "Lucas",
+      "family_name": "Cayler",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lcayler@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Cayler9418.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9418/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lucas_Cayler"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/215966/lucas-cayler"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9418"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a9af8eba-9dc3-4961-9305-fa325cb86948",
+      "name": "Marco Erickson",
+      "given_name": "Marco",
+      "family_name": "Erickson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "merickson@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Erickson6700.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6700/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=33"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=33",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=33",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marco_Erickson"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6700"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id6700/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/marco-erickson-a8574613"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/84d9ffa4-35f6-4baf-acdd-c3bafee537e7",
+      "name": "Mark Harris",
+      "given_name": "Mark",
+      "family_name": "Harris",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mharris@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Harris3584.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "end_date": "2022-11-30T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3584/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3584/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=32"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=32",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=35",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Harris_(Idaho)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_Harris_%28Idaho_politician%29"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/163464/mark-harris"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3584"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3584/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3584"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/92364a5c-40fe-4350-9604-5257be00caab",
+      "name": "Mark Sauter",
+      "given_name": "Mark",
+      "family_name": "Sauter",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "msauter@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Sauter7799.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7799/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=1",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Sauter"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7799"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7799/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mark-sauter-55631b7b"
+        },
+        {
+          "url": "https://www.marksauterforidaho.com/#About"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7abc0666-30bd-4e16-ba86-304b1750ac8e",
+      "name": "Megan Egbert",
+      "given_name": "Megan",
+      "family_name": "Egbert",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "megbert@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/directory/Egbert9195.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-05-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id9195/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9195/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Megan_Egbert"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id9195"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9195"
+        },
+        {
+          "url": "https://www.linkedin.com/in/meganegbert"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c6b06b7d-05f8-45a3-8415-4cd1e76c5642",
+      "name": "Melissa Wintrow",
+      "given_name": "Melissa",
+      "family_name": "Wintrow",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mwintrow@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Wintrow3139.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2020-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3139/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3139/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=19"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=19",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=19",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Melissa_Wintrow"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Melissa_Wintrow"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/151321/melissa-wintrow"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3139"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3139/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3139"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/melissa-wintrow-ab77834"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/060e3496-76ff-4895-9637-4ff7bbe7a05e",
+      "name": "Mike Moyle",
+      "given_name": "Mike",
+      "family_name": "Moyle",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mmoyle@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Moyle43.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2011-01-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id43/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=14"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=14",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=10",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Moyle"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Moyle"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/18112/mike-moyle"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id43"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id43/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d8c564c8-3499-4e44-b4b9-df1c0bb52ab4",
+      "name": "Mike Pohanka",
+      "given_name": "Mike",
+      "family_name": "Pohanka",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mpohanka@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Pohanka9427.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9427/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Pohanka"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/203193/mike-pohanka"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9427"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b3878069-33ec-4ecc-8236-f9d0de68f5da",
+      "name": "Monica Church",
+      "given_name": "Monica",
+      "family_name": "Church",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "mchurch@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Church9422.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9422/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Monica_Church"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9422"
+        },
+        {
+          "url": "https://www.linkedin.com/in/monica-c-church-964963249"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/202344ed-fa6e-4d6d-b746-516abb5c962d",
+      "name": "Phil Hart",
+      "given_name": "Phil",
+      "family_name": "Hart",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "phil.hart@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Hart26.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id26/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id26/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=2",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Phil_Hart"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Phil_Hart_(politician)"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id26"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id26/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id26"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/phil-hart-idaho-55b01a161"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bb03d309-94c3-4d63-bb69-ede616be8c72",
+      "name": "Rick Cheatum",
+      "given_name": "Rick",
+      "family_name": "Cheatum",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rcheatum@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Cheatum7812.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7812/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=28",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Richard_Cheatum"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7812"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7812/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rick-cheatum-49471b6"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6d7d44ab-22ce-4a46-b6d0-643cc3af3d0b",
+      "name": "Rob Beiswenger",
+      "given_name": "Rob",
+      "family_name": "Beiswenger",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rbeiswenger@house.idaho.gov",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9psK7gbvCRFwbID4kl-z8CYjGocsNnfsafQ&s",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9416/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rob_Beiswenger"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/207070/rob-beiswenger"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9416"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rob-beiswenger-18a75b3"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/70eb5f7f-381b-400d-87b2-2bdeb6a1c7e7",
+      "name": "Rod Furniss",
+      "given_name": "Rod",
+      "family_name": "Furniss",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rfurniss@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Furniss5372.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5372/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=35"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=35",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=31",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rod_Furniss"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rod_Furniss"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179828/rod-furniss"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5372"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5372/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rod-furniss-clu-chfc-a59ab0111"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1024a2b6-d36f-4c1f-86a0-826ec9120fe0",
+      "name": "Ron Taylor",
+      "given_name": "Ron",
+      "family_name": "Taylor",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "rtaylor@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Taylor7836.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7836/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7836/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=26",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ron_Taylor"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7836"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7836/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7836"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ron-taylor-17670378"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/71489ac3-457d-41ec-b285-a099648b601b",
+      "name": "Ron Mendive",
+      "given_name": "Ron",
+      "family_name": "Mendive",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rmendive@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Mendive2124.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id2124/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=3"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=3",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=5",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ron_Mendive"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_Mendive"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/136961/ron-mendive"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id2124"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2021/id2124/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0ad2781c-7d8f-4e19-9fb2-74c8f9033ef9",
+      "name": "Shawn Dygert",
+      "given_name": "Shawn",
+      "family_name": "Dygert",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sdygert@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Dygert9424.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9424/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shawn_Dygert"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/216037/shawn-dygert"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9424"
+        },
+        {
+          "url": "https://www.linkedin.com/in/shawn-dygert-7ab63339"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b5b4cf71-98db-47f1-84ec-087a4b46641a",
+      "name": "Soñia Galaviz",
+      "given_name": "Soñia",
+      "family_name": "Galaviz",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sgalaviz@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Galaviz7862.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7862/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=16",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/So%C3%B1ia_Galaviz"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7862"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7862/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/94248975-397a-4e5c-a544-40cb7a3f06d0",
+      "name": "Stephanie Mickelsen",
+      "given_name": "Stephanie",
+      "family_name": "Mickelsen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "smickelsen@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Mickelsen7814.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7814/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=32",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephanie_Mickelsen"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7814"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7814/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stephanie-mickelsen-a565406a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0c413128-0ec7-4228-aa8b-93572d153c6f",
+      "name": "Steve Berch",
+      "given_name": "Steve",
+      "family_name": "Berch",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sberch@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Berch5368.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5368/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=15"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=15",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=15",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Berch"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/119925/steve-berch"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5368"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5368/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/steveberch"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0e6ffb72-a52a-4cac-90a0-ae54a3dfe1a2",
+      "name": "Steve Tanner",
+      "given_name": "Steve",
+      "family_name": "Tanner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stanner@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Tanner9419.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9419/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Tanner_(Idaho_House_candidate)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/119891/steve-tanner"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9419"
+        },
+        {
+          "url": "https://www.linkedin.com/in/steven-tanner-963b9a73"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/983607b1-0987-4efe-8547-de1c5d262e5f",
+      "name": "Steve Miller",
+      "given_name": "Steve",
+      "family_name": "Miller",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "smiller@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Miller2134.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/house/membershipSingle.cfm?ID=2134"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2134/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2018&district=26"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=24"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Miller_(Idaho)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Miller_(Idaho_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/137075/steve-miller"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership.cfm"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2134"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2134/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/846c0e7d-ec02-4f49-afb9-3604dd27da98",
+      "name": "Tammy Nichols",
+      "given_name": "Tammy",
+      "family_name": "Nichols",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tnichols@senate.idaho.gov",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tammy_Nichols_Election_Photo.jpg/500px-Tammy_Nichols_Election_Photo.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5380/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id5380/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=11"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=11",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=10",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tammy_Nichols"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tammy_Nichols"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5380"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5380/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id5380"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7255260c-8991-427e-acd7-5ef985041199",
+      "name": "Tanya Burgoyne",
+      "given_name": "Tanya",
+      "family_name": "Burgoyne",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tburgoyne@house.idaho.gov",
+      "image": "https://assets.civicengine.com/uploads/candidate/headshot/812118/812118.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9428/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tanya_Burgoyne"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2025/id9428"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tanya-burgoyne-0b053516"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0b894582-b3d6-4600-a401-ed874e8c632d",
+      "name": "Todd Lakey",
+      "given_name": "Todd",
+      "family_name": "Lakey",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tlakey@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Lakey2132.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2132/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id2132/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=12"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=12",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=23",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Todd_Lakey"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Todd_Lakey"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/137096/todd-lakey"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2132"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2132/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id2132"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/toddlakey"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ee4e19dc-d39c-4a93-b466-346b2e822f86",
+      "name": "Tony Wisniewski",
+      "given_name": "Tony",
+      "family_name": "Wisniewski",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "twisniewski@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Wisniewski5384.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5384/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=3"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=3",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=5",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tony_Wisniewski"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Wisniewski"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179711/tony-wisniewski"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5384"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id5384/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tony-wisniewski-b7716a6"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/562def54-c2da-4b6a-bdfa-5038a4c04e0c",
+      "name": "Treg Bernt",
+      "given_name": "Treg",
+      "family_name": "Bernt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tbernt@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Bernt7797.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7797/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7797/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=21",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Treg_Bernt"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7797"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id7797/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id7797"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2a8943d8-c4fe-4286-8b26-6240d9ff26f8",
+      "name": "Van Burtenshaw",
+      "given_name": "Van",
+      "family_name": "Burtenshaw",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "vburtenshaw@senate.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Burtenshaw3140.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2018-12-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3140/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3140/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=35"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=35",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=31",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Van_Burtenshaw"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Van_Burtenshaw"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/151905/van-burtenshaw"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3140"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id3140/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2024/id3140"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/senate/membership/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1abcdba2-7ed6-4871-889e-9e4c47c4d000",
+      "name": "Vito Barbieri",
+      "given_name": "Vito",
+      "family_name": "Barbieri",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "vbar@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Barbieri1171.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id1171/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=2"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=2",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=3",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Vito_Barbieri"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vito_Barbieri"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/119896/vito-barbieri"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id1171"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id1171/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/vito-barbieri-36990453"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8a220a7f-f629-493c-81e8-5f56d40440a9",
+      "name": "Wendy Horman",
+      "given_name": "Wendy",
+      "family_name": "Horman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "wendyhorman@house.idaho.gov",
+      "image": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Horman2146.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:id/government",
+        "start_date": "2013-01-01T00:00:00.000Z",
+        "end_date": "2022-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2146/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2021&district=30"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2022&district=30",
+          "note": "homepage"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/?yr=2023&district=32",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Wendy_Horman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wendy_Horman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/137104/wendy-horman"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership"
+        },
+        {
+          "url": "https://legislature.idaho.gov/house/membership/"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2146"
+        },
+        {
+          "url": "https://legislature.idaho.gov/legislators/membership/2023/id2146/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/wendy-horman-17a07151"
+        }
+      ]
+    }
+  ],
+  "count": 104,
+  "last_updated": "2025-09-14T02:00:52.490Z"
+}

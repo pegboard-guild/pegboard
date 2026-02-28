@@ -1,0 +1,2950 @@
+{
+  "state": "nv",
+  "state_name": "Nevada",
+  "legislators": [
+    {
+      "id": "ocd-person/6fee4c5a-f125-46bc-b11a-d254e40428e4",
+      "name": "Alexis Hansen",
+      "given_name": "Alexis",
+      "family_name": "Hansen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "alexis.hansen@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hansen.Alexis.366.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2018-11-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=366"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/32",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Alexis_Hansen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexis_Hansen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/180994/alexis-hansen"
+        },
+        {
+          "url": "https://www.alexishansennv.com/about-alexis"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=366"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current                              \""
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/32"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d95b3a70-9bb4-43b8-a376-9d3151f9c44d",
+      "name": "Angie Taylor",
+      "given_name": "Angie",
+      "family_name": "Taylor",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "angela.taylor@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Taylor.Angela.424.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z",
+        "end_date": "2024-11-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/15"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Angie_Taylor"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Angie_Taylor"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current                             \""
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/15"
+        },
+        {
+          "url": "https://www.linkedin.com/in/angie-taylor"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/11f44d71-88c1-4022-a2f5-f8ca9b8795f2",
+      "name": "Bert Gurr",
+      "given_name": "Bert",
+      "family_name": "Gurr",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bert.gurr@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Gurr.Bert.402.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bert_Gurr"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bert_Gurr"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/204095/bert-gurr"
+        },
+        {
+          "url": "https://www.gurr4nevada.com/about"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33 \""
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/20c9828b-8026-440a-9328-0c2cbcbad016",
+      "name": "Brian Hibbetts",
+      "given_name": "Brian",
+      "family_name": "Hibbetts",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brian.hibbetts@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Hibbetts.Brian.394.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/13",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Hibbetts"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brian_Hibbetts"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/204187/brian-hibbetts"
+        },
+        {
+          "url": "https://www.brianhibbetts.com/about"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/13"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/13                              \"                           \""
+        },
+        {
+          "url": "https://www.linkedin.com/in/brian-hibbetts-701326103"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/287d0078-78f3-4717-8493-9f77d0eb57d6",
+      "name": "Brittney Miller",
+      "given_name": "Brittney",
+      "family_name": "Miller",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "brittney.miller@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Miller.Brittney.304.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2016-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=304"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/5",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brittney_Miller"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brittney_Miller"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169513/brittney-miller"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=304"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/5"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/5                           \"                            \""
+        },
+        {
+          "url": "https://www.linkedin.com/in/brittney-miller-6227a865"
+        },
+        {
+          "url": "https://www.miller4thepeople.com/meet-brittney"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/189d270a-96e5-45af-a2b8-bbcc2ad225c1",
+      "name": "Carrie Buck",
+      "given_name": "Carrie",
+      "family_name": "Buck",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "carrie.buck@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Buck.Carrie.387.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2020-11-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=387"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/5",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carrie_Buck_(Nevada)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carrie_A._Buck"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=387"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/5"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dr-carrie-a-buck-1111b488"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/67f22a3d-05c3-4256-8260-dac682607fc7",
+      "name": "Cecelia González",
+      "given_name": "Cecelia",
+      "family_name": "González",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cecelia.gonzalez@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Gonzlez.Cecelia.378.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2020-11-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=378"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/16",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cecelia_Gonz%C3%A1lez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cecelia_Gonz%C3%A1lez"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=378"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/16"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cecelia-gonz%C3%A1lez-484738174"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0828d1f5-5772-4e62-88d8-1650abb8b749",
+      "name": "Cinthia Moore",
+      "given_name": "Cinthia",
+      "family_name": "Moore",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "cinthia.moore@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Moore.Cinthia.412.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/11"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Cinthia_Moore"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/180969/cinthia-moore"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/11"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cinthia-moore-008a7445"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b266a1bc-d8f5-472c-ba8d-e98e0d904ee3",
+      "name": "Daniele Monroe-Moreno",
+      "given_name": "Daniele",
+      "family_name": "Monroe-Moreno",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "daniele.monroemoreno@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/MonroeMoreno.Daniele.307.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2016-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=307"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/1",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Daniele_Monroe-Moreno"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Daniele_Monroe-Moreno"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169498/daniele-monroe-moreno"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=307"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/1"
+        },
+        {
+          "url": "https://www.linkedin.com/in/daniele-monroe-moreno-8089062a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bf8b61a8-585a-4357-82f8-bd8de898262b",
+      "name": "Danielle Gallant",
+      "given_name": "Danielle",
+      "family_name": "Gallant",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "danielle.gallant@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Gallant.Danielle.397.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/23",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Danielle_Gallant"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Danielle_Gallant"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/204208/danielle-gallant"
+        },
+        {
+          "url": "https://www.daniellefornv.com/about"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/23"
+        },
+        {
+          "url": "https://www.linkedin.com/in/danielle-gallant-a5267721"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7d16a086-5877-48e9-9e76-13c5159f89ce",
+      "name": "David Orentlicher",
+      "given_name": "David",
+      "family_name": "Orentlicher",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "david.orentlicher@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Orentlicher.David.377.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2002-11-06T00:00:00.000Z",
+        "end_date": "2008-11-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=377"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/20",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Orentlicher"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Orentlicher"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=377"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/20"
+        },
+        {
+          "url": "https://www.linkedin.com/in/davidorentlicher"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6da4be55-c493-4b72-b436-5257259247d2",
+      "name": "Dina Neal",
+      "given_name": "Dina",
+      "family_name": "Neal",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "dina.neal@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/81st2021/legislators/Senators/Images/Neal.Dina.129.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "end_date": "2020-11-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=129"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/4",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dina_Neal"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dina_Neal"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/121828/dina-neal"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=129"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/4"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dina-neal-juris-doctorate-8980b723"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fb919fa4-e37e-4268-9f5d-e4c3e9490475",
+      "name": "Duy Nguyen",
+      "given_name": "Duy",
+      "family_name": "Nguyen",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "duy.nguyen@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Nguyen.Duy.392.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/8",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Duy_Nguyen_(Nevada)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Duy_Nguyen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/204172/duy-nguyen"
+        },
+        {
+          "url": "https://www.duyfornv.com/about-duy"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/8"
+        },
+        {
+          "url": "https://www.linkedin.com/in/duymba"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e5b06346-f5ee-4e1d-baed-342cc4a8ff36",
+      "name": "Edgar Flores",
+      "given_name": "Edgar",
+      "family_name": "Flores",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "edgar.flores@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Flores.Edgar.273.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "end_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=273"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/28",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/2",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Edgar_Flores"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Edgar_Flores_(politician)"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=273"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/28"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/2"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a76836f8-24c9-4f90-8e13-29f417a7ad9f",
+      "name": "Elaine Marzola",
+      "given_name": "Elaine",
+      "family_name": "Marzola",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "elaine.marzola@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Marzola.Elaine.376.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2020-11-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=376"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/21",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elaine_Marzola"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Elaine_Marzola"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/191161/elaine-marzola"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=376"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/21"
+        },
+        {
+          "url": "https://www.linkedin.com/in/elaine-marzola-964b51115"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/39e0ca55-992e-4558-aec5-279adb467de7",
+      "name": "Erica Mosca",
+      "given_name": "Erica",
+      "family_name": "Mosca",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "erica.mosca@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Mosca.Erica.395.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/14",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Erica_Mosca"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Erica_Mosca"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/169547/erica-mosca"
+        },
+        {
+          "url": "https://www.ericamosca.com/about-erica"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/14"
+        },
+        {
+          "url": "https://www.linkedin.com/in/emlv"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1555ff9d-7b4a-46d9-be19-6a4be444f574",
+      "name": "Erica Roth",
+      "given_name": "Erica",
+      "family_name": "Roth",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "erica.roth@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Roth.Erica.413.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/24"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Erica_Roth"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/215856/erica-roth"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/24"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ericarothesq"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bcad4dc1-c812-409b-9cc9-e1d8c91fdafa",
+      "name": "Fabian Doñate",
+      "given_name": "Fabian",
+      "family_name": "Doñate",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "fabian.donate@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Doate.Fabian.350.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2021-02-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/10",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Fabian_Donate"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fabian_Do%C3%B1ate"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/10"
+        },
+        {
+          "url": "https://www.linkedin.com/in/fabiandonate"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1c4f97a9-c965-4d0d-b5b6-39b91aee4f49",
+      "name": "Gregory Koenig",
+      "given_name": "Gregory",
+      "family_name": "Koenig",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gregory.koenig@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Koenig.Gregory.403.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gregory_Koenig"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gregory_Koenig"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/204098/gregory-koenig"
+        },
+        {
+          "url": "https://koenigforassembly.com/about"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/33330e1e-b22d-49d7-bce8-6964b289683a",
+      "name": "Greg Hafen",
+      "given_name": "Greg",
+      "family_name": "Hafen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "gregory.hafen@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hafen.Gregory.371.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2018-12-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=371"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/36",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Gregory_Hafen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gregory_Hafen_II"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=371"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/36"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/684e4e66-da40-4914-943a-40ef578fa231",
+      "name": "Hanadi Nadeem",
+      "given_name": "Hanadi",
+      "family_name": "Nadeem",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "hanadi.nadeem@asm.state.nv.us",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Hanadi_Nadeem1.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/34"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Hanadi_Nadeem"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/34"
+        },
+        {
+          "url": "https://www.linkedin.com/in/hanadi-nadeem-b0ba8a38"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bedabc75-c6b4-4949-9e0e-76b9432e740f",
+      "name": "Heather Goulding",
+      "given_name": "Heather",
+      "family_name": "Goulding",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "heather.goulding@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Goulding.Heather.416.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Heather_Goulding"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/215861/heather-goulding"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27"
+        },
+        {
+          "url": "https://www.linkedin.com/in/heather-goulding-6b532511"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/61389b89-1169-49b3-a17b-c904f2111b4e",
+      "name": "Heidi Kasama",
+      "given_name": "Heidi",
+      "family_name": "Kasama",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "heidi.kasama@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Kasama.Heidi.379.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2020-11-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=379"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/2",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Heidi_Kasama"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Heidi_Kasama"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/191090/heidi-kasama"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=379"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/2"
+        },
+        {
+          "url": "https://www.linkedin.com/in/heidikasama"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b88fd854-c97b-4908-a554-583b93bca5c4",
+      "name": "Howard Watts",
+      "given_name": "Howard",
+      "family_name": "Watts",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "howard.watts@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Watts.Howard.363.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2018-11-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=363"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/15",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Howard_Watts_III"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Howard_Watts_III"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/180976/howard-watts-iii"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=363"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/15"
+        },
+        {
+          "url": "https://www.linkedin.com/in/howard-watts-iii-9a1321109"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/94c7e249-88bb-4f83-b225-6b34f9361d0f",
+      "name": "Ira Hansen",
+      "given_name": "Ira",
+      "family_name": "Hansen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ira.hansen@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Hansen.Ira.157.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "end_date": "2018-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=157"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/14",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ira_Hansen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ira_Hansen"
+        },
+        {
+          "url": "https://www.irahansen.com/about-ira"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=157"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/14"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ira-hansen-305b0149"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/75d6c9b4-d0ee-49bb-aa17-ec20bb33e9eb",
+      "name": "James Ohrenschall",
+      "given_name": "James",
+      "family_name": "Ohrenschall",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "james.ohrenschall@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/Ohrenschall.James.67.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "end_date": "2018-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=67"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/21",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/James_Ohrenschall"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Ohrenschall"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/66853/james-ohrenschall"
+        },
+        {
+          "url": "https://www.jamesohrenschall.com/about"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=67"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/21"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/00ad1837-b472-4ce8-872d-e1eac1c1c6db",
+      "name": "Jeff Stone",
+      "given_name": "Jeff",
+      "family_name": "Stone",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jeff.stone@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Stone.Jeff.390.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2014-12-01T00:00:00.000Z",
+        "end_date": "2019-11-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/20",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeff_Stone_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeff_Stone_(California_politician)"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/20"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/70e15282-2812-4486-9d7e-06862aa45cc3",
+      "name": "Jill Dickman",
+      "given_name": "Jill",
+      "family_name": "Dickman",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jill.dickman@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Dickman.Jill.277.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2015-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=277"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/31",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jill_Dickman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jill_Dickman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/152682/jill-dickman"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=277"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/31"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jill-dickman-59aa3985"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/282757f9-1693-4ac5-bd98-4315543cd61a",
+      "name": "Joe Dalia",
+      "given_name": "Joe",
+      "family_name": "Dalia",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "joe.dalia@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Dalia.Joe.414.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/29"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joe_Dalia"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/204215/joe-dalia"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/29"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joe-dalia-3b89a8166"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/87e878e2-fd19-4b55-a7b5-b76adf520e84",
+      "name": "John Ellison",
+      "given_name": "John",
+      "family_name": "Ellison",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.ellison@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Ellison.John.159.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "end_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=159"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/19"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Ellison"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Ellison_%28politician%29"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=159"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/19"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-ellison-a7858246"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/deb46b96-7bab-40be-a145-8d397b436d87",
+      "name": "John Steinbeck",
+      "given_name": "John",
+      "family_name": "Steinbeck",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.steinbeck@sen.state.nv.us",
+      "image": "http://www.leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Steinbeck.John.418.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/18"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Steinbeck"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/18"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-steinbeck-aa6b97ab"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b6a16a74-3cb4-43c1-83cd-1b6f211993a0",
+      "name": "Jovan Jackson",
+      "given_name": "Jovan",
+      "family_name": "Jackson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jovan.jackson@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Jackson.Jovan.422.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/6"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jovan_Jackson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/215893/jovan-jackson"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/6"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a12a3103-37b0-4ac4-81f0-100aaad494e3",
+      "name": "Julie Pazina",
+      "given_name": "Julie",
+      "family_name": "Pazina",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "julie.pazina@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Pazina.Julie.391.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/12",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Julie_Pazina"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Julie_Pazina"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180946/julie-pazina"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/12"
+        },
+        {
+          "url": "https://www.linkedin.com/in/julie-pazina-cem-ap-9b31a55"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7ea18ec5-ed07-4de0-8b70-8034022ff32a",
+      "name": "Ken Gray",
+      "given_name": "Ken",
+      "family_name": "Gray",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ken.gray@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Gray.Ken.404.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/39",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ken_Gray_(Nevada)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ken_Gray_(Nevada_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/187391/ken-gray"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/39"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ken-gray-645ba76"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9a681fc4-e005-4c1f-a16b-6fa2b02106e3",
+      "name": "Linda Hunt",
+      "given_name": "Linda",
+      "family_name": "Hunt",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "linda.hunt@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hunt.Linda.420.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/17"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Linda_Hunt_(Nevada)"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/17"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1707682b-c409-4d5e-9a2d-9505180de66c",
+      "name": "Lisa Cole",
+      "given_name": "Lisa",
+      "family_name": "Cole",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lisa.cole@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Cole.Lisa.410.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/4"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lisa_Cole_(Nevada)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/215876/lisa-cole"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/4"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lisa-cole-48551264"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b82b9b71-1d83-4f91-9a7f-8adec73b023f",
+      "name": "Lisa Krasner",
+      "given_name": "Lisa",
+      "family_name": "Krasner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lisa.krasner@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Krasner.Lisa.327.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "end_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=327"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/16",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lisa_Krasner"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lisa_Krasner"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=327"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/16"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lisa-krasner-36a345b4"
+        },
+        {
+          "url": "https://www.lisakrasnerfornevada.com/meet-lisa"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f3c4b2a7-2a24-4ba2-9894-421daed2d117",
+      "name": "Lori Rogich",
+      "given_name": "Lori",
+      "family_name": "Rogich",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lori.rogich@sen.state.nv.us",
+      "image": "http://www.leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Rogich.Lori.425.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/11"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lori_Rogich"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lori_Rogich"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215911/lori-rogich"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/11"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lori-rogich-249029174"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0435a1f4-d8e4-43d9-9ac1-788a0aed92e4",
+      "name": "Marilyn Dondero Loop",
+      "given_name": "Marilyn",
+      "family_name": "Dondero Loop",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "marilyn.donderoloop@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/DonderoLoop.Marilyn.92.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2009-01-01T00:00:00.000Z",
+        "end_date": "2014-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=92"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/8",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marilyn_Dondero_Loop"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marilyn_Dondero_Loop"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/106888/marilyn-dondero-loop"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=92"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/8"
+        },
+        {
+          "url": "https://www.linkedin.com/in/marilyn-dondero-loop-aa496b78"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd27bab3-8a47-439f-8ae5-8ce3ba534f90",
+      "name": "Max Carter",
+      "given_name": "Max",
+      "family_name": "Carter",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "max.carter@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Carter.Max.393.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/12",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Max_Carter_II"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Max_Carter"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/204180/max-carter"
+        },
+        {
+          "url": "https://nevadarealtorssupport.com/max-carter-ii"
+        },
+        {
+          "url": "https://www.carter4nv.com/about-max"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/12"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/12                               \""
+        },
+        {
+          "url": "https://www.linkedin.com/in/max-carter-ii-0b630867"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/860029b3-070b-4c23-a826-51948c5d995c",
+      "name": "Melanie Scheible",
+      "given_name": "Melanie",
+      "family_name": "Scheible",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "melanie.scheible@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Scheible.Melanie.358.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2018-11-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=358"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/9",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Melanie_Scheible"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Melanie_Scheible"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180937/melanie-scheible"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=358"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/9"
+        },
+        {
+          "url": "https://www.linkedin.com/in/melanie-scheible-52351622"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5cafbfaf-3066-4080-9754-b53f337ba4ba",
+      "name": "Melissa Hardy",
+      "given_name": "Melissa",
+      "family_name": "Hardy",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "melissa.hardy@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hardy.Melissa.364.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2018-11-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=364"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/22",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Melissa_Hardy"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Melissa_Hardy"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/180981/melissa-hardy"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=364"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/22"
+        },
+        {
+          "url": "https://www.linkedin.com/in/melissa-hardy-59505a26"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d4a1125a-69d2-4de1-a4b4-af2aae20de09",
+      "name": "Natha Anderson",
+      "given_name": "Natha",
+      "family_name": "Anderson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "natha.anderson@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Anderson.Natha.375.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2020-11-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=375"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/30",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Natha_Anderson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Natha_Anderson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/191357/natha-anderson"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=375"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/30"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d2ca0a59-3bf1-4e1c-b4d7-9da33a4c5152",
+      "name": "Nicole Cannizzaro",
+      "given_name": "Nicole",
+      "family_name": "Cannizzaro",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "nicole.cannizzaro@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Cannizzaro.Nicole.347.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2016-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=347"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/6",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nicole_Cannizzaro"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nicole_Cannizzaro"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169489/nicole-cannizzaro"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=347"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/6"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nicole-cannizzaro-03152b7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a964be66-bd32-48ab-b6c4-9ede22177328",
+      "name": "P.K. O'Neill",
+      "given_name": "P.K.",
+      "family_name": "O'Neill",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "pk.oneill@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/ONeill.PhilipPK.285.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2015-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=285"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/40",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Philip_O%27Neill"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/P._K._O%27Neill"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=285"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/40"
+        },
+        {
+          "url": "https://www.linkedin.com/in/pk-oneill-19036037"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0460d67c-f5e3-4ff8-82c3-27caabeff9a2",
+      "name": "Rebecca Edgeworth",
+      "given_name": "Rebecca",
+      "family_name": "Edgeworth",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rebecca.edgeworth@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Edgeworth.Rebecca.411.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/35"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rebecca_Edgeworth"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/215873/rebecca-edgeworth"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/35"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/eae59702-f6de-431e-98f0-9c4bc5b6e059",
+      "name": "Reuben D'Silva",
+      "given_name": "Reuben",
+      "family_name": "D'Silva",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "reuben.dsilva@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/DSilva.Reuben.401.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/28",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Reuben_D%27Silva"
+        },
+        {
+          "url": "https://dsilvafornevada.com/copy-of-biography"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Reuben_D%27Silva"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169437/reuben-dsilva"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/28"
+        },
+        {
+          "url": "https://www.linkedin.com/in/reuben-d-silva-90077414"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/204b492e-4b29-4e8e-9c3e-d2d0f0a8ceea",
+      "name": "Rich DeLong",
+      "given_name": "Rich",
+      "family_name": "DeLong",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rich.delong@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/DeLong.Rich.399.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rich_DeLong"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rich_DeLong"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26"
+        },
+        {
+          "url": "https://www.linkedin.com/in/richard-delong-b5771319"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/05dee0b4-bfea-4473-b253-739895818b0d",
+      "name": "Roberta Lange",
+      "given_name": "Roberta",
+      "family_name": "Lange",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "roberta.lange@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Lange.Roberta.383.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2020-11-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=383"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/7",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Roberta_Lange"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Roberta_Lange"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/191084/roberta-lange"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=383"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/7"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robertalange"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6aa57859-c195-4a44-9404-b6e2bbe4ac04",
+      "name": "Robin Titus",
+      "given_name": "Robin",
+      "family_name": "Titus",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "robin.titus@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Titus.Robin.281.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "end_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=281"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/17",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robin_Titus"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robin_L._Titus"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/151015/robin-titus"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=281"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/17"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dr-robin-titus-a4917126"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d84ad99c-617a-4d33-a351-8bde19868746",
+      "name": "Rochelle Nguyen",
+      "given_name": "Rochelle",
+      "family_name": "Nguyen",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "rochelle.nguyen@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Nguyen.Rochelle.372.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2019-02-04T00:00:00.000Z",
+        "end_date": "2022-12-21T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=372"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/10",
+          "note": "homepage"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/3",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rochelle_Nguyen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rochelle_Nguyen"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=372"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/10"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/3"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/25e09131-39e3-4c58-96b0-6c1ac9e74b19",
+      "name": "Sandra Jauregui",
+      "given_name": "Sandra",
+      "family_name": "Jauregui",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "sandra.jauregui@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Jauregui.Sandra.344.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "41",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2016-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=344"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/41",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sandra_Jauregui"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sandra_Jauregui"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=344"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/41"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sandra-jauregui-856631a7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/99f4f903-1c4f-49f0-835f-c0b9b1aa0317",
+      "name": "Selena La Rue Hatch",
+      "given_name": "Selena",
+      "family_name": "La Rue Hatch",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "selena.la.rue.hatch@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/LaRueHatch.Selena.398.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/25",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Selena_La_Rue_Hatch"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Selena_La_Rue_Hatch"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/25"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/59a3b5f2-a135-48e5-9baa-98585f8ff35e",
+      "name": "Selena Torres-Fossett",
+      "given_name": "Selena",
+      "family_name": "Torres-Fossett",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "selena.torres@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Torres.Selena.359.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2018-11-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=359"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/3",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Selena_Torres"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Selena_Torres"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/180952/selena-torres"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180952/selena-torres"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=359"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/3"
+        },
+        {
+          "url": "https://www.linkedin.com/in/selena-torres-6a755683"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1fa69460-c910-4cf1-acfb-1d44c342e658",
+      "name": "Shea Backus",
+      "given_name": "Shea",
+      "family_name": "Backus",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "shea.backus@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/80th2019/legislators/Assembly/Images/Backus.Shea.368.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2018-11-07T00:00:00.000Z",
+        "end_date": "2020-11-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/37",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shea_Backus"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shea_Backus"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/37"
+        },
+        {
+          "url": "https://www.linkedin.com/in/shea-backus-7369231b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4acffaa7-5568-47e3-b476-bdf23867605e",
+      "name": "Shelly Crawford",
+      "given_name": "Shelly",
+      "family_name": "Crawford",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "shelly.cruzcrawford@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/CruzCrawford.MicheleeShelly.419.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/1"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michelee_Crawford"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/215905/shelly-crawford"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/1"
+        },
+        {
+          "url": "https://www.linkedin.com/in/michelee-crawford-ronnow-es-3ab761274"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a0553b6f-7142-4321-9e3a-c089447d3a78",
+      "name": "Skip Daly",
+      "given_name": "Skip",
+      "family_name": "Daly",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "skip.daly@sen.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Daly.Skip.155.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2010-11-03T00:00:00.000Z",
+        "end_date": "2014-11-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/13",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Skip_Daly"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Skip_Daly"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/121904/skip-daly"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/13"
+        },
+        {
+          "url": "https://www.linkedin.com/in/skip-daly-01a69a84"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4caae060-1c91-4d9d-a8f9-83d74c7d0f58",
+      "name": "Steve Yeager",
+      "given_name": "Steve",
+      "family_name": "Yeager",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "steve.yeager@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Yeager.Steve.310.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2016-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=310"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/9",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Yeager"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Yeager_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/152786/steve-yeager"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=310"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/9"
+        },
+        {
+          "url": "https://www.linkedin.com/in/steve-yeager-a2598882"
+        },
+        {
+          "url": "https://www.yeager4nevada.com/about.html"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1af6f404-0dfc-424a-b6df-227f45782504",
+      "name": "Tanya Flanagan",
+      "given_name": "Tanya",
+      "family_name": "Flanagan",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "tanya.flanagan@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Flanagan.Tanya.423.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/7"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tanya_Flanagan"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/215897/tanya-flanagan"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/7"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tanya-flanagan-8676882"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7b7e4737-3bd7-462f-894f-1397a87f04ab",
+      "name": "Toby Yurek",
+      "given_name": "Toby",
+      "family_name": "Yurek",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "toby.yurek@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Yurek.Toby.396.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2022-11-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/19",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Thaddeus_Yurek"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Toby_Yurek"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/204202/thaddeus-yurek"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/19"
+        },
+        {
+          "url": "https://www.linkedin.com/in/thaddeus-yurek-6978394"
+        },
+        {
+          "url": "https://www.tobyyurek.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fc07db44-bc3c-412b-a15e-dd013220411a",
+      "name": "Tracy Brown-May",
+      "given_name": "Tracy",
+      "family_name": "Brown-May",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "tracy.brownmay@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/BrownMay.Tracy.353.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2021-02-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/42",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tracy_Brown-May"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tracy_Brown-May"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/195813/tracy-brown-may"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/42"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tracy-brown-may-a660a639"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/00175071-948a-4814-b66e-b07b2ec7785d",
+      "name": "Venicia Considine",
+      "given_name": "Venicia",
+      "family_name": "Considine",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "venicia.considine@asm.state.nv.us",
+      "image": "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Considine.Venicia.380.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2020-11-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=380"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/18",
+          "note": "homepage"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Venicia_Considine"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Venicia_Considine"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/107008/venicia-considine"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=380"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/18"
+        },
+        {
+          "url": "https://www.linkedin.com/in/venicia-considine-532aa63"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c1af6bc9-bae5-4174-a2f1-6b4d3c5fc496",
+      "name": "Venise Karris",
+      "given_name": "Venise",
+      "family_name": "Karris",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "venise.karris@asm.state.nv.us",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/VeniseKarris2024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:nv/government",
+        "start_date": "2024-11-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/10"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Venise_Karris"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/215840/venise-karris"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/10"
+        }
+      ]
+    }
+  ],
+  "count": 63,
+  "last_updated": "2025-09-14T02:00:52.890Z"
+}

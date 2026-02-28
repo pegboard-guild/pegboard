@@ -1,0 +1,2090 @@
+{
+  "state": "ne",
+  "state_name": "Nebraska",
+  "legislators": [
+    {
+      "id": "ocd-person/03ee8938-314f-4db4-ac76-9507d85fc03c",
+      "name": "Ashlei Spivey",
+      "given_name": "Ashlei",
+      "family_name": "Spivey",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "aspivey@leg.ne.gov",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=13"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ashlei_Spivey"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215023/ashlei-spivey"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=13"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ashlei-spivey-arthur-2815435"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/01d5ca17-53a1-463a-b2f6-74fe24833c0f",
+      "name": "Barry DeKay",
+      "given_name": "Barry",
+      "family_name": "DeKay",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "bdekay@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist40/highres/dist40.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=40"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Barry_DeKay"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Barry_DeKay"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/202079/barry-dekay"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=40"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/barry-dekay-11a691101"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3da787e9-f6ed-4069-bd74-58ec7c015efb",
+      "name": "Beau Ballard",
+      "given_name": "Beau",
+      "family_name": "Ballard",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "bballard@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist21/highres/dist21.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=21"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Beau_Ballard"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=21"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/beau-ballard-47612087"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
+      "name": "Ben Hansen",
+      "given_name": "Ben",
+      "family_name": "Hansen",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "bhansen@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist16/highres/dist16.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=16"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist16"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist16/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ben_Hansen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ben_Hansen"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=16"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist16"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist16/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ben-hansen-161b7677"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/db002bad-ee6a-4e22-b5c5-840c665ecad4",
+      "name": "Bob Andersen",
+      "given_name": "Bob",
+      "family_name": "Andersen",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "bandersen@leg.ne.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167021.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "49",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=49"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bob_Andersen_(Nebraska_State_Senate_candidate)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215059/bob-andersen"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=49"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-andersen-9432aa39"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cc0182c9-3cfe-46b1-8fd2-03e90385c6d5",
+      "name": "Bob Hallstrom",
+      "given_name": "Bob",
+      "family_name": "Hallstrom",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "bhallstrom@leg.ne.gov",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=1"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Hallstrom"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215012/robert-hallstrom"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=1"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bob-hallstrom-85438121"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a98b3cf6-9bf8-40a3-94f3-1c196e233ebd",
+      "name": "Brian Hardin",
+      "given_name": "Brian",
+      "family_name": "Hardin",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "bhardin@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist48/highres/dist48.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=48"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Hardin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brian_Hardin"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=48"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brian-hardin-b1145368"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ecf3913e-8e18-4aec-8991-12549df820cd",
+      "name": "Carolyn Bosn",
+      "given_name": "Carolyn",
+      "family_name": "Bosn",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "cbosn@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist25/highres/dist25.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-04-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=25"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carolyn_Bosn"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carolyn_Bosn"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=25"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fdac2d3a-3497-4e34-8247-af670c901dd8",
+      "name": "Christy Armendariz",
+      "given_name": "Christy",
+      "family_name": "Armendariz",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "carmendariz@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist18/highres/dist18.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=18"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Christy_Armendariz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christy_Armendariz"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=18"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/christy-armendariz-mba-97577914"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/40eb4961-5467-4d1b-af44-59a2e4de6fae",
+      "name": "Dan Lonowski",
+      "given_name": "Dan",
+      "family_name": "Lonowski",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "dlonowski@leg.ne.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167026.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=33"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dan_Lonowski"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215048/dan-lonowski"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=33"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dan-lonowski-419564106"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3ad70646-be7f-4c50-9568-b98c2acdfad8",
+      "name": "Dan McKeon",
+      "given_name": "Dan",
+      "family_name": "McKeon",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "dmckeon@leg.ne.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167033.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "41",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=41"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Daniel_McKeon"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215053/daniel-mckeon"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=41"
+        },
+        {
+          "url": "https://www.linkedin.com/in/daniel-d-mckeon-84126b78"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d3b8ad26-4cf1-4abf-ae4e-0f7a65f92fe6",
+      "name": "Dan Quick",
+      "given_name": "Dan",
+      "family_name": "Quick",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "dquick@leg.ne.gov",
+      "image": "http://www.nebraskalegislature.gov/media/images/blogs/dist35.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "end_date": "2020-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=35"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist35"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dan_Quick"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dan_Quick"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=35"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist35"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dan-quick-b19480b8"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bf280e36-3547-4d6a-b5aa-d6c32bb5547a",
+      "name": "Danielle Conrad",
+      "given_name": "Danielle",
+      "family_name": "Conrad",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "dconrad@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist46/highres/dist46.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "46",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=46"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Danielle_Conrad"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Danielle_Conrad"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=46"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/25c29fce-5de4-46cd-97f0-887033d446ce",
+      "name": "Dave Murman",
+      "given_name": "Dave",
+      "family_name": "Murman",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "dmurman@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist38/highres/dist38.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=38"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist38"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist38/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dave_Murman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dave_Murman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179857/dave-murman"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=38"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist38"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist38/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/54fe68ba-6857-483f-b2ae-ba3233a548c4",
+      "name": "Dunixi Guereca",
+      "given_name": "Dunixi",
+      "family_name": "Guereca",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "dguereca@leg.ne.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/161473.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=7"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dunixi_Guereca"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=7"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dunixiguereca"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede",
+      "name": "Eliot Bostar",
+      "given_name": "Eliot",
+      "family_name": "Bostar",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "ebostar@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist29/highres/dist29.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2021-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=29"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist29/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eliot_Bostar"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=29"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist29"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist29/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/eliotbostar"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/14507b1b-007f-4f87-adbb-a5e4669efba8",
+      "name": "George Dungan",
+      "given_name": "George",
+      "family_name": "Dungan",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "gdungan@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist26/highres/dist26.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=26"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/George_Dungan_III"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Dungan_III"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=26"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/george-dungan-2649025"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dae0883f-3a53-4873-99df-b0e10ea64066",
+      "name": "Glen Meyer",
+      "given_name": "Glen",
+      "family_name": "Meyer",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "gmeyer@leg.ne.gov",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=17"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Glen_Meyer"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215029/glen-meyer"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=17"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/967bf436-18bf-444e-bd2f-d83e5ec78995",
+      "name": "Jana Hughes",
+      "given_name": "Jana",
+      "family_name": "Hughes",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "jhughes@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist24/highres/dist24.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=24"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jana_Hughes"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jana_Hughes"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=24"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0f176ff3-ed75-4605-9e8b-5bb5a3d3c4cf",
+      "name": "Jane Raybould",
+      "given_name": "Jane",
+      "family_name": "Raybould",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "jraybould@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist28/highres/dist28.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=28"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jane_Raybould"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jane_Raybould"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=28"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/356c7606-4eaa-4494-83a5-68dbaf3e77f6",
+      "name": "Jared Storm",
+      "given_name": "Jared",
+      "family_name": "Storm",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "jstorm@leg.ne.gov",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=23"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jared_Storm"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=23"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jared-storm-8584a662"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dda3cdbe-5e52-439e-ac68-02588b6d7cab",
+      "name": "Jason Prokop",
+      "given_name": "Jason",
+      "family_name": "Prokop",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "jprokop@leg.ne.gov",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=27"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jason_Prokop"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/215044/jason-prokop"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=27"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jasonprokop"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f5d27385-af4c-4c08-8654-3e27ef120d94",
+      "name": "John Arch",
+      "given_name": "John",
+      "family_name": "Arch",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "jarch@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist14/highres/dist14.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=14"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist14"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist14/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Arch"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179840/john-arch"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=14"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist14"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist14/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0436186a-3b62-46f1-8f36-55e09fca3e77",
+      "name": "John Cavanaugh",
+      "given_name": "John",
+      "family_name": "Cavanaugh",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "jcavanaugh@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist09/highres/dist09.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2021-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=9"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist09/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Cavanaugh"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=9"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist09"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist09/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-cavanaugh-jr-a989667"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/30b4a401-6f6b-4367-80c2-b9d60d7c527f",
+      "name": "John Fredrickson",
+      "given_name": "John",
+      "family_name": "Fredrickson",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "jfredrickson@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist20/highres/dist20.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=20"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Fredrickson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Fredrickson"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=20"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9d6fd408-5497-4038-9716-c1f487e348d2",
+      "name": "Kathleen Kauth",
+      "given_name": "Kathleen",
+      "family_name": "Kauth",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "kkauth@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist31/highres/dist31.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2022-06-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=31"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist31/"
+        },
+        {
+          "url": "https://www.nebraskalegislature.gov/senators/landing-pages/index.php?District=31"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kathleen_Kauth"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kathleen_Kauth_(Nebraska_politician)"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=31"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist31"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist31/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kathleenkauth"
+        },
+        {
+          "url": "https://www.nebraskalegislature.gov/senators/landing-pages/index.php?District=31"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2ad42fad-ae37-44a6-8933-0a942f7a85f7",
+      "name": "Loren Lippincott",
+      "given_name": "Loren",
+      "family_name": "Lippincott",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "llippincott@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist34/highres/dist34.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=34"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Loren_Lippincott"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Loren_Lippincott"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=34"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/loren-lippincott-954914150"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fd6e1947-c274-4ff5-b2ee-5e5a79d6a729",
+      "name": "Machaela Cavanaugh",
+      "given_name": "Machaela",
+      "family_name": "Cavanaugh",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "mcavanaugh@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist06/highres/dist06.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=6"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist06"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist06/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Machaela_Cavanaugh"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=6"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist06"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist06/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/machaela-cavanaugh-a1b5471b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e586486b-002b-4dfb-8eec-a209c915dc95",
+      "name": "Margo Juarez",
+      "given_name": "Margo",
+      "family_name": "Juarez",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "mjuarez@leg.ne.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167027.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=5"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Margo_Juarez"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=5"
+        },
+        {
+          "url": "https://www.linkedin.com/in/margo-juarez-3662b67"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1b988941-ec1a-4f87-b17a-51fb0309dea0",
+      "name": "Megan Hunt",
+      "given_name": "Megan",
+      "family_name": "Hunt",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "mhunt@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist08/highres/dist08.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=8"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist08"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist08/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Megan_Hunt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Megan_Hunt_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/179835/megan-hunt"
+        },
+        {
+          "url": "https://meganfornebraska.com/about"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=8"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist08"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist08/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mehunt"
+        },
+        {
+          "url": "https://www.meganhunt.net"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3c015cf9-e3de-42cf-a364-64607ecc70ce",
+      "name": "Merv Riepe",
+      "given_name": "Merv",
+      "family_name": "Riepe",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "mriepe@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist12/highres/dist12.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2013-01-07T00:00:00.000Z",
+        "end_date": "2019-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=12"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Merv_Riepe"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Merv_Riepe"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/148457/merv-riepe"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=12"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mervin-riepe-ba052311"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/70b3f826-87f3-43c6-9762-27a178156a55",
+      "name": "Mike Jacobson",
+      "given_name": "Mike",
+      "family_name": "Jacobson",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "mjacobson@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist42/highres/dist42.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "42",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2022-02-23T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=42"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist42/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=42"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist42"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist42/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-jacobson-b6636751"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/471fb0d6-b798-4c0c-bac1-021db8b68801",
+      "name": "Mike Moser",
+      "given_name": "Mike",
+      "family_name": "Moser",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "mmoser@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist22/highres/dist22.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=22"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist22"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist22/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Moser"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Moser_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/119308/mike-moser"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=22"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist22"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist22/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4a8d555a-4bba-4f76-a3e1-88eee6030413",
+      "name": "Myron Dorn",
+      "given_name": "Myron",
+      "family_name": "Dorn",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "mdorn@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist30/highres/dist30.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=30"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist30"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist30/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Myron_Dorn"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/133023/myron-dorn"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=30"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist30"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist30/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0ae0ba8c-757e-459f-aecc-4a0501a25cbb",
+      "name": "Paul Strommen",
+      "given_name": "Paul",
+      "family_name": "Strommen",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "pstrommen@leg.ne.gov",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=47"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Paul_Strommen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215058/paul-strommen"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=47"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/63d2956a-a0be-40db-a0e3-6c32743951ab",
+      "name": "Brad von Gillern",
+      "given_name": "Brad",
+      "family_name": "von Gillern",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "bvongillern@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist04/highres/dist04.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=4"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/R._Brad_von_Gillern"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brad_von_Gillern"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=4"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bradvongillern"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/62ccba1d-4200-41c7-a051-21fa421a206a",
+      "name": "Rick Holdcroft",
+      "given_name": "Rick",
+      "family_name": "Holdcroft",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "rholdcroft@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist36/highres/dist36.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=36"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rick_Holdcroft"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rick_Holdcroft"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=36"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/richard-holdcroft-30284825"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/de8d4e0a-36dd-4a84-96ee-e4b7bc4cf69d",
+      "name": "Rita Sanders",
+      "given_name": "Rita",
+      "family_name": "Sanders",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "rsanders@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist45/highres/dist45.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2021-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=45"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist45/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rita_Sanders"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=45"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist45"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist45/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rita-sanders-a584421"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/809c0698-2669-426a-819a-275a0773ff84",
+      "name": "Rob Clements",
+      "given_name": "Rob",
+      "family_name": "Clements",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "rclements@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist02/highres/dist02.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2017-02-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=2"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist02"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Robert_Clements"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Clements_(Nebraska_politician)"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=2"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist02"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist02/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-clements-6181b325"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a9cc86ff-602c-453f-9d6c-fd1567c7fbd7",
+      "name": "Robert Dover",
+      "given_name": "Robert",
+      "family_name": "Dover",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "rdover@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist19/highres/dist19.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2022-07-22T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=19"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Dover_(Nebraska_politician)"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=19"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robertdover"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4bfe5183-1afc-42fa-92c1-7ffe5cbb1080",
+      "name": "Stan Clouse",
+      "given_name": "Stan",
+      "family_name": "Clouse",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "sclouse@leg.ne.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167022.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=37"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stanley_Clouse"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=37"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stan-clouse-a3a9625"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/70751bb8-56af-4fd1-b2dc-21943dc7bb2d",
+      "name": "Tanya Storer",
+      "given_name": "Tanya",
+      "family_name": "Storer",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "tstorer@leg.ne.gov",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "43",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=43"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tanya_Storer"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/164067/tanya-storer"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=43"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tanya-storer-8b57ab299"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/374b6dc4-5b90-4028-814c-84895a293c84",
+      "name": "Teresa Ibach",
+      "given_name": "Teresa",
+      "family_name": "Ibach",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "tibach@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist44/highres/dist44.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "44",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2023-01-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=44"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Teresa_Ibach"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Teresa_Ibach"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/202541/teresa-ibach"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=44"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://www.linkedin.com/in/teresa-ibach-383803b0"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/27784792-d54f-4a64-8408-a4a1ce0c26b1",
+      "name": "Terrell McKinney",
+      "given_name": "Terrell",
+      "family_name": "McKinney",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "tmckinney@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist11/highres/dist11.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2021-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=11"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist11/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Terrell_McKinney"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Terrell_McKinney"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=11"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist11"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist11/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/terrell-mckinney-106b4b7a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/37ed5b35-3aea-40a2-95ed-ecc5120fbe82",
+      "name": "Tom Brandt",
+      "given_name": "Tom",
+      "family_name": "Brandt",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "tbrandt@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist32/highres/dist32.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=32"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist32"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist32/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tom_Brandt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Brandt_(politician)"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=32"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist32"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist32/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7093e661-0dbc-4c75-91e0-09a3e171caf1",
+      "name": "Tony Sorrentino",
+      "given_name": "Tony",
+      "family_name": "Sorrentino",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "tsorrentino@leg.ne.gov",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=39"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tony_Sorrentino"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/57687/tony-sorrentino"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=39"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tony-sorrentino-jd-cpa"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1e43a5b4-e63c-434a-977c-592174c2c635",
+      "name": "Victor Rountree",
+      "given_name": "Victor",
+      "family_name": "Rountree",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "vrountree@leg.ne.gov",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=3"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Victor_Rountree"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Victor_Rountree"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/215014/victor-rountree"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=3"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bc906a77-5932-4042-9ede-a13b24924236",
+      "name": "Wendy DeBoer",
+      "given_name": "Wendy",
+      "family_name": "DeBoer",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "wdeboer@leg.ne.gov",
+      "image": "https://www.nebraskalegislature.gov/media/images/senators/dist10/highres/dist10.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2019-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=10"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist10"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist10/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Wendy_DeBoer"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=10"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/senator_list.php"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist10"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist10/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/wendy-deboer-b908954"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/86a9643e-4777-48d4-a79a-5ed192fb7f70",
+      "name": "Woody Wordekemper",
+      "given_name": "Woody",
+      "family_name": "Wordekemper",
+      "party": {
+        "name": "Nonpartisan"
+      },
+      "email": "dwordekemper@leg.ne.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164427.jpg",
+      "current_role": {
+        "title": "legislature",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ne/government",
+        "start_date": "2025-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=15"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dave_Wordekemper"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dave_Wordekemper"
+        },
+        {
+          "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=15"
+        }
+      ]
+    }
+  ],
+  "count": 49,
+  "last_updated": "2025-09-14T02:00:52.806Z"
+}

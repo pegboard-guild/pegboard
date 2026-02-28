@@ -1,0 +1,4839 @@
+{
+  "state": "sd",
+  "state_name": "South Dakota",
+  "legislators": [
+    {
+      "id": "ocd-person/d3d7563b-420c-4498-8bc5-4f9d6ed90806",
+      "name": "Aaron Aylward",
+      "given_name": "Aaron",
+      "family_name": "Aylward",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "aaron.aylward@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Aaron-Aylward.PNG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3786/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4333/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4474/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4581/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Aaron_Aylward"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aaron_Aylward"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180829/aaron-aylward"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3786/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4333/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4474/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4581/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/02f0edff-2879-4fbb-9b23-796358690d07",
+      "name": "Al Novstrup",
+      "given_name": "Al",
+      "family_name": "Novstrup",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "al.novstrup@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/NOVSTRUP_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2015-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1456&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1595&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1828/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4395/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4644/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Al_Novstrup"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Al_Novstrup"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/48320/al-novstrup"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1456&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1595&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1828/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4395/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4644/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/al-novstrup-aa975012"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f9dd87da-ac23-450d-9574-1efa95ef0d81",
+      "name": "Amber Arlint",
+      "given_name": "Amber",
+      "family_name": "Arlint",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "amber.arlint@sdlegislature.gov",
+      "image": "https://siouxfallschamber.com/wp-content/uploads/sites/3/2022/11/District-12-Amber-Arlint.webp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4456/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4579/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Amber_Arlint"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4456/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4579/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/amber-arlint-a5b2999a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ae4b500c-4a37-43ed-a3a2-dbb08071e265",
+      "name": "Amber Hulse",
+      "given_name": "Amber",
+      "family_name": "Hulse",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "amber.hulse@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ahulse.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4701/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Amber_Hulse"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Amber_Hulse"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4701/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/amber-hulse"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/169a8374-daaa-4884-9add-d1719eabd966",
+      "name": "Arch Beal",
+      "given_name": "Arch",
+      "family_name": "Beal",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "arch.beal@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/BEAL_2017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2015-01-13T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1518&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1567&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1769/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4336/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4584/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Arch_Beal"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Arch_Beal"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/151966/arch-beal"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1518&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1567&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1769/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4336/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4584/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3b05e975-1b79-42ec-94e8-7a258142dd46",
+      "name": "Bethany Soye",
+      "given_name": "Bethany",
+      "family_name": "Soye",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bethany.soye@sdlegislature.gov",
+      "image": "https://static.wixstatic.com/media/8bfd3e_dbac551f01a34584a6bd53e0bccca5ef~mv2.jpg/v1/fill/w_640,h_1144,fp_0.44_0.17,q_85,usm_0.66_1.00_0.01/8bfd3e_dbac551f01a34584a6bd53e0bccca5ef~mv2.webp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3793/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4417/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4562/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4668/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bethany_Soye"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3793/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4417/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4562/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4668/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bethanybostron"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1e3d4ebf-2669-4b20-acd4-e339d24f73c3",
+      "name": "Bobbi Andera",
+      "given_name": "Bobbi",
+      "family_name": "Andera",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "bobbi.andera@sdlegislature.gov",
+      "image": "https://bobbilanderaforhouse.com/img/bobbi1.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4715/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bobbi_Andera"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/216160/bobbi-andera"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4715/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/bobbi-andera-a3130840"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/713ca571-304b-48f0-a853-b49fa859134e",
+      "name": "Brandei Schaefbauer",
+      "given_name": "Brandei",
+      "family_name": "Schaefbauer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brandei.schaefbauer@sdlegislature.gov",
+      "image": "https://gray-ksfy-prod.cdn.arcpublishing.com/resizer/3wAp2PAmslSttABhdOPnmasLDYI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/Y4ZM7RT3TRB2ZBPHKDXEI5HL6E.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4444/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4556/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4662/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brandei_Schaefbauer"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4444/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4556/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4662/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d9d8a84f-96df-4dbf-b638-d63e216166d4",
+      "name": "Brian Mulder",
+      "given_name": "Brian",
+      "family_name": "Mulder",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "brian.mulder@sdlegislature.gov",
+      "image": "https://img1.wsimg.com/isteam/ip/27b7dcd4-adbb-4603-9579-073f083153b8/Brian_BriCowanPhotography-11.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:400,cg:true",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4447/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4641/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Mulder"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4447/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4641/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brian-mulder-2a12821b0"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5a5c92d7-0b2c-418e-a0ce-8ba0a6e4790a",
+      "name": "Carl Perry",
+      "given_name": "Carl",
+      "family_name": "Perry",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "carl.perry@sdlegislature.gov",
+      "image": "https://www.carlperry.org/uploads/1/1/7/5/117553499/carl-perry-profile-1200x1200_orig.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2019-01-08T00:00:00.000Z",
+        "end_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1612&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1834/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4401/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4543/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4649/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Carl_Perry"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carl_E._Perry"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180823/carl-perry"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1612&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1834/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4401/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4543/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4649/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/carl-perry-808b6710"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6dabb48d-f267-4fb3-9e8c-0a3c182d44d3",
+      "name": "Casey Crabtree",
+      "given_name": "Casey",
+      "family_name": "Crabtree",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "casey.crabtree@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/crabtree_2020.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2020-07-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1881/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4345/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4594/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Casey_Crabtree"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Casey_Crabtree"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1881/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4345/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4594/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/caseycrabtree"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/85616a5d-63b7-4794-8eb0-63ab7b121761",
+      "name": "Chris Karr",
+      "given_name": "Chris",
+      "family_name": "Karr",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.karr@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Karr_2017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2017-01-10T00:00:00.000Z",
+        "end_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1549&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1809/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4379/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4620/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Karr"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Karr"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/121328/chris-karr"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1549&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1809/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4379/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4620/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chris-karr-7243b361"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/87c4b9d3-1e14-4c64-af35-e9a95a1f4bf3",
+      "name": "Chris Kassin",
+      "given_name": "Chris",
+      "family_name": "Kassin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "chris.kassin@sdlegislature.gov",
+      "image": "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/kassin,%20chris%20rep-0599%20rt.webp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4462/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4621/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Chris_Kassin"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205138/chris-kassin"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4462/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4621/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chris-kassin-95b37797"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/132b0654-ebb2-4b6b-81b3-d39b41110d45",
+      "name": "Curt Massie",
+      "given_name": "Curt",
+      "family_name": "Massie",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "curt.massie@sdlegislature.gov",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/gray/JN4WUIDOKVFC5NL33TGXE5YFOM.JPG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4451/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4634/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Curt_Massie"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4451/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4634/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/curtmassie-dbtllc"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6dce0110-114c-467d-adb2-50e0309a8079",
+      "name": "Curt Voight",
+      "given_name": "Curt",
+      "family_name": "Voight",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "curt.voight@sdlegislature.gov",
+      "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b0cc545-be4d-4e1d-a25e-504b7057b344.heic",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4702/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Curt_Voight"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4702/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/curt-voight-747b1522"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4d2f522f-336a-4794-8b89-48d65d250f6e",
+      "name": "David Kull",
+      "given_name": "David",
+      "family_name": "Kull",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "david.kull@sdlegislature.gov",
+      "image": "https://cityofbrandon.org/vertical/Sites/%7B23CB10F0-8C35-4CA4-9AD1-B693F0F58E76%7D/uploads/Dave_Kull_Web.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4438/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4521/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4628/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/David_Kull"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4438/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4521/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4628/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-kull-8ab183b4"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ce0a6958-a2d1-4e9e-ab06-943bc84a271a",
+      "name": "Drew Peterson",
+      "given_name": "Drew",
+      "family_name": "Peterson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "drew.peterson@sdlegislature.gov",
+      "image": "https://www.drewpetersonforsd.com/hubfs/DPH_22_mailer1_11x6_DRAFT%202_Page_1.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4440/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4650/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Drew_Peterson"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4440/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4650/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d458ae29-45a8-4406-a5c0-c256ec743172",
+      "name": "Dylan Jordan",
+      "given_name": "Dylan",
+      "family_name": "Jordan",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "dylan.jordan@sdlegislature.gov",
+      "image": "https://assets.civicengine.com/uploads/candidate/headshot/815272/815272.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4714/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dylan_Jordan"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4714/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/589ced64-f78f-447d-ab9a-8ead6965c61b",
+      "name": "Eric Emery",
+      "given_name": "Eric",
+      "family_name": "Emery",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "eric.emery@sdlegislature.gov",
+      "image": "https://www.sfsimplified.com/content/images/2022/09/Eric-Emery.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4471/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4499/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4606/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Eric_Emery"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eric_Emery"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4471/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4499/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4606/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/eric-emery-946b0310a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c123398a-d235-488f-ba5f-cc71983a66de",
+      "name": "Erik Muckey",
+      "given_name": "Erik",
+      "family_name": "Muckey",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "erik.muckey@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ErikMuckey.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4719/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Erik_Muckey"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4719/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/erikmuckey"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/85bda678-d416-4caa-b439-8a579288f2ec",
+      "name": "Erin Healy",
+      "given_name": "Erin",
+      "family_name": "Healy",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "erin.healy@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Healy_2019.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1624&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1800/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4368/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4612/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Erin_Healy"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Erin_Healy"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180844/erin-healy"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1624&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1800/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4368/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4612/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/erin-healy-1b566440"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dda7bd46-d880-453e-b830-269e79425a9a",
+      "name": "Ernie Otten",
+      "given_name": "Ernie",
+      "family_name": "Otten",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "ernie.otten@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/OTTEN_2017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z",
+        "end_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1479&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1558&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1830/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4398/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4646/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ernie_Otten_Jr."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ernie_Otten"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/11244/ernie-otten-jr"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1479&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1558&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1830/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4398/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4646/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4d53d676-05f1-409a-8ef8-762d97143443",
+      "name": "Glen Vilhauer",
+      "given_name": "Glen",
+      "family_name": "Vilhauer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "glen.vilhauer@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Glen_Vilhauer.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4706/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Glen_Vilhauer"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/216106/glen-vilhauer"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4706/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4a052dc7-31aa-4a24-b72d-7e922ce7bf8b",
+      "name": "Greg Blanc",
+      "given_name": "Greg",
+      "family_name": "Blanc",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "greg.blanc@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/gblanc2.png",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4709/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Greg_Blanc"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4709/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/greg-blanc-6127b39"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fe9a44c7-7241-4395-98e3-8445b1bc2d54",
+      "name": "Greg Jamison",
+      "given_name": "Greg",
+      "family_name": "Jamison",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "greg.jamison@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Jamison_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2017-01-10T00:00:00.000Z",
+        "end_date": "2019-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1536&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4373/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4616/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Greg_Jamison"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Greg_Jamison"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/77866/greg-jamison"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1536&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4373/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4616/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/229c5337-951c-41d2-9e76-dc74878bcf89",
+      "name": "Heather Baxter",
+      "given_name": "Heather",
+      "family_name": "Baxter",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "heather.baxter@sdlegislature.gov",
+      "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F110b1f43-2918-4e73-928e-0b9834191446_750x517.webp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4721/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Heather_Baxter"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/216122/heather-baxter"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4721/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/950b0ec2-1c69-4c81-ab1d-c61464519e26",
+      "name": "Les Heinemann",
+      "given_name": "Les",
+      "family_name": "Heinemann",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "les.heinemann@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Leslie_Heinemann.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2015-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=1019&Session=2016"
+        },
+        {
+          "url": "https://sdlegislature.gov/#/Legislators/Profile/1250/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4694/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Leslie_Heinemann"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Leslie_Heinemann"
+        },
+        {
+          "url": "https://legis.sd.gov/Legislators/Legislators/MemberCommittees.aspx?Member=1019&Session=2016"
+        },
+        {
+          "url": "https://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=1019&Session=2016"
+        },
+        {
+          "url": "https://sdlegislature.gov/#/Legislators/Profile/1250/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4694/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e0548110-ef50-435f-8c99-fbd53a06d8ff",
+      "name": "Helene Duhamel",
+      "given_name": "Helene",
+      "family_name": "Duhamel",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "helene.duhamel@sdlegislature.gov",
+      "image": "http://sdlegislature.gov/inc/img/Legislators/Duhamel_2020.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2019-12-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1785/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4355/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4605/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Helene_Duhamel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Helene_Duhamel"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/188909/helene-duhamel"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1785/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4355/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4605/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/helene-duhamel-4680497b"
+        },
+        {
+          "url": "https://www.linkedin.com/in/helene-duhamel-duffy-a12a50111"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fd692c4a-e6c1-45c1-b970-1fcdbe732cfe",
+      "name": "Jack Kolbeck",
+      "given_name": "Jack",
+      "family_name": "Kolbeck",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jack.kolbeck@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Kolbeck_2017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2017-01-10T00:00:00.000Z",
+        "end_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1538&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1600&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1812/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4382/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4727/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jack_Kolbeck"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jack_Kolbeck"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169016/jack-kolbeck"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1538&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1600&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1812/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4382/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4727/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bea6d77a-6773-463b-946c-b23b27f5f4c0",
+      "name": "Jamie Smith",
+      "given_name": "Jamie",
+      "family_name": "Smith",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "jamie.smith@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Smith_jamie_2019.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1539&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1576&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1852/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4722/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jamie_Smith_(South_Dakota)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jamie_Smith_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169033/jamie-smith"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1539&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1576&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1852/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4722/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jamie-smith-a19a1b7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3900be26-2367-48af-8083-6ec4b4f18cf1",
+      "name": "Jana Hunt",
+      "given_name": "Jana",
+      "family_name": "Hunt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jana.hunt@sdlegislature.gov",
+      "image": "https://janahunt4sd.com/x/cdn/?https://storage.googleapis.com/production-homestead-v1-0-5/955/308955/nhycEniX/117fc51444b34bacb4d0be929953e578",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28A",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4718/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jana_Hunt"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4718/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/94fa8c46-b27a-452e-85b2-27baca009678",
+      "name": "Jeff Bathke",
+      "given_name": "Jeff",
+      "family_name": "Bathke",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jeff.bathke@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jeff_Bathke_20240808_100312fgd.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4688/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jeff_Bathke"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4688/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeff-bathke-09189659"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7d5691be-08ff-4684-978d-81aaa8bdd99b",
+      "name": "Jessica Bahmuller",
+      "given_name": "Jessica",
+      "family_name": "Bahmuller",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jessica.bahmuller@sdlegislature.gov",
+      "image": "https://gray-ksfy-prod.cdn.arcpublishing.com/resizer/uVfdl5DqYxBK5BAgVB1sNda9-dw=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/XEYMZWQPXBGYFJAKREMXYXNXCI.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4441/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4475/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4582/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4441/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4475/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4582/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/98281de1-c8bc-4c3a-9a5b-6a45c96c6087",
+      "name": "Jim Halverson",
+      "given_name": "Jim",
+      "family_name": "Halverson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jim.halverson@sdlegislature.gov",
+      "image": "https://halversonforhouse.com/wp-content/uploads/2024/04/Jim-Halverson-for-House.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4712/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jim_Halverson_(South_Dakota)"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4712/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jim-halverson-31383bba"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c8ca77f5-97e7-4604-aec3-fe4ee5e7dc31",
+      "name": "Jim Mehlhaff",
+      "given_name": "Jim",
+      "family_name": "Mehlhaff",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jim.mehlhaff@sdlegislature.gov",
+      "image": "https://jimmehlhaff.com/wp-content/uploads/2022/03/Jim-High-Res-819x1024.jpeg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4460/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4636/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jim_Mehlhaff"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4460/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4636/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2d13f154-7e05-462c-b8d9-da5c5556d8b9",
+      "name": "John Carley",
+      "given_name": "John",
+      "family_name": "Carley",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.carley@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JohnCarley3.png",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4692/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Carley"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Carley"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4692/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/123a6b73-d0a1-4263-96fd-a65373159918",
+      "name": "John Hughes",
+      "given_name": "John",
+      "family_name": "Hughes",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.hughes@sdlegislature.gov",
+      "image": "https://i0.wp.com/hugheslawyers.com/wp-content/uploads/2022/02/team_John.jpg?fit=500%2C700&ssl=1",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4690/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Hughes_(South_Dakota)"
+        },
+        {
+          "url": "https://hugheslawyers.com/about/our-team/john-hughes"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4690/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-hughes-92838123"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fe5950b8-b6e8-4a95-87b5-fd569f43b286",
+      "name": "John Sjaarda",
+      "given_name": "John",
+      "family_name": "Sjaarda",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "john.sjaarda@sdlegislature.gov",
+      "image": "https://www.johnsjaarda.net/images/103440/Profile_Photo.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4439/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4667/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Sjaarda"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4439/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4667/Detail"
+        },
+        {
+          "url": "https://www.johnsjaarda.net/meet_john"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/912b0c53-5674-42b0-8f22-8ccd01c3264c",
+      "name": "Jon Hansen",
+      "given_name": "Jon",
+      "family_name": "Hansen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "jon.hansen@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jon_Hansen.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2019-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1635&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1798/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4366/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4611/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jon_Hansen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jon_Hansen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/121385/jon-hansen"
+        },
+        {
+          "url": "https://redstonelawfirm.com/team/jon-hansen"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1635&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1798/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4366/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4611/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jon-hansen-400459113"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6ca3c0b7-e0d2-4d68-8b33-725c378ff130",
+      "name": "Josephine Garcia",
+      "given_name": "Josephine",
+      "family_name": "Garcia",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "josephine.garcia@sdlegislature.gov",
+      "image": "https://static.wixstatic.com/media/3f6c9b_7103450fc62d4fb8acfceb568e4a1545~mv2.jpg/v1/fill/w_705,h_802,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3f6c9b_7103450fc62d4fb8acfceb568e4a1545~mv2.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4705/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josephine_Garcia_(South_Dakota)"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4705/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3a454e94-ca27-4e34-b603-c2768c047bc3",
+      "name": "Joy Hohn",
+      "given_name": "Joy",
+      "family_name": "Hohn",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "joy.hohn@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/jhohn.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4723/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Joy_Hohn"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4723/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8fabf252-4409-4c1f-b754-ab54759ea3ce",
+      "name": "Julie Auch",
+      "given_name": "Julie",
+      "family_name": "Auch",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "julie.auch@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JulieAuch.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4445/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4473/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4580/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Julie_Auch"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4445/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4473/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4580/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/julie-auch-a8813213"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/892b6289-0bd8-441d-94bf-30e6f1cfce49",
+      "name": "Kadyn Wittman",
+      "given_name": "Kadyn",
+      "family_name": "Wittman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "kadyn.wittman@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KadynWittman.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4461/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4575/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4682/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kadyn_Wittman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kadyn_Wittman"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4461/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4575/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4682/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kadyn-wittman"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0baaa53b-6468-4de4-98ce-bf1e218f8d38",
+      "name": "Kaley Nolz",
+      "given_name": "Kaley",
+      "family_name": "Nolz",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kaley.nolz@sdlegislature.gov",
+      "image": "https://cdn.shopify.com/s/files/1/0610/2872/9046/files/IMG_7689_480x480.jpg?v=1708552521",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4689/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kaley_Nolz"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4689/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0c864308-04a8-4b22-af5b-5d718046b99f",
+      "name": "Karla Lems",
+      "given_name": "Karla",
+      "family_name": "Lems",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "karla.lems@sdlegislature.gov",
+      "image": "https://gray-ksfy-prod.cdn.arcpublishing.com/resizer/fX4I5GWdwjL88Z9n8a1Dah-NctM=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/72HOS665ZZDWHPEMYA6BWMS6BA.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4443/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4524/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4631/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Karla_Lems"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4443/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4524/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4631/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f2a2616a-c0d4-45d2-8c52-2c8d7dac5e26",
+      "name": "Kathy Rice",
+      "given_name": "Kathy",
+      "family_name": "Rice",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kathy.rice@sdlegislature.gov",
+      "image": "https://gray-kota-prod.gtv-cdn.com/resizer/v2/J7PTGE337BGX3PYCKMQSGVCMWI.jpg?auth=219de6028a2c39d4fe6c781ce1d7fbf5c6d380c1863d80fe91b11b9e80c54ea1&width=980&height=1030&smart=true",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4711/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kathy_Rice"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205155/kathy-rice"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4711/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/kathy-rice-503998141"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8125bf75-9ccc-41c4-b76b-3e84dc083c43",
+      "name": "Kent Roe",
+      "given_name": "Kent",
+      "family_name": "Roe",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kent.roe@sdlegislature.gov",
+      "image": "https://static.votesmart.org/static/canphoto/216142.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4713/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kent_Roe"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/216142/kent-roe"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4713/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/708ee344-687f-499a-9f52-48cb79686167",
+      "name": "Keri Weems",
+      "given_name": "Keri",
+      "family_name": "Weems",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "keri.weems@sdlegislature.gov",
+      "image": "https://images.squarespace-cdn.com/content/v1/6633129388483f6e2a0ea63e/4fa432f3-e858-4d44-a401-ddc328a1f893/29d976e1-b6bb-4539-807c-c4e93f10ee4f+%281%29.jpg?format=2500w",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4691/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Keri_Weems"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Keri_Weems"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4691/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/keri-weems-08808491"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1de26fd7-bcde-486b-b290-afdee6756c7c",
+      "name": "Kevin Jensen",
+      "given_name": "Kevin",
+      "family_name": "Jensen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kevin.jensen@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Jensen_2017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2017-01-10T00:00:00.000Z",
+        "end_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1427&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1540&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1804/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4374/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4617/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kevin_Jensen_(South_Dakota)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_D._Jensen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/137889/kevin-jensen"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1427&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1540&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1804/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4374/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4617/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e94f9d65-3b95-40cb-b3c2-74126023b55f",
+      "name": "Kevin Van Diepen",
+      "given_name": "Kevin",
+      "family_name": "Van Diepen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kevin.vandiepen@sdlegislature.gov",
+      "image": "https://www.plainsman.com/uploads/original/20240109-142336-0a240151fba44bcc2fecc73323c1cfdd.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4699/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kevin_Van_Diepen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/216262/kevin-van-diepen"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4699/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd74c8bf-cc11-4bfc-a721-269a01a6ccb1",
+      "name": "Kyle Schoenfish",
+      "given_name": "Kyle",
+      "family_name": "Schoenfish",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "kyle.schoenfish@sdlegislature.gov",
+      "image": "http://sdlegislature.gov/inc/img/Legislators/Schoenfish_2019.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2013-01-11T00:00:00.000Z",
+        "end_date": "2020-01-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1851/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4414/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4559/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4665/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Kyle_Schoenfish"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kyle_Schoenfish"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/121354/kyle-schoenfish"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1851/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4414/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4559/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4665/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7eefd193-a618-4a9b-b416-cd495239ead6",
+      "name": "Lana Greenfield",
+      "given_name": "Lana",
+      "family_name": "Greenfield",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lana.greenfield@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/GreenfieldLana_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1509&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1573&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1795/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4700/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lana_Greenfield"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lana_Greenfield"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/121288/lana-greenfield"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1509&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1573&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1795/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4700/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5e23171d-49a3-471f-a6f8-24b057f2d836",
+      "name": "Larry Zikmund",
+      "given_name": "Larry",
+      "family_name": "Zikmund",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "larry.zikmund@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/ZIKMUND_2017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z",
+        "end_date": "2021-01-11T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1870/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4436/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4576/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4683/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Larry_P._Zikmund"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_Zikmund"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/137866/larry-zikmund"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1870/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4436/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4576/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4683/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a5c8c5c0-c02e-49cf-834b-f8e9d118935a",
+      "name": "Lauren Nelson",
+      "given_name": "Lauren",
+      "family_name": "Nelson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "lauren.nelson@sdlegislature.gov",
+      "image": "https://cdn.socast.io/6942/sites/13/2024/06/04233345/Lauren-Nelson.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4695/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lauren_Nelson_(South_Dakota)"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4695/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/81df3498-7677-4749-9753-c1ae9799e444",
+      "name": "Liz Larson",
+      "given_name": "Liz",
+      "family_name": "Larson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "liz.larson@sdlegislature.gov",
+      "image": "https://images.squarespace-cdn.com/content/v1/5f4289c48c50b9136fcef754/1603556963629-XEPO3FP0WARBK0TRBH52/BRAV6788_whitecoat.jpg?format=750w",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4466/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4630/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elizabeth_Larson_(South_Dakota)"
+        },
+        {
+          "url": "https://ballotpedia.org/Liz_Larson_(South_Dakota)"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4466/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4630/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/liz-larson-bohora"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2b581087-9814-4f0d-80e5-b29a6e7aee67",
+      "name": "Liz May",
+      "given_name": "Liz",
+      "family_name": "May",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "liz.may@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/MAY_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2013-01-11T00:00:00.000Z",
+        "end_date": "2019-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3806/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4388/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4635/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Elizabeth_May"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Liz_Marty_May"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/66336/liz-may"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3806/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4388/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4635/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/533da64d-d703-4d56-9d65-8bf3b730d552",
+      "name": "Logan Manhart",
+      "given_name": "Logan",
+      "family_name": "Manhart",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "logan.manhart@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Logan_Manhart.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4685/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Logan_Manhart"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Logan_Manhart"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4685/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/logan-manhart-74b253170"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/04b57e8f-1cbe-4637-84a5-6b2257413d18",
+      "name": "Mark Lapka",
+      "given_name": "Mark",
+      "family_name": "Lapka",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mark.lapka@sdlegislature.gov",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZm0bH8MRxxVDUSQkCXbPkK3Lm-BaDg8Cog&s",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4696/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Lapka"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/216127/mark-lapka"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4696/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7dc4b8d9-148b-4622-a6de-b27dc27030be",
+      "name": "Marty Overweg",
+      "given_name": "Marty",
+      "family_name": "Overweg",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "marty.overweg@sdlegislature.gov",
+      "image": "http://sdlegislature.gov/inc/img/Legislators/overweg_2020.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1832/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4400/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4542/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4648/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marty_Overweg"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marty_Overweg"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/188905/marty-overweg"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1832/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4400/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4542/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4648/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e03644b8-7ddd-4ae0-a734-6f6e76e735ba",
+      "name": "Mary Fitzgerald",
+      "given_name": "Mary",
+      "family_name": "Fitzgerald",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mary.fitzgerald@sdlegislature.gov",
+      "image": "https://bloximages.chicago2.vip.townnews.com/capjournal.com/content/tncms/assets/v3/editorial/6/bb/6bb95f06-3413-11eb-b8a6-77bddc8623d9/5fc6d265841ef.image.png?resize=630%2C630",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3785/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4358/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4607/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mary_Fitzgerald_(South_Dakota)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary_Fitzgerald_(politician)"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3785/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4358/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4607/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mary-fitzgerald-658b6918"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8ea8be55-3862-4034-b0c9-8aa418dfc915",
+      "name": "Matt Roby",
+      "given_name": "Matt",
+      "family_name": "Roby",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "matt.roby@sdlegislature.gov",
+      "image": "https://bloximages.newyork1.vip.townnews.com/mykxlg.com/content/tncms/assets/v3/editorial/8/8b/88bea3ac-5e1f-11ee-ba1f-dfd780c64f5d/6515af82998be.image.jpg?resize=333%2C500",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4704/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Matt_Roby"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/216147/matt-roby"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4704/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mattroby"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/82afbbac-f85b-47ec-aad9-c7218f35d44c",
+      "name": "Mellissa Heermann",
+      "given_name": "Mellissa",
+      "family_name": "Heermann",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mellissa.heermann@sdlegislature.gov",
+      "image": "https://img1.wsimg.com/isteam/ip/805d1e30-7bc9-464e-a3b8-c366e5bfe518/IMG_1300%20(1).JPG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4450/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4613/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mellissa_Heermann"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4450/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4613/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mellissa-heermann-3670208"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9f5c460a-6f5d-4198-8be2-e78a9d4980bf",
+      "name": "Michael Rohl",
+      "given_name": "Michael",
+      "family_name": "Rohl",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "michael.rohl@sdlegislature.gov",
+      "image": "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/rohl,%20michael%20sen-2772%20full%20rt.webp",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3805/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4410/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4554/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4660/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Michael_Rohl"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Rohl_(politician)"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3805/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4410/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4554/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4660/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0121d607-e75c-4427-bd76-a6e01434afca",
+      "name": "Mike Stevens",
+      "given_name": "Mike",
+      "family_name": "Stevens",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.stevens@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/STEVENS_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2013-01-11T00:00:00.000Z",
+        "end_date": "2019-01-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3790/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4421/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4671/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Stevens_(South_Dakota)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Stevens_%28South_Dakota_politician%29"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/137892/mike-stevens"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3790/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4421/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4671/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/082e4c6e-c16a-4bfa-8c17-9c46952da446",
+      "name": "Mike Derby",
+      "given_name": "Mike",
+      "family_name": "Derby",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.derby@sdlegislature.gov",
+      "image": "https://lloydcompanies.com/wp/wp-content/uploads/2020/07/Mike-Derby-816x1024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3791/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4350/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4598/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Derby"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Derby"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/11354/michael-derby"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3791/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4350/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4598/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-derby-44a52260"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f611d7e5-8438-49da-a323-374bbf0af218",
+      "name": "Mike Weisgram",
+      "given_name": "Mike",
+      "family_name": "Weisgram",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mike.weisgram@sdlegislature.gov",
+      "image": "https://bloximages.chicago2.vip.townnews.com/capjournal.com/content/tncms/assets/v3/editorial/5/dd/5dd71c64-93d9-11ea-a386-83ab371b2512/5eb9d679c54ee.image.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3789/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4429/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4678/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Weisgram"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Weisgram"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/191493/michael-weisgram"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3789/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4429/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4678/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-weisgram-83047747"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5cfb95b9-aa6a-4285-89d1-04770ae033fd",
+      "name": "MyKala Voita",
+      "given_name": "MyKala",
+      "family_name": "Voita",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "mykala.voita@sdlegislature.gov",
+      "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b0400d1-d3d8-4073-95b9-39e28c8c6203.heic",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4697/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/MyKala_Voita"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mykala_Voita"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4697/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/00ed522e-529c-4ec7-bec2-90e124a2b3df",
+      "name": "Nicole Uhre-Balk",
+      "given_name": "Nicole",
+      "family_name": "Uhre-Balk",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "nicole.uhre-balk@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/nubalk.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4693/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Nicole_Uhre-Balk"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4693/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nicoleuhrebalk"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/169a02e3-c161-4cca-8adb-10e55934a94f",
+      "name": "Paul Miskimins",
+      "given_name": "Paul",
+      "family_name": "Miskimins",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "paul.miskimins@sdlegislature.gov",
+      "image": "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/miskimins_2019.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1632&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1824/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4698/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Paul_Miskimins"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_Miskimins"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180856/paul-miskimins"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1632&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1824/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4698/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8dc5a857-0514-4a81-8215-a2f21a069075",
+      "name": "Peri Pourier",
+      "given_name": "Peri",
+      "family_name": "Pourier",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "peri.pourier@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Pourier_2019.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2019-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1638&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1839/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4405/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4654/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Peri_Pourier"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peri_Pourier"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180872/peri-pourier"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1638&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1839/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4405/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4654/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cc4fe32a-b912-4876-96e5-32341ccdd06d",
+      "name": "Phil Jensen",
+      "given_name": "Phil",
+      "family_name": "Jensen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "phil.jensen@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/JensenPhil_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z",
+        "end_date": "2013-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1442&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1471&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1805/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4375/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4511/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4618/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Phil_Jensen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Phil_Jensen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/104047/phil-jensen"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1442&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1471&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1805/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4375/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4511/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4618/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/73f418c4-6d07-4ef5-924f-1664738d2b46",
+      "name": "Randy Deibert",
+      "given_name": "Randy",
+      "family_name": "Deibert",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "randy.deibert@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RandyDeibert.png",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4448/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4597/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Randy_Deibert"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4448/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4597/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/randy-deibert-0b54a794"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6ce3a563-339c-4bf4-8a70-0f5de85e5693",
+      "name": "Rebecca Reimer",
+      "given_name": "Rebecca",
+      "family_name": "Reimer",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "rebecca.reimer@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Reimer_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2018-08-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1554&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1637&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1844/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4409/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4552/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4658/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rebecca_Reimer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Reimer"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180869/rebecca-reimer"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1554&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1637&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1844/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4409/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4552/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4658/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rebecca-r-6aa92bb0"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d2b91681-6a72-42f8-94f6-c489309798b7",
+      "name": "Red Dawn Foster",
+      "given_name": "Red Dawn",
+      "family_name": "Foster",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "reddawn.foster@sdlegislature.gov",
+      "image": "https://listen.sdpb.org/sites/sdpb/files/201905/lege_red_dawn_foster_2019.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2019-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1605&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1789/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4359/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4608/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Red_Dawn_Foster"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Dawn_Foster"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169908/red-foster"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1605&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1789/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4359/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4608/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/975e2eed-a5b5-46ac-9d6c-de08926f5539",
+      "name": "Richard Vasgaard",
+      "given_name": "Richard",
+      "family_name": "Vasgaard",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "richard.vasgaard@sdlegislature.gov",
+      "image": "https://lirp.cdn-website.com/1eab727a/dms3rep/multi/opt/PRMG+R+Vasgaard+Head+photo-516w.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3782/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4707/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Richard_Vasgaard"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Richard_Vasgaard"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3782/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4707/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/richard-vasgaard-69837479"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/69b0ca35-e513-4250-90fd-3a8c44dbeae8",
+      "name": "Roger DeGroot",
+      "given_name": "Roger",
+      "family_name": "DeGroot",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "roger.degroot@sdlegislature.gov",
+      "image": "https://www.brookingsregister.com/uploads/images/2022/03/4ef6ebb1f7fc2b505ff531f25a010074.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4449/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4596/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Roger_DeGroot"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4449/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4596/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/roger-degroot-34b77645"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3ff2f0b9-b570-4980-941f-9616ea0bbc55",
+      "name": "Sam Marty",
+      "given_name": "Sam",
+      "family_name": "Marty",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sam.marty@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MARTY.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1514&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1590&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1820/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4684/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/J._Sam_Marty"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/J._Sam_Marty"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/152006/sam-marty"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1514&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1590&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1820/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4684/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f6efc9b6-c985-4765-bd47-8da24d06712b",
+      "name": "Scott Moore",
+      "given_name": "Scott",
+      "family_name": "Moore",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.moore@sdlegislature.gov",
+      "image": "https://gray-ksfy-prod.cdn.arcpublishing.com/resizer/PaauCW6h0UcuEU2uhSkymFUQnhU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/WIET46SP6JBKTLV2GTADMR27PY.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4469/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4638/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Moore_(South_Dakota)"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4469/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4638/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/18602d7b-fb7f-495b-bf94-2b0da2aae00f",
+      "name": "Scott Odenbach",
+      "given_name": "Scott",
+      "family_name": "Odenbach",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "scott.odenbach@sdlegislature.gov",
+      "image": "https://bloximages.chicago2.vip.townnews.com/bhpioneer.com/content/tncms/assets/v3/editorial/c/7c/c7c81b8a-953e-11ea-815e-e3a0ee958b50/5ebc2daf301cc.image.jpg?resize=400%2C600",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3784/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4396/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4538/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4645/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Odenbach"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scott_Odenbach"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3784/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4396/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4538/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4645/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/scott-odenbach-85612014"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/138b5508-01b0-43ed-b8b6-ce9b9d07806f",
+      "name": "Spencer Gosch",
+      "given_name": "Spencer",
+      "family_name": "Gosch",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "spencer.gosch@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Gosch_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1434&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1525&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1793/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4708/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Spencer_Gosch"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Spencer_Gosch"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169847/spencer-gosch"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1434&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1525&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1793/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4708/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/229f3180-5808-47f9-b473-3da3c9585bc5",
+      "name": "Stephanie Sauder",
+      "given_name": "Stephanie",
+      "family_name": "Sauder",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "stephanie.sauder@sdlegislature.gov",
+      "image": "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/sm_sauder,%20stephanie%20rep-0648%20rt.webp",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z",
+        "end_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4455/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4661/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Stephanie_Sauder"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephanie_Sauder"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4455/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4661/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stephanie-sauder-05512b8b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a86e2b88-677f-4819-9fc2-0e9ba4c04377",
+      "name": "Steve Duffy",
+      "given_name": "Steve",
+      "family_name": "Duffy",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steve.duffy@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SteveDuffy.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4468/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4604/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Duffy"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4468/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4604/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/steve-duffy-348b1573"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d8b7a70b-2c34-4319-aaaf-54112c5ca471",
+      "name": "Steve Kolbeck",
+      "given_name": "Steve",
+      "family_name": "Kolbeck",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "steve.kolbeck@sdlegislature.gov",
+      "image": "https://kolbeckforsouthdakota.com/wp-content/uploads/2022/02/Kolbeck-Headshot1.png-684x1024.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4453/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4624/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Kolbeck"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Kolbeck"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/77645/steve-kolbeck"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4453/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4624/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/10c3de09-4e65-4885-bbbb-78b2903a36e2",
+      "name": "Sue Peterson",
+      "given_name": "Sue",
+      "family_name": "Peterson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sue.peterson@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/PetersonSue_2017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2017-01-10T00:00:00.000Z",
+        "end_date": "2025-01-13T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1431&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1537&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1836/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4403/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4651/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sue_Lucas-Peterson"
+        },
+        {
+          "url": "https://ballotpedia.org/Sue_Peterson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sue_Peterson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/175708/sue-peterson"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1431&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1537&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1836/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4403/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4651/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sue-peterson-b3a9541b1"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c2149a50-34ee-42c5-8440-e1c5ddcf66e4",
+      "name": "Sydney Davis",
+      "given_name": "Sydney",
+      "family_name": "Davis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "sydney.davis@sdlegislature.gov",
+      "image": "https://bloximages.chicago2.vip.townnews.com/plaintalk.net/content/tncms/assets/v3/editorial/e/f2/ef29df3c-0515-11eb-b916-33278c4cf760/5f77d0e624605.image.jpg?resize=500%2C750",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3783/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4348/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4595/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sydney_Davis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sydney_Davis_(South_Dakota_politician)"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3783/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4348/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4595/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sydney-davis-3b36a7158"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f06bd3c9-8cac-4cc6-be62-f949e51f28eb",
+      "name": "Taffy Howard",
+      "given_name": "Taffy",
+      "family_name": "Howard",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "taffy.howard@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Howard_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1547&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1557&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1802/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4720/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Taffy_Howard"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Taffy_Howard"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169890/taffy-howard"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1547&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1557&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1802/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4720/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/taffy-howard-a4014b1b9"
+        },
+        {
+          "url": "https://www.taffyhoward.com/bio"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e195011d-04f8-4e39-a9f9-b804495b3f2c",
+      "name": "Tamara Grove",
+      "given_name": "Tamara",
+      "family_name": "Grove",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tamara.grove@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TamaraGrove2024.jpeg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4716/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tamara_Grove"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4716/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dr-tamara-grove-45728a21"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ba249bd9-5b3e-42f3-a367-061bf63d620a",
+      "name": "Taylor Rehfeldt",
+      "given_name": "Taylor",
+      "family_name": "Rehfeldt",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "taylor.rehfeldt@sdlegislature.gov",
+      "image": "https://www.gannett-cdn.com/presto/2020/05/22/PSIF/4cc05ff5-5458-4aa1-a67d-b9f2ac8e2cd2-Taylor_Rae_Rehfeldt.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3799/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4408/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4657/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Taylor_Rae_Rehfeldt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Taylor_Rehfeldt"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3799/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4408/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4657/Detail"
+        },
+        {
+          "url": "https://www.mountmarty.edu/about-us/directory/anesthesia/dr.-taylor-rehfeldt"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5f9be535-0a3a-4661-a651-f65dbd39ce2b",
+      "name": "Terri Jorgenson",
+      "given_name": "Terri",
+      "family_name": "Jorgenson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "terri.jorgenson@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Terri-Jorgenson.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "29",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4710/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Terri_Jorgenson"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4710/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/terrijorgenson"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/052b96bd-7f02-4518-ba11-b1a55084149e",
+      "name": "Tesa Schwans",
+      "given_name": "Tesa",
+      "family_name": "Schwans",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tesa.schwans@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TesaSchwans2024.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "9",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4717/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tesa_Schwans"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4717/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6a9db533-590a-4481-980b-b5efe3412d9b",
+      "name": "Tim Czmowski",
+      "given_name": "Tim",
+      "family_name": "Czmowski",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tim.czmowski@sdlegislature.gov",
+      "image": "https://npr.brightspotcdn.com/89/8f/6dd0f43d4ee39f123a628f41ba91/tim-czmowski.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-02-18T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4730/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tim_Czmowski"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/220932/tim-czmowski"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4730/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tim-czmowski-a6192789"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e12868fa-61b7-4ad5-9f68-bcfca817057d",
+      "name": "Tim Goodwin",
+      "given_name": "Tim",
+      "family_name": "Goodwin",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tim.goodwin@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Goodwin_2017.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "end_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1444&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1546&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1792/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4703/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tim_Goodwin_(South_Dakota)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tim_Goodwin_(South_Dakota_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169870/timothy-goodwin"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1444&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1546&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1792/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4703/Detail"
+        },
+        {
+          "url": "https://www.timrgoodwin.com/who-we-are"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6206c534-4bec-4228-b86f-5005547c6957",
+      "name": "Tim Reed",
+      "given_name": "Tim",
+      "family_name": "Reed",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tim.reed@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Reed_2017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2017-01-10T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1533&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1572&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1843/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4407/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4656/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tim_Reed_(South_Dakota)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/168942/tim-reed"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1533&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1572&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1843/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4407/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4656/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tim-reed-33b53812"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3c82e6e9-348f-40cd-818e-76d4901d9ec5",
+      "name": "Tim Reisch",
+      "given_name": "Tim",
+      "family_name": "Reisch",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tim.reisch@sdlegislature.gov",
+      "image": "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/reisch, tim rep-1757 rt.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2023-01-10T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4458/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4659/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tim_Reisch"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4458/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4659/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tim-reisch-3a4b263b"
+        },
+        {
+          "url": "https://www.nationalguard.mil/portals/31/Features/ngbgomo/bio/1/1951.html"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cc78d0ae-544c-4b45-8073-4aed3ee1a513",
+      "name": "Tim Walburg",
+      "given_name": "Tim",
+      "family_name": "Walburg",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tim.walburg@sdlegislature.gov",
+      "image": "https://assets.civicengine.com/uploads/candidate/headshot/208150/208150.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4687/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tim_Walburg"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4687/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tim-walburg-7453416b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ebadc687-f53a-4ec4-9c37-b362a2ea6842",
+      "name": "Tina Mulally",
+      "given_name": "Tina",
+      "family_name": "Mulally",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tina.mulally@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Mulally_2019.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2019-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1646&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1826/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4393/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4640/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tina_Mulally"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tina_Mulally"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169894/tina-mulally"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1646&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1826/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4393/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4640/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f6b50a35-18e6-4e0c-bdd9-071f4a99bbed",
+      "name": "Tom Pischke",
+      "given_name": "Tom",
+      "family_name": "Pischke",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tom.pischke@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Pischke_2017.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2017-01-10T00:00:00.000Z",
+        "end_date": "2023-01-09T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1446&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1543&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1837/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4404/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4653/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tom_Pischke"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Pischke"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169854/tom-pischke"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1446&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1543&Session=2018s"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1837/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4404/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4653/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tom-pischke-5561a990"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a0e95faf-3b79-4657-bdd2-3a496d04e03c",
+      "name": "Tony Kayser",
+      "given_name": "Tony",
+      "family_name": "Kayser",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tony.kayser@sdlegislature.gov",
+      "image": "https://assets.civicengine.com/uploads/candidate/headshot/815298/815298.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4724/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tony_Kayser"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/216252/tony-kayser"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4724/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tony-kayser-4a4b2369"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/74bc4404-28a3-413b-b01f-3f303da1c8a9",
+      "name": "Tony Randolph",
+      "given_name": "Tony",
+      "family_name": "Randolph",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "tony.randolph@sdlegislature.gov",
+      "image": "https://sdlegislature.gov/inc/img/Legislators/Randolph_2019.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2019-01-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1647&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1841/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4406/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4655/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tony_Randolph"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Randolph"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180891/tony-randolph"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1647&Session=2019"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/1841/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4406/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4655/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1e73baba-bddd-4b8c-901d-a1324f3194eb",
+      "name": "Travis Ismay",
+      "given_name": "Travis",
+      "family_name": "Ismay",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "travis.ismay@sdlegislature.gov",
+      "image": "https://www.travisforsouthdakota.com/wp-content/uploads/2024/04/travis-ismay-for-hd-28b-hero.webp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28B",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2025-01-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4725/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Travis_Ismay"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4725/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e7bb9291-fd90-4db8-b3e6-c90ebc41c997",
+      "name": "Trish Ladner",
+      "given_name": "Trish",
+      "family_name": "Ladner",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "trish.ladner@sdlegislature.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Trish_Ladner.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3802/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4384/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4522/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4629/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Trish_Ladner"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Trish_Ladner"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3802/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4384/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4522/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4629/Detail"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/46a0838c-0bb9-446a-8828-21a3f2124d1b",
+      "name": "Will Mortenson",
+      "given_name": "Will",
+      "family_name": "Mortenson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "will.mortenson@sdlegislature.gov",
+      "image": "https://www.gannett-cdn.com/-mm-/7d2e32043f35f170234758f26dd14f0d4c05b2fa/c=0-17-3772-2148/local/-/media/2016/12/28/SiouxFalls/SiouxFalls/636185485920955826-Will-Mortenson.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2021-01-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3788/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4392/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4639/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Will_Mortenson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Will_Mortenson"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/3788/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4392/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4639/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/will-mortenson-11332419"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/705bda08-a613-4be4-9c90-ac7e30eef6bf",
+      "name": "William Shorma",
+      "given_name": "William",
+      "family_name": "Shorma",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "william.shorma@sdlegislature.gov",
+      "image": "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/shorma,%20william%20rep-1194%20rt.webp",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:sd/government",
+        "start_date": "2015-01-01T00:00:00.000Z",
+        "end_date": "2016-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=1066&Session=2016"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4463/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4560/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4666/Detail"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/William_Shorma"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Shorma"
+        },
+        {
+          "url": "https://legis.sd.gov/Legislators/Legislators/MemberCommittees.aspx?Member=1066&Session=2016"
+        },
+        {
+          "url": "https://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=1066&Session=2016"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4463/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4560/Detail"
+        },
+        {
+          "url": "https://sdlegislature.gov/Legislators/Profile/4666/Detail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/william-shorma-17514b40"
+        }
+      ]
+    }
+  ],
+  "count": 103,
+  "last_updated": "2025-09-14T02:00:53.011Z"
+}

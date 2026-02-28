@@ -1,0 +1,5736 @@
+{
+  "state": "ca",
+  "state_name": "California",
+  "legislators": [
+    {
+      "id": "ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c",
+      "name": "Aisha Wahab",
+      "given_name": "Aisha",
+      "family_name": "Wahab",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.wahab@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wahab_aisha_d-10_-_crop.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd10.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd10"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Aisha_Wahab"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aisha_Wahab"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/198411/aisha-wahab"
+        },
+        {
+          "url": "https://sd10.senate.ca.gov"
+        },
+        {
+          "url": "https://sd10.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://www.linkedin.com/in/aishabbwahab"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "name": "Akilah Weber Pierson",
+      "given_name": "Akilah",
+      "family_name": "Weber Pierson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.weber@senate.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-79_weber_a._005_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "79",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2021-04-19T00:00:00.000Z",
+        "end_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a79.asmdc.org/"
+        },
+        {
+          "url": "https://sd39.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a79.asmdc.org"
+        },
+        {
+          "url": "https://a79.asmdc.org/"
+        },
+        {
+          "url": "https://ballotpedia.org/Akilah_Weber"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Akilah_Weber"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/195832/akilah-weber"
+        },
+        {
+          "url": "https://sd39.senate.ca.gov"
+        },
+        {
+          "url": "https://sd39.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/akilah-weber-3164404"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/78610d0e-c790-4fc9-ab8e-0887adbbe063",
+      "name": "Al Muratsuchi",
+      "given_name": "Al",
+      "family_name": "Muratsuchi",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.muratsuchi@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad66.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "66",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2016-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a66.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a66.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Al_Muratsuchi"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Al_Muratsuchi"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/138450/al-muratsuchi"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/al-muratsuchi-ab916a7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "name": "Alex Lee",
+      "given_name": "Alex",
+      "family_name": "Lee",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "alex.lee@asm.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lee-025.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z",
+        "end_date": "2022-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a24.asmdc.org/"
+        },
+        {
+          "url": "https://a25.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a24.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Alex_Lee"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Lee_(politician)"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/votealexlee"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "name": "Ali Macedo",
+      "given_name": "Ali",
+      "family_name": "Macedo",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.macedo@assembly.ca.gov",
+      "image": "https://www.joincalifornia.com/candidate_pic.php?id=15000",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad33.asmrc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/33"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad33.asmrc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Alexandra_Macedo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexandra_Macedo"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/213228/alexandra-macedo"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/33"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "name": "Anamarie Avila Farias",
+      "given_name": "Anamarie",
+      "family_name": "Avila Farias",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.avilafarias@assembly.ca.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Anamarie_Avila_Farias_20240905_034457.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a15.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/15"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a15.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Anamarie_Avila_Farias"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Anamarie_Avila_Farias"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/146377/anamarie-avila-farias"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/15"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "name": "Angelique Ashby",
+      "given_name": "Angelique",
+      "family_name": "Ashby",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.ashby@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/ashby_angelique_d-08.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd08.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd08"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Angelique_Ashby"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Angelique_Ashby"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/129642/angelique-ashby"
+        },
+        {
+          "url": "https://sd08.senate.ca.gov"
+        },
+        {
+          "url": "https://www.angeliqueashby.com"
+        },
+        {
+          "url": "https://www.linkedin.com/in/angeliqueashby"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "name": "Anna Caballero",
+      "given_name": "Anna",
+      "family_name": "Caballero",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.caballero@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/2016-ad30_annacaballero.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z",
+        "end_date": "2022-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd14.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd12"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Anna_Caballero"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Anna_Caballero"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/58583/anna-caballero"
+        },
+        {
+          "url": "https://sd14.senate.ca.gov"
+        },
+        {
+          "url": "https://sd14.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "name": "Ash Kalra",
+      "given_name": "Ash",
+      "family_name": "Kalra",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.kalra@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad27_karla_roster150_20161205.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a25.asmdc.org/"
+        },
+        {
+          "url": "https://a27.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a25.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Ash_Kalra"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ash_Kalra"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/112088/ash-kalra"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ash-kalra-2b874b3"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "name": "Avelino Valencia",
+      "given_name": "Avelino",
+      "family_name": "Valencia",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.valencia@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/valencia_518_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "68",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a68.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a68.asmdc.org"
+        },
+        {
+          "url": "https://a68.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Avelino_Valencia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Avelino_Valencia"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/196582/avelino-valencia"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/avelino-valencia-70395b62"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "name": "Ben Allen",
+      "given_name": "Ben",
+      "family_name": "Allen",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.allen@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/allen_ben_d-26.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd24.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd26"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Ben_Allen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ben_Allen_(California_politician)"
+        },
+        {
+          "url": "https://sd24.senate.ca.gov"
+        },
+        {
+          "url": "https://sd24.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ben-allen-47bb902"
+        },
+        {
+          "url": "https://www.linkedin.com/in/ben-allen-79547113b"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828",
+      "name": "Blanca Rubio",
+      "given_name": "Blanca",
+      "family_name": "Rubio",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.rubio@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/rubio.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "48",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2016-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a48.asmdc.org"
+        },
+        {
+          "url": "https://a48.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a48.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Blanca_Rubio"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Blanca_Rubio"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169399/blanca-rubio"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/blanca-rubio-california-state-assembly-74365a65"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "name": "Blanca Pacheco",
+      "given_name": "Blanca",
+      "family_name": "Pacheco",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.pacheco@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/pachecho_007_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "64",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a64.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a64.asmdc.org"
+        },
+        {
+          "url": "https://a64.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Blanca_Pacheco"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Blanca_Pacheco"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/198033/blanca-pacheco"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/blanca-pacheco"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "name": "Bob Archuleta",
+      "given_name": "Bob",
+      "family_name": "Archuleta",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.archuleta@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/archuleta_bob.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z",
+        "end_date": "2022-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd30.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd30"
+        },
+        {
+          "url": "https://senate.ca.gov/sd32"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Bob_Archuleta"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bob_Archuleta"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/71279/bob-archuleta"
+        },
+        {
+          "url": "https://sd30.senate.ca.gov"
+        },
+        {
+          "url": "https://sd30.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ea5c3b3d-bbad-41f6-a912-69f60f1553a4",
+      "name": "Brian Jones",
+      "given_name": "Brian",
+      "family_name": "Jones",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.jones@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.ca.gov/sd38"
+        },
+        {
+          "url": "https://senate.ca.gov/sd40"
+        },
+        {
+          "url": "https://sr40.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Jones_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brian_Jones_(California_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/70781/brian-jones"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://sr40.senate.ca.gov"
+        },
+        {
+          "url": "https://www.linkedin.com/in/brian-jones-bb3365b"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "name": "Buffy Wicks",
+      "given_name": "Buffy",
+      "family_name": "Wicks",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.wicks@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a15_b_wicks.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a14.asmdc.org"
+        },
+        {
+          "url": "https://a14.asmdc.org/"
+        },
+        {
+          "url": "https://a15.asmdc.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a14.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Buffy_Wicks"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Buffy_Wicks"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/buffy-wicks-036890bb"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/053d119b-847e-43bf-9a22-18b5f309067f",
+      "name": "Carl DeMaio",
+      "given_name": "Carl",
+      "family_name": "DeMaio",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.demaio@assembly.ca.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/159263.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "75",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad75.asmrc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/75"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad75.asmrc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Carl_DeMaio"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carl_DeMaio"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/75"
+        },
+        {
+          "url": "https://www.linkedin.com/in/carl-demaio-66361553"
+        },
+        {
+          "url": "https://www.linkedin.com/in/carldemaio"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "name": "Caroline Menjivar",
+      "given_name": "Caroline",
+      "family_name": "Menjivar",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.menjivar@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/menjivar_caroline_d-20.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd20.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd20"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Caroline_Menjivar"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Caroline_Menjivar"
+        },
+        {
+          "url": "https://sd20.senate.ca.gov"
+        },
+        {
+          "url": "https://sd20.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://www.linkedin.com/in/menjivarc"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d",
+      "name": "Catherine Blakespear",
+      "given_name": "Catherine",
+      "family_name": "Blakespear",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.blakespear@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/blakespear_catherine_d-38.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd38.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd38"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Catherine_Blakespear"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Catherine_Blakespear"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/157195/catherine-blakespear"
+        },
+        {
+          "url": "https://sd38.senate.ca.gov"
+        },
+        {
+          "url": "https://sd38.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://www.linkedin.com/in/catherine-blakespear-6549a24"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "name": "Catherine Stefani",
+      "given_name": "Catherine",
+      "family_name": "Stefani",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.stefani@assembly.ca.gov",
+      "image": "https://sfbos.org/sites/default/files/Roster_frame_stefani_0.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a19.asmdc.org/"
+        },
+        {
+          "url": "https://sfbos.org/supervisor-stefani-district-2"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/19"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a19.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Catherine_Stefani"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Catherine_Stefani"
+        },
+        {
+          "url": "https://sfbos.org/supervisor-stefani-district-2"
+        },
+        {
+          "url": "https://sfbos.org/supervisor-stefani-overview"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/19"
+        },
+        {
+          "url": "https://www.linkedin.com/in/catherine-stefani-64969b20"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "name": "Cecilia Aguiar-Curry",
+      "given_name": "Cecilia",
+      "family_name": "Aguiar-Curry",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.aguiar-curry@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-04_aguiar-curry_c18_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2016-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a04.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/04"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a04.asmdc.org"
+        },
+        {
+          "url": "https://a04.asmdc.org/biography"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Cecilia_Aguiar-Curry"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cecilia_Aguiar-Curry"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169297/cecilia-aguiar-curry"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/04"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cecilia-aguiar-curry-9810b526"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab",
+      "name": "Celeste Rodriguez",
+      "given_name": "Celeste",
+      "family_name": "Rodriguez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.celesterodriguez@assembly.ca.gov",
+      "image": "https://ci.san-fernando.ca.us/wp-content/uploads/2021/07/Rodriguez-Celeste-2021-267x300.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "43",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a43.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/43"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a43.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Celeste_Rodriguez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Celeste_Rodriguez"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/43"
+        },
+        {
+          "url": "https://www.linkedin.com/in/celeste-t-rodriguez"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "name": "Chris Rogers",
+      "given_name": "Chris",
+      "family_name": "Rogers",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.rogers@assembly.ca.gov",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvc9FWYBOubY6iEQhH0tArBAvSS_ZMhoOGw&s",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a02.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/02"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a02.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Chris_Rogers_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Rogers_(politician)"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/02"
+        },
+        {
+          "url": "https://www.linkedin.com/in/chrisrogersforassembly"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "name": "Christopher Cabaldon",
+      "given_name": "Christopher",
+      "family_name": "Cabaldon",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.cabaldon@senate.ca.gov",
+      "image": "https://calearninglab.org/wp-content/uploads/2024/09/Emcee-Christopher-Cabaldon-488x559.png",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd03.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Christopher_Cabaldon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christopher_Cabaldon"
+        },
+        {
+          "url": "https://sd03.senate.ca.gov"
+        },
+        {
+          "url": "https://www.linkedin.com/in/christophercabaldon"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "name": "Chris Ward",
+      "given_name": "Chris",
+      "family_name": "Ward",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.ward@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ward-006.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "78",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a78.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a78.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Christopher_Ward_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Ward_(American_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/176914/chris-ward"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/harward"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "name": "Corey Jackson",
+      "given_name": "Corey",
+      "family_name": "Jackson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.jackson@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/jackson_027_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "60",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a60.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a60.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Corey_Jackson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Corey_Jackson_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205321/corey-jackson"
+        },
+        {
+          "url": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD60&inframe=N"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/corey-jackson-msw-a250496"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "name": "Cottie Petrie-Norris",
+      "given_name": "Cottie",
+      "family_name": "Petrie-Norris",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.petrie-norris@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a74_c_p_norris.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "74",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a73.asmdc.org/"
+        },
+        {
+          "url": "https://a74.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a73.asmdc.org"
+        },
+        {
+          "url": "https://a73.asmdc.org/biography"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Cottie_Petrie-Norris"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cottie_Petrie-Norris"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180141/cottie-petrie-norris"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/cottie-petrie-norris-9b1619"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "name": "Damon Connolly",
+      "given_name": "Damon",
+      "family_name": "Connolly",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.connolly@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/connolly_509_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a12.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a12.asmdc.org"
+        },
+        {
+          "url": "https://a12.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Damon_Connolly"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Damon_Connolly"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/59851/damon-connolly"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/damon-connolly-7093588"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "name": "Darsh Patel",
+      "given_name": "Darsh",
+      "family_name": "Patel",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.patel@assembly.ca.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Darshana_Patel.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "76",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a76.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/76"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a76.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Darshana_Patel"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/76"
+        },
+        {
+          "url": "https://www.linkedin.com/in/darshanapatelphd"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "name": "Dave Cortese",
+      "given_name": "Dave",
+      "family_name": "Cortese",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.cortese@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd15_cortese_0.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "15",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd15.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd15"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Dave_Cortese_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dave_Cortese"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/114701/dave-cortese"
+        },
+        {
+          "url": "https://sd15.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dave-cortese-a5874a4"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "name": "David Alvarez",
+      "given_name": "David",
+      "family_name": "Alvarez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.alvarez@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad80_alvarez_008_06-16-22.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "80",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-06-15T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a80.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a80.asmdc.org"
+        },
+        {
+          "url": "https://a80.asmdc.org/about/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/David_Alvarez_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Alvarez_(politician)"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/alvarezsd"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd",
+      "name": "David Tangipa",
+      "given_name": "David",
+      "family_name": "Tangipa",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.tangipa@assembly.ca.gov",
+      "image": "https://youngamericans.berkeley.edu/wp-content/uploads/2024/04/David-Tangipa-1024x1024.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "8",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad08.asmrc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/08"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad08.asmrc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/David_Tangipa"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Tangipa"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/213160/david-tangipa"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/08"
+        },
+        {
+          "url": "https://www.linkedin.com/in/david-tangipa-819877b2"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "name": "Dawn Addis",
+      "given_name": "Dawn",
+      "family_name": "Addis",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "dawn.addis@asm.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/addis_003_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a30.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a30.asmdc.org"
+        },
+        {
+          "url": "https://a30.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Dawn_Addis"
+        },
+        {
+          "url": "https://dawnaddis.org/about"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dawn_Addis"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/188800/dawn-addis"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dawn-addis"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
+      "name": "Diane Dixon",
+      "given_name": "Diane",
+      "family_name": "Dixon",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.dixon@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/dixon_a25i1340_resized.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "72",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad72.asmrc.org"
+        },
+        {
+          "url": "https://ad72.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad72.asmrc.org"
+        },
+        {
+          "url": "https://ad72.asmrc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Diane_Dixon"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dianebrooksdixon"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "name": "Diane Papan",
+      "given_name": "Diane",
+      "family_name": "Papan",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.papan@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/papan_002_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "21",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a21.asmdc.org"
+        },
+        {
+          "url": "https://a21.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a21.asmdc.org"
+        },
+        {
+          "url": "https://a21.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Diane_Papan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Diane_Papan"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/172943/diane-papan"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/diane-papan-a15b0365"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527",
+      "name": "Joaquin Arambula",
+      "given_name": "Joaquin",
+      "family_name": "Arambula",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.arambula@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/asm-arambula.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "31",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2016-04-14T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a31.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a31.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Joaquin_Arambula"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joaquin_Arambula"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169272/joaquin-arambula"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "name": "Eloise Reyes",
+      "given_name": "Eloise",
+      "family_name": "Reyes",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.reyes@senate.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-50_reyes_e17_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a47.asmdc.org"
+        },
+        {
+          "url": "https://a50.asmdc.org"
+        },
+        {
+          "url": "https://a50.asmdc.org/"
+        },
+        {
+          "url": "https://sd29.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a50.asmdc.org"
+        },
+        {
+          "url": "https://a50.asmdc.org/biography"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Eloise_Reyes"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eloise_Reyes"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169395/eloise-reyes"
+        },
+        {
+          "url": "https://sd29.senate.ca.gov"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/eloise-reyes-726759a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "name": "Esmeralda Soria",
+      "given_name": "Esmeralda",
+      "family_name": "Soria",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.soria@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/soria_025_edit_11-29-22_resized_0.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a27.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a27.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Esmeralda_Soria"
+        },
+        {
+          "url": "https://soriaforcalifornia.com/meet-the-candidate"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/esmeraldas1"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "name": "Gail Pellerin",
+      "given_name": "Gail",
+      "family_name": "Pellerin",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.pellerin@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/pellerin_502_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a28.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a28.asmdc.org"
+        },
+        {
+          "url": "https://a28.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Gail_Pellerin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gail_Pellerin"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/205284/gail-pellerin"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.gailpellerinforassembly.com/about-gail"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gail-pellerin-86265b17"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "name": "Greg Wallis",
+      "given_name": "Greg",
+      "family_name": "Wallis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.wallis@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/wallis_greg_0.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "47",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad47.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad47.asmrc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Greg_Wallis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Greg_Wallis"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205311/greg-wallis"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.gregwallis.org/meet-greg"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gregory-wallis-75211846"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "name": "Gregg Hart",
+      "given_name": "Gregg",
+      "family_name": "Hart",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.hart@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/hart_027_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a37.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a37.asmdc.org"
+        },
+        {
+          "url": "https://a37.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Gregg_Hart"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/gregg-hart-37b3504"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c830a90c-8964-4c0f-b31b-729cab1144fd",
+      "name": "Heath Flora",
+      "given_name": "Heath",
+      "family_name": "Flora",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.flora@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/flora.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "12",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad09.asmrc.org/"
+        },
+        {
+          "url": "https://ad12.asmrc.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad09.asmrc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Heath_Flora"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Heath_Flora"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169309/heath-flora"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/heath-flora-24060a47"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "name": "Heather Hadwick",
+      "given_name": "Heather",
+      "family_name": "Hadwick",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.hadwick@assembly.ca.gov",
+      "image": "https://theorion.com/wp-content/uploads/2024/09/Hadwick-MCOE-.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad01.asmrc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/01"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad01.asmrc.org"
+        },
+        {
+          "url": "https://ad01.asmrc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Heather_Hadwick"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/213143/heather-hadwick"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/01"
+        },
+        {
+          "url": "https://www.linkedin.com/in/heather-hadwick-051016290"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd",
+      "name": "Henry Stern",
+      "given_name": "Henry",
+      "family_name": "Stern",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.stern@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "27",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2016-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd27.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd27"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Henry_Stern"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Stern_(California_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169182/henry-stern"
+        },
+        {
+          "url": "https://sd27.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/henry-stern-3805713"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "name": "Isaac Bryan",
+      "given_name": "Isaac",
+      "family_name": "Bryan",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.bryan@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/isaacbryan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "54",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2021-05-24T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a54.asmdc.org"
+        },
+        {
+          "url": "https://a54.asmdc.org/"
+        },
+        {
+          "url": "https://a55.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a54.asmdc.org"
+        },
+        {
+          "url": "https://a54.asmdc.org/"
+        },
+        {
+          "url": "https://a55.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Isaac_Bryan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Isaac_Bryan"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/195907/isaac-bryan"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/isaacbryan"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "name": "Jacqui Irwin",
+      "given_name": "Jacqui",
+      "family_name": "Irwin",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.irwin@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD44_Irwin_Portrait150_20141201.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "44",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a42.asmdc.org/"
+        },
+        {
+          "url": "https://a44.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a42.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Jacqui_Irwin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jacqui_Irwin"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/70919/jacqui-irwin"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jacqui-irwin-3101828"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
+      "name": "James Ramos",
+      "given_name": "James",
+      "family_name": "Ramos",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.ramos@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a40_jc_ramos.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a40.asmdc.org/"
+        },
+        {
+          "url": "https://a45.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a45.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/James_Ramos"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Ramos"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/144120/james-ramos"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
+      "name": "James Gallagher",
+      "given_name": "James",
+      "family_name": "Gallagher",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.gallagher@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Gallagher_LDC_headshot.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "3",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2014-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad03.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad03.asmrc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/James_Gallagher_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Gallagher_(California_politician)"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "name": "Jasmeet Bains",
+      "given_name": "Jasmeet",
+      "family_name": "Bains",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.bains@assembly.ca.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a35.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a35.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Jasmeet_Bains"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jasmeet_Bains"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205296/jasmeet-bains"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.drjasmeetbains.com/archived-bio-12-30-23"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jasmeet-bains-md-b7684a93"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "name": "Jeff Gonzalez",
+      "given_name": "Jeff",
+      "family_name": "Gonzalez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.gonzalez@assembly.ca.gov",
+      "image": "https://californiaglobe.com/wp-content/uploads/2024/10/Screenshot-2024-10-03-at-7.03.49%E2%80%AFAM-708x642.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad36.asmrc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/36"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad36.asmrc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Jeff_Gonzalez"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180114/jeff-gonzalez"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/36"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeffgonzalez-"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "name": "Jerry McNerney",
+      "given_name": "Jerry",
+      "family_name": "McNerney",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.mcnerney@senate.ca.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/70583.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd05.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jerry_McNerney"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jerry_McNerney"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/29474/jerry-mcnerney"
+        },
+        {
+          "url": "https://sd05.senate.ca.gov"
+        },
+        {
+          "url": "https://www.govtrack.us/congress/members/jerry_mcnerney/412189"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "name": "Jesse Arreguín",
+      "given_name": "Jesse",
+      "family_name": "Arreguín",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.arreguin@senate.ca.gov",
+      "image": "https://berkeleyca.gov/sites/default/files/elected-office-holder/portrait.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd07.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Jesse_Arregu%C3%ADn"
+        },
+        {
+          "url": "https://berkeleyca.gov/your-government/city-council/council-roster/jesse-arreguin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesse_Arregu%C3%ADn"
+        },
+        {
+          "url": "https://sd07.senate.ca.gov"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/407f6fda-8638-4cca-9704-7aa8df7de26e",
+      "name": "Jesse Gabriel",
+      "given_name": "Jesse",
+      "family_name": "Gabriel",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.gabriel@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-46_gabriel_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "45",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a45.asmdc.org/"
+        },
+        {
+          "url": "https://a46.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a46.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Jesse_Gabriel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesse_Gabriel"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/178075/jesse-gabriel"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jesse-gabriel-4111b32b"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "name": "Jessica Caloza",
+      "given_name": "Jessica",
+      "family_name": "Caloza",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.caloza@assembly.ca.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158655.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "52",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a52.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/52"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a52.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Jessica_Caloza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jessica_Caloza"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/52"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jessicacaloza"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "name": "Joe Patterson",
+      "given_name": "Joe",
+      "family_name": "Patterson",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.joepatterson@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/patterson_a25i1438_resized.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "5",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad05.asmrc.org"
+        },
+        {
+          "url": "https://ad05.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad05.asmrc.org"
+        },
+        {
+          "url": "https://ad05.asmrc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Joe_Patterson_(California)"
+        },
+        {
+          "url": "https://joepatterson.com/about"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joepatterson82"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "name": "John Harabedian",
+      "given_name": "John",
+      "family_name": "Harabedian",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.harabedian@assembly.ca.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158662.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "41",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a41.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/41"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a41.asmdc.org"
+        },
+        {
+          "url": "https://a41.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/John_Harabedian"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Harabedian"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/41"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-harabedian-9ba716a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "name": "John Laird",
+      "given_name": "John",
+      "family_name": "Laird",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.laird@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd17_laird_0.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd17.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd17"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/John_Laird"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Laird_(American_politician)"
+        },
+        {
+          "url": "https://sd17.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/john-laird-42095110"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "name": "José Solache",
+      "given_name": "José",
+      "family_name": "Solache",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.solache@assembly.ca.gov",
+      "image": "https://www.lynwoodca.gov/ImageRepository/Document?documentID=302",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "62",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a62.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/62"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a62.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Jose_Solache"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/146371/jose-solache"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/62"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jose-l-solache-40393b6"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "name": "Josh Becker",
+      "given_name": "Josh",
+      "family_name": "Becker",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.becker@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd13_becker_0.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd13.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd13"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Josh_Becker"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Josh_Becker_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/120184/josh-becker"
+        },
+        {
+          "url": "https://sd13.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/beckerjosh"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "name": "Joshua Hoover",
+      "given_name": "Joshua",
+      "family_name": "Hoover",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.hoover@assembly.ca.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "7",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad07.asmrc.org"
+        },
+        {
+          "url": "https://ad07.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad07.asmrc.org"
+        },
+        {
+          "url": "https://ad07.asmrc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Josh_Hoover"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Josh_Hoover"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205249/josh-hoover"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joshuaryanhoover"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "name": "Josh Lowenthal",
+      "given_name": "Josh",
+      "family_name": "Lowenthal",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.lowenthal@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lowenthal_009_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "69",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a69.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a69.asmdc.org"
+        },
+        {
+          "url": "https://a69.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Josh_Lowenthal"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/josh-lowenthal-82298420"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "name": "Juan Alanis",
+      "given_name": "Juan",
+      "family_name": "Alanis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.alanis@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/alanis_a25i1397_resized.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad22.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad22.asmrc.org"
+        },
+        {
+          "url": "https://ad22.asmrc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Juan_Alanis_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Juan_Alanis_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205277/juan-alanis"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/juan-alanis-8a450b15a"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "name": "Juan Carrillo",
+      "given_name": "Juan",
+      "family_name": "Carrillo",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.juancarrillo@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/carrillo_001_11-30-29_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "39",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a39.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a39.asmdc.org"
+        },
+        {
+          "url": "https://a39.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Juan_Carrillo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Juan_Carrillo"
+        },
+        {
+          "url": "https://votejuancarrillo.com/meet-the-candidate"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
+      "name": "Kate Sanchez",
+      "given_name": "Kate",
+      "family_name": "Sanchez",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.sanchez@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/sanchez_a25i1518_resized.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "71",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad71.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad71.asmrc.org"
+        },
+        {
+          "url": "https://ad71.asmrc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Kate_Sanchez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kate_Sanchez"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205341/kate-sanchez"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "name": "Kelly Seyarto",
+      "given_name": "Kelly",
+      "family_name": "Seyarto",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.seyarto@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/seyarto_kelly_r-32c.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "67",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z",
+        "end_date": "2022-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad67.asmrc.org/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd32"
+        },
+        {
+          "url": "https://sr32.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Kelly_Seyarto"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kelly_Seyarto"
+        },
+        {
+          "url": "https://sr32.senate.ca.gov"
+        },
+        {
+          "url": "https://sr32.senate.ca.gov/about-kelly"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "name": "LaShae Sharp-Collins",
+      "given_name": "LaShae",
+      "family_name": "Sharp-Collins",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.sharpcollins@assembly.ca.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/lscollins.JPG",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "79",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a79.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/79"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a79.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/LaShae_Sharp-Collins"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/LaShae_Sharp-Collins"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/213430/lashae-sharp-collins"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/79"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "name": "Laura Richardson",
+      "given_name": "Laura",
+      "family_name": "Richardson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.richardson@senate.ca.gov",
+      "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/6409.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "35",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2006-12-04T00:00:00.000Z",
+        "end_date": "2007-09-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd35.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Laura_Richardson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Laura_Richardson"
+        },
+        {
+          "url": "https://sd35.senate.ca.gov"
+        },
+        {
+          "url": "https://www.govtrack.us/congress/members/laura_richardson/412253"
+        },
+        {
+          "url": "https://www.linkedin.com/in/laura-richardson-40732a43"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "name": "Laurie Davies",
+      "given_name": "Laurie",
+      "family_name": "Davies",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.davies@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/arc_new_member_headshots_asm.ca_.gov_120x150px_davies.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "73",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad73.asmrc.org/"
+        },
+        {
+          "url": "https://ad74.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad74.asmrc.org"
+        },
+        {
+          "url": "https://ad74.asmrc.org/biography"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Laurie_Davies"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Laurie_Davies_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/146356/laurie-davies"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mayor-laurie-davies-0465896"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "name": "Lena Gonzalez",
+      "given_name": "Lena",
+      "family_name": "Gonzalez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.gonzalez@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-lena-gonzalez.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "33",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2019-06-12T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd33.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd33"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lena_Gonzalez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lena_Gonzalez"
+        },
+        {
+          "url": "https://sd33.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lena-a-gonzalez"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53",
+      "name": "Leticia Castillo",
+      "given_name": "Leticia",
+      "family_name": "Castillo",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.castillo@assembly.ca.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/May162022532PM_104500298_0304E3268B78420096DFCD3FA3DB99B7-min.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "58",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad58.asmrc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/58"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad58.asmrc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Leticia_Castillo"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/58"
+        },
+        {
+          "url": "https://www.linkedin.com/in/leticiacastillo"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "name": "Lisa Calderon",
+      "given_name": "Lisa",
+      "family_name": "Calderon",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.calderon@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/calderon-057.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "57",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a56.asmdc.org/"
+        },
+        {
+          "url": "https://a57.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a56.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Lisa_Calderon_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lisa_Calderon"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/188854/lisa-calderon"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lisacalderon"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
+      "name": "Liz Ortega",
+      "given_name": "Liz",
+      "family_name": "Ortega",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.ortega@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ortega_004_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "20",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a20.asmdc.org"
+        },
+        {
+          "url": "https://a20.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a20.asmdc.org"
+        },
+        {
+          "url": "https://a20.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Liz_Ortega"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Liz_Ortega"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205270/liz-ortega"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/liz-ortega-145989140"
+        },
+        {
+          "url": "https://www.ortegaforassembly.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "name": "Lola Smallwood-Cuevas",
+      "given_name": "Lola",
+      "family_name": "Smallwood-Cuevas",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.smallwood-cuevas@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/smallwood-cuevas_lola_d-28.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "28",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd28.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd28"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Lola_Smallwood-Cuevas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lola_Smallwood-Cuevas"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205233/lola-smallwood-cuevas"
+        },
+        {
+          "url": "https://sd28.senate.ca.gov"
+        },
+        {
+          "url": "https://sd28.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lola-smallwood-cuevas-4406886b"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lola-smallwood-cuevas-4b3a5824"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "name": "Lori Wilson",
+      "given_name": "Lori",
+      "family_name": "Wilson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.wilson@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad11-wilson_006_portraits_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-04-06T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a11.asmdc.org"
+        },
+        {
+          "url": "https://a11.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a11.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Lori_Wilson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lori_Wilson_(California_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/202065/lori-wilson"
+        },
+        {
+          "url": "https://loridwilson.com"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/loridwilson"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e8ac7b26-03a5-4818-b05d-0f379029bbdb",
+      "name": "Maggy Krell",
+      "given_name": "Maggy",
+      "family_name": "Krell",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.krell@assembly.ca.gov",
+      "image": "https://lettersandscience.ucdavis.edu/sites/g/files/dgvnsk15706/files/styles/sf_profile/public/images/person/Maggy%20Krell.jpeg?h=a7e6d17b&itok=kwhSUK6x",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a06.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/06"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a06.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Maggy_Krell"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Maggy_Krell"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/213154/maggy-krell"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/06"
+        },
+        {
+          "url": "https://www.linkedin.com/in/maggy-krell-7aa62066"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1",
+      "name": "Marc Berman",
+      "given_name": "Marc",
+      "family_name": "Berman",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.berman@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad24_berman_roster150_20161205.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a23.asmdc.org/"
+        },
+        {
+          "url": "https://a24.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a23.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Marc_Berman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marc_Berman"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/146412/marc-berman"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/marcberman7"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076",
+      "name": "María Elena Durazo",
+      "given_name": "María Elena",
+      "family_name": "Durazo",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.durazo@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_durazo.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "24",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd26.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd24"
+        },
+        {
+          "url": "https://senate.ca.gov/sd26"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Maria_Elena_Durazo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Maria_Elena_Durazo"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179971/maria-durazo"
+        },
+        {
+          "url": "https://sd26.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/maria-elena-durazo-63724689"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b6907bd6-05e1-44a4-bfc6-db4b672ff8b4",
+      "name": "Marie Alvarado-Gil",
+      "given_name": "Marie",
+      "family_name": "Alvarado-Gil",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.alvarado-gil@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/alvarado-gill_marie_d-04.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "4",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd04.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd04"
+        },
+        {
+          "url": "https://sr04.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Marie_Alvarado-Gil"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marie_Alvarado-Gil"
+        },
+        {
+          "url": "https://sd04.senate.ca.gov"
+        },
+        {
+          "url": "https://sd04.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://sr04.senate.ca.gov"
+        },
+        {
+          "url": "https://www.linkedin.com/in/alvaradogilforsenate2022"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "name": "Mark González",
+      "given_name": "Mark",
+      "family_name": "González",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.gonzalez@assembly.ca.gov",
+      "image": "https://www.sgvtribune.com/wp-content/uploads/2024/10/LDN-L-ELX-VG-ASSMD54-GONZALEZ.jpg?w=520",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "54",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a54.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/54"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a54.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Mark_Gonzalez_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_Gonzalez_(politician)"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/54"
+        },
+        {
+          "url": "https://www.markgonzalezforassembly.com/about"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "name": "Matt Haney",
+      "given_name": "Matt",
+      "family_name": "Haney",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.haney@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad17_haney.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "17",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-05-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a17.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a17.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Matt_Haney"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Matt_Haney"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/matthaneysf"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "name": "Megan Dahle",
+      "given_name": "Megan",
+      "family_name": "Dahle",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.dahle@senate.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mdahle-ad01.gif",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "1",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2019-11-12T00:00:00.000Z",
+        "end_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad01.asmrc.org/"
+        },
+        {
+          "url": "https://sr01.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad01.asmrc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Megan_Dahle"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Megan_Dahle"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/186798/megan-dahle"
+        },
+        {
+          "url": "https://sr01.senate.ca.gov"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "name": "Melissa Hurtado",
+      "given_name": "Melissa",
+      "family_name": "Hurtado",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.hurtado@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hurtado_0.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd16.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd14"
+        },
+        {
+          "url": "https://senate.ca.gov/sd16"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Melissa_Hurtado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Melissa_Hurtado"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/179956/melissa-hurtado"
+        },
+        {
+          "url": "https://sd16.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "name": "Mia Bonta",
+      "given_name": "Mia",
+      "family_name": "Bonta",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.mbonta@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-18_bonta_m._portraits_edit_155_11-5-21_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2021-09-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a18.asmdc.org"
+        },
+        {
+          "url": "https://a18.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a18.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Mia_Bonta"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mia_Bonta"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mialisabonta"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
+      "name": "Michelle Rodriguez",
+      "given_name": "Michelle",
+      "family_name": "Rodriguez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.michellerodriguez@assembly.ca.gov",
+      "image": "https://michelleforassembly.com/cms/wp-content/uploads/2023/08/new-safe-meeno-MICHELLE_RODRIGUEZ-2023.07_011.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "53",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a53.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/53"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a53.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Michelle_Rodriguez_(California)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/213398/michelle-rodriguez"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/53"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5",
+      "name": "Mike Gipson",
+      "given_name": "Mike",
+      "family_name": "Gipson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.gipson@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD64_Gipson_Portrait150_20141201.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "64",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a64.asmdc.org/"
+        },
+        {
+          "url": "https://a65.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a65.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Mike_Gipson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Gipson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/70443/mike-gipson"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-gipson-b3304120"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "name": "Mike Fong",
+      "given_name": "Mike",
+      "family_name": "Fong",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.mikefong@asm.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-49_fong_m._037_2022_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "49",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-02-22T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a49.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a49.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Mike_Fong"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Fong"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/mike-fong-89083967"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a1394aeb-094a-4fc0-b4d5-005104ceddc0",
+      "name": "Mike McGuire",
+      "given_name": "Mike",
+      "family_name": "McGuire",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.mcguire@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "2",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2014-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd02.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd02"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_McGuire"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_McGuire_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/129749/mike-mcguire"
+        },
+        {
+          "url": "https://sd02.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/e924a3ec-c7c0-4094-8504-7611bcf8979f",
+      "name": "Monique Limón",
+      "given_name": "Monique",
+      "family_name": "Limón",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.limon@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/limon_monique_d-19_2.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2020-12-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd19.senate.ca.gov/"
+        },
+        {
+          "url": "https://sd21.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd19"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/S._Monique_Lim%C3%B3n"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Monique_Lim%C3%B3n"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169364/monique-limon"
+        },
+        {
+          "url": "https://sd19.senate.ca.gov"
+        },
+        {
+          "url": "https://sd21.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/monique-lim%C3%B3n-073b9011"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "name": "Nick Schultz",
+      "given_name": "Nick",
+      "family_name": "Schultz",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.schultz@assembly.ca.gov",
+      "image": "https://www.burbankca.gov/documents/1626247/0/20210330-nick-schultz-001.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "44",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a44.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/44"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a44.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Nick_Schultz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nick_Schultz_(politician)"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/44"
+        },
+        {
+          "url": "https://www.burbankca.gov/nick-schultz"
+        },
+        {
+          "url": "https://www.linkedin.com/in/nick-schultz-a11b1996"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "name": "Patrick Ahrens",
+      "given_name": "Patrick",
+      "family_name": "Ahrens",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.ahrens@assembly.ca.gov",
+      "image": "http://www.fhda.edu/_images/PatrickAhrens2018.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "26",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a26.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/26"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a26.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Patrick_Ahrens"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patrick_Ahrens"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/26"
+        },
+        {
+          "url": "https://www.linkedin.com/in/patrick-ahrens-497a6963"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "name": "Phillip Chen",
+      "given_name": "Phillip",
+      "family_name": "Chen",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.chen@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chen.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "55",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad55.asmrc.org"
+        },
+        {
+          "url": "https://ad59.asmrc.org"
+        },
+        {
+          "url": "https://ad59.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad59.asmrc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Phillip_Chen_(California)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Phillip_Chen"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/151715/phillip-chen"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/phillip-chen-11b0548"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "name": "Pilar Schiavo",
+      "given_name": "Pilar",
+      "family_name": "Schiavo",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.schiavo@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/schiavo_030_11-29-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "40",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a40.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a40.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Pilar_Schiavo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pilar_Schiavo"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205304/pilar-schiavo"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/pilar-schiavo-840949"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc",
+      "name": "Rebecca Bauer-Kahan",
+      "given_name": "Rebecca",
+      "family_name": "Bauer-Kahan",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.bauer-kahan@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a16_r_b_kahan.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a16.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a16.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Rebecca_Bauer-Kahan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Bauer-Kahan"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/180050/rebecca-bauer-kahan"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rebecca-bauer-kahan-27bb7240"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "name": "Rhodesia Ransom",
+      "given_name": "Rhodesia",
+      "family_name": "Ransom",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.ransom@assembly.ca.gov",
+      "image": "https://ca.emergeamerica.org/wp-content/uploads/sites/4/2023/01/Rhodesia-Ransom.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "13",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a13.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/13"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a13.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Rhodesia_Ransom"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rhodesia_Ransom"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/13"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rhodesia-ransom"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "name": "Rick Zbur",
+      "given_name": "Rick",
+      "family_name": "Zbur",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.zbur@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chavez-zbur_510_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "51",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a51.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a51.asmdc.org"
+        },
+        {
+          "url": "https://a51.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Rick_Chavez_Zbur"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rick_Zbur"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rick-zbur-238489a1"
+        },
+        {
+          "url": "https://www.rickchavezzbur.com/meet-rick"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d",
+      "name": "Robert Garcia",
+      "given_name": "Robert",
+      "family_name": "Garcia",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.garcia@assembly.ca.gov",
+      "image": "https://www.joincalifornia.com/candidate_pic.php?id=15124",
+      "current_role": {
+        "title": "mayor",
+        "chamber": "house",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/place:long_beach/government",
+        "end_date": "2022-06-07T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a50.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/50"
+        },
+        {
+          "url": "https://www.longbeach.gov/mayor/contact/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a50.asmdc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Robert_Garcia_(Etiwanda_School_District)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/213364/robert-garcia"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/50"
+        },
+        {
+          "url": "https://www.longbeach.gov/mayor/contact"
+        },
+        {
+          "url": "https://www.longbeach.gov/mayor/contact/"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/68f5ee30-aa70-489b-84b7-6501e6188751",
+      "name": "Robert Rivas",
+      "given_name": "Robert",
+      "family_name": "Rivas",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.robertrivas@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-29_rivas_r19_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "30",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a29.asmdc.org/"
+        },
+        {
+          "url": "https://a30.asmdc.org/"
+        },
+        {
+          "url": "https://speaker.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Robert_Rivas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Rivas_(politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/129744/robert-rivas"
+        },
+        {
+          "url": "https://speaker.asmdc.org"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/robert-rivas-8924b141"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "name": "Roger Niello",
+      "given_name": "Roger",
+      "family_name": "Niello",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.niello@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/niello_roger_r-06.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "6",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.ca.gov/sd06"
+        },
+        {
+          "url": "https://sr06.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Roger_Niello"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Roger_Niello"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/28727/roger-niello"
+        },
+        {
+          "url": "https://sr06.senate.ca.gov"
+        },
+        {
+          "url": "https://www.linkedin.com/in/roger-niello-b50185174"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rogerniello"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "name": "Rosilicie Ochoa Bogh",
+      "given_name": "Rosilicie",
+      "family_name": "Ochoa Bogh",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.ochoabogh@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd23_ochoa_bogh.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "23",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z",
+        "end_date": "2024-12-01T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.ca.gov/sd23"
+        },
+        {
+          "url": "https://sr19.senate.ca.gov/"
+        },
+        {
+          "url": "https://sr23.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Rosilicie_Ochoa_Bogh"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rosilicie_Ochoa_Bogh"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://sr19.senate.ca.gov"
+        },
+        {
+          "url": "https://sr23.senate.ca.gov"
+        },
+        {
+          "url": "https://www.linkedin.com/in/rosilicie-bogh-39256344"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db",
+      "name": "Sabrina Cervantes",
+      "given_name": "Sabrina",
+      "family_name": "Cervantes",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.cervantes@senate.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad60_cervantes_roster150_20161205.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "60",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a58.asmdc.org/"
+        },
+        {
+          "url": "https://a60.asmdc.org/"
+        },
+        {
+          "url": "https://sd31.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a58.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Sabrina_Cervantes"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sabrina_Cervantes"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/169409/sabrina-cervantes"
+        },
+        {
+          "url": "https://sabrinacervantes.com/meet-sabrina-cervantes"
+        },
+        {
+          "url": "https://sd31.senate.ca.gov"
+        },
+        {
+          "url": "https://sd31.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sabrina-cervantes-79a84915"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "name": "Sade Elhawary",
+      "given_name": "Sade",
+      "family_name": "Elhawary",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.elhawary@assembly.ca.gov",
+      "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SadeElhawary2024.jpeg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "57",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a57.asmdc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/57"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a57.asmdc.org"
+        },
+        {
+          "url": "https://a57.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Sade_Elhawary"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sade_Elhawary"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/57"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sadeelhawary"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4",
+      "name": "Sasha Pérez",
+      "given_name": "Sasha",
+      "family_name": "Pérez",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.perez@senate.ca.gov",
+      "image": "https://www.cityofalhambra.org/ImageRepository/Document?documentId=1262",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "25",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2024-12-02T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd25.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Sasha_Ren%C3%A9e_P%C3%A9rez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sasha_Ren%C3%A9e_P%C3%A9rez"
+        },
+        {
+          "url": "https://sd25.senate.ca.gov"
+        },
+        {
+          "url": "https://www.cityofalhambra.org/333/Sasha-Rene-Prez"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sasha-renee-perez-424a96a9"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e",
+      "name": "Scott Wiener",
+      "given_name": "Scott",
+      "family_name": "Wiener",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.wiener@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wiener.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "11",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2016-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd11.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd11"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Scott_Wiener"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scott_Wiener"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/129655/scott-wiener"
+        },
+        {
+          "url": "https://sd11.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/scott-wiener-936760"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+      "name": "Shannon Grove",
+      "given_name": "Shannon",
+      "family_name": "Grove",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.grove@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/grove_hs_0625_lls.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "16",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://senate.ca.gov/sd12"
+        },
+        {
+          "url": "https://senate.ca.gov/sd16"
+        },
+        {
+          "url": "https://sr12.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Shannon_Grove"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shannon_Grove"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/120204/shannon-grove"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://sr12.senate.ca.gov"
+        },
+        {
+          "url": "https://www.linkedin.com/in/shannon-grove-b17b4116"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db",
+      "name": "Sharon Quirk-Silva",
+      "given_name": "Sharon",
+      "family_name": "Quirk-Silva",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.quirk-silva@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad65_quirk-silva_siteportrait.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "65",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2016-12-05T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a65.asmdc.org/"
+        },
+        {
+          "url": "https://a67.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a67.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Sharon_Quirk-Silva"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sharon_Quirk-Silva"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/71051/sharon-quirk-silva"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sharon-quirk-silva-7a240582"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609",
+      "name": "Stan Ellis",
+      "given_name": "Stan",
+      "family_name": "Ellis",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.ellis@assembly.ca.gov",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "32",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2025-03-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad32.asmrc.org/"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/32"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad32.asmrc.org"
+        },
+        {
+          "url": "https://ballotpedia.org/Stan_Ellis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stan_Ellis"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/32"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "name": "Stephanie Nguyen",
+      "given_name": "Stephanie",
+      "family_name": "Nguyen",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.stephanienguyen@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/nguyen_515_11-30-22_resized.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "10",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a10.asmdc.org"
+        },
+        {
+          "url": "https://a10.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a10.asmdc.org"
+        },
+        {
+          "url": "https://a10.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Stephanie_Nguyen"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/stephanie-nguyen-97a45230"
+        },
+        {
+          "url": "https://www.stephanienguyenforassembly.com/meet-stephanie"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72",
+      "name": "Steve Bennett",
+      "given_name": "Steve",
+      "family_name": "Bennett",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.bennett@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/official_portrait_0.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "37",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a37.asmdc.org/"
+        },
+        {
+          "url": "https://a38.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a38.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Steve_Bennett"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Bennett_(California_politician)"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/81822/steve-bennett"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d",
+      "name": "Steve Padilla",
+      "given_name": "Steve",
+      "family_name": "Padilla",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.padilla@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/padilla_steve_d-18.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "18",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd18.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd18"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Steve_Padilla"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Padilla"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/176708/stephen-padilla"
+        },
+        {
+          "url": "https://sd18.senate.ca.gov"
+        },
+        {
+          "url": "https://sd18.senate.ca.gov/biography"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/8b61aa87-d573-47e2-b17b-bd0edd3c8cf2",
+      "name": "Steve Choi",
+      "given_name": "Steve",
+      "family_name": "Choi",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.choi@senate.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/choi.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "68",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad68.asmrc.org/"
+        },
+        {
+          "url": "https://sr37.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Steven_S._Choi"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steven_Choi"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/70192/steven-choi"
+        },
+        {
+          "url": "https://sr37.senate.ca.gov"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/dr-steven-choi-04679b10"
+        },
+        {
+          "url": "https://www.linkedin.com/in/steven-choi-a871aa70"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc",
+      "name": "Susan Rubio",
+      "given_name": "Susan",
+      "family_name": "Rubio",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.rubio@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_rubio.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "22",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd22.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd22"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Susan_Rubio"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Susan_Rubio"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/129493/susan-rubio"
+        },
+        {
+          "url": "https://sd22.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08",
+      "name": "Suzette Valladares",
+      "given_name": "Suzette",
+      "family_name": "Valladares",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.valladares@senate.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/arc_new_member_headshots_asm.ca_.gov_120x150px_valladares.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "38",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2020-12-07T00:00:00.000Z",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a38.asmdc.org/"
+        },
+        {
+          "url": "https://sr23.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Suzette_Martinez_Valladares"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Suzette_Martinez_Valladares"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/188814/suzette-valladares"
+        },
+        {
+          "url": "https://sr23.senate.ca.gov"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/suzette-martinez-valladares-53794a28"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a",
+      "name": "Tasha Boerner",
+      "given_name": "Tasha",
+      "family_name": "Boerner",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.boerner@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a76_t_b_horvath.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "76",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-04T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a77.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a77.asmdc.org"
+        },
+        {
+          "url": "https://a77.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Tasha_Boerner_Horvath"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tasha_Boerner_Horvath"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/boerner"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632",
+      "name": "Tom Umberg",
+      "given_name": "Tom",
+      "family_name": "Umberg",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.umberg@senate.ca.gov",
+      "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_umberg.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "34",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2018-12-03T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://sd34.senate.ca.gov/"
+        },
+        {
+          "url": "https://senate.ca.gov/sd34"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tom_Umberg"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Umberg"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/29299/thomas-umberg"
+        },
+        {
+          "url": "https://sd34.senate.ca.gov"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://www.linkedin.com/in/thomas-u-9152078a"
+        },
+        {
+          "url": "https://www.senate.ca.gov/senators"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0",
+      "name": "Tim Grayson",
+      "given_name": "Tim",
+      "family_name": "Grayson",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "senator.grayson@senate.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad14_header.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "14",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a14.asmdc.org"
+        },
+        {
+          "url": "https://a15.asmdc.org"
+        },
+        {
+          "url": "https://a15.asmdc.org/"
+        },
+        {
+          "url": "https://sd09.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a15.asmdc.org"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Tim_Grayson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tim_Grayson"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/129519/tim-grayson"
+        },
+        {
+          "url": "https://sd09.senate.ca.gov"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9",
+      "name": "Tina McKinnor",
+      "given_name": "Tina",
+      "family_name": "McKinnor",
+      "party": {
+        "name": "Democratic"
+      },
+      "email": "assemblymember.mckinnor@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mckinnon_portrait_web.jpg",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "62",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://a61.asmdc.org/"
+        },
+        {
+          "url": "https://a62.asmdc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://a61.asmdc.org"
+        },
+        {
+          "url": "https://a61.asmdc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Tina_McKinnor"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tina_McKinnor"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/205324/tina-mckinnor"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tina-mckinnor-67abb621"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df",
+      "name": "Tom Lackey",
+      "given_name": "Tom",
+      "family_name": "Lackey",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.lackey@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lackey.png",
+      "current_role": {
+        "title": "lower",
+        "chamber": "house",
+        "district": "36",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "end_date": "2022-12-05T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad34.asmrc.org/"
+        },
+        {
+          "url": "https://ad36.asmrc.org/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad34.asmrc.org"
+        },
+        {
+          "url": "https://ad34.asmrc.org/biography"
+        },
+        {
+          "url": "https://assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://ballotpedia.org/Tom_Lackey"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Lackey"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/71099/tom-lackey"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tom-lackey-85a9a365"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/3dae8bef-7fb2-40a0-afee-78d79212521b",
+      "name": "Tony Strickland",
+      "given_name": "Tony",
+      "family_name": "Strickland",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "senator.strickland@senate.ca.gov",
+      "image": "http://votesmart.org/canphoto/16765.jpg",
+      "current_role": {
+        "title": "upper",
+        "chamber": "senate",
+        "district": "19",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/government",
+        "start_date": "2009-01-01T00:00:00.000Z",
+        "end_date": "2012-12-31T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://cssrc.us/web/19/"
+        },
+        {
+          "url": "https://sr36.senate.ca.gov/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Tony_Strickland"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Strickland"
+        },
+        {
+          "url": "https://justfacts.votesmart.org/candidate/biography/16765/tony-strickland"
+        },
+        {
+          "url": "https://senate.ca.gov/senators"
+        },
+        {
+          "url": "https://sr36.senate.ca.gov"
+        },
+        {
+          "url": "https://www.linkedin.com/in/tony-strickland-8720616"
+        }
+      ]
+    },
+    {
+      "id": "ocd-person/75229920-399d-4216-9b76-c27ea398665a",
+      "name": "Tri Ta",
+      "given_name": "Tri",
+      "family_name": "Ta",
+      "party": {
+        "name": "Republican"
+      },
+      "email": "assemblymember.ta@assembly.ca.gov",
+      "image": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/tri_ta_a25i1353_resized.png",
+      "current_role": {
+        "title": "mayor",
+        "chamber": "house",
+        "jurisdiction": "ocd-jurisdiction/country:us/state:ca/place:westminster/government",
+        "end_date": "2022-11-08T00:00:00.000Z"
+      },
+      "contact_details": [],
+      "links": [
+        {
+          "url": "https://ad70.asmrc.org"
+        },
+        {
+          "url": "https://ad70.asmrc.org/"
+        },
+        {
+          "url": "https://www.ci.westminster.ca.us/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ad70.asmrc.org"
+        },
+        {
+          "url": "https://ad70.asmrc.org/biography"
+        },
+        {
+          "url": "https://ballotpedia.org/Tri_Ta"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tri_Ta"
+        },
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers"
+        },
+        {
+          "url": "https://www.ci.westminster.ca.us"
+        },
+        {
+          "url": "https://www.ci.westminster.ca.us/"
+        }
+      ]
+    }
+  ],
+  "count": 119,
+  "last_updated": "2025-09-14T02:00:52.326Z"
+}
