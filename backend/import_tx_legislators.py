@@ -7,12 +7,13 @@ This bypasses the OpenStates API limit by using bulk data
 import csv
 import json
 import hashlib
+import os
 import requests
 from datetime import datetime, timedelta
 
 # Supabase configuration
-SUPABASE_URL = "https://yurdvlcxednoaikrljbh.supabase.co"
-SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl1cmR2bGN4ZWRub2Fpa3JsamJoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcyMjA4MTIsImV4cCI6MjA3Mjc5NjgxMn0.MJrIO2Txxfyi6VtHKOH0-2R62fTYGLvpQnvEHkpTXdg"
+SUPABASE_URL = os.environ.get("SUPABASE_URL", "")
+SUPABASE_ANON_KEY = os.environ.get("SUPABASE_ANON_KEY", "")
 
 def read_tx_legislators(csv_path):
     """Read Texas legislators from CSV file"""
